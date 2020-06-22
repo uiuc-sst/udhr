@@ -1,142 +1,142 @@
-lat-v1_0001	DECLARATIONEM HOMINIS IURIUM UNIVERSAM
-lat-v1_0002	EXORDIUM
-lat-v1_0003	Omnium humanae gentis partium perspecto et cognito consensum fidemquepropriae dignitatis atque iurium, quae omni tempore aequa et paria esse debentnec alienari possunt, totius terrae libertatis iustitiae pacis esse initium;
-lat-v1_0004	hominis iurium perspecto et cognito contemptum et neglegentiam ea facinoraatrocia tulisse ut morum humanorum conscientiam religionemque minuerint,atque etiam aetatis initium, qua omnes homines loquendi libertate et credendiutantur, nihil terroris indigentiaeque timentes, maximum, quod homo expetiverit,renuntiatum;
-lat-v1_0005	hominis iura perspecto et cognito legum regimine defendi necesse, si cupiunthominem, ultima ratione, ad nimiae vexationi ac crudeli dominationireclamitandum non sollicitari;
-lat-v1_0006	Gentium coniunctionibus perspecto et cognito magis magisque in dies faverinecesse;
-lat-v1_0007	Gentium Coniunctarum perspecto et cognito nationes in Constitutione propriaiuribus hominis praecipuis fidem se habere confirmavisse, ipsius hominis dignitatiet virtuti, aequis inter homines, vel virum vel mulierem, iuribus, praeterea nonmodo progressioni generis humani communi se favere decrevisse, sed etiamrationibus vivendi in latiore facultate prosperioribus;
-lat-v1_0008	Civitates Socias perspecto et cognito, salva fide, de maxima verecundia et certaobservantia hominis iurium et omnium praecipuarum libertatum firmandis, auxiliocum cunctis Gentibus Coniunctis conferendo, esse pollicitas;
-lat-v1_0009	ad eadem officia persolvenda perspecto et cognito communem formamrationemque, et eorundem iurium et libertatum, maximi esse momenti etponderis;
-lat-v1_0010	itaque
-lat-v1_0011	PUBLICUS NATIONUM COETUS
-lat-v1_0012	HANC DECLARATIONEM HOMINIS IURIUM UNIVERSAM
-lat-v1_0013	PROMULGANT
-lat-v1_0014	Omnibus civibus et gentibus speciem perfectam et communem adipiscendam, utomnes homines et omnes societatis partes, memoriam Declarationis tenentes, etdocendo et instituendo, eorundem iurium et libertatum observantiamreverentiamque augeri conentur, atque, patriis consiliis et externis in diesprogredientibus, communem omnium et certam probationem rationemque essetuta, cum Sociarum Civitatum civium tum civium, quorum fines in iurisdictionisearundem potestate sint et dicione.
-lat-v1_0015	Omnes homines dignitate et iure liberi et pares nascuntur, rationiset conscientiae participes sunt, quibus inter se concordiae studioest agendum.
-lat-v1_0016	Omnium hominum propria sunt quae iura et libertates in hac
-lat-v1_0017	DECLARATIONE enuntiantur: generis,vultus, sexus, linguae,religionis, opinionis civilis, nullo discrimine atque sine nationedivitiis loco discretis.
-lat-v1_0018	Praeterea nullum discrimen statuetur civitatis forma et iuris autgentium, regionis aut territorii cuius quidam est, sive ea regio autterritorium sui iuris est vel in administrationis fiduciariae dicione velnon liberum vel in cuiuslibet imperii modi potestate.
-lat-v1_0019	Suae quisque ipsius vitae, libertatis, incolumitatis potestatem habet.
-lat-v1_0020	I
-lat-v1_0021	II
-lat-v1_0022	III
-lat-v1_0023	IV
-lat-v1_0024	Homo nemo iugo et servitute oppressus teneri poterit;
-lat-v1_0025	nullo pacto,servitus et mancipiorum commercium.
-lat-v1_0026	Homo nemo in cruciatum poterit dari, suppliciis atrocibusadhibendis.
-lat-v1_0027	Suae quisque ipsius probationis potestatem habet, ubicumquegentium, personae rationalis et civilis.
-lat-v1_0028	Omnes homines ea lege, qua aequo modo defendantur, suntpares, sine ullo discrimine.
-lat-v1_0029	Omnes homines lege aequa suaeipsorum defensionis ius habent ab omni discrimine quod eam
-lat-v1_0030	DECLARATIONEM violet, atque ab omni incitamento ad iddiscrimen efficiendum.
-lat-v1_0031	Suae quisque ipsius appellationis ad idonea tribunalia patria defacinoribus quae maxima et iusta iura violent ei relata a rei publicaeinstitutis vel legibus, potestatem habet.
-lat-v1_0032	Homo nemo sine causa prehendi, custodia teneri, vel exilio poteritaffici.
-lat-v1_0033	V
-lat-v1_0034	VI
-lat-v1_0035	VII
-lat-v1_0036	VIII
-lat-v1_0037	IX
-lat-v1_0038	X
-lat-v1_0039	XI
-lat-v1_0040	Sui quisque, pari iure, iudices aeque ac coram omnibus adeundipotestatem habet, qui non opinioni obnoxii sint sed integri, ut iuraofficiaque sua constituantur atque criminis contra se iustae causae.
-lat-v1_0041	1.
-lat-v1_0042	Suae quisque ipsius innocentiae coniectae, sceleris accusatus, omni dedefendenda causa auctoritate comparata et fide accepta, dum culpa exlege in publico iudicio ostenta erit, potestatem habet.
-lat-v1_0043	2.
-lat-v1_0044	Homo nemo damnari poterit, si iussum, quod ipso hoc tempore aut exdomestico iure aut ex gentium non fuerit scelus, perpetraverit velpraetermiserit.
-lat-v1_0045	Item nulla poena maior quam quae, scelere commisso, iurepotest dici, irroganda.
-lat-v1_0046	XII
-lat-v1_0047	XIII
-lat-v1_0048	Homo nemo intercessiones, sine causa, adire in suae ipsius vitaegenus,familiam, domum, mutuam corresponsionem neque in suifama detrimenta capere poterit.
-lat-v1_0049	Suae quisque ipsius tutelae, exlege contra easdem intercessiones aut detrimenta, potestatemhabet.
-lat-v1_0050	1.
-lat-v1_0051	Suae quisque et motus et sedis domiciliique, in omnium civitatum finibus,libertatis potestatem habet.
-lat-v1_0052	2.
-lat-v1_0053	Suam quisque potestatem habet quamlibet regionem atque suamrelinquendi, in eandemque revertendi.
-lat-v1_0054	XIV
-lat-v1_0055	1.
-lat-v1_0056	Suae quisque comparationis et usus, inter alias gentes, hospitiipotestatem habet, vexationum causa.
-lat-v1_0057	2.
-lat-v1_0058	Quod ius non appellari potest, cum homo criminibus non publicisperquiratur vel rebus adversis Gentium Coniunctarum consiliis etrationibus.
-lat-v1_0059	XV
-lat-v1_0060	1.
-lat-v1_0061	Suae quisque ipsius civitatis potestatem habet.
-lat-v1_0062	2.
-lat-v1_0063	Homo nemo sua civitate sine causa demi poterit nec civitatis iuremutandae.
-lat-v1_0064	XVI
-lat-v1_0065	1.
-lat-v1_0066	Viri et feminae ius est ut, matrimonio aetate idonea, iungantur et familiamhabeant, nullo modo generi, civitati, religioni imposito.
-lat-v1_0067	Quibus de nuptiis,per nuptias, nuptiis dirimendis, paria iura.
-lat-v1_0068	2.
-lat-v1_0069	Nuptiae constitui possunt ipsis futuris coniugibus libere planequeconsentientibus.
-lat-v1_0070	3.
-lat-v1_0071	Familia, societatis nucleus naturalis et praecipuus, ius utendi praesidiohabet societatis et Rei Publicae.
-lat-v1_0072	XVII
-lat-v1_0073	1.
-lat-v1_0074	Sui quisque ipsius patrimonii atque inter alios communis potestatemhabet.
-lat-v1_0075	2.
-lat-v1_0076	Homo nemo suis bonis ex arbitrio potest demi.
-lat-v1_0077	Suae quisque libertatis potestatem habet, cogitationis conscientiaereligionis;
-lat-v1_0078	ita ut religionem vel sententiam mutet, atque, solus velcommuniter, in sacris docendis, exercendis, observandis, publice etprivatim, ea possit colere.
-lat-v1_0079	XVIII
-lat-v1_0080	XIX
-lat-v1_0081	XX
-lat-v1_0082	Suae quisque ipsius libertatis potestatem habet, et opinandi etloquendi, de sua sententia nulla molestia affectus, atque nuntios etopiniones indagandi accipiendi divulgandi omnibus modis et nullisimpedimentis.
-lat-v1_0083	1.
-lat-v1_0084	Suae quisque ipsius libertatis potestatem habet, et iure et honesteconveniendi et congregandi.
-lat-v1_0085	2.
-lat-v1_0086	Homo nemo, ut congregationi intersit, potest cogi.
-lat-v1_0087	XXI
-lat-v1_0088	1.
-lat-v1_0089	Suae quisque rei publicae imperio intersit et per personam ipsam et perlegatos sua sponte electos, legibus ferendis.
-lat-v1_0090	2.
-lat-v1_0091	Sui quisque aditus potestatem habet ad rei publicae officia, exaequatiscondicionibus.
-lat-v1_0092	3.
-lat-v1_0093	Populi consensus principium est publicae potestatis;
-lat-v1_0094	qui consensus certistemporibus veridicis et paribus omnium suffragiis, per tabellam estdeclarandus, vel pari iudicio liberi suffragii.
-lat-v1_0095	Suae quisque ipsius incolumitatis vitae, in hominum societate,potestatem habet etiamque civium conatu et gentium auxilio prosingularum rerum publicarum temperatione et opibus, operis ad reifamiliaris et civilis curam et ad doctrinam pertinentis, necessarii adpropriae personae dignitatem et maturitatem.
-lat-v1_0096	XXII
-lat-v1_0097	XXIII
-lat-v1_0098	1.
-lat-v1_0099	Suae quisque ipsius industriae potestatem habet, optionis munussolvendi, aequis condicionibus oblatis atque nulla opera intermissa.
-lat-v1_0100	2.
-lat-v1_0101	Suae quisque mercedis, nullo discrimine, cum pari opera convenientispotestatem habet.
-lat-v1_0102	3.
-lat-v1_0103	Quicumque in opera est, aequae et idoneae remunerationis ius habet itaut sibi et familiae pro humana dignitate tutam vitam prospiciat, quae, sioporteat, aliis tutelae et fidei modis cumuletur.
-lat-v1_0104	4.
-lat-v1_0105	Suae quisque constitutionis propriae potestatem habet, collegiorumoperarum, atque accessionis commoda defendendi causa.
-lat-v1_0106	XXIV
-lat-v1_0107	XXV
-lat-v1_0108	Sui quisque corporis et animi relaxationis ius habet, aliquot horisprofestis ennumeratis et diebus feriatis, mercede persoluta.
-lat-v1_0109	1.
-lat-v1_0110	Suae quisque ipsius rationis vivendae ius habet, quod bonae et integraevaletudini caveat, commodo suo et familiae, singulari cura victus, vestis,domicilii, et curationis munerum et societatis vitae officiorum utilium;
-lat-v1_0111	praeterea ius habet eiusdem tutelae, si sine opere fuerit, si in morboinciderit, si infirmus, viduus, senex aut defectus a copiis, invitus.
-lat-v1_0112	2.
-lat-v1_0113	Gignendi tempus et puerilis aetas maxima cura custodienda sunt.
-lat-v1_0114	Omnibus pueris, et matrimonium et extra idem natis, eadem est humanaesocietatis tutela.
-lat-v1_0115	XXVI
-lat-v1_0116	1.
-lat-v1_0117	Suae quisque ipsius doctrinae ius habet, quae de classibus puerilibus estgratuita et praecipua;
-lat-v1_0118	praeterea doctrina primaria verum necessaria;
-lat-v1_0119	doctrina, ad artem et munus pertinens, ab omnibus intellegi debet;
-lat-v1_0120	denique ad ordinem superiorem aeque omnibus pro merito patens.
-lat-v1_0121	2.
-lat-v1_0122	Toti personae maturitati disciplina est dicanda, iurum et libertatumconfirmationi et rationi, qua disciplina omnes gentes, omnia genera,omnes religiones intelligenda, observanda, amanda sunt, atque officiis
-lat-v1_0123	Coniunctarum Gentium favendum ad pacem servandam.
-lat-v1_0124	3.
-lat-v1_0125	Parentium potestas est ut disciplinas, quibus liberi imbuantur, elegant.
-lat-v1_0126	XXVII
-lat-v1_0127	1.
-lat-v1_0128	Sui quisque ipsius arbitrii ita potestatem habet ut vitae ad societatisdoctrinam pertinenti particeps sit et artibus perfruatur, cum scientiaeincrementis beneficiisque vehementer studeat.
-lat-v1_0129	2.
-lat-v1_0130	Suae quisque tutelae ius habet morum rationis utilitatis quae ex suisstudiis scientiae litterarum artium efficiantur.
-lat-v1_0131	XXVIII
-lat-v1_0132	Suae quisque ipsius disciplinae societatis et gentium qua eiusdem
-lat-v1_0133	DECLARATIONIS iura et libertates plane fieri possint, potestatemhabet.
-lat-v1_0134	XXIX
-lat-v1_0135	1.
-lat-v1_0136	Omnibus hominibus ad sodalicium officium est praestandum, quo modomentes animique excoli possint.
-lat-v1_0137	2.
-lat-v1_0138	Sua quisque ipsius iura exercens et libertates derogationibus lege decretisafficiatur ad iurium aliorum et libertatum cognitionem et obsequiumpraestanda et ad morum legitimas necessitates explendas atque reipublicae tranquillitatis et communis commodi in populari societate.
-lat-v1_0139	3.
-lat-v1_0140	Contra Coniunctarum Gentium proposita et principia numquam haec iuraet hae libertates exerceri possunt.
-lat-v1_0141	XXX
-lat-v1_0142	Cuius DECLARATIONIS nulla res ita potest putari ut quoddam iusexercendae operae vel faciendi facinoris detur cuivis civitati, aliquothominibus vel uni e multis, ut aliquot iurium et aliquot libertatumeiusdem labefactentur.
+human_rights_un_ltn_ezwa_64kb_0001	DECLARATIONEM HOMINIS IURIUM UNIVERSAM
+human_rights_un_ltn_ezwa_64kb_0002	EXORDIUM
+human_rights_un_ltn_ezwa_64kb_0003	Omnium humanae gentis partium perspecto et cognito consensum fidemquepropriae dignitatis atque iurium, quae omni tempore aequa et paria esse debentnec alienari possunt, totius terrae libertatis iustitiae pacis esse initium;
+human_rights_un_ltn_ezwa_64kb_0004	hominis iurium perspecto et cognito contemptum et neglegentiam ea facinoraatrocia tulisse ut morum humanorum conscientiam religionemque minuerint,atque etiam aetatis initium, qua omnes homines loquendi libertate et credendiutantur, nihil terroris indigentiaeque timentes, maximum, quod homo expetiverit,renuntiatum;
+human_rights_un_ltn_ezwa_64kb_0005	hominis iura perspecto et cognito legum regimine defendi necesse, si cupiunthominem, ultima ratione, ad nimiae vexationi ac crudeli dominationireclamitandum non sollicitari;
+human_rights_un_ltn_ezwa_64kb_0006	Gentium coniunctionibus perspecto et cognito magis magisque in dies faverinecesse;
+human_rights_un_ltn_ezwa_64kb_0007	Gentium Coniunctarum perspecto et cognito nationes in Constitutione propriaiuribus hominis praecipuis fidem se habere confirmavisse, ipsius hominis dignitatiet virtuti, aequis inter homines, vel virum vel mulierem, iuribus, praeterea nonmodo progressioni generis humani communi se favere decrevisse, sed etiamrationibus vivendi in latiore facultate prosperioribus;
+human_rights_un_ltn_ezwa_64kb_0008	Civitates Socias perspecto et cognito, salva fide, de maxima verecundia et certaobservantia hominis iurium et omnium praecipuarum libertatum firmandis, auxiliocum cunctis Gentibus Coniunctis conferendo, esse pollicitas;
+human_rights_un_ltn_ezwa_64kb_0009	ad eadem officia persolvenda perspecto et cognito communem formamrationemque, et eorundem iurium et libertatum, maximi esse momenti etponderis;
+human_rights_un_ltn_ezwa_64kb_0010	itaque
+human_rights_un_ltn_ezwa_64kb_0011	PUBLICUS NATIONUM COETUS
+human_rights_un_ltn_ezwa_64kb_0012	HANC DECLARATIONEM HOMINIS IURIUM UNIVERSAM
+human_rights_un_ltn_ezwa_64kb_0013	PROMULGANT
+human_rights_un_ltn_ezwa_64kb_0014	Omnibus civibus et gentibus speciem perfectam et communem adipiscendam, utomnes homines et omnes societatis partes, memoriam Declarationis tenentes, etdocendo et instituendo, eorundem iurium et libertatum observantiamreverentiamque augeri conentur, atque, patriis consiliis et externis in diesprogredientibus, communem omnium et certam probationem rationemque essetuta, cum Sociarum Civitatum civium tum civium, quorum fines in iurisdictionisearundem potestate sint et dicione.
+human_rights_un_ltn_ezwa_64kb_0015	Omnes homines dignitate et iure liberi et pares nascuntur, rationiset conscientiae participes sunt, quibus inter se concordiae studioest agendum.
+human_rights_un_ltn_ezwa_64kb_0016	Omnium hominum propria sunt quae iura et libertates in hac
+human_rights_un_ltn_ezwa_64kb_0017	DECLARATIONE enuntiantur: generis,vultus, sexus, linguae,religionis, opinionis civilis, nullo discrimine atque sine nationedivitiis loco discretis.
+human_rights_un_ltn_ezwa_64kb_0018	Praeterea nullum discrimen statuetur civitatis forma et iuris autgentium, regionis aut territorii cuius quidam est, sive ea regio autterritorium sui iuris est vel in administrationis fiduciariae dicione velnon liberum vel in cuiuslibet imperii modi potestate.
+human_rights_un_ltn_ezwa_64kb_0019	Suae quisque ipsius vitae, libertatis, incolumitatis potestatem habet.
+human_rights_un_ltn_ezwa_64kb_0020	I
+human_rights_un_ltn_ezwa_64kb_0021	II
+human_rights_un_ltn_ezwa_64kb_0022	III
+human_rights_un_ltn_ezwa_64kb_0023	IV
+human_rights_un_ltn_ezwa_64kb_0024	Homo nemo iugo et servitute oppressus teneri poterit;
+human_rights_un_ltn_ezwa_64kb_0025	nullo pacto,servitus et mancipiorum commercium.
+human_rights_un_ltn_ezwa_64kb_0026	Homo nemo in cruciatum poterit dari, suppliciis atrocibusadhibendis.
+human_rights_un_ltn_ezwa_64kb_0027	Suae quisque ipsius probationis potestatem habet, ubicumquegentium, personae rationalis et civilis.
+human_rights_un_ltn_ezwa_64kb_0028	Omnes homines ea lege, qua aequo modo defendantur, suntpares, sine ullo discrimine.
+human_rights_un_ltn_ezwa_64kb_0029	Omnes homines lege aequa suaeipsorum defensionis ius habent ab omni discrimine quod eam
+human_rights_un_ltn_ezwa_64kb_0030	DECLARATIONEM violet, atque ab omni incitamento ad iddiscrimen efficiendum.
+human_rights_un_ltn_ezwa_64kb_0031	Suae quisque ipsius appellationis ad idonea tribunalia patria defacinoribus quae maxima et iusta iura violent ei relata a rei publicaeinstitutis vel legibus, potestatem habet.
+human_rights_un_ltn_ezwa_64kb_0032	Homo nemo sine causa prehendi, custodia teneri, vel exilio poteritaffici.
+human_rights_un_ltn_ezwa_64kb_0033	V
+human_rights_un_ltn_ezwa_64kb_0034	VI
+human_rights_un_ltn_ezwa_64kb_0035	VII
+human_rights_un_ltn_ezwa_64kb_0036	VIII
+human_rights_un_ltn_ezwa_64kb_0037	IX
+human_rights_un_ltn_ezwa_64kb_0038	X
+human_rights_un_ltn_ezwa_64kb_0039	XI
+human_rights_un_ltn_ezwa_64kb_0040	Sui quisque, pari iure, iudices aeque ac coram omnibus adeundipotestatem habet, qui non opinioni obnoxii sint sed integri, ut iuraofficiaque sua constituantur atque criminis contra se iustae causae.
+human_rights_un_ltn_ezwa_64kb_0041	1.
+human_rights_un_ltn_ezwa_64kb_0042	Suae quisque ipsius innocentiae coniectae, sceleris accusatus, omni dedefendenda causa auctoritate comparata et fide accepta, dum culpa exlege in publico iudicio ostenta erit, potestatem habet.
+human_rights_un_ltn_ezwa_64kb_0043	2.
+human_rights_un_ltn_ezwa_64kb_0044	Homo nemo damnari poterit, si iussum, quod ipso hoc tempore aut exdomestico iure aut ex gentium non fuerit scelus, perpetraverit velpraetermiserit.
+human_rights_un_ltn_ezwa_64kb_0045	Item nulla poena maior quam quae, scelere commisso, iurepotest dici, irroganda.
+human_rights_un_ltn_ezwa_64kb_0046	XII
+human_rights_un_ltn_ezwa_64kb_0047	XIII
+human_rights_un_ltn_ezwa_64kb_0048	Homo nemo intercessiones, sine causa, adire in suae ipsius vitaegenus,familiam, domum, mutuam corresponsionem neque in suifama detrimenta capere poterit.
+human_rights_un_ltn_ezwa_64kb_0049	Suae quisque ipsius tutelae, exlege contra easdem intercessiones aut detrimenta, potestatemhabet.
+human_rights_un_ltn_ezwa_64kb_0050	1.
+human_rights_un_ltn_ezwa_64kb_0051	Suae quisque et motus et sedis domiciliique, in omnium civitatum finibus,libertatis potestatem habet.
+human_rights_un_ltn_ezwa_64kb_0052	2.
+human_rights_un_ltn_ezwa_64kb_0053	Suam quisque potestatem habet quamlibet regionem atque suamrelinquendi, in eandemque revertendi.
+human_rights_un_ltn_ezwa_64kb_0054	XIV
+human_rights_un_ltn_ezwa_64kb_0055	1.
+human_rights_un_ltn_ezwa_64kb_0056	Suae quisque comparationis et usus, inter alias gentes, hospitiipotestatem habet, vexationum causa.
+human_rights_un_ltn_ezwa_64kb_0057	2.
+human_rights_un_ltn_ezwa_64kb_0058	Quod ius non appellari potest, cum homo criminibus non publicisperquiratur vel rebus adversis Gentium Coniunctarum consiliis etrationibus.
+human_rights_un_ltn_ezwa_64kb_0059	XV
+human_rights_un_ltn_ezwa_64kb_0060	1.
+human_rights_un_ltn_ezwa_64kb_0061	Suae quisque ipsius civitatis potestatem habet.
+human_rights_un_ltn_ezwa_64kb_0062	2.
+human_rights_un_ltn_ezwa_64kb_0063	Homo nemo sua civitate sine causa demi poterit nec civitatis iuremutandae.
+human_rights_un_ltn_ezwa_64kb_0064	XVI
+human_rights_un_ltn_ezwa_64kb_0065	1.
+human_rights_un_ltn_ezwa_64kb_0066	Viri et feminae ius est ut, matrimonio aetate idonea, iungantur et familiamhabeant, nullo modo generi, civitati, religioni imposito.
+human_rights_un_ltn_ezwa_64kb_0067	Quibus de nuptiis,per nuptias, nuptiis dirimendis, paria iura.
+human_rights_un_ltn_ezwa_64kb_0068	2.
+human_rights_un_ltn_ezwa_64kb_0069	Nuptiae constitui possunt ipsis futuris coniugibus libere planequeconsentientibus.
+human_rights_un_ltn_ezwa_64kb_0070	3.
+human_rights_un_ltn_ezwa_64kb_0071	Familia, societatis nucleus naturalis et praecipuus, ius utendi praesidiohabet societatis et Rei Publicae.
+human_rights_un_ltn_ezwa_64kb_0072	XVII
+human_rights_un_ltn_ezwa_64kb_0073	1.
+human_rights_un_ltn_ezwa_64kb_0074	Sui quisque ipsius patrimonii atque inter alios communis potestatemhabet.
+human_rights_un_ltn_ezwa_64kb_0075	2.
+human_rights_un_ltn_ezwa_64kb_0076	Homo nemo suis bonis ex arbitrio potest demi.
+human_rights_un_ltn_ezwa_64kb_0077	Suae quisque libertatis potestatem habet, cogitationis conscientiaereligionis;
+human_rights_un_ltn_ezwa_64kb_0078	ita ut religionem vel sententiam mutet, atque, solus velcommuniter, in sacris docendis, exercendis, observandis, publice etprivatim, ea possit colere.
+human_rights_un_ltn_ezwa_64kb_0079	XVIII
+human_rights_un_ltn_ezwa_64kb_0080	XIX
+human_rights_un_ltn_ezwa_64kb_0081	XX
+human_rights_un_ltn_ezwa_64kb_0082	Suae quisque ipsius libertatis potestatem habet, et opinandi etloquendi, de sua sententia nulla molestia affectus, atque nuntios etopiniones indagandi accipiendi divulgandi omnibus modis et nullisimpedimentis.
+human_rights_un_ltn_ezwa_64kb_0083	1.
+human_rights_un_ltn_ezwa_64kb_0084	Suae quisque ipsius libertatis potestatem habet, et iure et honesteconveniendi et congregandi.
+human_rights_un_ltn_ezwa_64kb_0085	2.
+human_rights_un_ltn_ezwa_64kb_0086	Homo nemo, ut congregationi intersit, potest cogi.
+human_rights_un_ltn_ezwa_64kb_0087	XXI
+human_rights_un_ltn_ezwa_64kb_0088	1.
+human_rights_un_ltn_ezwa_64kb_0089	Suae quisque rei publicae imperio intersit et per personam ipsam et perlegatos sua sponte electos, legibus ferendis.
+human_rights_un_ltn_ezwa_64kb_0090	2.
+human_rights_un_ltn_ezwa_64kb_0091	Sui quisque aditus potestatem habet ad rei publicae officia, exaequatiscondicionibus.
+human_rights_un_ltn_ezwa_64kb_0092	3.
+human_rights_un_ltn_ezwa_64kb_0093	Populi consensus principium est publicae potestatis;
+human_rights_un_ltn_ezwa_64kb_0094	qui consensus certistemporibus veridicis et paribus omnium suffragiis, per tabellam estdeclarandus, vel pari iudicio liberi suffragii.
+human_rights_un_ltn_ezwa_64kb_0095	Suae quisque ipsius incolumitatis vitae, in hominum societate,potestatem habet etiamque civium conatu et gentium auxilio prosingularum rerum publicarum temperatione et opibus, operis ad reifamiliaris et civilis curam et ad doctrinam pertinentis, necessarii adpropriae personae dignitatem et maturitatem.
+human_rights_un_ltn_ezwa_64kb_0096	XXII
+human_rights_un_ltn_ezwa_64kb_0097	XXIII
+human_rights_un_ltn_ezwa_64kb_0098	1.
+human_rights_un_ltn_ezwa_64kb_0099	Suae quisque ipsius industriae potestatem habet, optionis munussolvendi, aequis condicionibus oblatis atque nulla opera intermissa.
+human_rights_un_ltn_ezwa_64kb_0100	2.
+human_rights_un_ltn_ezwa_64kb_0101	Suae quisque mercedis, nullo discrimine, cum pari opera convenientispotestatem habet.
+human_rights_un_ltn_ezwa_64kb_0102	3.
+human_rights_un_ltn_ezwa_64kb_0103	Quicumque in opera est, aequae et idoneae remunerationis ius habet itaut sibi et familiae pro humana dignitate tutam vitam prospiciat, quae, sioporteat, aliis tutelae et fidei modis cumuletur.
+human_rights_un_ltn_ezwa_64kb_0104	4.
+human_rights_un_ltn_ezwa_64kb_0105	Suae quisque constitutionis propriae potestatem habet, collegiorumoperarum, atque accessionis commoda defendendi causa.
+human_rights_un_ltn_ezwa_64kb_0106	XXIV
+human_rights_un_ltn_ezwa_64kb_0107	XXV
+human_rights_un_ltn_ezwa_64kb_0108	Sui quisque corporis et animi relaxationis ius habet, aliquot horisprofestis ennumeratis et diebus feriatis, mercede persoluta.
+human_rights_un_ltn_ezwa_64kb_0109	1.
+human_rights_un_ltn_ezwa_64kb_0110	Suae quisque ipsius rationis vivendae ius habet, quod bonae et integraevaletudini caveat, commodo suo et familiae, singulari cura victus, vestis,domicilii, et curationis munerum et societatis vitae officiorum utilium;
+human_rights_un_ltn_ezwa_64kb_0111	praeterea ius habet eiusdem tutelae, si sine opere fuerit, si in morboinciderit, si infirmus, viduus, senex aut defectus a copiis, invitus.
+human_rights_un_ltn_ezwa_64kb_0112	2.
+human_rights_un_ltn_ezwa_64kb_0113	Gignendi tempus et puerilis aetas maxima cura custodienda sunt.
+human_rights_un_ltn_ezwa_64kb_0114	Omnibus pueris, et matrimonium et extra idem natis, eadem est humanaesocietatis tutela.
+human_rights_un_ltn_ezwa_64kb_0115	XXVI
+human_rights_un_ltn_ezwa_64kb_0116	1.
+human_rights_un_ltn_ezwa_64kb_0117	Suae quisque ipsius doctrinae ius habet, quae de classibus puerilibus estgratuita et praecipua;
+human_rights_un_ltn_ezwa_64kb_0118	praeterea doctrina primaria verum necessaria;
+human_rights_un_ltn_ezwa_64kb_0119	doctrina, ad artem et munus pertinens, ab omnibus intellegi debet;
+human_rights_un_ltn_ezwa_64kb_0120	denique ad ordinem superiorem aeque omnibus pro merito patens.
+human_rights_un_ltn_ezwa_64kb_0121	2.
+human_rights_un_ltn_ezwa_64kb_0122	Toti personae maturitati disciplina est dicanda, iurum et libertatumconfirmationi et rationi, qua disciplina omnes gentes, omnia genera,omnes religiones intelligenda, observanda, amanda sunt, atque officiis
+human_rights_un_ltn_ezwa_64kb_0123	Coniunctarum Gentium favendum ad pacem servandam.
+human_rights_un_ltn_ezwa_64kb_0124	3.
+human_rights_un_ltn_ezwa_64kb_0125	Parentium potestas est ut disciplinas, quibus liberi imbuantur, elegant.
+human_rights_un_ltn_ezwa_64kb_0126	XXVII
+human_rights_un_ltn_ezwa_64kb_0127	1.
+human_rights_un_ltn_ezwa_64kb_0128	Sui quisque ipsius arbitrii ita potestatem habet ut vitae ad societatisdoctrinam pertinenti particeps sit et artibus perfruatur, cum scientiaeincrementis beneficiisque vehementer studeat.
+human_rights_un_ltn_ezwa_64kb_0129	2.
+human_rights_un_ltn_ezwa_64kb_0130	Suae quisque tutelae ius habet morum rationis utilitatis quae ex suisstudiis scientiae litterarum artium efficiantur.
+human_rights_un_ltn_ezwa_64kb_0131	XXVIII
+human_rights_un_ltn_ezwa_64kb_0132	Suae quisque ipsius disciplinae societatis et gentium qua eiusdem
+human_rights_un_ltn_ezwa_64kb_0133	DECLARATIONIS iura et libertates plane fieri possint, potestatemhabet.
+human_rights_un_ltn_ezwa_64kb_0134	XXIX
+human_rights_un_ltn_ezwa_64kb_0135	1.
+human_rights_un_ltn_ezwa_64kb_0136	Omnibus hominibus ad sodalicium officium est praestandum, quo modomentes animique excoli possint.
+human_rights_un_ltn_ezwa_64kb_0137	2.
+human_rights_un_ltn_ezwa_64kb_0138	Sua quisque ipsius iura exercens et libertates derogationibus lege decretisafficiatur ad iurium aliorum et libertatum cognitionem et obsequiumpraestanda et ad morum legitimas necessitates explendas atque reipublicae tranquillitatis et communis commodi in populari societate.
+human_rights_un_ltn_ezwa_64kb_0139	3.
+human_rights_un_ltn_ezwa_64kb_0140	Contra Coniunctarum Gentium proposita et principia numquam haec iuraet hae libertates exerceri possunt.
+human_rights_un_ltn_ezwa_64kb_0141	XXX
+human_rights_un_ltn_ezwa_64kb_0142	Cuius DECLARATIONIS nulla res ita potest putari ut quoddam iusexercendae operae vel faciendi facinoris detur cuivis civitati, aliquothominibus vel uni e multis, ut aliquot iurium et aliquot libertatumeiusdem labefactentur.

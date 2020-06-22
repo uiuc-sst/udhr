@@ -1,133 +1,133 @@
-ces_0001	vʃɛobɛtsnaː dɛklaratsɛ ldskiːtsɦ praːv
-ces_0002	uːvod
-ces_0003	u vjɛdomiː coɦoʒɛ uzɲaːɲiː pr̝jɪrozɛnɛː duːscojɲoscɪ a rovniːx a nɛztsjɪzjɪtɛlɲiːx praːv tʃlɛnuː ljɪɟskɛːroɟjɪnɪ jɛ zaːkladɛm svobodɪ spravɛɟlnoscɪ a mjiːru vɛ svjɛcjɛʒɛ znɛuzɲaːɲiː ljɪdskiːx praːv a poɦrdaːɲiː jjɪmɪ vɛdlo k barbarskiːm tʃjɪnuːm uraːʒɛjjiːtsjiːmsvjɛdomiː ljɪdscva a ʒɛ vɪbuɟovaːɲiː svjɛca vɛ kcɛrɛːm ljɪdɛː zbavɛɲiː scraxu a nouzɛsɛ budou cjɛʃjɪcɪ svoboɟɛ projɛvu a pr̝ɛsvɟtʃɛɲiː bɪlo proɦlaːʃɛno za nɛjvɪʃʃiː tsjiːlljɪduʒɛ jɛ nutnɛː abɪ ljɪdskaː praːva bɪla xraːɲɛna zaːkonɛm nɛmaːlɪ biːc tʃlovkɟonutsɛn uxɪlovac sɛ kdɪʒ vʃɛ oscacɲiː sɛlɦalo k odbojɪ procɪ tɪranjɪɪ a uːclakuʒɛ jɛ nutnɛː podporovat rozvoj pr̝aːcɛlskiːx vzcaɦu mɛzɪ naːrodɪʒɛ ljɪd spojɛniːx naːroduː zduːrazɲjɪl v xarcɛ znovu svou vjiːru v zaːkladɲiː ljɪdskaːpraːva v duːstojɲosc a ɦodɲocu ljɪdskɛː osobnoscɪ v rovnaː praːva muʒuː ɪ ʒɛn a ʒɛ sɛrozɦodl podporovat sotsjɪaːlɲiː pokrok a vɪtvor̝jɪc lɛpʃiː ʒjɪvocɲiː poɟmjiːnkɪ vɛ vjɛcʃjiːsvobodjɛʒɛ tʃlɛnskɛː staːcɪ pr̝ɛvzalɪ zaːvazɛk zajjɪscjɪt vɛ spolupraːtsɪ s orɡanjɪzatsiː spojɛniːxɲaːroɟuː vʃɛobɛtsnɛː uznaːvaːɲiː a zaxovaːvaːɲiː ljɪdskiːx praːv a zaːklaɟnjiːx svobod aʒɛ stɛjnɛː xaːpaːɲiː tjɛxco praːv a svobod maː nɛsmjiːrniː viːznam pro dokoɲalɛːsplnjɛɲiː toɦoco zaːvazku
-ces_0004	valnɛː sɦromaːʒdjɛnjiːvɪɦlaʃujɛ tuco
-ces_0005	vʃɛobɛtsnou dɛklaratsɪ ljɪdskiːx praːvjakoʒco spolɛtʃniː tsjiːl pro vʃɛxnɪ naːrodɪ a vʃɛxnɪ staːcɪ za cjiːm uːtʃɛlɛm abɪ sɛkaʒdiː jɛɟɲocljɪvɛts a kaʒdiː orɡaːn spolɛtʃnoscɪ majɛ tuco dɛklaratsɪ scaːlɛ na mɪsljɪsnaʒjɪl vɪutʃovaːnjiːm a viːxovou rozʃjiːr̝jɪc uːtscu k tjɛmco praːvuːm a svobodaːm azajjɪstjɪtpostupniːmɪ opatr̝ɛnjiːmɪ vnjɪcrostaːtnjiːmɪ ɪ mɛzjɪnaːroɟɲjiːmɪ jɛjjɪx vʃɛobɛtsnɛː a uːtʃjɪɲnɛːuzɲaːvaːɲiː a zaxovaːvaːɲiː jak mɛzɪ ljɪdɛm tʃlɛnskiːx staːcuː samiːx cak ɪ mɛzɪ ljɪdɛmuːzɛmiː jɛʒ jsou pod jɛjjɪx pravomotsiː
-ces_0006	tʃlaːnɛk
-ces_0007	vʃjɪxɲɪ ljɪdɛː roɟiː sɛ svobodɲiː a sobɛ rovɲiː tso do duːscojɲoscɪ a praːv
-ces_0008	jsou naɟaːnjɪrozumɛm a svjɛdomjiːm a majiː spolu jɛdɲac v duxu bracrscviː
-ces_0009	tʃlaːnɛk
-ces_0010	kaʒdiː maː vʃɛxna praːva a vʃɛxnɪ svobodɪ scaɲovɛnɛː touco dɛklaratsiː bɛzjakɛːɦokolɪ rozljɪʃovaːɲiː zɛjmɛːna podlɛ rasɪ barvɪ poɦlaviː jazɪka naːbozɛnstvjiːpoljɪtjɪtskɛːɦo nɛbo jjɪnɛːɦo smiːʃlɛɲiː naːrodnoscnjiːɦo nɛbo sotsjɪaːlnjiːɦo puːvodumajɛtku rodu nɛbo jjɪnɛːɦo postavɛɲiː
-ces_0011	ʒaːdɲiː rozdjiːl nɛbudɛ daːlɛ tʃjɪnjɛn z duːvodu poljɪcjɪtskɛːɦo praːvnjiːɦo nɛbomɛzjɪɲaːroɟnjiːɦo postavɛɲiː zɛmɛ nɛbo uːzɛmiː k njɪmʒ urtʃjɪcaː osoba pr̝jiːsluʃiː ac jdɛo zɛmɪ nɛbo uːzɛmiː nɛzaːvjɪslɛː nɛbo pod porutʃɛnscvjiːm nɛsamospraːvnɛː nɛbopoɟrobɛɲɛː jakɛːmukolɪ jjɪnɛːmu omɛzɛɲiː suvɛrɛɲjɪcɪ
-ces_0012	tʃlaːnɛk
-ces_0013	kaʒdiː maː praːvo na ʒjɪvoc svobodu a osobɲiː bɛzpɛtʃɲosc
-ces_0014	tʃlaːnɛk
-ces_0015	njɪkdo nɛsmiː biːc drʒɛn v ocrotscviː nɛbo nɛvolɲjɪtscviː
-ces_0016	vʃɛxnɪ formɪ ocrotscviː aobxodu s ocrokɪ jsou zakaːzaːnɪ
-ces_0017	tʃlaːnɛk
-ces_0018	njɪkdo nɛsmiː biːc mutʃɛn nɛbo podrobovaːn krucɛːmu nɛljɪdskɛːmu nɛboponjɪʒujjiːtsjiːmu zaxaːzɛɲiː nɛbo trɛscu
-ces_0019	tʃlaːnɛk
-ces_0020	kaʒdiː maː praːvo na co abɪ bɪla vʃudɛ uzɲaːvaːna jɛɦo praːvɲiː osobɲosc
-ces_0021	tʃlaːnɛk
-ces_0022	vʃjɪxɲɪ jsou sɪ pr̝ɛd zaːkonɛm rovɲɪ a majiː praːvo na stɛjnou oxranu zaːkona bɛzjakɛːɦokolɪ rozljɪʃovaːɲiː
-ces_0023	vʃjɪxɲɪ majiː praːvo na stɛjnou oxranu procɪ jakɛːkoljɪdjɪskrjɪmjɪɲatsɪ kcɛraː poruʃujɛ tuco dɛklaratsɪ a procɪ kaʒdɛːmu podɲjɛtsovaːɲiː kcakovɛː djɪskrjɪmjɪnatsɪ
-ces_0024	tʃlaːnɛk
-ces_0025	kaʒdiː maː praːvo abɪ mu pr̝jiːsluʃnɛː vɲjɪtroscaːcɲiː soudɪ poskɪclɪ uːtʃjɪnnou oxraɲuprocɪ tʃjɪnuːm poruʃujjiːtsjiːm zaːkladɲiː praːva kcɛraː jsou mu pr̝jɪznaːna uːscavou nɛbozaːkonɛm
-ces_0026	tʃlaːnɛk
-ces_0027	njɪkdo nɛsmiː biːc svɛːvolɲɛ zactʃɛn drʒɛn vɛ vazbɛ nɛbo vɪɦoʃcjɛn do vɪɦnaɲscviː
-ces_0028	tʃlaːnɛk
-ces_0029	kaʒdiː maː uːplɲɛ stɛjnɛː praːvo abɪ bɪl spravɛdljɪvɛ a vɛr̝ɛjɲɛ vɪslɛxnucnɛzaːvjɪsliːm a nɛstraɲniːm soudɛm kcɛriː rozɦodujɛ buɟ o jɛɦo praːvɛx apovjɪɲɲostɛx nɛbo o jakɛːmkolɪ trɛscnjiːm obvjɪnjɛɲiː vzɲɛsɛnɛːm procɪ njɛmu
-ces_0030	tʃlaːnɛk
-ces_0031	
-ces_0032	kaʒdiː kdo jɛ obvjɪnjɛn z crɛscɲɛːɦo tʃjɪnu povaʒujɛ sɛ za nɛvjɪɲnɛːɦo dokuɟnɛɲiː zaːkoɲniːm poscupɛm prokaːzaːna jɛɦo vjɪna vɛ vɛr̝ɛjnɛːm r̝jiːzɛɲiː v njɛmʒmu bɪlɪ zajjɪʃtjɛnɪ vɛʃkɛrɛː moʒnoscɪ obɦajobɪ
-ces_0033	
-ces_0034	njɪkdo nɛsmiː biːc odsouzɛn pro tʃjɪn nɛbo opomɛnuciː kcɛrɛː v dobɛ kdɪ bɪlɪspaːxaːnɪ nɛbɪlɪ crɛstnɛː podlɛ staːcnjiːɦo nɛbo mɛzjɪnaːroɟɲjiːɦo praːva
-ces_0035	rovnɛz nɛsmiː biːc ulozɛn trɛsc cɛzʃiː nɛz jakɛːɦo bɪlo lzɛ pouzjiːc v dobɛkdɪ bɪl crɛstniː tʃjɪn spaːxaːn
-ces_0036	tʃlaːnɛk
-ces_0037	njɪkdo nɛsmiː biːc vɪscavɛn svɛːvolnɛːmu zasaɦovaːɲiː do soukromɛːɦo ʒjɪvoca doroɟjɪnɪ domova nɛbo korɛsponɟɛntsɛ aɲɪ uːcokuːm na svou tʃɛsc a povjɛsc
-ces_0038	kaʒdiːmaː praːvo na zaːkoɲnou oxranu procɪ cakoviːm zaːsaɦuːm nɛbo uːcokuːm
-ces_0039	tʃlaːnɛk
-ces_0040	
-ces_0041	kaʒdiː maː praːvo volɲɛ sɛ poɦɪbovac a svobodɲɛ sɪ voljɪc bɪdljɪʃcɛ uvnjɪcr̝urtʃjɪtɛːɦo staːcu
-ces_0042	
-ces_0043	kaʒdiː maː praːvo opuscjɪc kcɛroukolɪ zɛmɪ ɪ svou vlascɲiː a vraːtjɪc sɛ do svɛːzɛmɛ
-ces_0044	tʃlaːnɛk
-ces_0045	
-ces_0046	kaʒdiː maː praːvo vɪɦlɛɟac sɪ pr̝ɛd pronaːslɛdovaːɲjiːm uːcotsjɪʃc v jjɪniːxzɛmjiːx a poʒjiːvac cam azɪlu
-ces_0047	
-ces_0048	toco praːvo nɛlzɛ uplatnjɪc v prjiːpaɟɛ scjiːɦaːɲiː skucɛtʃɲɛ oduːvodnɛɲɛːɦoɲɛpoljɪcjɪtskiːmɪ zlotʃjɪnɪ nɛbo tʃjɪnɪ kcɛrɛː jsou v rozporu s tsjiːlɪ a zaːsadamɪ
-ces_0049	spojɛniːx naːroduː
-ces_0050	tʃlaːnɛk
-ces_0051	
-ces_0052	kaʒdiː maː praːvo na staːcɲiː pr̝jiːsluʃnost
-ces_0053	
-ces_0054	njɪkdo nɛsmiː biːc svɛːvolɲɛ zbavɛn svɛː staːcɲiː pr̝jiːsluʃnostɪ aɲɪ praːva svoustaːcɲiː pr̝jiːsluʃnost zmjɛnjɪt
-ces_0055	tʃlaːnɛk
-ces_0056	
-ces_0057	muʒɪ a ʒɛnɪ jakmjɪlɛ dosaːɦnou plnolɛtoscɪ majiː praːvo bɛz jakɛːɦokoljɪomɛzɛɲiː z duːvoduː pr̝jiːsluʃɲocɪ rasovɛː naːrodɲostɲiː nɛbo naːboʒɛnskɛːuzavr̝jiːc sɲacɛk a zaloʒjɪc roɟjɪnu
-ces_0058	pokud jdɛ o manzɛlstviː majiː za jɛɦo trvaːnjiːɪ pr̝ɪ jɛɦo rozvaːzaːɲiː stɛjnaː praːva
-ces_0059	
-ces_0060	sɲackɪ moɦou biːc uzavr̝ɛnɪ jɛn sɛ svoboɟniːm a plniːm souɦlasɛmnascaːvajjiːtsjiːx manʒɛluː
-ces_0061	
-ces_0062	roɟjɪna jɛ pr̝jɪrozɛnou a zaːkladɲiː jɛɟɲockou spolɛtʃnoscɪ a maː naːrok naoxranu ʒɛ stranɪ spolɛtʃnoscɪ a staːcu
-ces_0063	tʃlaːnɛk
-ces_0064	
-ces_0065	kaʒdiː maː praːvo vlastnjɪc majɛcɛk jak saːm cak spolu sjjɪniːmɪ
-ces_0066	
-ces_0067	njɪkdo nɛsmiː biːc svɛːvolɲɛ zbavɛn svɛːɦo majɛcku
-ces_0068	tʃlaːnɛk
-ces_0069	kaʒdiː maː praːvo na svobodu mɪʃlɛɲiː svjɛdomiː a naːboʒɛɲscviː
-ces_0070	toco praːvozaɦrnujɛ v sobɛ ɪ volnost zmjɛnjɪt svɛː naːboʒɛɲscviː nɛbo vjiːru jakoʒ ɪ svoboɟuprojɛvovac svɛː naːboʒɛɲscviː nɛbo vjiːru saːm nɛbo spolɛtʃɲɛ s jjɪniːmɪ ac vɛr̝ɛjɲjɛnɛbo soukromɛ vɪutʃovaːnjiːm provaːdjɛɲjiːm naːboʒɛnskiːx uːkonuː boɦosluʒbou azaxovaːvaːnjiːm obr̝aduː
-ces_0071	tʃlaːnɛk
-ces_0072	kaʒdiː maː praːvo na svobodu pr̝ɛsvjɛɟtʃɛɲiː a projɛvu
-ces_0073	toco praːvo nɛpr̝jɪpouʃciː abɪɲjɛkdo crpjɛl uːjmu pro svɛː pr̝ɛsvjɛɟtʃɛɲiː a zaɦrnujɛ praːvo vɪɦlɛdaːvat prjiːjjiːmac arozʃjɪr̝ovac jɪnformatsɛ a mɪʃlɛnkɪ jakiːmjɪkolɪ proscr̝ɛɟkɪ a bɛz oɦlɛdu na ɦranjɪtsɛ
-ces_0074	tʃlaːnɛk
-ces_0075	
-ces_0076	kaʒdɛːmu jɛ zarutʃɛna svoboda pokojnɛːɦo sɦromaʒɟovaːɲiː a sɟruʒovaːɲiː
-ces_0077	
-ces_0078	njɪkdo nɛsmiː biːc nutsɛn abɪ bɪl tʃlɛnɛm njɛjakɛːɦo sdruʒɛɲiː
-ces_0079	tʃlaːnɛk
-ces_0080	
-ces_0081	kaʒdiː maː praːvo abɪ sɛ uːtʃascnjɪl vlaːdɪ svɛː zɛmɛ pr̝jiːmo nɛboproscr̝ɛɟnjɪtscvjiːm svobodɲɛ volɛniːx zaːscuptsuː
-ces_0082	
-ces_0083	kaʒdiː maː praːvo vstoupjɪc za rovniːx poɟmjiːnɛk do vɛr̝ɛjniːx sluʒɛb svɛːzɛmɛ
-ces_0084	
-ces_0085	zaːkladɛm vlaːɟɲiː motsɪ budjɪʒ vuːlɛ ljɪdu
-ces_0086	ca musiː biːc vɪjaːɟr̝ɛna spraːvnɛprovaːdjɛɲiːmɪ volbamɪ kcɛrɛː sɛ majiː konat v pravjɪdɛlniːx obdobjiːx nazaːklaɟɛ vʃɛobɛtsnɛːɦo arovnɛːɦo ɦlasovatsjiːɦo praːva tajniːm ɦlasovaːɲjiːmnɛbo jjɪniːm rovɲotsɛɲniːm poscupɛm zabɛzpɛtʃujjiːtsjiːm svobodu ɦlasovaːɲiː
-ces_0087	tʃlaːnɛk
-ces_0088	kaʒdiː tʃlovk maː jako tʃlɛn spolɛtʃnoscɪ praːvo na sotsjɪaːlɲiː zabɛzpɛtʃɲiː a naːrok naco abɪ mu bɪla naːrodnjiːm uːsjɪljiːm ɪ mɛzjɪɲaːrodɲiː soutʃjɪnɲostiː a v souladu sorɡanjɪzatsiː a s proscr̝ɛɟkɪ prjiːsluʃnɛːɦo staːcu zajjɪʃtjɛna ɦospodaːr̝skaː sotsjɪaːlɲiː akulturɲiː praːva nɛzbɪtɲaː k jɛɦo duːscojɲoscɪ a k svobodɲɛːmu rozvojɪ jɛɦoosobnoscɪ
-ces_0089	tʃlaːnɛk
-ces_0090	
-ces_0091	kaʒdiː maː praːvo na praːtsɪ na svoboɟnou volbu zamjɛscɲaːɲiː naspravɛdljɪvɛː a uspokojjɪvɛː pratsovɲiː poɟmjiːnkɪ a na oxranu protjɪnɛzamjɛscnaɲoscɪ
-ces_0092	
-ces_0093	kaʒdiː bɛz jakɛːɦokolɪ rozljɪʃovaːɲiː maː naːrok na stɛjniː plac za scɛjɲoupraːtsɪ
-ces_0094	
-ces_0095	kaʒdiː pratsujjiːtsiː maː praːvo na spravɛdljɪvou a uspokojjɪvou oɟmjɛnu kcɛraː bɪzajjɪʃcovala jɛmu samɛːmu a jɛɦo roɟjɪɲɛ ʒjɪvobɪciː odpovjiːdajjiːtsiː ljɪdskɛːɟuːstojɲoscɪ a kcɛraː bɪ bɪla doplɲjɛna kdɪbɪ coɦo bɪlo cr̝ɛba jjɪniːmjɪprostr̝ɛdkɪ sotsjɪaːlɲiː oxranɪ
-ces_0096	
-ces_0097	na oxranu sviːx zaːjmuː maː kaʒdiː praːvo zaklaːɟac s jjɪniːmɪ odborovɛːorɡanjɪzatsɛ a pr̝jɪstupovac k njɪm
-ces_0098	tʃlaːnɛk
-ces_0099	kaʒdiː maː praːvo na oɟpotʃjɪnɛk a na zocavɛɲiː zɛjmɛːna cakɛː na rozumɲɛːvɪmɛzɛɲiː pratsovnjiːx ɦodjɪn a na pravjɪɟɛlnou platsɛnou dovolɛnou
-ces_0100	tʃlaːnɛk
-ces_0101	
-ces_0102	kaʒdiː maː praːvo na cakovou ʒjɪvocɲiː uːrovɛɲ kcɛraː bɪ bɪla s co zajjɪscjɪt jɛɦozdraviː a blaɦobɪc ɪ zdraviː a blaɦobɪc jɛɦo roɟjɪnɪ potʃjiːcajjiːts v co zɛjmɛːnaviːʒjɪvu ʃatscvo bɪc a lɛːkar̝skou pɛːtʃɪ jakoʒ ɪ nɛzbɪtɲaː sotsjɪaːlɲiː opacr̝ɛɲiː
-ces_0103	maː praːvo na zabɛzpɛtʃɛɲiː v nɛzamjɛscɲanoscɪ v nɛmotsɪ pr̝ɪ nɛzpuːsobjɪloscjɪk praːtsɪ pr̝ɪ ovdovjɛɲiː vɛ scaːr̝iː nɛbo v ostacnjiːx pr̝jiːpadɛx zcraːcɪviːdjɛlɛtʃniːx moʒnosciː nascalɛː v duːslɛdku okolnosciː nɛzaːvjɪsliːx na jɛɦovuːlɪ
-ces_0104	
-ces_0105	macɛr̝scviː a djɛcscviː majiː naːrok na zvlaːʃcɲiː pɛːtʃɪ a pomots
-ces_0106	vʃɛxnɪ djɛcɪ acmanʒɛlskɛː nɛbo nɛmanʒɛlskɛː pozjiːvajiː stɛjnɛː sotsjɪaːlɲiː oxranɪ
-ces_0107	tʃlaːnɛk
-ces_0108	
-ces_0109	kaʒdiː maː praːvo na vzdjɛlaːɲiː
-ces_0110	vzdjɛlaːɲiː nɛxc jɛ bɛzplatnɛː alɛspoɲ vpotʃaːtɛtʃnjiːx a zaːklaɟnjiːx stupnjiːx
-ces_0111	zaːkladɲiː vzdjɛlaːɲiː jɛ povjɪnnɛː
-ces_0112	cɛxnjɪtskɛː a oɟbornɛː vzdjɛlaːɲiː budjɪʒ vʃɛobɛtsɲɛ pr̝jiːstupɲɛː a rovnjɛʒ vɪʃʃjiːvzɟjɛlaːɲiː maː biːc stɛjɲɛ pr̝jiːstupɲɛː vʃɛm podlɛ sxopnostiː
-ces_0113	
-ces_0114	vzdjɛlaːɲiː maː smjɛr̝ovac k plnɛːmu rozvojɪ ljɪdskɛː osobnoscɪ a k posjiːlɛɲiː uːtscɪk ljɪdskiːm praːvuːm a zaːkladnjiːm svobodaːm
-ces_0115	maː napomaːɦac k vzaːjɛmnɛːmuporozumjɛɲiː sɲaːʃɛnljɪvoscɪ a pr̝aːcɛlscviː mɛzɪ vʃɛmɪ naːrodɪ a vʃɛmjɪskupjɪnamɪ rasoviːmɪ ɪ naːboʒɛnskiːmɪ jakoʒ ɪ k rozvojɪ tʃjɪɲɲoscɪ spojɛniːxɲaːroɟuː pro zaxovaːɲiː mjiːru
-ces_0116	
-ces_0117	rodjɪtʃɛ majiː pr̝ɛɟɲoscɲiː praːvo voljɪc druɦ vzdjɛlaːɲiː pro svɛː djɛcɪ
-ces_0118	tʃlaːnɛk
-ces_0119	
-ces_0120	kaʒdiː maː praːvo svobodɲɛ sɛ uːtʃastnjɪc kulcurɲjiːɦo ʒjɪvoca spolɛtʃnoscɪ uːʒjiːvatploduː umjɛɲiː a podjiːlɛc sɛ na vjɛdɛtskɛːm pokroku a jɛɦo viːcjɛʒtsjiːx
-ces_0121	
-ces_0122	kaʒdiː maː praːvo na oxranu moraːlnjiːx a matɛrjɪaːlnjiːx zaːjmuː kcɛrɛːvɪpliːvajiː z jɛɦo vjɛdɛtskɛː ljɪtɛraːrɲiː nɛbo umjɛlɛtskɛː cvorbɪ
-ces_0123	tʃlaːnɛk
-ces_0124	kaʒdiː maː praːvo na co abɪ vlaːdl cakoviː sotsjɪaːlɲiː a mɛzjɪɲaːrodɲiː r̝aːd vɛ kcɛrɛːm bɪpraːva a svobodɪ scaɲovɛnɛː v tɛːco dɛklaratsɪ bɪlɪ plɲɛ uplatnjɛnɪ
-ces_0125	tʃlaːnɛk
-ces_0126	
-ces_0127	kaʒdiː maː povjɪɲnoscɪ vuːtʃɪ spolɛtʃnoscɪ v njiːz jɛɟjɪnɛː muːʒɛ volɲɛ a plnjɛrozvjɪɲouc svou osobɲosc
-ces_0128	
-ces_0129	kaʒdiː jɛ pr̝ɪ viːkonu sviːx praːv a svobod podrobɛn jɛn cakoviːmomɛzɛɲjiːm kcɛraː scanoviː zaːkon viːɦradɲɛ za cjiːm uːtʃɛlɛm abɪ bɪlozajjɪʃtjɛno uznaːvaːɲiː a zaxovaːvaːɲiː praːv asvobod ostacnjiːx a vɪɦovjɛnospravɛɟljɪviːm pozadavkuːm moraːlkɪ vɛr̝ɛjnɛːɦo por̝aːdku a obɛtsnɛːɦo blaɦav dɛmokracjɪtskɛː spolɛtʃnoscɪ
-ces_0130	
-ces_0131	viːkon tjɛxco praːv a svobod nɛsmiː biːc v ʒaːɟnɛːm pr̝jiːpaɟɛ v rozporu s tsjiːlɪ azaːsadamɪ spojɛniːx naːroduː
-ces_0132	tʃlaːnɛk
-ces_0133	njɪts v tɛːco dɛklaratsɪ nɛmuːʒɛ biːc vɪklaːɟaːno jako bɪ daːvalo kcɛrɛːmukolɪ staːcuktɛrɛːkolɪ skupjɪɲɛ nɛbo osobɛ jakɛːkolɪ praːvo vɪvjiːjɛc tʃjɪɲnosc nɛbo dopouʃtjɛc sɛtʃjɪnuː kcɛrɛː bɪ smjɛr̝ovalɪ k potlatʃɛɲiː njɛkcɛrɛːɦo z praːv nɛbo njɛkcɛrɛː zɛ svobod vtɛːco dɛklaratsɪ uvɛdɛniːx
+human_rights_un_pql_jawo_64kb_0001	vʃɛobɛtsnaː dɛklaratsɛ ldskiːtsɦ praːv
+human_rights_un_pql_jawo_64kb_0002	uːvod
+human_rights_un_pql_jawo_64kb_0003	u vjɛdomiː coɦoʒɛ uzɲaːɲiː pr̝jɪrozɛnɛː duːscojɲoscɪ a rovniːx a nɛztsjɪzjɪtɛlɲiːx praːv tʃlɛnuː ljɪɟskɛːroɟjɪnɪ jɛ zaːkladɛm svobodɪ spravɛɟlnoscɪ a mjiːru vɛ svjɛcjɛʒɛ znɛuzɲaːɲiː ljɪdskiːx praːv a poɦrdaːɲiː jjɪmɪ vɛdlo k barbarskiːm tʃjɪnuːm uraːʒɛjjiːtsjiːmsvjɛdomiː ljɪdscva a ʒɛ vɪbuɟovaːɲiː svjɛca vɛ kcɛrɛːm ljɪdɛː zbavɛɲiː scraxu a nouzɛsɛ budou cjɛʃjɪcɪ svoboɟɛ projɛvu a pr̝ɛsvɟtʃɛɲiː bɪlo proɦlaːʃɛno za nɛjvɪʃʃiː tsjiːlljɪduʒɛ jɛ nutnɛː abɪ ljɪdskaː praːva bɪla xraːɲɛna zaːkonɛm nɛmaːlɪ biːc tʃlovkɟonutsɛn uxɪlovac sɛ kdɪʒ vʃɛ oscacɲiː sɛlɦalo k odbojɪ procɪ tɪranjɪɪ a uːclakuʒɛ jɛ nutnɛː podporovat rozvoj pr̝aːcɛlskiːx vzcaɦu mɛzɪ naːrodɪʒɛ ljɪd spojɛniːx naːroduː zduːrazɲjɪl v xarcɛ znovu svou vjiːru v zaːkladɲiː ljɪdskaːpraːva v duːstojɲosc a ɦodɲocu ljɪdskɛː osobnoscɪ v rovnaː praːva muʒuː ɪ ʒɛn a ʒɛ sɛrozɦodl podporovat sotsjɪaːlɲiː pokrok a vɪtvor̝jɪc lɛpʃiː ʒjɪvocɲiː poɟmjiːnkɪ vɛ vjɛcʃjiːsvobodjɛʒɛ tʃlɛnskɛː staːcɪ pr̝ɛvzalɪ zaːvazɛk zajjɪscjɪt vɛ spolupraːtsɪ s orɡanjɪzatsiː spojɛniːxɲaːroɟuː vʃɛobɛtsnɛː uznaːvaːɲiː a zaxovaːvaːɲiː ljɪdskiːx praːv a zaːklaɟnjiːx svobod aʒɛ stɛjnɛː xaːpaːɲiː tjɛxco praːv a svobod maː nɛsmjiːrniː viːznam pro dokoɲalɛːsplnjɛɲiː toɦoco zaːvazku
+human_rights_un_pql_jawo_64kb_0004	valnɛː sɦromaːʒdjɛnjiːvɪɦlaʃujɛ tuco
+human_rights_un_pql_jawo_64kb_0005	vʃɛobɛtsnou dɛklaratsɪ ljɪdskiːx praːvjakoʒco spolɛtʃniː tsjiːl pro vʃɛxnɪ naːrodɪ a vʃɛxnɪ staːcɪ za cjiːm uːtʃɛlɛm abɪ sɛkaʒdiː jɛɟɲocljɪvɛts a kaʒdiː orɡaːn spolɛtʃnoscɪ majɛ tuco dɛklaratsɪ scaːlɛ na mɪsljɪsnaʒjɪl vɪutʃovaːnjiːm a viːxovou rozʃjiːr̝jɪc uːtscu k tjɛmco praːvuːm a svobodaːm azajjɪstjɪtpostupniːmɪ opatr̝ɛnjiːmɪ vnjɪcrostaːtnjiːmɪ ɪ mɛzjɪnaːroɟɲjiːmɪ jɛjjɪx vʃɛobɛtsnɛː a uːtʃjɪɲnɛːuzɲaːvaːɲiː a zaxovaːvaːɲiː jak mɛzɪ ljɪdɛm tʃlɛnskiːx staːcuː samiːx cak ɪ mɛzɪ ljɪdɛmuːzɛmiː jɛʒ jsou pod jɛjjɪx pravomotsiː
+human_rights_un_pql_jawo_64kb_0006	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0007	vʃjɪxɲɪ ljɪdɛː roɟiː sɛ svobodɲiː a sobɛ rovɲiː tso do duːscojɲoscɪ a praːv
+human_rights_un_pql_jawo_64kb_0008	jsou naɟaːnjɪrozumɛm a svjɛdomjiːm a majiː spolu jɛdɲac v duxu bracrscviː
+human_rights_un_pql_jawo_64kb_0009	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0010	kaʒdiː maː vʃɛxna praːva a vʃɛxnɪ svobodɪ scaɲovɛnɛː touco dɛklaratsiː bɛzjakɛːɦokolɪ rozljɪʃovaːɲiː zɛjmɛːna podlɛ rasɪ barvɪ poɦlaviː jazɪka naːbozɛnstvjiːpoljɪtjɪtskɛːɦo nɛbo jjɪnɛːɦo smiːʃlɛɲiː naːrodnoscnjiːɦo nɛbo sotsjɪaːlnjiːɦo puːvodumajɛtku rodu nɛbo jjɪnɛːɦo postavɛɲiː
+human_rights_un_pql_jawo_64kb_0011	ʒaːdɲiː rozdjiːl nɛbudɛ daːlɛ tʃjɪnjɛn z duːvodu poljɪcjɪtskɛːɦo praːvnjiːɦo nɛbomɛzjɪɲaːroɟnjiːɦo postavɛɲiː zɛmɛ nɛbo uːzɛmiː k njɪmʒ urtʃjɪcaː osoba pr̝jiːsluʃiː ac jdɛo zɛmɪ nɛbo uːzɛmiː nɛzaːvjɪslɛː nɛbo pod porutʃɛnscvjiːm nɛsamospraːvnɛː nɛbopoɟrobɛɲɛː jakɛːmukolɪ jjɪnɛːmu omɛzɛɲiː suvɛrɛɲjɪcɪ
+human_rights_un_pql_jawo_64kb_0012	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0013	kaʒdiː maː praːvo na ʒjɪvoc svobodu a osobɲiː bɛzpɛtʃɲosc
+human_rights_un_pql_jawo_64kb_0014	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0015	njɪkdo nɛsmiː biːc drʒɛn v ocrotscviː nɛbo nɛvolɲjɪtscviː
+human_rights_un_pql_jawo_64kb_0016	vʃɛxnɪ formɪ ocrotscviː aobxodu s ocrokɪ jsou zakaːzaːnɪ
+human_rights_un_pql_jawo_64kb_0017	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0018	njɪkdo nɛsmiː biːc mutʃɛn nɛbo podrobovaːn krucɛːmu nɛljɪdskɛːmu nɛboponjɪʒujjiːtsjiːmu zaxaːzɛɲiː nɛbo trɛscu
+human_rights_un_pql_jawo_64kb_0019	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0020	kaʒdiː maː praːvo na co abɪ bɪla vʃudɛ uzɲaːvaːna jɛɦo praːvɲiː osobɲosc
+human_rights_un_pql_jawo_64kb_0021	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0022	vʃjɪxɲɪ jsou sɪ pr̝ɛd zaːkonɛm rovɲɪ a majiː praːvo na stɛjnou oxranu zaːkona bɛzjakɛːɦokolɪ rozljɪʃovaːɲiː
+human_rights_un_pql_jawo_64kb_0023	vʃjɪxɲɪ majiː praːvo na stɛjnou oxranu procɪ jakɛːkoljɪdjɪskrjɪmjɪɲatsɪ kcɛraː poruʃujɛ tuco dɛklaratsɪ a procɪ kaʒdɛːmu podɲjɛtsovaːɲiː kcakovɛː djɪskrjɪmjɪnatsɪ
+human_rights_un_pql_jawo_64kb_0024	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0025	kaʒdiː maː praːvo abɪ mu pr̝jiːsluʃnɛː vɲjɪtroscaːcɲiː soudɪ poskɪclɪ uːtʃjɪnnou oxraɲuprocɪ tʃjɪnuːm poruʃujjiːtsjiːm zaːkladɲiː praːva kcɛraː jsou mu pr̝jɪznaːna uːscavou nɛbozaːkonɛm
+human_rights_un_pql_jawo_64kb_0026	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0027	njɪkdo nɛsmiː biːc svɛːvolɲɛ zactʃɛn drʒɛn vɛ vazbɛ nɛbo vɪɦoʃcjɛn do vɪɦnaɲscviː
+human_rights_un_pql_jawo_64kb_0028	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0029	kaʒdiː maː uːplɲɛ stɛjnɛː praːvo abɪ bɪl spravɛdljɪvɛ a vɛr̝ɛjɲɛ vɪslɛxnucnɛzaːvjɪsliːm a nɛstraɲniːm soudɛm kcɛriː rozɦodujɛ buɟ o jɛɦo praːvɛx apovjɪɲɲostɛx nɛbo o jakɛːmkolɪ trɛscnjiːm obvjɪnjɛɲiː vzɲɛsɛnɛːm procɪ njɛmu
+human_rights_un_pql_jawo_64kb_0030	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0031	
+human_rights_un_pql_jawo_64kb_0032	kaʒdiː kdo jɛ obvjɪnjɛn z crɛscɲɛːɦo tʃjɪnu povaʒujɛ sɛ za nɛvjɪɲnɛːɦo dokuɟnɛɲiː zaːkoɲniːm poscupɛm prokaːzaːna jɛɦo vjɪna vɛ vɛr̝ɛjnɛːm r̝jiːzɛɲiː v njɛmʒmu bɪlɪ zajjɪʃtjɛnɪ vɛʃkɛrɛː moʒnoscɪ obɦajobɪ
+human_rights_un_pql_jawo_64kb_0033	
+human_rights_un_pql_jawo_64kb_0034	njɪkdo nɛsmiː biːc odsouzɛn pro tʃjɪn nɛbo opomɛnuciː kcɛrɛː v dobɛ kdɪ bɪlɪspaːxaːnɪ nɛbɪlɪ crɛstnɛː podlɛ staːcnjiːɦo nɛbo mɛzjɪnaːroɟɲjiːɦo praːva
+human_rights_un_pql_jawo_64kb_0035	rovnɛz nɛsmiː biːc ulozɛn trɛsc cɛzʃiː nɛz jakɛːɦo bɪlo lzɛ pouzjiːc v dobɛkdɪ bɪl crɛstniː tʃjɪn spaːxaːn
+human_rights_un_pql_jawo_64kb_0036	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0037	njɪkdo nɛsmiː biːc vɪscavɛn svɛːvolnɛːmu zasaɦovaːɲiː do soukromɛːɦo ʒjɪvoca doroɟjɪnɪ domova nɛbo korɛsponɟɛntsɛ aɲɪ uːcokuːm na svou tʃɛsc a povjɛsc
+human_rights_un_pql_jawo_64kb_0038	kaʒdiːmaː praːvo na zaːkoɲnou oxranu procɪ cakoviːm zaːsaɦuːm nɛbo uːcokuːm
+human_rights_un_pql_jawo_64kb_0039	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0040	
+human_rights_un_pql_jawo_64kb_0041	kaʒdiː maː praːvo volɲɛ sɛ poɦɪbovac a svobodɲɛ sɪ voljɪc bɪdljɪʃcɛ uvnjɪcr̝urtʃjɪtɛːɦo staːcu
+human_rights_un_pql_jawo_64kb_0042	
+human_rights_un_pql_jawo_64kb_0043	kaʒdiː maː praːvo opuscjɪc kcɛroukolɪ zɛmɪ ɪ svou vlascɲiː a vraːtjɪc sɛ do svɛːzɛmɛ
+human_rights_un_pql_jawo_64kb_0044	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0045	
+human_rights_un_pql_jawo_64kb_0046	kaʒdiː maː praːvo vɪɦlɛɟac sɪ pr̝ɛd pronaːslɛdovaːɲjiːm uːcotsjɪʃc v jjɪniːxzɛmjiːx a poʒjiːvac cam azɪlu
+human_rights_un_pql_jawo_64kb_0047	
+human_rights_un_pql_jawo_64kb_0048	toco praːvo nɛlzɛ uplatnjɪc v prjiːpaɟɛ scjiːɦaːɲiː skucɛtʃɲɛ oduːvodnɛɲɛːɦoɲɛpoljɪcjɪtskiːmɪ zlotʃjɪnɪ nɛbo tʃjɪnɪ kcɛrɛː jsou v rozporu s tsjiːlɪ a zaːsadamɪ
+human_rights_un_pql_jawo_64kb_0049	spojɛniːx naːroduː
+human_rights_un_pql_jawo_64kb_0050	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0051	
+human_rights_un_pql_jawo_64kb_0052	kaʒdiː maː praːvo na staːcɲiː pr̝jiːsluʃnost
+human_rights_un_pql_jawo_64kb_0053	
+human_rights_un_pql_jawo_64kb_0054	njɪkdo nɛsmiː biːc svɛːvolɲɛ zbavɛn svɛː staːcɲiː pr̝jiːsluʃnostɪ aɲɪ praːva svoustaːcɲiː pr̝jiːsluʃnost zmjɛnjɪt
+human_rights_un_pql_jawo_64kb_0055	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0056	
+human_rights_un_pql_jawo_64kb_0057	muʒɪ a ʒɛnɪ jakmjɪlɛ dosaːɦnou plnolɛtoscɪ majiː praːvo bɛz jakɛːɦokoljɪomɛzɛɲiː z duːvoduː pr̝jiːsluʃɲocɪ rasovɛː naːrodɲostɲiː nɛbo naːboʒɛnskɛːuzavr̝jiːc sɲacɛk a zaloʒjɪc roɟjɪnu
+human_rights_un_pql_jawo_64kb_0058	pokud jdɛ o manzɛlstviː majiː za jɛɦo trvaːnjiːɪ pr̝ɪ jɛɦo rozvaːzaːɲiː stɛjnaː praːva
+human_rights_un_pql_jawo_64kb_0059	
+human_rights_un_pql_jawo_64kb_0060	sɲackɪ moɦou biːc uzavr̝ɛnɪ jɛn sɛ svoboɟniːm a plniːm souɦlasɛmnascaːvajjiːtsjiːx manʒɛluː
+human_rights_un_pql_jawo_64kb_0061	
+human_rights_un_pql_jawo_64kb_0062	roɟjɪna jɛ pr̝jɪrozɛnou a zaːkladɲiː jɛɟɲockou spolɛtʃnoscɪ a maː naːrok naoxranu ʒɛ stranɪ spolɛtʃnoscɪ a staːcu
+human_rights_un_pql_jawo_64kb_0063	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0064	
+human_rights_un_pql_jawo_64kb_0065	kaʒdiː maː praːvo vlastnjɪc majɛcɛk jak saːm cak spolu sjjɪniːmɪ
+human_rights_un_pql_jawo_64kb_0066	
+human_rights_un_pql_jawo_64kb_0067	njɪkdo nɛsmiː biːc svɛːvolɲɛ zbavɛn svɛːɦo majɛcku
+human_rights_un_pql_jawo_64kb_0068	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0069	kaʒdiː maː praːvo na svobodu mɪʃlɛɲiː svjɛdomiː a naːboʒɛɲscviː
+human_rights_un_pql_jawo_64kb_0070	toco praːvozaɦrnujɛ v sobɛ ɪ volnost zmjɛnjɪt svɛː naːboʒɛɲscviː nɛbo vjiːru jakoʒ ɪ svoboɟuprojɛvovac svɛː naːboʒɛɲscviː nɛbo vjiːru saːm nɛbo spolɛtʃɲɛ s jjɪniːmɪ ac vɛr̝ɛjɲjɛnɛbo soukromɛ vɪutʃovaːnjiːm provaːdjɛɲjiːm naːboʒɛnskiːx uːkonuː boɦosluʒbou azaxovaːvaːnjiːm obr̝aduː
+human_rights_un_pql_jawo_64kb_0071	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0072	kaʒdiː maː praːvo na svobodu pr̝ɛsvjɛɟtʃɛɲiː a projɛvu
+human_rights_un_pql_jawo_64kb_0073	toco praːvo nɛpr̝jɪpouʃciː abɪɲjɛkdo crpjɛl uːjmu pro svɛː pr̝ɛsvjɛɟtʃɛɲiː a zaɦrnujɛ praːvo vɪɦlɛdaːvat prjiːjjiːmac arozʃjɪr̝ovac jɪnformatsɛ a mɪʃlɛnkɪ jakiːmjɪkolɪ proscr̝ɛɟkɪ a bɛz oɦlɛdu na ɦranjɪtsɛ
+human_rights_un_pql_jawo_64kb_0074	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0075	
+human_rights_un_pql_jawo_64kb_0076	kaʒdɛːmu jɛ zarutʃɛna svoboda pokojnɛːɦo sɦromaʒɟovaːɲiː a sɟruʒovaːɲiː
+human_rights_un_pql_jawo_64kb_0077	
+human_rights_un_pql_jawo_64kb_0078	njɪkdo nɛsmiː biːc nutsɛn abɪ bɪl tʃlɛnɛm njɛjakɛːɦo sdruʒɛɲiː
+human_rights_un_pql_jawo_64kb_0079	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0080	
+human_rights_un_pql_jawo_64kb_0081	kaʒdiː maː praːvo abɪ sɛ uːtʃascnjɪl vlaːdɪ svɛː zɛmɛ pr̝jiːmo nɛboproscr̝ɛɟnjɪtscvjiːm svobodɲɛ volɛniːx zaːscuptsuː
+human_rights_un_pql_jawo_64kb_0082	
+human_rights_un_pql_jawo_64kb_0083	kaʒdiː maː praːvo vstoupjɪc za rovniːx poɟmjiːnɛk do vɛr̝ɛjniːx sluʒɛb svɛːzɛmɛ
+human_rights_un_pql_jawo_64kb_0084	
+human_rights_un_pql_jawo_64kb_0085	zaːkladɛm vlaːɟɲiː motsɪ budjɪʒ vuːlɛ ljɪdu
+human_rights_un_pql_jawo_64kb_0086	ca musiː biːc vɪjaːɟr̝ɛna spraːvnɛprovaːdjɛɲiːmɪ volbamɪ kcɛrɛː sɛ majiː konat v pravjɪdɛlniːx obdobjiːx nazaːklaɟɛ vʃɛobɛtsnɛːɦo arovnɛːɦo ɦlasovatsjiːɦo praːva tajniːm ɦlasovaːɲjiːmnɛbo jjɪniːm rovɲotsɛɲniːm poscupɛm zabɛzpɛtʃujjiːtsjiːm svobodu ɦlasovaːɲiː
+human_rights_un_pql_jawo_64kb_0087	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0088	kaʒdiː tʃlovk maː jako tʃlɛn spolɛtʃnoscɪ praːvo na sotsjɪaːlɲiː zabɛzpɛtʃɲiː a naːrok naco abɪ mu bɪla naːrodnjiːm uːsjɪljiːm ɪ mɛzjɪɲaːrodɲiː soutʃjɪnɲostiː a v souladu sorɡanjɪzatsiː a s proscr̝ɛɟkɪ prjiːsluʃnɛːɦo staːcu zajjɪʃtjɛna ɦospodaːr̝skaː sotsjɪaːlɲiː akulturɲiː praːva nɛzbɪtɲaː k jɛɦo duːscojɲoscɪ a k svobodɲɛːmu rozvojɪ jɛɦoosobnoscɪ
+human_rights_un_pql_jawo_64kb_0089	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0090	
+human_rights_un_pql_jawo_64kb_0091	kaʒdiː maː praːvo na praːtsɪ na svoboɟnou volbu zamjɛscɲaːɲiː naspravɛdljɪvɛː a uspokojjɪvɛː pratsovɲiː poɟmjiːnkɪ a na oxranu protjɪnɛzamjɛscnaɲoscɪ
+human_rights_un_pql_jawo_64kb_0092	
+human_rights_un_pql_jawo_64kb_0093	kaʒdiː bɛz jakɛːɦokolɪ rozljɪʃovaːɲiː maː naːrok na stɛjniː plac za scɛjɲoupraːtsɪ
+human_rights_un_pql_jawo_64kb_0094	
+human_rights_un_pql_jawo_64kb_0095	kaʒdiː pratsujjiːtsiː maː praːvo na spravɛdljɪvou a uspokojjɪvou oɟmjɛnu kcɛraː bɪzajjɪʃcovala jɛmu samɛːmu a jɛɦo roɟjɪɲɛ ʒjɪvobɪciː odpovjiːdajjiːtsiː ljɪdskɛːɟuːstojɲoscɪ a kcɛraː bɪ bɪla doplɲjɛna kdɪbɪ coɦo bɪlo cr̝ɛba jjɪniːmjɪprostr̝ɛdkɪ sotsjɪaːlɲiː oxranɪ
+human_rights_un_pql_jawo_64kb_0096	
+human_rights_un_pql_jawo_64kb_0097	na oxranu sviːx zaːjmuː maː kaʒdiː praːvo zaklaːɟac s jjɪniːmɪ odborovɛːorɡanjɪzatsɛ a pr̝jɪstupovac k njɪm
+human_rights_un_pql_jawo_64kb_0098	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0099	kaʒdiː maː praːvo na oɟpotʃjɪnɛk a na zocavɛɲiː zɛjmɛːna cakɛː na rozumɲɛːvɪmɛzɛɲiː pratsovnjiːx ɦodjɪn a na pravjɪɟɛlnou platsɛnou dovolɛnou
+human_rights_un_pql_jawo_64kb_0100	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0101	
+human_rights_un_pql_jawo_64kb_0102	kaʒdiː maː praːvo na cakovou ʒjɪvocɲiː uːrovɛɲ kcɛraː bɪ bɪla s co zajjɪscjɪt jɛɦozdraviː a blaɦobɪc ɪ zdraviː a blaɦobɪc jɛɦo roɟjɪnɪ potʃjiːcajjiːts v co zɛjmɛːnaviːʒjɪvu ʃatscvo bɪc a lɛːkar̝skou pɛːtʃɪ jakoʒ ɪ nɛzbɪtɲaː sotsjɪaːlɲiː opacr̝ɛɲiː
+human_rights_un_pql_jawo_64kb_0103	maː praːvo na zabɛzpɛtʃɛɲiː v nɛzamjɛscɲanoscɪ v nɛmotsɪ pr̝ɪ nɛzpuːsobjɪloscjɪk praːtsɪ pr̝ɪ ovdovjɛɲiː vɛ scaːr̝iː nɛbo v ostacnjiːx pr̝jiːpadɛx zcraːcɪviːdjɛlɛtʃniːx moʒnosciː nascalɛː v duːslɛdku okolnosciː nɛzaːvjɪsliːx na jɛɦovuːlɪ
+human_rights_un_pql_jawo_64kb_0104	
+human_rights_un_pql_jawo_64kb_0105	macɛr̝scviː a djɛcscviː majiː naːrok na zvlaːʃcɲiː pɛːtʃɪ a pomots
+human_rights_un_pql_jawo_64kb_0106	vʃɛxnɪ djɛcɪ acmanʒɛlskɛː nɛbo nɛmanʒɛlskɛː pozjiːvajiː stɛjnɛː sotsjɪaːlɲiː oxranɪ
+human_rights_un_pql_jawo_64kb_0107	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0108	
+human_rights_un_pql_jawo_64kb_0109	kaʒdiː maː praːvo na vzdjɛlaːɲiː
+human_rights_un_pql_jawo_64kb_0110	vzdjɛlaːɲiː nɛxc jɛ bɛzplatnɛː alɛspoɲ vpotʃaːtɛtʃnjiːx a zaːklaɟnjiːx stupnjiːx
+human_rights_un_pql_jawo_64kb_0111	zaːkladɲiː vzdjɛlaːɲiː jɛ povjɪnnɛː
+human_rights_un_pql_jawo_64kb_0112	cɛxnjɪtskɛː a oɟbornɛː vzdjɛlaːɲiː budjɪʒ vʃɛobɛtsɲɛ pr̝jiːstupɲɛː a rovnjɛʒ vɪʃʃjiːvzɟjɛlaːɲiː maː biːc stɛjɲɛ pr̝jiːstupɲɛː vʃɛm podlɛ sxopnostiː
+human_rights_un_pql_jawo_64kb_0113	
+human_rights_un_pql_jawo_64kb_0114	vzdjɛlaːɲiː maː smjɛr̝ovac k plnɛːmu rozvojɪ ljɪdskɛː osobnoscɪ a k posjiːlɛɲiː uːtscɪk ljɪdskiːm praːvuːm a zaːkladnjiːm svobodaːm
+human_rights_un_pql_jawo_64kb_0115	maː napomaːɦac k vzaːjɛmnɛːmuporozumjɛɲiː sɲaːʃɛnljɪvoscɪ a pr̝aːcɛlscviː mɛzɪ vʃɛmɪ naːrodɪ a vʃɛmjɪskupjɪnamɪ rasoviːmɪ ɪ naːboʒɛnskiːmɪ jakoʒ ɪ k rozvojɪ tʃjɪɲɲoscɪ spojɛniːxɲaːroɟuː pro zaxovaːɲiː mjiːru
+human_rights_un_pql_jawo_64kb_0116	
+human_rights_un_pql_jawo_64kb_0117	rodjɪtʃɛ majiː pr̝ɛɟɲoscɲiː praːvo voljɪc druɦ vzdjɛlaːɲiː pro svɛː djɛcɪ
+human_rights_un_pql_jawo_64kb_0118	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0119	
+human_rights_un_pql_jawo_64kb_0120	kaʒdiː maː praːvo svobodɲɛ sɛ uːtʃastnjɪc kulcurɲjiːɦo ʒjɪvoca spolɛtʃnoscɪ uːʒjiːvatploduː umjɛɲiː a podjiːlɛc sɛ na vjɛdɛtskɛːm pokroku a jɛɦo viːcjɛʒtsjiːx
+human_rights_un_pql_jawo_64kb_0121	
+human_rights_un_pql_jawo_64kb_0122	kaʒdiː maː praːvo na oxranu moraːlnjiːx a matɛrjɪaːlnjiːx zaːjmuː kcɛrɛːvɪpliːvajiː z jɛɦo vjɛdɛtskɛː ljɪtɛraːrɲiː nɛbo umjɛlɛtskɛː cvorbɪ
+human_rights_un_pql_jawo_64kb_0123	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0124	kaʒdiː maː praːvo na co abɪ vlaːdl cakoviː sotsjɪaːlɲiː a mɛzjɪɲaːrodɲiː r̝aːd vɛ kcɛrɛːm bɪpraːva a svobodɪ scaɲovɛnɛː v tɛːco dɛklaratsɪ bɪlɪ plɲɛ uplatnjɛnɪ
+human_rights_un_pql_jawo_64kb_0125	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0126	
+human_rights_un_pql_jawo_64kb_0127	kaʒdiː maː povjɪɲnoscɪ vuːtʃɪ spolɛtʃnoscɪ v njiːz jɛɟjɪnɛː muːʒɛ volɲɛ a plnjɛrozvjɪɲouc svou osobɲosc
+human_rights_un_pql_jawo_64kb_0128	
+human_rights_un_pql_jawo_64kb_0129	kaʒdiː jɛ pr̝ɪ viːkonu sviːx praːv a svobod podrobɛn jɛn cakoviːmomɛzɛɲjiːm kcɛraː scanoviː zaːkon viːɦradɲɛ za cjiːm uːtʃɛlɛm abɪ bɪlozajjɪʃtjɛno uznaːvaːɲiː a zaxovaːvaːɲiː praːv asvobod ostacnjiːx a vɪɦovjɛnospravɛɟljɪviːm pozadavkuːm moraːlkɪ vɛr̝ɛjnɛːɦo por̝aːdku a obɛtsnɛːɦo blaɦav dɛmokracjɪtskɛː spolɛtʃnoscɪ
+human_rights_un_pql_jawo_64kb_0130	
+human_rights_un_pql_jawo_64kb_0131	viːkon tjɛxco praːv a svobod nɛsmiː biːc v ʒaːɟnɛːm pr̝jiːpaɟɛ v rozporu s tsjiːlɪ azaːsadamɪ spojɛniːx naːroduː
+human_rights_un_pql_jawo_64kb_0132	tʃlaːnɛk
+human_rights_un_pql_jawo_64kb_0133	njɪts v tɛːco dɛklaratsɪ nɛmuːʒɛ biːc vɪklaːɟaːno jako bɪ daːvalo kcɛrɛːmukolɪ staːcuktɛrɛːkolɪ skupjɪɲɛ nɛbo osobɛ jakɛːkolɪ praːvo vɪvjiːjɛc tʃjɪɲnosc nɛbo dopouʃtjɛc sɛtʃjɪnuː kcɛrɛː bɪ smjɛr̝ovalɪ k potlatʃɛɲiː njɛkcɛrɛːɦo z praːv nɛbo njɛkcɛrɛː zɛ svobod vtɛːco dɛklaratsɪ uvɛdɛniːx

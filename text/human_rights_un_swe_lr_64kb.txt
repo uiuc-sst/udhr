@@ -1,146 +1,146 @@
-swe_0001	Förenta Nationernas generalförsamling antog och kungjorde den 10 december 1948 en allmän förklaring omde mänskliga rättigheterna.
-swe_0002	Förklaringen antogs med 48 ja-röster.
-swe_0003	Inget land röstade emot.
-swe_0004	Åtta länderavstod.
-swe_0005	Omedelbart efter denna historiska händelse uppmanade generalförsamlingen alla medlemsstater attoffentliggöra förklaringens text och att "göra den spridd, känd, läst och förstådd framför allt i skolor ochandra undervisningsinstitutioner utan hänsyn till olika länders eller regioners politiska förhållanden".
-swe_0006	Förklaringens officiella text finns tillgänglig på FN:s sex officiella språk: arabiska, engelska, franska,kinesiska, ryska och spanska.
-swe_0007	Vidare har en rad enskilda medlemsländer hörsammat generalförsamlingensuppmaning och översatt förklaringen.
-swe_0008	Den svenska översättningen påföljande sidor har godkänts av svenskaregeringen.
-swe_0009	Vid hänvändelse till FN:s nordiska informationskontor i Köpenhamn kan gratis-exemplar beställas avförklaringen på FN:s sex språk, svenska och övriga nordiska språk samt ett begränsat antal andra språk.
-swe_0010	--------------------------------------------------------
-swe_0011	Allmän förklaring om de mänskliga rättigheterna
-swe_0012	Ingress
-swe_0013	Eftersom erkännandet av det inneboende värdet hos alla som tillhör människosläktet och av deras lika ochobestridliga rättigheter är grundvalen för frihet, rättvisa och fred i världen,
-swe_0014	Eftersom ringaktning och förakt för de mänskliga rättigheterna har lett till barbariska gärningar som harupprört mänsklighetens samvete, och då skapandet av en värld där människorna åtnjuter yttrandefrihet,trosfrihet och frihet från fruktan och nöd har tillkännagivits som folkens högsta strävan,
-swe_0015	Eftersom det är väsentligt för att människorna inte som en sista utväg skall tvingas att tillgripa uppror mottyranni och förtryck att de mänskliga rättigheterna skyddas genom rättsstatens principer,
-swe_0016	Eftersom det är väsentligt att främja utvecklingen av vänskapliga förbindelser mellan nationerna,
-swe_0017	Eftersom Förenta nationernas folk i stadgan åter har bekräftat sin tro på de grundläggande mänskligarättigheterna, den enskilda människans värdighet och värde samt mäns och kvinnors lika rättigheter och harbeslutat att främja sociala framsteg och bättre levnadsvillkor under större frihet,
-swe_0018	Eftersom medlemsstaterna har åtagit sig att i samverkan med Förenta nationerna säkerställa en allmän ochfaktisk respekt för och efterlevnad av de mänskliga rättigheterna och de grundläggande friheterna,
-swe_0019	Eftersom en gemensam uppfattning om innebörden av dessa rättigheter och friheter är av största betydelseför att uppfylla detta åtagande,tillkännager generalförsamlingen denna allmänna förklaring om de mänskliga rättigheterna som engemensam norm för alla folk och nationer i syfte att alla människor och samhällsorgan med dennaförklaring i ständig åtanke skall sträva efter att genom undervisning och utbildning främja respekten fördessa rättigheter och friheter samt genom progressiva åtgärder, både nationellt och internationellt, se till attde erkänns och tillämpas allmänt och effektivt både bland folken i medlemsstaterna och bland folken iområden som står under deras jurisdiktion.
-swe_0020	Artikel 1
-swe_0021	Alla människor är födda fria och lika i värde och rättigheter.
-swe_0022	De har utrustats med förnuft och samvete ochbör handla gentemot varandra i en anda av gemenskap.
-swe_0023	Artikel 2
-swe_0024	Var och en är berättigad till alla de rättigheter och friheter som uttalas i denna förklaring utan åtskillnad avnågot slag, såsom på grund av ras, hudfärg, kön, språk, religion, politisk eller annan uppfattning, nationellteller socialt ursprung, egendom, börd eller ställning i övrigt.
-swe_0025	Ingen åtskillnad får heller göras på grund avden politiska, rättsliga eller internationella status som råder i det land eller det område som en person tillhör,vare sig detta land eller område är oberoende, står under förvaltarskap, är icke-självstyrande eller ärunderkastat någon annan begränsning av sin suveränitet.
-swe_0026	Artikel 3
-swe_0027	Var och en har rätt till liv, frihet och personlig säkerhet.
-swe_0028	Artikel 4
-swe_0029	Ingen får hållas i slaveri eller träldom;
-swe_0030	slaveri och slavhandel i alla dess former skall vara förbjudna.
-swe_0031	Artikel 5
-swe_0032	Ingen får utsättas för tortyr eller grym, omänsklig eller förnedrande behandling eller bestraffning.
-swe_0033	Artikel 6
-swe_0034	Var och en har rätt att överallt erkännas som en person i lagens mening.
-swe_0035	Artikel 7
-swe_0036	Alla är lika inför lagen och är berättigade till samma skydd av lagen utan diskriminering av något slag.
-swe_0037	Allaär berättigade till samma skydd mot alla former av diskriminering som strider mot denna förklaring och motvarje anstiftan till sådan diskriminering.
-swe_0038	Artikel 8
-swe_0039	Var och en har rätt till verksam hjälp från sitt lands nationella domstolar mot handlingar som kränker hanseller hennes grundläggande rättigheter enligt lag eller författning.
-swe_0040	Artikel 9
-swe_0041	Ingen får godtyckligt anhållas, hållas fängslad eller landsförvisas.
-swe_0042	Artikel 10
-swe_0043	Var och en är på samma villkor berättigad till en rättvis och offentlig förhandling vid en oberoende ochopartisk domstol vid prövningen av hans eller hennes rättigheter och skyldigheter och av varje anklagelseom brott mot honom eller henne.
-swe_0044	Artikel 11
-swe_0045	1.
-swe_0046	Var och en som är anklagad för brott har rätt att betraktas som oskyldig till dess att hans eller hennesskuld lagligen har fastställts vid en offentlig rättegång, där personen åtnjuter alla rättssäkerhetsgarantier sombehövs för hans eller hennes försvar.
-swe_0047	2.
-swe_0048	Ingen får fällas till ansvar för en gärning eller underlåtenhet som inte utgjorde ett brott enligt nationelleller internationell lag vid den tidpunkt då den begicks.
-swe_0049	Det får inte heller utmätas strängare straff än vadsom var tillämpligt vid den tidpunkt brottet begicks.
-swe_0050	Artikel 12
-swe_0051	Ingen får utsättas för godtyckligt ingripande i fråga om privatliv, familj, hem eller korrespondens och inteheller för angrepp på sin heder eller sitt anseende.
-swe_0052	Var och en har rätt till lagens skydd mot sådanaingripanden och angrepp.
-swe_0053	Artikel 13
-swe_0054	1.
-swe_0055	Var och en har rätt att fritt förflytta sig och välja bostadsort inom varje stats gränser.
-swe_0056	2.
-swe_0057	Var och en har rätt att lämna varje land, även sitt eget, och att återvända till sitt land.
-swe_0058	Artikel 14
-swe_0059	1.
-swe_0060	Var och en har rätt att i andra länder söka och åtnjuta asyl från förföljelse.
-swe_0061	2.
-swe_0062	Denna rätt får inte åberopas vid rättsliga åtgärder som genuint grundas på icke-politiska brott eller pågärningar som strider mot Förenta nationernas ändamål och grundsatser.
-swe_0063	Artikel 15
-swe_0064	1.
-swe_0065	Var och en har rätt till en nationalitet.
-swe_0066	2.
-swe_0067	Ingen får godtyckligt fråntas sin nationalitet eller nekas rätten att ändra nationalitet.
-swe_0068	Artikel 16
-swe_0069	1.
-swe_0070	Fullvuxna män och kvinnor har rätt att utan någon inskränkning med avseende på ras, nationalitet ellerreligion ingå äktenskap och bilda familj.
-swe_0071	Män och kvinnor skall ha samma rättigheter i fråga om äktenskapsingående, under äktenskapet och vid dess upplösning.
-swe_0072	2.
-swe_0073	Äktenskap får endast ingås med de blivande makarnas fria och fulla samtycke.
-swe_0074	3.
-swe_0075	Familjen är den naturliga och grundläggande enheten i samhället och har rätt till samhällets och statensskydd.
-swe_0076	Artikel 17
-swe_0077	1.
-swe_0078	Var och en har rätt att äga egendom, både enskilt och tillsammans med andra.
-swe_0079	2.
-swe_0080	Ingen får godtyckligt fråntas sin egendom.
-swe_0081	Artikel 18
-swe_0082	Var och en har rätt till tankefrihet, samvetsfrihet och religionsfrihet.
-swe_0083	Denna rätt innefattar frihet att bytareligion och trosuppfattning och att, ensam eller i gemenskap med andra, offentligen eller enskilt, utöva sinreligion eller trosuppfattning genom undervisning, andaktsutövning, gudstjänst och religiösa sedvänjor.
-swe_0084	Artikel 19
-swe_0085	Var och en har rätt till åsiktsfrihet och yttrandefrihet.
-swe_0086	Denna rätt innefattar frihet att utan ingripande hysaåsikter samt söka, ta emot och sprida information och idéer med hjälp av alla uttrycksmedel och oberoendeav gränser.
-swe_0087	Artikel 20
-swe_0088	1.
-swe_0089	Var och en har rätt till frihet i fråga om fredliga möten och sammanslutningar.
-swe_0090	2.
-swe_0091	Ingen får tvingas att tillhöra en sammanslutning.
-swe_0092	Artikel 21
-swe_0093	1.
-swe_0094	Var och en har rätt att delta i sitt lands styre, direkt eller genom fritt valda ombud.
-swe_0095	2.
-swe_0096	Var och en har rätt till lika tillträde till offentlig tjänst i sitt land.
-swe_0097	3.
-swe_0098	Folkets vilja skall utgöra grundvalen för statsmakternas myndighet.
-swe_0099	Folkviljan skall uttryckas i periodiskaoch verkliga val, som skall genomföras med tillämpning av allmän och lika rösträtt och hemlig röstningeller ett likvärdigt fritt röstförfarande.
-swe_0100	Artikel 22
-swe_0101	Var och en har, i egenskap av samhällsmedlem, rätt till social trygghet, och är berättigad till att deekonomiska, sociala och kulturella rättigheter som krävs för hävdandet av hans eller hennes människovärdeoch utvecklingen av hans eller hennes personlighet, förverkligas genom nationella åtgärder ochmellanfolkligt samarbete i enlighet med varje stats organisation och resurser.
-swe_0102	Artikel 23
-swe_0103	1.
-swe_0104	Var och en har rätt till arbete, fritt val av sysselsättning, rättvisa och tillfredsställande arbetsförhållandensamt till skydd mot arbetslöshet.
-swe_0105	2.
-swe_0106	Var och en har utan diskriminering rätt till lika lön för lika arbete.
-swe_0107	3.
-swe_0108	Var och en som arbetar har rätt till en rättvis och tillfredsställande ersättning som ger honom eller henneoch hans eller hennes familj en människovärdig tillvaro och som vid behov kan kompletteras med andramedel för socialt skydd.
-swe_0109	4.
-swe_0110	Var och en har rätt att bilda och ansluta sig till fackföreningar för att värna sina intressen.
-swe_0111	Artikel 24
-swe_0112	Var och en har rätt till vila och fritid, innefattande skälig begränsning av arbetstiden samt regelbundenbetald ledighet.
-swe_0113	Artikel 25
-swe_0114	1.
-swe_0115	Var och en har rätt till en levnadsstandard tillräcklig för den egna och familjens hälsa och välbefinnande,inklusive mat, kläder, bostad, hälsovård och nödvändiga sociala tjänster samt rätt till trygghet i händelse avarbetslöshet, sjukdom, invaliditet, makas eller makes död, ålderdom eller annan förlust av försörjning underomständigheter utanför hans eller hennes kontroll.
-swe_0116	2.
-swe_0117	Mödrar och barn är berättigade till särskild omvårdnad och hjälp.
-swe_0118	Alla barn skall åtnjuta samma socialaskydd, vare sig de är födda inom eller utom äktenskapet.
-swe_0119	Artikel 26
-swe_0120	1.
-swe_0121	Var och en har rätt till utbildning.
-swe_0122	Utbildningen skall vara kostnadsfri, åtminstone på de elementära ochgrundläggande stadierna.
-swe_0123	Den elementära utbildningen skall vara obligatorisk.
-swe_0124	Yrkesutbildning och tekniskutbildning skall vara tillgänglig för alla.
-swe_0125	Den högre utbildningen skall vara öppen för alla med hänsyn tillderas förmåga.
-swe_0126	2.
-swe_0127	Utbildningen skall syfta till att utveckla personligheten till fullo och till att stärka respekten för demänskliga rättigheterna och de grundläggande friheterna.
-swe_0128	Utbildningen skall också främja förståelse,tolerans och vänskap mellan alla nationer, rasgrupper och religiösa grupper samt främja Förenta nationernasverksamhet för fredens bevarande.
-swe_0129	3.
-swe_0130	Rätten att välja utbildning för barnen tillkommer i första hand deras föräldrar.
-swe_0131	Artikel 27
-swe_0132	1.
-swe_0133	Var och en har rätt att fritt delta i samhällets kulturella liv, att njuta av konst samt att få ta del avvetenskapens framsteg och dess förmåner.
-swe_0134	2.
-swe_0135	Var och en har rätt till skydd för de ideella och materiella intressen som härrör från vetenskapliga,litterära och konstnärliga verk till vilka han eller hon är upphovsman.
-swe_0136	Artikel 28
-swe_0137	Var och en har rätt till ett socialt och internationellt system där de rättigheter och friheter som behandlas idenna förklaring till fullo kan förverkligas.
-swe_0138	Artikel 29
-swe_0139	1.
-swe_0140	Var och en har plikter mot samhället, i vilket den fria och fullständiga utvecklingen av hans eller hennespersonlighet ensamt är möjlig.
-swe_0141	2.
-swe_0142	Vid utövandet av sina rättigheter och friheter får en person endast underkastas sådana inskränkningar somhar fastställts i lag och enbart i syfte att trygga tillbörlig hänsyn till och respekt för andras rättigheter ochfriheter samt för att tillgodose ett demokratiskt samhälles berättigade krav på moral, allmän ordning ochallmän välfärd.
-swe_0143	3.
-swe_0144	Dessa rättigheter och friheter får inte utövas på ett sätt som är oförenligt med Förenta nationernasändamål och grundsatser.
-swe_0145	Artikel 30
-swe_0146	Ingenting i denna förklaring får tolkas som att det innebär en rätt för en stat, en grupp eller en enskild personatt ägna sig åt en verksamhet eller att utföra en handling som syftar till att omintetgöra någon av derättigheter eller friheter som anges i förklaringen.
+human_rights_un_swe_lr_64kb_0001	Förenta Nationernas generalförsamling antog och kungjorde den 10 december 1948 en allmän förklaring omde mänskliga rättigheterna.
+human_rights_un_swe_lr_64kb_0002	Förklaringen antogs med 48 ja-röster.
+human_rights_un_swe_lr_64kb_0003	Inget land röstade emot.
+human_rights_un_swe_lr_64kb_0004	Åtta länderavstod.
+human_rights_un_swe_lr_64kb_0005	Omedelbart efter denna historiska händelse uppmanade generalförsamlingen alla medlemsstater attoffentliggöra förklaringens text och att "göra den spridd, känd, läst och förstådd framför allt i skolor ochandra undervisningsinstitutioner utan hänsyn till olika länders eller regioners politiska förhållanden".
+human_rights_un_swe_lr_64kb_0006	Förklaringens officiella text finns tillgänglig på FN:s sex officiella språk: arabiska, engelska, franska,kinesiska, ryska och spanska.
+human_rights_un_swe_lr_64kb_0007	Vidare har en rad enskilda medlemsländer hörsammat generalförsamlingensuppmaning och översatt förklaringen.
+human_rights_un_swe_lr_64kb_0008	Den svenska översättningen påföljande sidor har godkänts av svenskaregeringen.
+human_rights_un_swe_lr_64kb_0009	Vid hänvändelse till FN:s nordiska informationskontor i Köpenhamn kan gratis-exemplar beställas avförklaringen på FN:s sex språk, svenska och övriga nordiska språk samt ett begränsat antal andra språk.
+human_rights_un_swe_lr_64kb_0010	--------------------------------------------------------
+human_rights_un_swe_lr_64kb_0011	Allmän förklaring om de mänskliga rättigheterna
+human_rights_un_swe_lr_64kb_0012	Ingress
+human_rights_un_swe_lr_64kb_0013	Eftersom erkännandet av det inneboende värdet hos alla som tillhör människosläktet och av deras lika ochobestridliga rättigheter är grundvalen för frihet, rättvisa och fred i världen,
+human_rights_un_swe_lr_64kb_0014	Eftersom ringaktning och förakt för de mänskliga rättigheterna har lett till barbariska gärningar som harupprört mänsklighetens samvete, och då skapandet av en värld där människorna åtnjuter yttrandefrihet,trosfrihet och frihet från fruktan och nöd har tillkännagivits som folkens högsta strävan,
+human_rights_un_swe_lr_64kb_0015	Eftersom det är väsentligt för att människorna inte som en sista utväg skall tvingas att tillgripa uppror mottyranni och förtryck att de mänskliga rättigheterna skyddas genom rättsstatens principer,
+human_rights_un_swe_lr_64kb_0016	Eftersom det är väsentligt att främja utvecklingen av vänskapliga förbindelser mellan nationerna,
+human_rights_un_swe_lr_64kb_0017	Eftersom Förenta nationernas folk i stadgan åter har bekräftat sin tro på de grundläggande mänskligarättigheterna, den enskilda människans värdighet och värde samt mäns och kvinnors lika rättigheter och harbeslutat att främja sociala framsteg och bättre levnadsvillkor under större frihet,
+human_rights_un_swe_lr_64kb_0018	Eftersom medlemsstaterna har åtagit sig att i samverkan med Förenta nationerna säkerställa en allmän ochfaktisk respekt för och efterlevnad av de mänskliga rättigheterna och de grundläggande friheterna,
+human_rights_un_swe_lr_64kb_0019	Eftersom en gemensam uppfattning om innebörden av dessa rättigheter och friheter är av största betydelseför att uppfylla detta åtagande,tillkännager generalförsamlingen denna allmänna förklaring om de mänskliga rättigheterna som engemensam norm för alla folk och nationer i syfte att alla människor och samhällsorgan med dennaförklaring i ständig åtanke skall sträva efter att genom undervisning och utbildning främja respekten fördessa rättigheter och friheter samt genom progressiva åtgärder, både nationellt och internationellt, se till attde erkänns och tillämpas allmänt och effektivt både bland folken i medlemsstaterna och bland folken iområden som står under deras jurisdiktion.
+human_rights_un_swe_lr_64kb_0020	Artikel 1
+human_rights_un_swe_lr_64kb_0021	Alla människor är födda fria och lika i värde och rättigheter.
+human_rights_un_swe_lr_64kb_0022	De har utrustats med förnuft och samvete ochbör handla gentemot varandra i en anda av gemenskap.
+human_rights_un_swe_lr_64kb_0023	Artikel 2
+human_rights_un_swe_lr_64kb_0024	Var och en är berättigad till alla de rättigheter och friheter som uttalas i denna förklaring utan åtskillnad avnågot slag, såsom på grund av ras, hudfärg, kön, språk, religion, politisk eller annan uppfattning, nationellteller socialt ursprung, egendom, börd eller ställning i övrigt.
+human_rights_un_swe_lr_64kb_0025	Ingen åtskillnad får heller göras på grund avden politiska, rättsliga eller internationella status som råder i det land eller det område som en person tillhör,vare sig detta land eller område är oberoende, står under förvaltarskap, är icke-självstyrande eller ärunderkastat någon annan begränsning av sin suveränitet.
+human_rights_un_swe_lr_64kb_0026	Artikel 3
+human_rights_un_swe_lr_64kb_0027	Var och en har rätt till liv, frihet och personlig säkerhet.
+human_rights_un_swe_lr_64kb_0028	Artikel 4
+human_rights_un_swe_lr_64kb_0029	Ingen får hållas i slaveri eller träldom;
+human_rights_un_swe_lr_64kb_0030	slaveri och slavhandel i alla dess former skall vara förbjudna.
+human_rights_un_swe_lr_64kb_0031	Artikel 5
+human_rights_un_swe_lr_64kb_0032	Ingen får utsättas för tortyr eller grym, omänsklig eller förnedrande behandling eller bestraffning.
+human_rights_un_swe_lr_64kb_0033	Artikel 6
+human_rights_un_swe_lr_64kb_0034	Var och en har rätt att överallt erkännas som en person i lagens mening.
+human_rights_un_swe_lr_64kb_0035	Artikel 7
+human_rights_un_swe_lr_64kb_0036	Alla är lika inför lagen och är berättigade till samma skydd av lagen utan diskriminering av något slag.
+human_rights_un_swe_lr_64kb_0037	Allaär berättigade till samma skydd mot alla former av diskriminering som strider mot denna förklaring och motvarje anstiftan till sådan diskriminering.
+human_rights_un_swe_lr_64kb_0038	Artikel 8
+human_rights_un_swe_lr_64kb_0039	Var och en har rätt till verksam hjälp från sitt lands nationella domstolar mot handlingar som kränker hanseller hennes grundläggande rättigheter enligt lag eller författning.
+human_rights_un_swe_lr_64kb_0040	Artikel 9
+human_rights_un_swe_lr_64kb_0041	Ingen får godtyckligt anhållas, hållas fängslad eller landsförvisas.
+human_rights_un_swe_lr_64kb_0042	Artikel 10
+human_rights_un_swe_lr_64kb_0043	Var och en är på samma villkor berättigad till en rättvis och offentlig förhandling vid en oberoende ochopartisk domstol vid prövningen av hans eller hennes rättigheter och skyldigheter och av varje anklagelseom brott mot honom eller henne.
+human_rights_un_swe_lr_64kb_0044	Artikel 11
+human_rights_un_swe_lr_64kb_0045	1.
+human_rights_un_swe_lr_64kb_0046	Var och en som är anklagad för brott har rätt att betraktas som oskyldig till dess att hans eller hennesskuld lagligen har fastställts vid en offentlig rättegång, där personen åtnjuter alla rättssäkerhetsgarantier sombehövs för hans eller hennes försvar.
+human_rights_un_swe_lr_64kb_0047	2.
+human_rights_un_swe_lr_64kb_0048	Ingen får fällas till ansvar för en gärning eller underlåtenhet som inte utgjorde ett brott enligt nationelleller internationell lag vid den tidpunkt då den begicks.
+human_rights_un_swe_lr_64kb_0049	Det får inte heller utmätas strängare straff än vadsom var tillämpligt vid den tidpunkt brottet begicks.
+human_rights_un_swe_lr_64kb_0050	Artikel 12
+human_rights_un_swe_lr_64kb_0051	Ingen får utsättas för godtyckligt ingripande i fråga om privatliv, familj, hem eller korrespondens och inteheller för angrepp på sin heder eller sitt anseende.
+human_rights_un_swe_lr_64kb_0052	Var och en har rätt till lagens skydd mot sådanaingripanden och angrepp.
+human_rights_un_swe_lr_64kb_0053	Artikel 13
+human_rights_un_swe_lr_64kb_0054	1.
+human_rights_un_swe_lr_64kb_0055	Var och en har rätt att fritt förflytta sig och välja bostadsort inom varje stats gränser.
+human_rights_un_swe_lr_64kb_0056	2.
+human_rights_un_swe_lr_64kb_0057	Var och en har rätt att lämna varje land, även sitt eget, och att återvända till sitt land.
+human_rights_un_swe_lr_64kb_0058	Artikel 14
+human_rights_un_swe_lr_64kb_0059	1.
+human_rights_un_swe_lr_64kb_0060	Var och en har rätt att i andra länder söka och åtnjuta asyl från förföljelse.
+human_rights_un_swe_lr_64kb_0061	2.
+human_rights_un_swe_lr_64kb_0062	Denna rätt får inte åberopas vid rättsliga åtgärder som genuint grundas på icke-politiska brott eller pågärningar som strider mot Förenta nationernas ändamål och grundsatser.
+human_rights_un_swe_lr_64kb_0063	Artikel 15
+human_rights_un_swe_lr_64kb_0064	1.
+human_rights_un_swe_lr_64kb_0065	Var och en har rätt till en nationalitet.
+human_rights_un_swe_lr_64kb_0066	2.
+human_rights_un_swe_lr_64kb_0067	Ingen får godtyckligt fråntas sin nationalitet eller nekas rätten att ändra nationalitet.
+human_rights_un_swe_lr_64kb_0068	Artikel 16
+human_rights_un_swe_lr_64kb_0069	1.
+human_rights_un_swe_lr_64kb_0070	Fullvuxna män och kvinnor har rätt att utan någon inskränkning med avseende på ras, nationalitet ellerreligion ingå äktenskap och bilda familj.
+human_rights_un_swe_lr_64kb_0071	Män och kvinnor skall ha samma rättigheter i fråga om äktenskapsingående, under äktenskapet och vid dess upplösning.
+human_rights_un_swe_lr_64kb_0072	2.
+human_rights_un_swe_lr_64kb_0073	Äktenskap får endast ingås med de blivande makarnas fria och fulla samtycke.
+human_rights_un_swe_lr_64kb_0074	3.
+human_rights_un_swe_lr_64kb_0075	Familjen är den naturliga och grundläggande enheten i samhället och har rätt till samhällets och statensskydd.
+human_rights_un_swe_lr_64kb_0076	Artikel 17
+human_rights_un_swe_lr_64kb_0077	1.
+human_rights_un_swe_lr_64kb_0078	Var och en har rätt att äga egendom, både enskilt och tillsammans med andra.
+human_rights_un_swe_lr_64kb_0079	2.
+human_rights_un_swe_lr_64kb_0080	Ingen får godtyckligt fråntas sin egendom.
+human_rights_un_swe_lr_64kb_0081	Artikel 18
+human_rights_un_swe_lr_64kb_0082	Var och en har rätt till tankefrihet, samvetsfrihet och religionsfrihet.
+human_rights_un_swe_lr_64kb_0083	Denna rätt innefattar frihet att bytareligion och trosuppfattning och att, ensam eller i gemenskap med andra, offentligen eller enskilt, utöva sinreligion eller trosuppfattning genom undervisning, andaktsutövning, gudstjänst och religiösa sedvänjor.
+human_rights_un_swe_lr_64kb_0084	Artikel 19
+human_rights_un_swe_lr_64kb_0085	Var och en har rätt till åsiktsfrihet och yttrandefrihet.
+human_rights_un_swe_lr_64kb_0086	Denna rätt innefattar frihet att utan ingripande hysaåsikter samt söka, ta emot och sprida information och idéer med hjälp av alla uttrycksmedel och oberoendeav gränser.
+human_rights_un_swe_lr_64kb_0087	Artikel 20
+human_rights_un_swe_lr_64kb_0088	1.
+human_rights_un_swe_lr_64kb_0089	Var och en har rätt till frihet i fråga om fredliga möten och sammanslutningar.
+human_rights_un_swe_lr_64kb_0090	2.
+human_rights_un_swe_lr_64kb_0091	Ingen får tvingas att tillhöra en sammanslutning.
+human_rights_un_swe_lr_64kb_0092	Artikel 21
+human_rights_un_swe_lr_64kb_0093	1.
+human_rights_un_swe_lr_64kb_0094	Var och en har rätt att delta i sitt lands styre, direkt eller genom fritt valda ombud.
+human_rights_un_swe_lr_64kb_0095	2.
+human_rights_un_swe_lr_64kb_0096	Var och en har rätt till lika tillträde till offentlig tjänst i sitt land.
+human_rights_un_swe_lr_64kb_0097	3.
+human_rights_un_swe_lr_64kb_0098	Folkets vilja skall utgöra grundvalen för statsmakternas myndighet.
+human_rights_un_swe_lr_64kb_0099	Folkviljan skall uttryckas i periodiskaoch verkliga val, som skall genomföras med tillämpning av allmän och lika rösträtt och hemlig röstningeller ett likvärdigt fritt röstförfarande.
+human_rights_un_swe_lr_64kb_0100	Artikel 22
+human_rights_un_swe_lr_64kb_0101	Var och en har, i egenskap av samhällsmedlem, rätt till social trygghet, och är berättigad till att deekonomiska, sociala och kulturella rättigheter som krävs för hävdandet av hans eller hennes människovärdeoch utvecklingen av hans eller hennes personlighet, förverkligas genom nationella åtgärder ochmellanfolkligt samarbete i enlighet med varje stats organisation och resurser.
+human_rights_un_swe_lr_64kb_0102	Artikel 23
+human_rights_un_swe_lr_64kb_0103	1.
+human_rights_un_swe_lr_64kb_0104	Var och en har rätt till arbete, fritt val av sysselsättning, rättvisa och tillfredsställande arbetsförhållandensamt till skydd mot arbetslöshet.
+human_rights_un_swe_lr_64kb_0105	2.
+human_rights_un_swe_lr_64kb_0106	Var och en har utan diskriminering rätt till lika lön för lika arbete.
+human_rights_un_swe_lr_64kb_0107	3.
+human_rights_un_swe_lr_64kb_0108	Var och en som arbetar har rätt till en rättvis och tillfredsställande ersättning som ger honom eller henneoch hans eller hennes familj en människovärdig tillvaro och som vid behov kan kompletteras med andramedel för socialt skydd.
+human_rights_un_swe_lr_64kb_0109	4.
+human_rights_un_swe_lr_64kb_0110	Var och en har rätt att bilda och ansluta sig till fackföreningar för att värna sina intressen.
+human_rights_un_swe_lr_64kb_0111	Artikel 24
+human_rights_un_swe_lr_64kb_0112	Var och en har rätt till vila och fritid, innefattande skälig begränsning av arbetstiden samt regelbundenbetald ledighet.
+human_rights_un_swe_lr_64kb_0113	Artikel 25
+human_rights_un_swe_lr_64kb_0114	1.
+human_rights_un_swe_lr_64kb_0115	Var och en har rätt till en levnadsstandard tillräcklig för den egna och familjens hälsa och välbefinnande,inklusive mat, kläder, bostad, hälsovård och nödvändiga sociala tjänster samt rätt till trygghet i händelse avarbetslöshet, sjukdom, invaliditet, makas eller makes död, ålderdom eller annan förlust av försörjning underomständigheter utanför hans eller hennes kontroll.
+human_rights_un_swe_lr_64kb_0116	2.
+human_rights_un_swe_lr_64kb_0117	Mödrar och barn är berättigade till särskild omvårdnad och hjälp.
+human_rights_un_swe_lr_64kb_0118	Alla barn skall åtnjuta samma socialaskydd, vare sig de är födda inom eller utom äktenskapet.
+human_rights_un_swe_lr_64kb_0119	Artikel 26
+human_rights_un_swe_lr_64kb_0120	1.
+human_rights_un_swe_lr_64kb_0121	Var och en har rätt till utbildning.
+human_rights_un_swe_lr_64kb_0122	Utbildningen skall vara kostnadsfri, åtminstone på de elementära ochgrundläggande stadierna.
+human_rights_un_swe_lr_64kb_0123	Den elementära utbildningen skall vara obligatorisk.
+human_rights_un_swe_lr_64kb_0124	Yrkesutbildning och tekniskutbildning skall vara tillgänglig för alla.
+human_rights_un_swe_lr_64kb_0125	Den högre utbildningen skall vara öppen för alla med hänsyn tillderas förmåga.
+human_rights_un_swe_lr_64kb_0126	2.
+human_rights_un_swe_lr_64kb_0127	Utbildningen skall syfta till att utveckla personligheten till fullo och till att stärka respekten för demänskliga rättigheterna och de grundläggande friheterna.
+human_rights_un_swe_lr_64kb_0128	Utbildningen skall också främja förståelse,tolerans och vänskap mellan alla nationer, rasgrupper och religiösa grupper samt främja Förenta nationernasverksamhet för fredens bevarande.
+human_rights_un_swe_lr_64kb_0129	3.
+human_rights_un_swe_lr_64kb_0130	Rätten att välja utbildning för barnen tillkommer i första hand deras föräldrar.
+human_rights_un_swe_lr_64kb_0131	Artikel 27
+human_rights_un_swe_lr_64kb_0132	1.
+human_rights_un_swe_lr_64kb_0133	Var och en har rätt att fritt delta i samhällets kulturella liv, att njuta av konst samt att få ta del avvetenskapens framsteg och dess förmåner.
+human_rights_un_swe_lr_64kb_0134	2.
+human_rights_un_swe_lr_64kb_0135	Var och en har rätt till skydd för de ideella och materiella intressen som härrör från vetenskapliga,litterära och konstnärliga verk till vilka han eller hon är upphovsman.
+human_rights_un_swe_lr_64kb_0136	Artikel 28
+human_rights_un_swe_lr_64kb_0137	Var och en har rätt till ett socialt och internationellt system där de rättigheter och friheter som behandlas idenna förklaring till fullo kan förverkligas.
+human_rights_un_swe_lr_64kb_0138	Artikel 29
+human_rights_un_swe_lr_64kb_0139	1.
+human_rights_un_swe_lr_64kb_0140	Var och en har plikter mot samhället, i vilket den fria och fullständiga utvecklingen av hans eller hennespersonlighet ensamt är möjlig.
+human_rights_un_swe_lr_64kb_0141	2.
+human_rights_un_swe_lr_64kb_0142	Vid utövandet av sina rättigheter och friheter får en person endast underkastas sådana inskränkningar somhar fastställts i lag och enbart i syfte att trygga tillbörlig hänsyn till och respekt för andras rättigheter ochfriheter samt för att tillgodose ett demokratiskt samhälles berättigade krav på moral, allmän ordning ochallmän välfärd.
+human_rights_un_swe_lr_64kb_0143	3.
+human_rights_un_swe_lr_64kb_0144	Dessa rättigheter och friheter får inte utövas på ett sätt som är oförenligt med Förenta nationernasändamål och grundsatser.
+human_rights_un_swe_lr_64kb_0145	Artikel 30
+human_rights_un_swe_lr_64kb_0146	Ingenting i denna förklaring får tolkas som att det innebär en rätt för en stat, en grupp eller en enskild personatt ägna sig åt en verksamhet eller att utföra en handling som syftar till att omintetgöra någon av derättigheter eller friheter som anges i förklaringen.

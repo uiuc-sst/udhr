@@ -160,7 +160,7 @@ def segment_text(textdir, fulltextdir, tgs, long2iso):
                   (longfn, len(tgs[longfn].tierDict['seg'].entryList),textfile,len(phrases)))
         with open(textfile,'w') as f:
             for n, p in enumerate(phrases):
-                line = '%s_%4.4d\t%s\n'%(iso,n+1,p)
+                line = '%s_%4.4d\t%s\n'%(longfn,n+1,p)
                 f.write(line)
 
 def load_text(textdir, tgs, long2iso):

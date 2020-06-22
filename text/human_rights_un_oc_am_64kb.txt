@@ -1,137 +1,137 @@
-oci_0001	DECLARACION UNIVERSALA DELS DRECHES DE L’ÒME
-oci_0002	Preambul
-oci_0003	Considerant que de reconéisser la dignitat inerenta a totes los membres de lafamilha umana e lors dreches egals e inalienables constituís lo fondament de lalibertat, de la justícia e de la patz dins lo mond,
-oci_0004	Considerant que de desconéisser e mespresar los dreches de l’òme a menat ade barbaritats otrajantas per la consciéncia de l’umanitat e que l’aveniment d’unmond ont los èssers umans seràn liures de parlar e de creire, deliurats de laterror e de la misèria, es estat proclamat coma l’aspiracion mai nauta de l’òme,
-oci_0005	Considerant qu’es essencial que los dreches de l’òme siàn aparats per unregime de drech per tal que l’òme siá pas obligat al suprème recors de serevoltar contra la tirania e l’opression,
-oci_0006	Considerant qu’es essencial d’encoratjar lo desvolopament de relacions amicalasentre las nacions,
-oci_0007	Considerant que, dins la Carta, los pòbles de las Nacions Unidas an tornatproclamar lor fe dins los dreches fondamentals de l’òme, dins la dignitat e lavalor de la persona umana, dins l’egalitat dels dreches dels òmes e de lasfemnas, e que se son declarats resolguts a favorir lo progrès social e a instaurarde melhoras condicions de vida dins una libertat mai bèla,
-oci_0008	Considerant que los Estats Membres se son engatjats a assegurar, encooperacion amb l’Organisacion de las Nacions Unidas, lo respecte universal eefectiu dels dreches de l’òme e de las libertats fondamentalas,
-oci_0009	Considerant qu’una concepcion comuna d’aqueles dreches e libertats es de lamàger importància per que se realise plenament aquel engatjament,l’Assemblada Generala proclamala presenta Declaracion Universala dels Dreches de l’òmecoma l’ideal comun que totes los pòbles e las Nacions devon cercar a aténher,per tal que totes los individús e totas las institucions, en gardant de contunhaicesta Declaracion presenta a l’esperit s’efòrcen, per l’ensenhament el’educacion, de desvolopar lo respècte d’aqueles dreches e libertats ed’assegurar, per de mesuras progressivas d’òrdre nacional e internacional, lareconeissença e l’aplicacion universalas e efectivas, tant demest los pòbles dels
-oci_0010	Estats Membres coma demest los dels territòris plaçats jos lor jurisdiccion.
-oci_0011	Article 1
-oci_0012	Totes los èssers umans naisson liures e egals en dignitat e en dreches.
-oci_0013	Sondotats de rason e de consciéncia e se devon comportar los unes amb los autresdins un esperit de fraternitat.
-oci_0014	Article 2
-oci_0015	Tota persona se pòt prevaler de totes los dreches e de totas las libertatsproclamada dins la presenta Declaracion, sense cap de distincion de raça, decolor, de sèxe, de lenga, de religion, d’opinion politica o d’autra mena, d’originanacionala o sociala, de fortuna, de naissença o de quina autra situacion que siá.
-oci_0016	Se farà pas tanpauc cap de distincion fondada sus l’estatut politic, administratiu einternacional de país o territòri que la persona ne depend juridicament, qu’aquelpaís o territòri siá independent, jos tutèla, non-autonòme o somés a quinalimitacion de sobeiranetat que siá.
-oci_0017	Article 3
-oci_0018	Tot individu a drech a la vida, a la libertat e a la seguretat de sa persona.
-oci_0019	Article 4
-oci_0020	Degun serà pas tengut en esclavatge ni en servitud;
-oci_0021	l’esclavatge e lo traficd’esclaus son proïbits dins totas lors formas.
-oci_0022	Article 5
-oci_0023	Degun serà pas somés a la tortura, ni a de penas o tractaments crudèls,inumans o degradants.
-oci_0024	Article 6
-oci_0025	Tota persona, a quin endrech que siá, a drech a la reconeissença de sapersonnalitat juridica.
-oci_0026	Article 7
-oci_0027	Totes son egals davant la lei e an lo drech de n’obténer la meteissa proteccion,sense distincions.
-oci_0028	Totes an lo drech a una meteissa proteccion contra quinadiscriminacion que siá que viòle la presenta Declaracion e contra totaprovocacion a una tala discriminacion.
-oci_0029	Article 8
-oci_0030	Tota persona a drech a un recors efectiu al prèp de las jurisdiccions nacionalascompetentas contra los actes que viòlen los dreches fondamentals que li sonreconeguts per la constitucion o la lei.
-oci_0031	Article 9
-oci_0032	Degun pòt pas èsser arrestat, embarrat o exiliat arbitràriament.
-oci_0033	Article 10
-oci_0034	Tota persona a lo drech, en plena egalitat, que sa causa siá recebuda ambeequitat e publicament per un tribunal independent e imparcial, que decidirà, siáde sos dreches e obligacions, siá de la legitimat de tota acusacion portadacontra ela en matèria penala.
-oci_0035	Article 11
-oci_0036	1.
-oci_0037	Se presumís qu’es innocenta tota persona acusada d’un acte delictuós,tant que sa culpablitat es pas estada establida legalament al cors d’unprocès public ont totas las garentias necessàrias per la siá defensa liseràn estadas asseguradas.
-oci_0038	2.
-oci_0039	Degun serà pas condemnat per d’accions o d’omissions que, quandfoguèron comesas, constituïssián pas un acte delictuós segon lo drechnacional o internacional.
-oci_0040	S’impausarà pas tanpauc cap de pena mai fòrtaque la qu’èra aplicabla al moment que se cometèt l’acte delictuós.
-oci_0041	Article 12
-oci_0042	Degun serà pas l’ objècte d’intrusions arbitràrias dins sa vida privada, sa familha,son domicili o sa correspondéncia, ni d’atacs contra son onor e sa reputacion.
-oci_0043	Tota persona a drech a la proteccion de la lei contra d’intrusions e d’atacsd’aquela mena.
-oci_0044	Article 13
-oci_0045	1.
-oci_0046	Tota persona a lo drech de circular liurament e de causir sa residéncia al’interior d’un Estat.
-oci_0047	2.
-oci_0048	Tota persona a lo drech d’abandonar tot país, quitament lo sieu, e detornar dins son país.
-oci_0049	Article 14
-oci_0050	1.
-oci_0051	En cas de persecucion, tota persona a lo drech de cercar asil e debeneficiar de l’asil dins d’autres païses.
-oci_0052	2.
-oci_0053	Aquel drech se poirà pas invocar contra una accion judiciària ques’aprendrà vertadièeirament a de crimes de drech comun ou o a d’actesopausats a las finalitats e als principis de las Nacions Unidas.
-oci_0054	Article 15
-oci_0055	1.
-oci_0056	Tot individú a drech a un nacionalitat
-oci_0057	2.
-oci_0058	Degun pòt pas èsser privat arbitràriament de sa nacionalitat ni del drechde cambiar de nacionalitat.
-oci_0059	Article 16
-oci_0060	1.
-oci_0061	Tanleu que son maridadors, l’òme e la femna sense cap de restriccion perrason de raça, nacionalitat o religion, an lo drech de se maridar e defondar una familha.
-oci_0062	An de dreches egals en çò que pertòca al maridatge,pendent lo maridatge e al moment de sa dissolucion.
-oci_0063	2.
-oci_0064	Los maridatge se poirà pas contractar qu’ambe lo consentiment liure eplen dels futurs esposes.
-oci_0065	3.
-oci_0066	La familha es l’element natural e fondamental de la societat e a drech a laproteccion de la societat e de l’Estat.
-oci_0067	Article 17
-oci_0068	1.
-oci_0069	Tota persona, individualament e collectivament, a drech a la proprietat.
-oci_0070	2.
-oci_0071	Degun pòt pas èsser privat arbitràriament de sa proprietat.
-oci_0072	Article 18
-oci_0073	Tota persona a drech a la libertat de pensada, de consciéncia e de religion;
-oci_0074	aquel drech implica la libertat de cambiar de religion ou de cresença, emai lalibertat de manifestar sa religion o sa cresença individualament o en comun, tanten public coma en privat, per l’ensenhament, la practica, lo culte e l’acomplimentdels rites.
-oci_0075	Article 19
-oci_0076	Tot individú a drech a la libertat d’opinion e d’expression, çò qu’implica lo drechd’èsser pas carcanhat per sas opinions e lo de cercaer, de recebre e d’espandir,sense consideracion de frontiras, las informacions e las idèas per quin mejand’expression que siá.
-oci_0077	Article 20
-oci_0078	1.
-oci_0079	Tota persona a drech a la libertat de reünion e d’associacion pacificas.
-oci_0080	2.
-oci_0081	Degun pòt pas èsser obligat de far partida d’una associacion.
-oci_0082	Article 21
-oci_0083	1.
-oci_0084	Tota persona a lo drech de participar a la direccion del afars publics deson país, siá dirèctament, siá per l’intermediairi de representants causitsliurament.
-oci_0085	2.
-oci_0086	Tota persona a drech a accedir, dins de condicions d’egalitat, a lasfoncions publicas del sieu país.
-oci_0087	3.
-oci_0088	La volontat del pòble es lo fondament de l’autoritat dels poders publics;
-oci_0089	aquela volontat se deu exprimir gràcias a d’eleccions vertadièiras que setendràn periodicament, al sufragi universal egal amb lo vòte secret o unautre procediment equivalent que garentisca la libertat de vòte.
-oci_0090	Article 22
-oci_0091	Tota persona, coma membre de la societat, a drech a la seguretat sociala e a lasatisfaccion dels dreches economics, socials e culturals indispensables a sadignitat e al liure desvolopament de sa personalitat, gràcias a l’efòrç nacional e ala cooperacion internationala, segon l’organisacion e los mejans de cada país.
-oci_0092	Article 23
-oci_0093	1.
-oci_0094	Tota persona a drech al trabalh, a la causida liura de son emplec, dins decondicions equitablas e satisfasentas de trabalh e a la proteccion contra locaumatge.
-oci_0095	2.
-oci_0096	Tota persona a drech, sense cap de discriminacion, a un salairi egal perun trabalh egal.
-oci_0097	3.
-oci_0098	Tota persona que trabalha a drech a una paga equitabla e satisfasentaque li assegure, a ela emai a la familha una existéncia confòrma a ladignitat umana e que serà completada, se per cas es necessari, per toteslos autres mejans de proteccion sociala.
-oci_0099	4.
-oci_0100	Tota persona a lo drech de fondar, ambe d’autres, de sindicats e de sesindicar per defendre sos interèsses.
-oci_0101	Article 24
-oci_0102	Tota persona a drech al repaus e als lesers e, particularament, a una limitacionrasonabla de la durada del trabalh e a de vacanças periodicas pagadas.
-oci_0103	Article 25
-oci_0104	1.
-oci_0105	Tota persona a drech a un nivèl de vida que li assegure la santat e lobenestar a ela e a la siá familha, mai que mai pel manjar, lo vestit, lolòtjament, los suènhs de santat e los servicis socials necessaris;
-oci_0106	a drechtanben a la seguretat en cas de caumatge, malautiá, invaliditat, veusatge,vielhesa, e dins los autre cases que pèrd los mejans de se ganhar la vidasense o aver volgut.
-oci_0107	2.
-oci_0108	Las maires e los pichons an drech a una ajuda e a una assisténciaespecialas.
-oci_0109	Totes los mainatges, nascut dins lo maridatge o fòramaridatge, benefícian de la meteissa proteccion sociala.
-oci_0110	Article 26
-oci_0111	1.
-oci_0112	Tota persona a drech a l’educacion.
-oci_0113	L’educacion deu èsser a gratis, almens en çò que pertòca a l’ensenhament elementari e fondamental.
-oci_0114	L’ensenhament elementari serà obligatòri.
-oci_0115	L’ensenhament tecnic eprofessional serà generalisat;
-oci_0116	l’ensenhament superior serà dubèrt a totesd’un biais parièr, en foncion dels meritis de cadun.
-oci_0117	2.
-oci_0118	L’educacion aurà coma finalitat lo plen desvolopament de la personalitatumana e l’afortiment del respècte qu’es degut als dreches de l’òme e a laslibertats fondamentalas.
-oci_0119	Deu favorir la compreneson, la tolerància el’amistat entre totas las nacions e totes los grops etnics o religioses, emailos desvolopament de las activitats de las Nacions Unidas per manténer lapatz.
-oci_0120	3.
-oci_0121	Son los parents qu’an, en primièr, lo drech de causir la mena d’educacionque se donarà als mainatges.
-oci_0122	Article 27
-oci_0123	1.
-oci_0124	Tota persona a lo drech de prene part liurament a la vida culturala de lacomunitat, de gausir de las arts e de participar al progrès scientific e alsbeneficis que ne son la consequéncia.
-oci_0125	2.
-oci_0126	L’autor de tota òbra scientifica, literària o artistica a drech a l’aparamentdels interèsses morals e materials que ne resultan.
-oci_0127	Article 28
-oci_0128	Tota persona a lo drech que s’establisca un òrdre social e ont los dreches e laslibertats enonciats dins aicesta Declaracion se pòscan aplicar plenament.
-oci_0129	Article 29
-oci_0130	1.
-oci_0131	Tota persona a de devers als respècte de la comunitat, qu’es lo solendrech ont lo desvolopament liure e complèt de sa personalitat espossible.
-oci_0132	2.
-oci_0133	Per profechar de sos dreches e de sas libertats, tota persona serà passomesa qu’a las limitacions establidas per la lei unicament per assegurarla reconeissença e lo respècte dels dreches e de las libertats dels autrese per tal de respectar las justas exigéncias de la morala, de l’òrdre publice del benestar general dins una societat democratica.
-oci_0134	3.
-oci_0135	Aquestes dreches e libertats se poiràn pas jamai aplicar contràriament alas finalitats e als principis de las Nacions Unidas.
-oci_0136	Article 30
-oci_0137	Res dins aicesta Declaracion se pòt pas interpretar coma que un Estat, ungropament ou un individú auriá quin drech que siá d’entreprene una activitat o derealisar una accion ambe la tòca d’avalir los dreches e las libertats que s’ienóncian.
+human_rights_un_oc_am_64kb_0001	DECLARACION UNIVERSALA DELS DRECHES DE L’ÒME
+human_rights_un_oc_am_64kb_0002	Preambul
+human_rights_un_oc_am_64kb_0003	Considerant que de reconéisser la dignitat inerenta a totes los membres de lafamilha umana e lors dreches egals e inalienables constituís lo fondament de lalibertat, de la justícia e de la patz dins lo mond,
+human_rights_un_oc_am_64kb_0004	Considerant que de desconéisser e mespresar los dreches de l’òme a menat ade barbaritats otrajantas per la consciéncia de l’umanitat e que l’aveniment d’unmond ont los èssers umans seràn liures de parlar e de creire, deliurats de laterror e de la misèria, es estat proclamat coma l’aspiracion mai nauta de l’òme,
+human_rights_un_oc_am_64kb_0005	Considerant qu’es essencial que los dreches de l’òme siàn aparats per unregime de drech per tal que l’òme siá pas obligat al suprème recors de serevoltar contra la tirania e l’opression,
+human_rights_un_oc_am_64kb_0006	Considerant qu’es essencial d’encoratjar lo desvolopament de relacions amicalasentre las nacions,
+human_rights_un_oc_am_64kb_0007	Considerant que, dins la Carta, los pòbles de las Nacions Unidas an tornatproclamar lor fe dins los dreches fondamentals de l’òme, dins la dignitat e lavalor de la persona umana, dins l’egalitat dels dreches dels òmes e de lasfemnas, e que se son declarats resolguts a favorir lo progrès social e a instaurarde melhoras condicions de vida dins una libertat mai bèla,
+human_rights_un_oc_am_64kb_0008	Considerant que los Estats Membres se son engatjats a assegurar, encooperacion amb l’Organisacion de las Nacions Unidas, lo respecte universal eefectiu dels dreches de l’òme e de las libertats fondamentalas,
+human_rights_un_oc_am_64kb_0009	Considerant qu’una concepcion comuna d’aqueles dreches e libertats es de lamàger importància per que se realise plenament aquel engatjament,l’Assemblada Generala proclamala presenta Declaracion Universala dels Dreches de l’òmecoma l’ideal comun que totes los pòbles e las Nacions devon cercar a aténher,per tal que totes los individús e totas las institucions, en gardant de contunhaicesta Declaracion presenta a l’esperit s’efòrcen, per l’ensenhament el’educacion, de desvolopar lo respècte d’aqueles dreches e libertats ed’assegurar, per de mesuras progressivas d’òrdre nacional e internacional, lareconeissença e l’aplicacion universalas e efectivas, tant demest los pòbles dels
+human_rights_un_oc_am_64kb_0010	Estats Membres coma demest los dels territòris plaçats jos lor jurisdiccion.
+human_rights_un_oc_am_64kb_0011	Article 1
+human_rights_un_oc_am_64kb_0012	Totes los èssers umans naisson liures e egals en dignitat e en dreches.
+human_rights_un_oc_am_64kb_0013	Sondotats de rason e de consciéncia e se devon comportar los unes amb los autresdins un esperit de fraternitat.
+human_rights_un_oc_am_64kb_0014	Article 2
+human_rights_un_oc_am_64kb_0015	Tota persona se pòt prevaler de totes los dreches e de totas las libertatsproclamada dins la presenta Declaracion, sense cap de distincion de raça, decolor, de sèxe, de lenga, de religion, d’opinion politica o d’autra mena, d’originanacionala o sociala, de fortuna, de naissença o de quina autra situacion que siá.
+human_rights_un_oc_am_64kb_0016	Se farà pas tanpauc cap de distincion fondada sus l’estatut politic, administratiu einternacional de país o territòri que la persona ne depend juridicament, qu’aquelpaís o territòri siá independent, jos tutèla, non-autonòme o somés a quinalimitacion de sobeiranetat que siá.
+human_rights_un_oc_am_64kb_0017	Article 3
+human_rights_un_oc_am_64kb_0018	Tot individu a drech a la vida, a la libertat e a la seguretat de sa persona.
+human_rights_un_oc_am_64kb_0019	Article 4
+human_rights_un_oc_am_64kb_0020	Degun serà pas tengut en esclavatge ni en servitud;
+human_rights_un_oc_am_64kb_0021	l’esclavatge e lo traficd’esclaus son proïbits dins totas lors formas.
+human_rights_un_oc_am_64kb_0022	Article 5
+human_rights_un_oc_am_64kb_0023	Degun serà pas somés a la tortura, ni a de penas o tractaments crudèls,inumans o degradants.
+human_rights_un_oc_am_64kb_0024	Article 6
+human_rights_un_oc_am_64kb_0025	Tota persona, a quin endrech que siá, a drech a la reconeissença de sapersonnalitat juridica.
+human_rights_un_oc_am_64kb_0026	Article 7
+human_rights_un_oc_am_64kb_0027	Totes son egals davant la lei e an lo drech de n’obténer la meteissa proteccion,sense distincions.
+human_rights_un_oc_am_64kb_0028	Totes an lo drech a una meteissa proteccion contra quinadiscriminacion que siá que viòle la presenta Declaracion e contra totaprovocacion a una tala discriminacion.
+human_rights_un_oc_am_64kb_0029	Article 8
+human_rights_un_oc_am_64kb_0030	Tota persona a drech a un recors efectiu al prèp de las jurisdiccions nacionalascompetentas contra los actes que viòlen los dreches fondamentals que li sonreconeguts per la constitucion o la lei.
+human_rights_un_oc_am_64kb_0031	Article 9
+human_rights_un_oc_am_64kb_0032	Degun pòt pas èsser arrestat, embarrat o exiliat arbitràriament.
+human_rights_un_oc_am_64kb_0033	Article 10
+human_rights_un_oc_am_64kb_0034	Tota persona a lo drech, en plena egalitat, que sa causa siá recebuda ambeequitat e publicament per un tribunal independent e imparcial, que decidirà, siáde sos dreches e obligacions, siá de la legitimat de tota acusacion portadacontra ela en matèria penala.
+human_rights_un_oc_am_64kb_0035	Article 11
+human_rights_un_oc_am_64kb_0036	1.
+human_rights_un_oc_am_64kb_0037	Se presumís qu’es innocenta tota persona acusada d’un acte delictuós,tant que sa culpablitat es pas estada establida legalament al cors d’unprocès public ont totas las garentias necessàrias per la siá defensa liseràn estadas asseguradas.
+human_rights_un_oc_am_64kb_0038	2.
+human_rights_un_oc_am_64kb_0039	Degun serà pas condemnat per d’accions o d’omissions que, quandfoguèron comesas, constituïssián pas un acte delictuós segon lo drechnacional o internacional.
+human_rights_un_oc_am_64kb_0040	S’impausarà pas tanpauc cap de pena mai fòrtaque la qu’èra aplicabla al moment que se cometèt l’acte delictuós.
+human_rights_un_oc_am_64kb_0041	Article 12
+human_rights_un_oc_am_64kb_0042	Degun serà pas l’ objècte d’intrusions arbitràrias dins sa vida privada, sa familha,son domicili o sa correspondéncia, ni d’atacs contra son onor e sa reputacion.
+human_rights_un_oc_am_64kb_0043	Tota persona a drech a la proteccion de la lei contra d’intrusions e d’atacsd’aquela mena.
+human_rights_un_oc_am_64kb_0044	Article 13
+human_rights_un_oc_am_64kb_0045	1.
+human_rights_un_oc_am_64kb_0046	Tota persona a lo drech de circular liurament e de causir sa residéncia al’interior d’un Estat.
+human_rights_un_oc_am_64kb_0047	2.
+human_rights_un_oc_am_64kb_0048	Tota persona a lo drech d’abandonar tot país, quitament lo sieu, e detornar dins son país.
+human_rights_un_oc_am_64kb_0049	Article 14
+human_rights_un_oc_am_64kb_0050	1.
+human_rights_un_oc_am_64kb_0051	En cas de persecucion, tota persona a lo drech de cercar asil e debeneficiar de l’asil dins d’autres païses.
+human_rights_un_oc_am_64kb_0052	2.
+human_rights_un_oc_am_64kb_0053	Aquel drech se poirà pas invocar contra una accion judiciària ques’aprendrà vertadièeirament a de crimes de drech comun ou o a d’actesopausats a las finalitats e als principis de las Nacions Unidas.
+human_rights_un_oc_am_64kb_0054	Article 15
+human_rights_un_oc_am_64kb_0055	1.
+human_rights_un_oc_am_64kb_0056	Tot individú a drech a un nacionalitat
+human_rights_un_oc_am_64kb_0057	2.
+human_rights_un_oc_am_64kb_0058	Degun pòt pas èsser privat arbitràriament de sa nacionalitat ni del drechde cambiar de nacionalitat.
+human_rights_un_oc_am_64kb_0059	Article 16
+human_rights_un_oc_am_64kb_0060	1.
+human_rights_un_oc_am_64kb_0061	Tanleu que son maridadors, l’òme e la femna sense cap de restriccion perrason de raça, nacionalitat o religion, an lo drech de se maridar e defondar una familha.
+human_rights_un_oc_am_64kb_0062	An de dreches egals en çò que pertòca al maridatge,pendent lo maridatge e al moment de sa dissolucion.
+human_rights_un_oc_am_64kb_0063	2.
+human_rights_un_oc_am_64kb_0064	Los maridatge se poirà pas contractar qu’ambe lo consentiment liure eplen dels futurs esposes.
+human_rights_un_oc_am_64kb_0065	3.
+human_rights_un_oc_am_64kb_0066	La familha es l’element natural e fondamental de la societat e a drech a laproteccion de la societat e de l’Estat.
+human_rights_un_oc_am_64kb_0067	Article 17
+human_rights_un_oc_am_64kb_0068	1.
+human_rights_un_oc_am_64kb_0069	Tota persona, individualament e collectivament, a drech a la proprietat.
+human_rights_un_oc_am_64kb_0070	2.
+human_rights_un_oc_am_64kb_0071	Degun pòt pas èsser privat arbitràriament de sa proprietat.
+human_rights_un_oc_am_64kb_0072	Article 18
+human_rights_un_oc_am_64kb_0073	Tota persona a drech a la libertat de pensada, de consciéncia e de religion;
+human_rights_un_oc_am_64kb_0074	aquel drech implica la libertat de cambiar de religion ou de cresença, emai lalibertat de manifestar sa religion o sa cresença individualament o en comun, tanten public coma en privat, per l’ensenhament, la practica, lo culte e l’acomplimentdels rites.
+human_rights_un_oc_am_64kb_0075	Article 19
+human_rights_un_oc_am_64kb_0076	Tot individú a drech a la libertat d’opinion e d’expression, çò qu’implica lo drechd’èsser pas carcanhat per sas opinions e lo de cercaer, de recebre e d’espandir,sense consideracion de frontiras, las informacions e las idèas per quin mejand’expression que siá.
+human_rights_un_oc_am_64kb_0077	Article 20
+human_rights_un_oc_am_64kb_0078	1.
+human_rights_un_oc_am_64kb_0079	Tota persona a drech a la libertat de reünion e d’associacion pacificas.
+human_rights_un_oc_am_64kb_0080	2.
+human_rights_un_oc_am_64kb_0081	Degun pòt pas èsser obligat de far partida d’una associacion.
+human_rights_un_oc_am_64kb_0082	Article 21
+human_rights_un_oc_am_64kb_0083	1.
+human_rights_un_oc_am_64kb_0084	Tota persona a lo drech de participar a la direccion del afars publics deson país, siá dirèctament, siá per l’intermediairi de representants causitsliurament.
+human_rights_un_oc_am_64kb_0085	2.
+human_rights_un_oc_am_64kb_0086	Tota persona a drech a accedir, dins de condicions d’egalitat, a lasfoncions publicas del sieu país.
+human_rights_un_oc_am_64kb_0087	3.
+human_rights_un_oc_am_64kb_0088	La volontat del pòble es lo fondament de l’autoritat dels poders publics;
+human_rights_un_oc_am_64kb_0089	aquela volontat se deu exprimir gràcias a d’eleccions vertadièiras que setendràn periodicament, al sufragi universal egal amb lo vòte secret o unautre procediment equivalent que garentisca la libertat de vòte.
+human_rights_un_oc_am_64kb_0090	Article 22
+human_rights_un_oc_am_64kb_0091	Tota persona, coma membre de la societat, a drech a la seguretat sociala e a lasatisfaccion dels dreches economics, socials e culturals indispensables a sadignitat e al liure desvolopament de sa personalitat, gràcias a l’efòrç nacional e ala cooperacion internationala, segon l’organisacion e los mejans de cada país.
+human_rights_un_oc_am_64kb_0092	Article 23
+human_rights_un_oc_am_64kb_0093	1.
+human_rights_un_oc_am_64kb_0094	Tota persona a drech al trabalh, a la causida liura de son emplec, dins decondicions equitablas e satisfasentas de trabalh e a la proteccion contra locaumatge.
+human_rights_un_oc_am_64kb_0095	2.
+human_rights_un_oc_am_64kb_0096	Tota persona a drech, sense cap de discriminacion, a un salairi egal perun trabalh egal.
+human_rights_un_oc_am_64kb_0097	3.
+human_rights_un_oc_am_64kb_0098	Tota persona que trabalha a drech a una paga equitabla e satisfasentaque li assegure, a ela emai a la familha una existéncia confòrma a ladignitat umana e que serà completada, se per cas es necessari, per toteslos autres mejans de proteccion sociala.
+human_rights_un_oc_am_64kb_0099	4.
+human_rights_un_oc_am_64kb_0100	Tota persona a lo drech de fondar, ambe d’autres, de sindicats e de sesindicar per defendre sos interèsses.
+human_rights_un_oc_am_64kb_0101	Article 24
+human_rights_un_oc_am_64kb_0102	Tota persona a drech al repaus e als lesers e, particularament, a una limitacionrasonabla de la durada del trabalh e a de vacanças periodicas pagadas.
+human_rights_un_oc_am_64kb_0103	Article 25
+human_rights_un_oc_am_64kb_0104	1.
+human_rights_un_oc_am_64kb_0105	Tota persona a drech a un nivèl de vida que li assegure la santat e lobenestar a ela e a la siá familha, mai que mai pel manjar, lo vestit, lolòtjament, los suènhs de santat e los servicis socials necessaris;
+human_rights_un_oc_am_64kb_0106	a drechtanben a la seguretat en cas de caumatge, malautiá, invaliditat, veusatge,vielhesa, e dins los autre cases que pèrd los mejans de se ganhar la vidasense o aver volgut.
+human_rights_un_oc_am_64kb_0107	2.
+human_rights_un_oc_am_64kb_0108	Las maires e los pichons an drech a una ajuda e a una assisténciaespecialas.
+human_rights_un_oc_am_64kb_0109	Totes los mainatges, nascut dins lo maridatge o fòramaridatge, benefícian de la meteissa proteccion sociala.
+human_rights_un_oc_am_64kb_0110	Article 26
+human_rights_un_oc_am_64kb_0111	1.
+human_rights_un_oc_am_64kb_0112	Tota persona a drech a l’educacion.
+human_rights_un_oc_am_64kb_0113	L’educacion deu èsser a gratis, almens en çò que pertòca a l’ensenhament elementari e fondamental.
+human_rights_un_oc_am_64kb_0114	L’ensenhament elementari serà obligatòri.
+human_rights_un_oc_am_64kb_0115	L’ensenhament tecnic eprofessional serà generalisat;
+human_rights_un_oc_am_64kb_0116	l’ensenhament superior serà dubèrt a totesd’un biais parièr, en foncion dels meritis de cadun.
+human_rights_un_oc_am_64kb_0117	2.
+human_rights_un_oc_am_64kb_0118	L’educacion aurà coma finalitat lo plen desvolopament de la personalitatumana e l’afortiment del respècte qu’es degut als dreches de l’òme e a laslibertats fondamentalas.
+human_rights_un_oc_am_64kb_0119	Deu favorir la compreneson, la tolerància el’amistat entre totas las nacions e totes los grops etnics o religioses, emailos desvolopament de las activitats de las Nacions Unidas per manténer lapatz.
+human_rights_un_oc_am_64kb_0120	3.
+human_rights_un_oc_am_64kb_0121	Son los parents qu’an, en primièr, lo drech de causir la mena d’educacionque se donarà als mainatges.
+human_rights_un_oc_am_64kb_0122	Article 27
+human_rights_un_oc_am_64kb_0123	1.
+human_rights_un_oc_am_64kb_0124	Tota persona a lo drech de prene part liurament a la vida culturala de lacomunitat, de gausir de las arts e de participar al progrès scientific e alsbeneficis que ne son la consequéncia.
+human_rights_un_oc_am_64kb_0125	2.
+human_rights_un_oc_am_64kb_0126	L’autor de tota òbra scientifica, literària o artistica a drech a l’aparamentdels interèsses morals e materials que ne resultan.
+human_rights_un_oc_am_64kb_0127	Article 28
+human_rights_un_oc_am_64kb_0128	Tota persona a lo drech que s’establisca un òrdre social e ont los dreches e laslibertats enonciats dins aicesta Declaracion se pòscan aplicar plenament.
+human_rights_un_oc_am_64kb_0129	Article 29
+human_rights_un_oc_am_64kb_0130	1.
+human_rights_un_oc_am_64kb_0131	Tota persona a de devers als respècte de la comunitat, qu’es lo solendrech ont lo desvolopament liure e complèt de sa personalitat espossible.
+human_rights_un_oc_am_64kb_0132	2.
+human_rights_un_oc_am_64kb_0133	Per profechar de sos dreches e de sas libertats, tota persona serà passomesa qu’a las limitacions establidas per la lei unicament per assegurarla reconeissença e lo respècte dels dreches e de las libertats dels autrese per tal de respectar las justas exigéncias de la morala, de l’òrdre publice del benestar general dins una societat democratica.
+human_rights_un_oc_am_64kb_0134	3.
+human_rights_un_oc_am_64kb_0135	Aquestes dreches e libertats se poiràn pas jamai aplicar contràriament alas finalitats e als principis de las Nacions Unidas.
+human_rights_un_oc_am_64kb_0136	Article 30
+human_rights_un_oc_am_64kb_0137	Res dins aicesta Declaracion se pòt pas interpretar coma que un Estat, ungropament ou un individú auriá quin drech que siá d’entreprene una activitat o derealisar una accion ambe la tòca d’avalir los dreches e las libertats que s’ienóncian.

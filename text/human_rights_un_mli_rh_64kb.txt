@@ -1,139 +1,139 @@
-zlm_0001	PERISYTIHARAN HAK ASASI MANUSIA SEJAGAT
-zlm_0002	MUKADDUMAH
-zlm_0003	Bahawasanya pengiktirafan keutuhan kemuliaan dan hak samarata serta asasiyang tak terpisah bagi seluruh umat manusia adalah asas kebebasan,keadilandan kedamaian dunia.
-zlm_0004	Bahawasanya pengabaian serta penghinaan terhadap hak asasi manusia telahpun mengakibatkan tindakan terkutuk yang telah melanggari perasaan hati umatmanusia, dan munculnya sebuah dunia di mana manusia akan menikmatikebebasan berucap dan menganut kepercayaan serta kebebasan dari rasatakutdan citarasa telah pun diisytiharkan sebagai aspirasi toragung seluruh umatmanusia.
-zlm_0005	Sekiranya kita tidak mahu mendorong manusia dalam keadaan terdesak,sebagai pilihan terakhir, memberontak mementang kezaliman serta penindasan,maka adalah penting bagi hak asasi manusia dipertahankan oleh kedaulatanundang-undang.
-zlm_0006	Bahawasanya adalah penting bagi memajukan perkembangan perhubunganpersahabatan di antara negara-negara.
-zlm_0007	Bahawasanya rakyat Bangsa-Bangsa Bersatu, dalam Piagamnya telah sekalilagi menegaskan kepercayaan mereka terhadap hak asasi manusia, terhadapkemuliaan serta nilaidiri manusia dan terhadap hak samarata lelaki danperempuan dan telah menetapkan keazaman untuk memajukan perkembangansosial dan taraf hidup yang lebih sempurna dalam suasana kebebasan yanglebih luas.
-zlm_0008	Bahawasanya Negara-Negara Anggota telah berikrar untuk masing-masingmencapai, dengan kerjasama Bangsa-Bangsa Bersatu, pengutaraan kehormatansejagat terhadap, serta pematuhan, hak asasi manusia dan kebebasan asasi.
-zlm_0009	Bahawasanya satu fahaman bersama terhadap hak serta kebebasan iniseluruhnya adalah terpenting demi menjadikan ikrar ini kenyataan sepenuhnya.
-zlm_0010	MAKA DENGAN INI
-zlm_0011	Perhimpunan agung mengisytiharkan
-zlm_0012	Perisytiharan sejagat hak asasi manusia ini sebagai suatu ukuran bersamaterhadap pencapaian oleh seluruh umat manusia dan kesemua negara dengantujuan supaya setiap individu dan setiap badan masyarakat, dengan senantiasamengingati Perisytiharan ini, hendaklah berazam melalui pengajaran danpendidikan bagi memajukan sanjungan terhadap seluruh hak-hak dankebebasan ini dan secara langkah-langkah berperingkat-peringkat, di bidangnegara dan antarabangsa, bagi menjaminkan pengkitirafan dan pematuhansejagatnya yang berkesan, kedua-duanya di antara negara-negara anggotamasing-masing dan rakyat wilayah-wilayah di bawah bidangkuasa mereka.
-zlm_0013	Perkara 1.
-zlm_0014	Semua manusia dilahirkan bebas dan samarata dari segi kemuliaan dan hak-hak.
-zlm_0015	Mereka mempunyai pemikiran dan perasaan hati dan hendaklah bertindakdi antara satu sama lain dengan semangat persaudaraan.
-zlm_0016	Perkara 2.
-zlm_0017	Setiap orang adalah berhak kepada semua hak-hak dan kebebasan yangtermaktub dalam Perisytiharan ini, tanpa sebarang apa jua pembezaan, sepertibangsa, warna kulit, jantina, bahasa, ugama, faham politik atau lain-lainfahaman, asal-usul bangsa keturunan atau sosial harta-benda, kelahiran atauapa-apa taraf lain.
-zlm_0018	Seterusnya, tiada sebarang pembezaan boleh dibuat berasaskan pada tarafpolitik atau bidangkuasa ataupun antarabangsa sesebuah negara atau wilayahdatangnya seseorang itu, sama ianya merdeka, beraùanah, tanpa pemerintahansendiri atau berada di bawah apa-apa sekatan kedaulatan lainnya.
-zlm_0019	Perkara 3.
-zlm_0020	Setiap orang adalah berhak kepada nyawa, kebebasan dan keselamatan diri.
-zlm_0021	Perkara 4.
-zlm_0022	Tiada sesiapa pun boleh diperhamba atau diperabdikan;
-zlm_0023	keabdian dan daganganhamba abdi hendaklah dilarang dalam semua bentuknya.
-zlm_0024	Perkara 5.
-zlm_0025	Tiada sesiapa pun boleh dikenakan seksaan atau layanan atau hukuman yangzalim, tidak berperikemanusiaan atau menghinakan.
-zlm_0026	Perkara 6.
-zlm_0027	Setiap orang adalah berhak kepada pengiktirafan di mana jua sebagai seoranginsan di sisi undang-undang.
-zlm_0028	Perkara 7.
-zlm_0029	Semua orang adalah samarata di sisi undang-undang dan berhak tanpa apa-apapembezaan kepada perlindungan yang samarata di sisi undang-undang.
-zlm_0030	Semuaorang adalah berhak kepada perlindungan yang samarata daripada sebarangpembazaan yang melanggar Perisytiharan ini dan daripada sebarang hasutanterhadap pembezaan sedemikian.
-zlm_0031	Perkara 8.
-zlm_0032	Setiap orang adalah berhak kepada pemulihan yang berkesan oleh tribunal-tribunal kebangsaan yang kompeten terhadap tindakan-tindakan yang melanggarhak-hak asasi yang diberikannya oleh perlembagaan atau oleh undang-undang.
-zlm_0033	Perkara 9.
-zlm_0034	Tiada sesiapa pun boleh dikenakan tangkapan, tahanan atau pembuangannegeri secara sewenang-wenangnya.
-zlm_0035	Perkara 10.
-zlm_0036	Setiap orang adalah berhak dengan samarata sepenuhnya kepada pembicaraanadil dan terbuka oleh suatu tribunal bebas dan saksama, dalam penetapan hak-hak dan tanggungannya dan sebarang tuduhan jenayah terhadapnya.
-zlm_0037	Perkara 11.
-zlm_0038	1.
-zlm_0039	Setiap orang yang dituduh dengan kesalahan keseksaan adalah berhakdianggap tidak salah sehingga dibuktikan salah menurut undang-undangdi dalam perbicaraan terbuka di mana dia telah diberikan segala jaminanyang perlu untuk pembelaannya.
-zlm_0040	2.
-zlm_0041	Tiada sesiapa pun boleh diputuskan bersalah atas sebarang kesalahankeseksaan oleh kerana sebarang tindakan atau ketinggalan yang tidakmerupakan suatu kesalahan kesiksaan, di sisi undang-undangkebangsaan atau antarabangsa, pada masa ianya dilakukan.
-zlm_0042	Tiada pulaboleh dikenakan sebarang hukuman yang lebih berat dari hukuman yangterpakai ketika kesalahan keseksaan itu dilakukan.
-zlm_0043	Perkara 12.
-zlm_0044	Tiada sesiapa pun yang boleh dikenakan kepada sebarang gangguansewenang-wenangnya terhadap keadaan peribadi, keluarga, rumahtangga atausurat-menyuratnya, atau percerobohan ke atas maruah dan nama baiknya.
-zlm_0045	Setiap orang berhak kepada perlindungan undang-undang terhadap gangguanatau percerobohan sedemikian.
-zlm_0046	Perkara 13.
-zlm_0047	1.
-zlm_0048	Setiap orang adalah berhak kepada kebebasan bergerak danbermastautin di dalam sempadan sesebuah negara.
-zlm_0049	2.
-zlm_0050	Setiap orang berhak meninggalkan mana-mana negara, termasuknegaranya sendiri,dan kembali semula ke negaranya.
-zlm_0051	Perkara 14.
-zlm_0052	1.
-zlm_0053	Setiap orang berhak memohon dan menikmati perlindungan politik dalamnegara lain daripada sebarang aniaya.
-zlm_0054	2.
-zlm_0055	Hak ini tidak boleh dituntut bagi pendakwaan yang benar-benar timbuldaripada kesalahan bukan politik atau daripada tindakan yangbertentangan dengan tujuan-tujuan dan prinsip-prinsip Bangsa-Bangsa
-zlm_0056	Bersatu.
-zlm_0057	Perkara 15.
-zlm_0058	1.
-zlm_0059	Setiap orang adalah berhak kepada suatu kewarganegaraan.
-zlm_0060	2.
-zlm_0061	Tiada sesiapa pun boleh dilucutkan kewarganegaraannya secarasewenangwenangnya atau dinafikan hak menukar kewarganegaraanya.
-zlm_0062	Perkara 16.
-zlm_0063	1.
-zlm_0064	Lelaki dan perempuan dewasa, tanpa mengira bangsa, kewarganegaraanatau ugama, berhak berkahwin dan menubuhkan keluarga.
-zlm_0065	Merekaadalah berhak kepada hak-hak samarata berhubung denganperkahwinan, dalam tempoh masa perkahwinan dan padapembubarannya.
-zlm_0066	2.
-zlm_0067	Perkahwinan hanya boleh dilaksanakan dengan persetujuan bebas dansepenuhnya oleh pihak-pihak yang bercadang untuk berkahwin.
-zlm_0068	3.
-zlm_0069	Keluarga adalah yunit kumpulan semulajadi dan asasi dalam masyarakatdan adalah berhak kepada perlindungan oleh masyarakat dan Negara.
-zlm_0070	Perkara 17.
-zlm_0071	1.
-zlm_0072	Setiap orang berhak memiliki harta secara bersendirian serta secaraberkongsi dengan orang lain.
-zlm_0073	2.
-zlm_0074	Tiada sesiapa pun boleh dilucutkan harta-bendanya secara sewenang-wenangnya.
-zlm_0075	Perkara 18.
-zlm_0076	Setiap orang adalah berhak kepada kebebasan berfikir, perasaan hati danugama;
-zlm_0077	hak ini termasuklah kebebasan menukar ugama atau kepercayaannya,dan kebebasan, samada secara bersendirian atau secara bersama-samadengan orang-orang lain dan secara terbuka atau bersendiri, menganuti ugamaatau kepercayaannya melalui pengajaran, amalan, pemujaan dan pematuhan.
-zlm_0078	Perkara 19.
-zlm_0079	Setiap orang adalah berhak kepada kebebasan pendapat dan mengeluarkanfikiran;
-zlm_0080	hak ini termasuklah kebebasan memegang pendapat tanpa gangguandan menuntut, menerima dan menyebarkan maklumat dan buah fikiran melaluisebarang media dan tanpa mengira sempadan.
-zlm_0081	Perkara 20.
-zlm_0082	1.
-zlm_0083	Setiap orang adalah berhak kepada kebebasan berhimpun secara amandan menubuhkan persatuan.
-zlm_0084	2.
-zlm_0085	Tiada sesiapa pun boleh dipaksa menjadi ahli mana-mana pertubuhan.
-zlm_0086	Perkara 21.
-zlm_0087	1.
-zlm_0088	Setiap orang berhak mengambil bahagian dalam kerajaan negaranya,secara langsung atau melalui wakil-wakil yang dipilih dengan bebas.
-zlm_0089	2.
-zlm_0090	Setiap orang adalah berhak kepada peluang samarata kepadaperkhidmatan awam dalam negaranya.
-zlm_0091	3.
-zlm_0092	Kemahuan rakyat hendaklah menjadi asas kewibawaan kerajaan;
-zlm_0093	kemahuan ini hendaklah dibuktikan melalui pilihanraya berkala yang sejatiyang mana hendaklah diadakan secara sejagat dan samarata danhendaklah diadakan secara undi sulit atau melalui acara pengundianbebas yang ketara.
-zlm_0094	Perkara 22.
-zlm_0095	Setiap orang, sebagai anggota masyarakat, adalah berhak kepada keselamatansosial dans berhak menjadikan suatu kenyataan, melalui usaha negara dankerjasama antara-bangsa dan menurut organisai dan sumber-sumber dalamnegara masing-masing, hak-hak ekonomi, sosial dan kebudayaan yang termestibagi kemuliaannya dan perkembangan bebas keperibadiannya.
-zlm_0096	Perkara 23.
-zlm_0097	1.
-zlm_0098	Setiap orang adalah berhak kepada pekerjaan, kepada pemilihanpekerjaannya secara bebas, kepada keadaan-keadaan pekerjaan yangadil dan berfaedah baginya dan kepada perlindungan daripadapengangguran.
-zlm_0099	2.
-zlm_0100	Setiap orang, tanpa sebarang pembezaan, adalah berhak kepadapenggajian yang sama bagi kerja yang sama.
-zlm_0101	3.
-zlm_0102	Setiap orang yang bekerja adalah berhak kepada pembayaran saraanyang adil dan berfaedah baginya yang mana mempastikan buat diri dankeluarganya suatu kehidupan sesuai dengan kemuliaan manusia, danyang mana ditambah, jika pertu, oleh cara-cara perlindungan sosial yanglainnya.
-zlm_0103	4.
-zlm_0104	Setiap orang berhak menubuh dan menjadi ahli kesatuan sekerja bagimemperlindungi kepentingan-kepentingannya.
-zlm_0105	Perkara 24
-zlm_0106	Setiap orang adalah berhak kepada rihat dan masa lapang, termasuk batasanmunasabah keatas masa bekerja dan cuti bergaji yang berkala.
-zlm_0107	Perkara 25
-zlm_0108	1.
-zlm_0109	Setiap orang adalah berhak kepada suatu taraf hidup yang memadai bagikesihatan dan kebajikan diri dan keluarganya, termasuklah makanan,pakaian, perumahan dan pengawasan perubatan serta perkhidmatansosial yang perlu, dan berhak kepada perlindungan ketika berlakunyapengangguran, kesakitan, ketidakupayaan, diperjandaan, keuzuran ataulain-lain kekurangan kehidupan dalam keadaan di luar kawalannya.
-zlm_0110	2.
-zlm_0111	Ibu dan anak adalah berhak kepada jagaan serta bantuan khas.
-zlm_0112	Semuakanak-kanak, samada dilahirkan di dalam maupun di luar nikah,hendaklah menikmati perlindungan sosial yang sama.
-zlm_0113	Perkara 26.
-zlm_0114	1.
-zlm_0115	1)Setiap orang adalah berhak kepada pelajaran.
-zlm_0116	Pelajaran hendaklahdiberikan percuma, sekurang-kurangnya pada peringkat awal danasasnya.
-zlm_0117	Pelajaran peringkat awal hendaklah diwajibkan.
-zlm_0118	Pelajaranteknikal serta profesional hendaklah disediakan untuk umum danpelajaran tinggi hendaklah mempunyai akses yang samarata kepadasemua orang atas dasar kebolehan.
-zlm_0119	2.
-zlm_0120	Pelajaran hendaklah ditujukan kepada perkembangan sepenuhnyakeperibadian manusia dan ke arah memperkukuhkan lagi rasa hormatbagi hak-hak dan kebebasan asasi manusia, lanya hendaklah memupukpersefahaman, kesabaran dan persahabatan di kalangan semua negara,bangsa atau kumpulan-kumpulan ugama, dan hendaklah memajukansegala kegiatan Bangsa-Bangsa Bersatu demi memelihara keamanan.
-zlm_0121	3.
-zlm_0122	Ibu-bapa mempunyai hak terdahulu untuk memilih jenis pelajaran yangakan diberikan kepada anak-anak mereka.
-zlm_0123	Perkara 27.
-zlm_0124	1.
-zlm_0125	Setiap orang berhak secara bebas mengambil bahagian dalam kegiatankebudayaan masyarakatnya, menikmati kesenian dan sama-samamerasai kemajuan sains dan faedah-faedahnya.
-zlm_0126	2.
-zlm_0127	Setiap orang adalah berhak kepada perlindungan kepentingan-kepentingan moral dan kebendaan hasil dari sebarang penghasilan sains,kesusasteraan atau kesenian yang mana ianya adalah penciptanya.
-zlm_0128	Perkara 28.
-zlm_0129	Setiap orang adalah berhak kepada suatu susunan sosial dan antarabangsadalam mana hak-hak asasi dan kebebasan yang termaktub dalam Perisytiharanini boleh dijadikan kenyataan sepenuhnya.
-zlm_0130	Perkara 29.
-zlm_0131	1.
-zlm_0132	Setiap orang mempunyai kewajipan terhadap masyarakat hanya dalammana perkembangan keperibadiannya secara bebas dan seluruhnyatermungkin.
-zlm_0133	2.
-zlm_0134	Dalam mengamalkan hak-hak dan kebebasannya, setiap orang tertaklukhanya kepada batasan-batasan seperti yang ditentukan oleh undang-undang semata-mata bagi tujuan menjamin pengiktirafan danpenghormatan yang sepatutnya terhadap hak-hak dan kebebasan oranglain dan untuk mendekati keperluan-keperluan sepatutnya bagi akhlak,ketenteraman awam dan kebajikan umum dalam suatu masyarakat yangdemokratik.
-zlm_0135	3.
-zlm_0136	Hak-hak dan kebebasan ini tidak boleh sama sekali diamalkan secarabertentangan dengan tujuan-tujuan dan prinsip-prinsip Bangsa-Bangsa
-zlm_0137	Bersatu.
-zlm_0138	Perkara 30.
-zlm_0139	Tiada apa-apa jua dalam Perisytiharan ini boleh ditafsirkan sebagi sedia tersiratmemberikan kepada mana-mana negara, kumpulan atau perseorangensebarang hak untuk melibatkan diri dalam apa-apa kegiatan atau melakukanapa-apa perbuatan dengan tujuan memusnahkan apa-apa hak dan kebebasanyang termaktub dalam Perisytiharan ini.
+human_rights_un_mli_rh_64kb_0001	PERISYTIHARAN HAK ASASI MANUSIA SEJAGAT
+human_rights_un_mli_rh_64kb_0002	MUKADDUMAH
+human_rights_un_mli_rh_64kb_0003	Bahawasanya pengiktirafan keutuhan kemuliaan dan hak samarata serta asasiyang tak terpisah bagi seluruh umat manusia adalah asas kebebasan,keadilandan kedamaian dunia.
+human_rights_un_mli_rh_64kb_0004	Bahawasanya pengabaian serta penghinaan terhadap hak asasi manusia telahpun mengakibatkan tindakan terkutuk yang telah melanggari perasaan hati umatmanusia, dan munculnya sebuah dunia di mana manusia akan menikmatikebebasan berucap dan menganut kepercayaan serta kebebasan dari rasatakutdan citarasa telah pun diisytiharkan sebagai aspirasi toragung seluruh umatmanusia.
+human_rights_un_mli_rh_64kb_0005	Sekiranya kita tidak mahu mendorong manusia dalam keadaan terdesak,sebagai pilihan terakhir, memberontak mementang kezaliman serta penindasan,maka adalah penting bagi hak asasi manusia dipertahankan oleh kedaulatanundang-undang.
+human_rights_un_mli_rh_64kb_0006	Bahawasanya adalah penting bagi memajukan perkembangan perhubunganpersahabatan di antara negara-negara.
+human_rights_un_mli_rh_64kb_0007	Bahawasanya rakyat Bangsa-Bangsa Bersatu, dalam Piagamnya telah sekalilagi menegaskan kepercayaan mereka terhadap hak asasi manusia, terhadapkemuliaan serta nilaidiri manusia dan terhadap hak samarata lelaki danperempuan dan telah menetapkan keazaman untuk memajukan perkembangansosial dan taraf hidup yang lebih sempurna dalam suasana kebebasan yanglebih luas.
+human_rights_un_mli_rh_64kb_0008	Bahawasanya Negara-Negara Anggota telah berikrar untuk masing-masingmencapai, dengan kerjasama Bangsa-Bangsa Bersatu, pengutaraan kehormatansejagat terhadap, serta pematuhan, hak asasi manusia dan kebebasan asasi.
+human_rights_un_mli_rh_64kb_0009	Bahawasanya satu fahaman bersama terhadap hak serta kebebasan iniseluruhnya adalah terpenting demi menjadikan ikrar ini kenyataan sepenuhnya.
+human_rights_un_mli_rh_64kb_0010	MAKA DENGAN INI
+human_rights_un_mli_rh_64kb_0011	Perhimpunan agung mengisytiharkan
+human_rights_un_mli_rh_64kb_0012	Perisytiharan sejagat hak asasi manusia ini sebagai suatu ukuran bersamaterhadap pencapaian oleh seluruh umat manusia dan kesemua negara dengantujuan supaya setiap individu dan setiap badan masyarakat, dengan senantiasamengingati Perisytiharan ini, hendaklah berazam melalui pengajaran danpendidikan bagi memajukan sanjungan terhadap seluruh hak-hak dankebebasan ini dan secara langkah-langkah berperingkat-peringkat, di bidangnegara dan antarabangsa, bagi menjaminkan pengkitirafan dan pematuhansejagatnya yang berkesan, kedua-duanya di antara negara-negara anggotamasing-masing dan rakyat wilayah-wilayah di bawah bidangkuasa mereka.
+human_rights_un_mli_rh_64kb_0013	Perkara 1.
+human_rights_un_mli_rh_64kb_0014	Semua manusia dilahirkan bebas dan samarata dari segi kemuliaan dan hak-hak.
+human_rights_un_mli_rh_64kb_0015	Mereka mempunyai pemikiran dan perasaan hati dan hendaklah bertindakdi antara satu sama lain dengan semangat persaudaraan.
+human_rights_un_mli_rh_64kb_0016	Perkara 2.
+human_rights_un_mli_rh_64kb_0017	Setiap orang adalah berhak kepada semua hak-hak dan kebebasan yangtermaktub dalam Perisytiharan ini, tanpa sebarang apa jua pembezaan, sepertibangsa, warna kulit, jantina, bahasa, ugama, faham politik atau lain-lainfahaman, asal-usul bangsa keturunan atau sosial harta-benda, kelahiran atauapa-apa taraf lain.
+human_rights_un_mli_rh_64kb_0018	Seterusnya, tiada sebarang pembezaan boleh dibuat berasaskan pada tarafpolitik atau bidangkuasa ataupun antarabangsa sesebuah negara atau wilayahdatangnya seseorang itu, sama ianya merdeka, beraùanah, tanpa pemerintahansendiri atau berada di bawah apa-apa sekatan kedaulatan lainnya.
+human_rights_un_mli_rh_64kb_0019	Perkara 3.
+human_rights_un_mli_rh_64kb_0020	Setiap orang adalah berhak kepada nyawa, kebebasan dan keselamatan diri.
+human_rights_un_mli_rh_64kb_0021	Perkara 4.
+human_rights_un_mli_rh_64kb_0022	Tiada sesiapa pun boleh diperhamba atau diperabdikan;
+human_rights_un_mli_rh_64kb_0023	keabdian dan daganganhamba abdi hendaklah dilarang dalam semua bentuknya.
+human_rights_un_mli_rh_64kb_0024	Perkara 5.
+human_rights_un_mli_rh_64kb_0025	Tiada sesiapa pun boleh dikenakan seksaan atau layanan atau hukuman yangzalim, tidak berperikemanusiaan atau menghinakan.
+human_rights_un_mli_rh_64kb_0026	Perkara 6.
+human_rights_un_mli_rh_64kb_0027	Setiap orang adalah berhak kepada pengiktirafan di mana jua sebagai seoranginsan di sisi undang-undang.
+human_rights_un_mli_rh_64kb_0028	Perkara 7.
+human_rights_un_mli_rh_64kb_0029	Semua orang adalah samarata di sisi undang-undang dan berhak tanpa apa-apapembezaan kepada perlindungan yang samarata di sisi undang-undang.
+human_rights_un_mli_rh_64kb_0030	Semuaorang adalah berhak kepada perlindungan yang samarata daripada sebarangpembazaan yang melanggar Perisytiharan ini dan daripada sebarang hasutanterhadap pembezaan sedemikian.
+human_rights_un_mli_rh_64kb_0031	Perkara 8.
+human_rights_un_mli_rh_64kb_0032	Setiap orang adalah berhak kepada pemulihan yang berkesan oleh tribunal-tribunal kebangsaan yang kompeten terhadap tindakan-tindakan yang melanggarhak-hak asasi yang diberikannya oleh perlembagaan atau oleh undang-undang.
+human_rights_un_mli_rh_64kb_0033	Perkara 9.
+human_rights_un_mli_rh_64kb_0034	Tiada sesiapa pun boleh dikenakan tangkapan, tahanan atau pembuangannegeri secara sewenang-wenangnya.
+human_rights_un_mli_rh_64kb_0035	Perkara 10.
+human_rights_un_mli_rh_64kb_0036	Setiap orang adalah berhak dengan samarata sepenuhnya kepada pembicaraanadil dan terbuka oleh suatu tribunal bebas dan saksama, dalam penetapan hak-hak dan tanggungannya dan sebarang tuduhan jenayah terhadapnya.
+human_rights_un_mli_rh_64kb_0037	Perkara 11.
+human_rights_un_mli_rh_64kb_0038	1.
+human_rights_un_mli_rh_64kb_0039	Setiap orang yang dituduh dengan kesalahan keseksaan adalah berhakdianggap tidak salah sehingga dibuktikan salah menurut undang-undangdi dalam perbicaraan terbuka di mana dia telah diberikan segala jaminanyang perlu untuk pembelaannya.
+human_rights_un_mli_rh_64kb_0040	2.
+human_rights_un_mli_rh_64kb_0041	Tiada sesiapa pun boleh diputuskan bersalah atas sebarang kesalahankeseksaan oleh kerana sebarang tindakan atau ketinggalan yang tidakmerupakan suatu kesalahan kesiksaan, di sisi undang-undangkebangsaan atau antarabangsa, pada masa ianya dilakukan.
+human_rights_un_mli_rh_64kb_0042	Tiada pulaboleh dikenakan sebarang hukuman yang lebih berat dari hukuman yangterpakai ketika kesalahan keseksaan itu dilakukan.
+human_rights_un_mli_rh_64kb_0043	Perkara 12.
+human_rights_un_mli_rh_64kb_0044	Tiada sesiapa pun yang boleh dikenakan kepada sebarang gangguansewenang-wenangnya terhadap keadaan peribadi, keluarga, rumahtangga atausurat-menyuratnya, atau percerobohan ke atas maruah dan nama baiknya.
+human_rights_un_mli_rh_64kb_0045	Setiap orang berhak kepada perlindungan undang-undang terhadap gangguanatau percerobohan sedemikian.
+human_rights_un_mli_rh_64kb_0046	Perkara 13.
+human_rights_un_mli_rh_64kb_0047	1.
+human_rights_un_mli_rh_64kb_0048	Setiap orang adalah berhak kepada kebebasan bergerak danbermastautin di dalam sempadan sesebuah negara.
+human_rights_un_mli_rh_64kb_0049	2.
+human_rights_un_mli_rh_64kb_0050	Setiap orang berhak meninggalkan mana-mana negara, termasuknegaranya sendiri,dan kembali semula ke negaranya.
+human_rights_un_mli_rh_64kb_0051	Perkara 14.
+human_rights_un_mli_rh_64kb_0052	1.
+human_rights_un_mli_rh_64kb_0053	Setiap orang berhak memohon dan menikmati perlindungan politik dalamnegara lain daripada sebarang aniaya.
+human_rights_un_mli_rh_64kb_0054	2.
+human_rights_un_mli_rh_64kb_0055	Hak ini tidak boleh dituntut bagi pendakwaan yang benar-benar timbuldaripada kesalahan bukan politik atau daripada tindakan yangbertentangan dengan tujuan-tujuan dan prinsip-prinsip Bangsa-Bangsa
+human_rights_un_mli_rh_64kb_0056	Bersatu.
+human_rights_un_mli_rh_64kb_0057	Perkara 15.
+human_rights_un_mli_rh_64kb_0058	1.
+human_rights_un_mli_rh_64kb_0059	Setiap orang adalah berhak kepada suatu kewarganegaraan.
+human_rights_un_mli_rh_64kb_0060	2.
+human_rights_un_mli_rh_64kb_0061	Tiada sesiapa pun boleh dilucutkan kewarganegaraannya secarasewenangwenangnya atau dinafikan hak menukar kewarganegaraanya.
+human_rights_un_mli_rh_64kb_0062	Perkara 16.
+human_rights_un_mli_rh_64kb_0063	1.
+human_rights_un_mli_rh_64kb_0064	Lelaki dan perempuan dewasa, tanpa mengira bangsa, kewarganegaraanatau ugama, berhak berkahwin dan menubuhkan keluarga.
+human_rights_un_mli_rh_64kb_0065	Merekaadalah berhak kepada hak-hak samarata berhubung denganperkahwinan, dalam tempoh masa perkahwinan dan padapembubarannya.
+human_rights_un_mli_rh_64kb_0066	2.
+human_rights_un_mli_rh_64kb_0067	Perkahwinan hanya boleh dilaksanakan dengan persetujuan bebas dansepenuhnya oleh pihak-pihak yang bercadang untuk berkahwin.
+human_rights_un_mli_rh_64kb_0068	3.
+human_rights_un_mli_rh_64kb_0069	Keluarga adalah yunit kumpulan semulajadi dan asasi dalam masyarakatdan adalah berhak kepada perlindungan oleh masyarakat dan Negara.
+human_rights_un_mli_rh_64kb_0070	Perkara 17.
+human_rights_un_mli_rh_64kb_0071	1.
+human_rights_un_mli_rh_64kb_0072	Setiap orang berhak memiliki harta secara bersendirian serta secaraberkongsi dengan orang lain.
+human_rights_un_mli_rh_64kb_0073	2.
+human_rights_un_mli_rh_64kb_0074	Tiada sesiapa pun boleh dilucutkan harta-bendanya secara sewenang-wenangnya.
+human_rights_un_mli_rh_64kb_0075	Perkara 18.
+human_rights_un_mli_rh_64kb_0076	Setiap orang adalah berhak kepada kebebasan berfikir, perasaan hati danugama;
+human_rights_un_mli_rh_64kb_0077	hak ini termasuklah kebebasan menukar ugama atau kepercayaannya,dan kebebasan, samada secara bersendirian atau secara bersama-samadengan orang-orang lain dan secara terbuka atau bersendiri, menganuti ugamaatau kepercayaannya melalui pengajaran, amalan, pemujaan dan pematuhan.
+human_rights_un_mli_rh_64kb_0078	Perkara 19.
+human_rights_un_mli_rh_64kb_0079	Setiap orang adalah berhak kepada kebebasan pendapat dan mengeluarkanfikiran;
+human_rights_un_mli_rh_64kb_0080	hak ini termasuklah kebebasan memegang pendapat tanpa gangguandan menuntut, menerima dan menyebarkan maklumat dan buah fikiran melaluisebarang media dan tanpa mengira sempadan.
+human_rights_un_mli_rh_64kb_0081	Perkara 20.
+human_rights_un_mli_rh_64kb_0082	1.
+human_rights_un_mli_rh_64kb_0083	Setiap orang adalah berhak kepada kebebasan berhimpun secara amandan menubuhkan persatuan.
+human_rights_un_mli_rh_64kb_0084	2.
+human_rights_un_mli_rh_64kb_0085	Tiada sesiapa pun boleh dipaksa menjadi ahli mana-mana pertubuhan.
+human_rights_un_mli_rh_64kb_0086	Perkara 21.
+human_rights_un_mli_rh_64kb_0087	1.
+human_rights_un_mli_rh_64kb_0088	Setiap orang berhak mengambil bahagian dalam kerajaan negaranya,secara langsung atau melalui wakil-wakil yang dipilih dengan bebas.
+human_rights_un_mli_rh_64kb_0089	2.
+human_rights_un_mli_rh_64kb_0090	Setiap orang adalah berhak kepada peluang samarata kepadaperkhidmatan awam dalam negaranya.
+human_rights_un_mli_rh_64kb_0091	3.
+human_rights_un_mli_rh_64kb_0092	Kemahuan rakyat hendaklah menjadi asas kewibawaan kerajaan;
+human_rights_un_mli_rh_64kb_0093	kemahuan ini hendaklah dibuktikan melalui pilihanraya berkala yang sejatiyang mana hendaklah diadakan secara sejagat dan samarata danhendaklah diadakan secara undi sulit atau melalui acara pengundianbebas yang ketara.
+human_rights_un_mli_rh_64kb_0094	Perkara 22.
+human_rights_un_mli_rh_64kb_0095	Setiap orang, sebagai anggota masyarakat, adalah berhak kepada keselamatansosial dans berhak menjadikan suatu kenyataan, melalui usaha negara dankerjasama antara-bangsa dan menurut organisai dan sumber-sumber dalamnegara masing-masing, hak-hak ekonomi, sosial dan kebudayaan yang termestibagi kemuliaannya dan perkembangan bebas keperibadiannya.
+human_rights_un_mli_rh_64kb_0096	Perkara 23.
+human_rights_un_mli_rh_64kb_0097	1.
+human_rights_un_mli_rh_64kb_0098	Setiap orang adalah berhak kepada pekerjaan, kepada pemilihanpekerjaannya secara bebas, kepada keadaan-keadaan pekerjaan yangadil dan berfaedah baginya dan kepada perlindungan daripadapengangguran.
+human_rights_un_mli_rh_64kb_0099	2.
+human_rights_un_mli_rh_64kb_0100	Setiap orang, tanpa sebarang pembezaan, adalah berhak kepadapenggajian yang sama bagi kerja yang sama.
+human_rights_un_mli_rh_64kb_0101	3.
+human_rights_un_mli_rh_64kb_0102	Setiap orang yang bekerja adalah berhak kepada pembayaran saraanyang adil dan berfaedah baginya yang mana mempastikan buat diri dankeluarganya suatu kehidupan sesuai dengan kemuliaan manusia, danyang mana ditambah, jika pertu, oleh cara-cara perlindungan sosial yanglainnya.
+human_rights_un_mli_rh_64kb_0103	4.
+human_rights_un_mli_rh_64kb_0104	Setiap orang berhak menubuh dan menjadi ahli kesatuan sekerja bagimemperlindungi kepentingan-kepentingannya.
+human_rights_un_mli_rh_64kb_0105	Perkara 24
+human_rights_un_mli_rh_64kb_0106	Setiap orang adalah berhak kepada rihat dan masa lapang, termasuk batasanmunasabah keatas masa bekerja dan cuti bergaji yang berkala.
+human_rights_un_mli_rh_64kb_0107	Perkara 25
+human_rights_un_mli_rh_64kb_0108	1.
+human_rights_un_mli_rh_64kb_0109	Setiap orang adalah berhak kepada suatu taraf hidup yang memadai bagikesihatan dan kebajikan diri dan keluarganya, termasuklah makanan,pakaian, perumahan dan pengawasan perubatan serta perkhidmatansosial yang perlu, dan berhak kepada perlindungan ketika berlakunyapengangguran, kesakitan, ketidakupayaan, diperjandaan, keuzuran ataulain-lain kekurangan kehidupan dalam keadaan di luar kawalannya.
+human_rights_un_mli_rh_64kb_0110	2.
+human_rights_un_mli_rh_64kb_0111	Ibu dan anak adalah berhak kepada jagaan serta bantuan khas.
+human_rights_un_mli_rh_64kb_0112	Semuakanak-kanak, samada dilahirkan di dalam maupun di luar nikah,hendaklah menikmati perlindungan sosial yang sama.
+human_rights_un_mli_rh_64kb_0113	Perkara 26.
+human_rights_un_mli_rh_64kb_0114	1.
+human_rights_un_mli_rh_64kb_0115	1)Setiap orang adalah berhak kepada pelajaran.
+human_rights_un_mli_rh_64kb_0116	Pelajaran hendaklahdiberikan percuma, sekurang-kurangnya pada peringkat awal danasasnya.
+human_rights_un_mli_rh_64kb_0117	Pelajaran peringkat awal hendaklah diwajibkan.
+human_rights_un_mli_rh_64kb_0118	Pelajaranteknikal serta profesional hendaklah disediakan untuk umum danpelajaran tinggi hendaklah mempunyai akses yang samarata kepadasemua orang atas dasar kebolehan.
+human_rights_un_mli_rh_64kb_0119	2.
+human_rights_un_mli_rh_64kb_0120	Pelajaran hendaklah ditujukan kepada perkembangan sepenuhnyakeperibadian manusia dan ke arah memperkukuhkan lagi rasa hormatbagi hak-hak dan kebebasan asasi manusia, lanya hendaklah memupukpersefahaman, kesabaran dan persahabatan di kalangan semua negara,bangsa atau kumpulan-kumpulan ugama, dan hendaklah memajukansegala kegiatan Bangsa-Bangsa Bersatu demi memelihara keamanan.
+human_rights_un_mli_rh_64kb_0121	3.
+human_rights_un_mli_rh_64kb_0122	Ibu-bapa mempunyai hak terdahulu untuk memilih jenis pelajaran yangakan diberikan kepada anak-anak mereka.
+human_rights_un_mli_rh_64kb_0123	Perkara 27.
+human_rights_un_mli_rh_64kb_0124	1.
+human_rights_un_mli_rh_64kb_0125	Setiap orang berhak secara bebas mengambil bahagian dalam kegiatankebudayaan masyarakatnya, menikmati kesenian dan sama-samamerasai kemajuan sains dan faedah-faedahnya.
+human_rights_un_mli_rh_64kb_0126	2.
+human_rights_un_mli_rh_64kb_0127	Setiap orang adalah berhak kepada perlindungan kepentingan-kepentingan moral dan kebendaan hasil dari sebarang penghasilan sains,kesusasteraan atau kesenian yang mana ianya adalah penciptanya.
+human_rights_un_mli_rh_64kb_0128	Perkara 28.
+human_rights_un_mli_rh_64kb_0129	Setiap orang adalah berhak kepada suatu susunan sosial dan antarabangsadalam mana hak-hak asasi dan kebebasan yang termaktub dalam Perisytiharanini boleh dijadikan kenyataan sepenuhnya.
+human_rights_un_mli_rh_64kb_0130	Perkara 29.
+human_rights_un_mli_rh_64kb_0131	1.
+human_rights_un_mli_rh_64kb_0132	Setiap orang mempunyai kewajipan terhadap masyarakat hanya dalammana perkembangan keperibadiannya secara bebas dan seluruhnyatermungkin.
+human_rights_un_mli_rh_64kb_0133	2.
+human_rights_un_mli_rh_64kb_0134	Dalam mengamalkan hak-hak dan kebebasannya, setiap orang tertaklukhanya kepada batasan-batasan seperti yang ditentukan oleh undang-undang semata-mata bagi tujuan menjamin pengiktirafan danpenghormatan yang sepatutnya terhadap hak-hak dan kebebasan oranglain dan untuk mendekati keperluan-keperluan sepatutnya bagi akhlak,ketenteraman awam dan kebajikan umum dalam suatu masyarakat yangdemokratik.
+human_rights_un_mli_rh_64kb_0135	3.
+human_rights_un_mli_rh_64kb_0136	Hak-hak dan kebebasan ini tidak boleh sama sekali diamalkan secarabertentangan dengan tujuan-tujuan dan prinsip-prinsip Bangsa-Bangsa
+human_rights_un_mli_rh_64kb_0137	Bersatu.
+human_rights_un_mli_rh_64kb_0138	Perkara 30.
+human_rights_un_mli_rh_64kb_0139	Tiada apa-apa jua dalam Perisytiharan ini boleh ditafsirkan sebagi sedia tersiratmemberikan kepada mana-mana negara, kumpulan atau perseorangensebarang hak untuk melibatkan diri dalam apa-apa kegiatan atau melakukanapa-apa perbuatan dengan tujuan memusnahkan apa-apa hak dan kebebasanyang termaktub dalam Perisytiharan ini.

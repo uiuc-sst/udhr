@@ -1,144 +1,144 @@
-spa_0001	Declaración Universal de Derechos Humanos
-spa_0002	Adoptada y proclamada por la Asamblea General en su resolución 217 A (III), de
-spa_0003	10 de diciembre de 1948
-spa_0004	Preámbulo
-spa_0005	Considerando que la libertad, la justicia y la paz en el mundo tienen por base elreconocimiento de la dignidad intrínseca y de los derechos iguales e inalienablesde todos los miembros de la familia humana,
-spa_0006	Considerando que el desconocimiento y el menosprecio de los derechoshumanos han originado actos de barbarie ultrajantes para la conciencia de lahumanidad;
-spa_0007	y que se ha proclamado, como la aspiración más elevada delhombre, el advenimiento de un mundo en que los seres humanos, liberados deltemor y de la miseria, disfruten de la libertad de palabra y de la libertad decreencias,
-spa_0008	Considerando esencial que los derechos humanos sean protegidos por unrégimen de Derecho, a fin de que el hombre no se vea compelido al supremorecurso de la rebelión contra la tiranía y la opresión,
-spa_0009	Considerando también esencial promover el desarrollo de relaciones amistosasentre las naciones,
-spa_0010	Considerando que los pueblos de las Naciones Unidas han reafirmado en la
-spa_0011	Carta su fe en los derechos fundamentales del hombre, en la dignidad y el valorde la persona humana y en la igualdad de derechos de hombres y mujeres;
-spa_0012	y sehan declarado resueltos a promover el progreso social y a elevar el nivel de vidadentro de un concepto más amplio de la libertad,
-spa_0013	Considerando que los Estados Miembros se han comprometido a asegurar, encooperación con la Organización de las Naciones Unidas, el respeto universal yefectivo a los derechos y libertades fundamentales del hombre, y
-spa_0014	Considerando que una concepción común de estos derechos y libertades es dela mayor importancia para el pleno cumplimiento de dicho compromiso,
-spa_0015	La Asamblea General
-spa_0016	Proclama la presente Declaración Universal de Derechos Humanos como idealcomún por el que todos los pueblos y naciones deben esforzarse, a fin de quetanto los individuos como las instituciones, inspirándose constantemente en ella,promuevan, mediante la enseñanza y la educación, el respeto a estos derechosy libertades, y aseguren, por medidas progresivas de carácter nacional einternacional, su reconocimiento y aplicación universales y efectivos, tanto entrelos pueblos de los Estados Miembros como entre los de los territorios colocadosbajo su jurisdicción.
-spa_0017	Artículo 1
-spa_0018	Todos los seres humanos nacen libres e iguales en dignidad y derechos y,dotados como están de razón y conciencia, deben comportarse fraternalmentelos unos con los otros.
-spa_0019	Artículo 2
-spa_0020	Toda persona tiene los derechos y libertades proclamados en esta Declaración,sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o decualquier otra índole, origen nacional o social, posición económica, nacimiento ocualquier otra condición.
-spa_0021	Además, no se hará distinción alguna fundada en la condición política, jurídica ointernacional del país o territorio de cuya jurisdicción dependa una persona,tanto si se trata de un país independiente, como de un territorio bajoadministración fiduciaria, no autónomo o sometido a cualquier otra limitación desoberanía.
-spa_0022	Artículo 3
-spa_0023	Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de supersona.
-spa_0024	Artículo 4
-spa_0025	Nadie estará sometido a esclavitud ni a servidumbre;
-spa_0026	la esclavitud y la trata deesclavos están prohibidas en todas sus formas.
-spa_0027	Artículo 5
-spa_0028	Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos odegradantes.
-spa_0029	Artículo 6
-spa_0030	Todo ser humano tiene derecho, en todas partes, al reconocimiento de supersonalidad jurídica.
-spa_0031	Artículo 7
-spa_0032	Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protecciónde la ley.
-spa_0033	Todos tienen derecho a igual protección contra toda discriminación queinfrinja esta Declaración y contra toda provocación a tal discriminación.
-spa_0034	Artículo 8
-spa_0035	Toda persona tiene derecho a un recurso efectivo, ante los tribunales nacionalescompetentes, que la ampare contra actos que violen sus derechosfundamentales reconocidos por la constitución o por la ley.
-spa_0036	Artículo 9
-spa_0037	Nadie podrá ser arbitrariamente detenido, preso ni desterrado.
-spa_0038	Artículo 10
-spa_0039	Toda persona tiene derecho, en condiciones de plena igualdad, a ser oídapúblicamente y con justicia por un tribunal independiente e imparcial, para ladeterminación de sus derechos y obligaciones o para el examen de cualquieracusación contra ella en materia penal.
-spa_0040	Artículo 11
-spa_0041	1.
-spa_0042	Toda persona acusada de delito tiene derecho a que se presuma suinocencia mientras no se pruebe su culpabilidad, conforme a la ley y enjuicio público en el que se le hayan asegurado todas las garantíasnecesarias para su defensa.
-spa_0043	2.
-spa_0044	Nadie será condenado por actos u omisiones que en el momento decometerse no fueron delictivos según el Derecho nacional o internacional.
-spa_0045	Tampoco se impondrá pena más grave que la aplicable en el momento dela comisión del delito.
-spa_0046	Artículo 12
-spa_0047	Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, sudomicilio o su correspondencia, ni de ataques a su honra o a su reputación.
-spa_0048	Toda persona tiene derecho a la protección de la ley contra tales injerencias oataques.
-spa_0049	Artículo 13
-spa_0050	1.
-spa_0051	Toda persona tiene derecho a circular libremente y a elegir su residenciaen el territorio de un Estado.
-spa_0052	2.
-spa_0053	Toda persona tiene derecho a salir de cualquier país, incluso el propio, ya regresar a su país.
-spa_0054	Artículo 14
-spa_0055	1.
-spa_0056	En caso de persecución, toda persona tiene derecho a buscar asilo, y adisfrutar de él, en cualquier país.
-spa_0057	2.
-spa_0058	Este derecho no podrá ser invocado contra una acción judicial realmenteoriginada por delitos comunes o por actos opuestos a los propósitos yprincipios de las Naciones Unidas.
-spa_0059	Artículo 15
-spa_0060	1.
-spa_0061	Toda persona tiene derecho a una nacionalidad.
-spa_0062	2.
-spa_0063	A nadie se privará arbitrariamente de su nacionalidad ni del derecho acambiar de nacionalidad.
-spa_0064	Artículo 16
-spa_0065	1.
-spa_0066	Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sinrestricción alguna por motivos de raza, nacionalidad o religión, a casarsey fundar una familia;
-spa_0067	y disfrutarán de iguales derechos en cuanto almatrimonio, durante el matrimonio y en caso de disolución del matrimonio.
-spa_0068	2.
-spa_0069	Sólo mediante libre y pleno consentimiento de los futuros esposos podrácontraerse el matrimonio.
-spa_0070	3.
-spa_0071	La familia es el elemento natural y fundamental de la sociedad y tienederecho a la protección de la sociedad y del Estado.
-spa_0072	Artículo 17
-spa_0073	1.
-spa_0074	Toda persona tiene derecho a la propiedad, individual y colectivamente.
-spa_0075	2.
-spa_0076	Nadie será privado arbitrariamente de su propiedad.
-spa_0077	Artículo 18
-spa_0078	Toda persona tiene derecho a la libertad de pensamiento, de conciencia y dereligión;
-spa_0079	este derecho incluye la libertad de cambiar de religión o de creencia, asícomo la libertad de manifestar su religión o su creencia, individual ycolectivamente, tanto en público como en privado, por la enseñanza, la práctica,el culto y la observancia.
-spa_0080	Artículo 19
-spa_0081	Todo individuo tiene derecho a la libertad de opinión y de expresión;
-spa_0082	estederecho incluye el no ser molestado a causa de sus opiniones, el de investigar yrecibir informaciones y opiniones, y el de difundirlas, sin limitación de fronteras,por cualquier medio de expresión.
-spa_0083	Artículo 20
-spa_0084	1.
-spa_0085	Toda persona tiene derecho a la libertad de reunión y de asociaciónpacíficas.
-spa_0086	2.
-spa_0087	Nadie podrá ser obligado a pertenecer a una asociación.
-spa_0088	Artículo 21
-spa_0089	1.
-spa_0090	Toda persona tiene derecho a participar en el gobierno de su país,directamente o por medio de representantes libremente escogidos.
-spa_0091	2.
-spa_0092	Toda persona tiene el derecho de acceso, en condiciones de igualdad, alas funciones públicas de su país.
-spa_0093	3.
-spa_0094	La voluntad del pueblo es la base de la autoridad del poder público;
-spa_0095	estavoluntad se expresará mediante elecciones auténticas que habrán decelebrarse periódicamente, por sufragio universal e igual y por votosecreto u otro procedimiento equivalente que garantice la libertad delvoto.
-spa_0096	Artículo 22
-spa_0097	Toda persona, como miembro de la sociedad, tiene derecho a la seguridadsocial, y a obtener, mediante el esfuerzo nacional y la cooperación internacional,habida cuenta de la organización y los recursos de cada Estado, la satisfacciónde los derechos económicos, sociales y culturales, indispensables a su dignidady al libre desarrollo de su personalidad.
-spa_0098	Artículo 23
-spa_0099	1.
-spa_0100	Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, acondiciones equitativas y satisfactorias de trabajo y a la protección contrael desempleo.
-spa_0101	2.
-spa_0102	Toda persona tiene derecho, sin discriminació n alguna, a igual salario portrabajo igual.
-spa_0103	3.
-spa_0104	Toda persona que trabaja tiene derecho a una remuneración equitativa ysatisfactoria, que le asegure, así como a su familia, una existenciaconforme a la dignidad humana y que será completada, en casonecesario, por cualesquiera otros medios de protección social.
-spa_0105	4.
-spa_0106	Toda persona tiene derecho a fundar sindicatos y a sindicarse para ladefensa de sus intereses.
-spa_0107	Artículo 24
-spa_0108	Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a unalimitación razonable de la duración del trabajo y a vacaciones periódicaspagadas.
-spa_0109	Artículo 25
-spa_0110	1.
-spa_0111	Toda persona tiene derecho a un nivel de vida adecuado que le asegure,así como a su familia, la salud y el bienestar, y en especial laalimentación, el vestido, la vivienda, la asistencia médica y los serviciossociales necesarios;
-spa_0112	tiene asimismo derecho a los seguros en caso dedesempleo, enfermedad, invalidez, viudez, vejez y otros casos de pérdidade sus medios de subsistencia por circunstancias independientes de suvoluntad.
-spa_0113	2.
-spa_0114	La maternidad y la infancia tienen derecho a cuidados y asistenciaespeciales.
-spa_0115	Todos los niños, nacidos de matrimonio o fuera dematrimonio, tienen derecho a igual protección social.
-spa_0116	Artículo 26
-spa_0117	1.
-spa_0118	Toda persona tiene derecho a la educación.
-spa_0119	La educación debe sergratuita, al menos en lo concerniente a la instrucción elemental yfundamental.
-spa_0120	La instrucción elemental será obligatoria.
-spa_0121	La instruccióntécnica y profesional habrá de ser generalizada;
-spa_0122	el acceso a los estudiossuperiores será igual para todos, en función de los méritos respectivos.
-spa_0123	2.
-spa_0124	La educación tendrá por objeto el pleno desarrollo de la personalidadhumana y el fortalecimiento del respeto a los derechos humanos y a laslibertades fundamentales;
-spa_0125	favorecerá la comprensión, la tolerancia y laamistad entre todas las naciones y todos los grupos étnicos o religiosos;
-spa_0126	ypromoverá el desarrollo de las actividades de las Naciones Unidas para elmantenimiento de la paz.
-spa_0127	3.
-spa_0128	Los padres tendrán derecho preferente a escoger el tipo de educaciónque habrá de darse a sus hijos.
-spa_0129	Artículo 27
-spa_0130	1.
-spa_0131	Toda persona tiene derecho a tomar parte libremente en la vida culturalde la comunidad, a gozar de las artes y a participar en el progresocientífico y en los beneficios que de él resulten.
-spa_0132	2.
-spa_0133	Toda persona tiene derecho a la protección de los intereses morales ymateriales que le correspondan por razón de las producciones científicas,literarias o artísticas de que sea autora.
-spa_0134	Artículo 28
-spa_0135	Toda persona tiene derecho a que se establezca un orden social e internacionalen el que los derechos y libertades proclamados en esta Declaración se haganplenamente efectivos.
-spa_0136	Artículo 29
-spa_0137	1.
-spa_0138	Toda persona tiene deberes respecto a la comunidad, puesto que sólo enella puede desarrollar libre y plenamente su personalidad.
-spa_0139	2.
-spa_0140	En el ejercicio de sus derechos y en el disfrute de sus libertades, todapersona estará solamente sujeta a las limitaciones establecidas por la leycon el único fin de asegurar el reconocimiento y el respeto de losderechos y libertades de los demás, y de satisfacer las justas exigenciasde la moral, del orden público y del bienestar general en una sociedaddemocrática.
-spa_0141	3.
-spa_0142	Estos derechos y libertades no podrán en ningún caso ser ejercidos enoposición a los propósitos y principios de las Naciones Unidas.
-spa_0143	Artículo 30
-spa_0144	Nada en la presente Declaración podrá interpretarse en el sentido de queconfiere derecho alguno al Estado, a un grupo o a una persona, para emprendery desarrollar actividades o realizar actos tendientes a la supresión de cualquierade los derechos y libertades proclamados en esta Declaración.
+human_rights_un_spn_krs_64kb_0001	Declaración Universal de Derechos Humanos
+human_rights_un_spn_krs_64kb_0002	Adoptada y proclamada por la Asamblea General en su resolución 217 A (III), de
+human_rights_un_spn_krs_64kb_0003	10 de diciembre de 1948
+human_rights_un_spn_krs_64kb_0004	Preámbulo
+human_rights_un_spn_krs_64kb_0005	Considerando que la libertad, la justicia y la paz en el mundo tienen por base elreconocimiento de la dignidad intrínseca y de los derechos iguales e inalienablesde todos los miembros de la familia humana,
+human_rights_un_spn_krs_64kb_0006	Considerando que el desconocimiento y el menosprecio de los derechoshumanos han originado actos de barbarie ultrajantes para la conciencia de lahumanidad;
+human_rights_un_spn_krs_64kb_0007	y que se ha proclamado, como la aspiración más elevada delhombre, el advenimiento de un mundo en que los seres humanos, liberados deltemor y de la miseria, disfruten de la libertad de palabra y de la libertad decreencias,
+human_rights_un_spn_krs_64kb_0008	Considerando esencial que los derechos humanos sean protegidos por unrégimen de Derecho, a fin de que el hombre no se vea compelido al supremorecurso de la rebelión contra la tiranía y la opresión,
+human_rights_un_spn_krs_64kb_0009	Considerando también esencial promover el desarrollo de relaciones amistosasentre las naciones,
+human_rights_un_spn_krs_64kb_0010	Considerando que los pueblos de las Naciones Unidas han reafirmado en la
+human_rights_un_spn_krs_64kb_0011	Carta su fe en los derechos fundamentales del hombre, en la dignidad y el valorde la persona humana y en la igualdad de derechos de hombres y mujeres;
+human_rights_un_spn_krs_64kb_0012	y sehan declarado resueltos a promover el progreso social y a elevar el nivel de vidadentro de un concepto más amplio de la libertad,
+human_rights_un_spn_krs_64kb_0013	Considerando que los Estados Miembros se han comprometido a asegurar, encooperación con la Organización de las Naciones Unidas, el respeto universal yefectivo a los derechos y libertades fundamentales del hombre, y
+human_rights_un_spn_krs_64kb_0014	Considerando que una concepción común de estos derechos y libertades es dela mayor importancia para el pleno cumplimiento de dicho compromiso,
+human_rights_un_spn_krs_64kb_0015	La Asamblea General
+human_rights_un_spn_krs_64kb_0016	Proclama la presente Declaración Universal de Derechos Humanos como idealcomún por el que todos los pueblos y naciones deben esforzarse, a fin de quetanto los individuos como las instituciones, inspirándose constantemente en ella,promuevan, mediante la enseñanza y la educación, el respeto a estos derechosy libertades, y aseguren, por medidas progresivas de carácter nacional einternacional, su reconocimiento y aplicación universales y efectivos, tanto entrelos pueblos de los Estados Miembros como entre los de los territorios colocadosbajo su jurisdicción.
+human_rights_un_spn_krs_64kb_0017	Artículo 1
+human_rights_un_spn_krs_64kb_0018	Todos los seres humanos nacen libres e iguales en dignidad y derechos y,dotados como están de razón y conciencia, deben comportarse fraternalmentelos unos con los otros.
+human_rights_un_spn_krs_64kb_0019	Artículo 2
+human_rights_un_spn_krs_64kb_0020	Toda persona tiene los derechos y libertades proclamados en esta Declaración,sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o decualquier otra índole, origen nacional o social, posición económica, nacimiento ocualquier otra condición.
+human_rights_un_spn_krs_64kb_0021	Además, no se hará distinción alguna fundada en la condición política, jurídica ointernacional del país o territorio de cuya jurisdicción dependa una persona,tanto si se trata de un país independiente, como de un territorio bajoadministración fiduciaria, no autónomo o sometido a cualquier otra limitación desoberanía.
+human_rights_un_spn_krs_64kb_0022	Artículo 3
+human_rights_un_spn_krs_64kb_0023	Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de supersona.
+human_rights_un_spn_krs_64kb_0024	Artículo 4
+human_rights_un_spn_krs_64kb_0025	Nadie estará sometido a esclavitud ni a servidumbre;
+human_rights_un_spn_krs_64kb_0026	la esclavitud y la trata deesclavos están prohibidas en todas sus formas.
+human_rights_un_spn_krs_64kb_0027	Artículo 5
+human_rights_un_spn_krs_64kb_0028	Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos odegradantes.
+human_rights_un_spn_krs_64kb_0029	Artículo 6
+human_rights_un_spn_krs_64kb_0030	Todo ser humano tiene derecho, en todas partes, al reconocimiento de supersonalidad jurídica.
+human_rights_un_spn_krs_64kb_0031	Artículo 7
+human_rights_un_spn_krs_64kb_0032	Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protecciónde la ley.
+human_rights_un_spn_krs_64kb_0033	Todos tienen derecho a igual protección contra toda discriminación queinfrinja esta Declaración y contra toda provocación a tal discriminación.
+human_rights_un_spn_krs_64kb_0034	Artículo 8
+human_rights_un_spn_krs_64kb_0035	Toda persona tiene derecho a un recurso efectivo, ante los tribunales nacionalescompetentes, que la ampare contra actos que violen sus derechosfundamentales reconocidos por la constitución o por la ley.
+human_rights_un_spn_krs_64kb_0036	Artículo 9
+human_rights_un_spn_krs_64kb_0037	Nadie podrá ser arbitrariamente detenido, preso ni desterrado.
+human_rights_un_spn_krs_64kb_0038	Artículo 10
+human_rights_un_spn_krs_64kb_0039	Toda persona tiene derecho, en condiciones de plena igualdad, a ser oídapúblicamente y con justicia por un tribunal independiente e imparcial, para ladeterminación de sus derechos y obligaciones o para el examen de cualquieracusación contra ella en materia penal.
+human_rights_un_spn_krs_64kb_0040	Artículo 11
+human_rights_un_spn_krs_64kb_0041	1.
+human_rights_un_spn_krs_64kb_0042	Toda persona acusada de delito tiene derecho a que se presuma suinocencia mientras no se pruebe su culpabilidad, conforme a la ley y enjuicio público en el que se le hayan asegurado todas las garantíasnecesarias para su defensa.
+human_rights_un_spn_krs_64kb_0043	2.
+human_rights_un_spn_krs_64kb_0044	Nadie será condenado por actos u omisiones que en el momento decometerse no fueron delictivos según el Derecho nacional o internacional.
+human_rights_un_spn_krs_64kb_0045	Tampoco se impondrá pena más grave que la aplicable en el momento dela comisión del delito.
+human_rights_un_spn_krs_64kb_0046	Artículo 12
+human_rights_un_spn_krs_64kb_0047	Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, sudomicilio o su correspondencia, ni de ataques a su honra o a su reputación.
+human_rights_un_spn_krs_64kb_0048	Toda persona tiene derecho a la protección de la ley contra tales injerencias oataques.
+human_rights_un_spn_krs_64kb_0049	Artículo 13
+human_rights_un_spn_krs_64kb_0050	1.
+human_rights_un_spn_krs_64kb_0051	Toda persona tiene derecho a circular libremente y a elegir su residenciaen el territorio de un Estado.
+human_rights_un_spn_krs_64kb_0052	2.
+human_rights_un_spn_krs_64kb_0053	Toda persona tiene derecho a salir de cualquier país, incluso el propio, ya regresar a su país.
+human_rights_un_spn_krs_64kb_0054	Artículo 14
+human_rights_un_spn_krs_64kb_0055	1.
+human_rights_un_spn_krs_64kb_0056	En caso de persecución, toda persona tiene derecho a buscar asilo, y adisfrutar de él, en cualquier país.
+human_rights_un_spn_krs_64kb_0057	2.
+human_rights_un_spn_krs_64kb_0058	Este derecho no podrá ser invocado contra una acción judicial realmenteoriginada por delitos comunes o por actos opuestos a los propósitos yprincipios de las Naciones Unidas.
+human_rights_un_spn_krs_64kb_0059	Artículo 15
+human_rights_un_spn_krs_64kb_0060	1.
+human_rights_un_spn_krs_64kb_0061	Toda persona tiene derecho a una nacionalidad.
+human_rights_un_spn_krs_64kb_0062	2.
+human_rights_un_spn_krs_64kb_0063	A nadie se privará arbitrariamente de su nacionalidad ni del derecho acambiar de nacionalidad.
+human_rights_un_spn_krs_64kb_0064	Artículo 16
+human_rights_un_spn_krs_64kb_0065	1.
+human_rights_un_spn_krs_64kb_0066	Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sinrestricción alguna por motivos de raza, nacionalidad o religión, a casarsey fundar una familia;
+human_rights_un_spn_krs_64kb_0067	y disfrutarán de iguales derechos en cuanto almatrimonio, durante el matrimonio y en caso de disolución del matrimonio.
+human_rights_un_spn_krs_64kb_0068	2.
+human_rights_un_spn_krs_64kb_0069	Sólo mediante libre y pleno consentimiento de los futuros esposos podrácontraerse el matrimonio.
+human_rights_un_spn_krs_64kb_0070	3.
+human_rights_un_spn_krs_64kb_0071	La familia es el elemento natural y fundamental de la sociedad y tienederecho a la protección de la sociedad y del Estado.
+human_rights_un_spn_krs_64kb_0072	Artículo 17
+human_rights_un_spn_krs_64kb_0073	1.
+human_rights_un_spn_krs_64kb_0074	Toda persona tiene derecho a la propiedad, individual y colectivamente.
+human_rights_un_spn_krs_64kb_0075	2.
+human_rights_un_spn_krs_64kb_0076	Nadie será privado arbitrariamente de su propiedad.
+human_rights_un_spn_krs_64kb_0077	Artículo 18
+human_rights_un_spn_krs_64kb_0078	Toda persona tiene derecho a la libertad de pensamiento, de conciencia y dereligión;
+human_rights_un_spn_krs_64kb_0079	este derecho incluye la libertad de cambiar de religión o de creencia, asícomo la libertad de manifestar su religión o su creencia, individual ycolectivamente, tanto en público como en privado, por la enseñanza, la práctica,el culto y la observancia.
+human_rights_un_spn_krs_64kb_0080	Artículo 19
+human_rights_un_spn_krs_64kb_0081	Todo individuo tiene derecho a la libertad de opinión y de expresión;
+human_rights_un_spn_krs_64kb_0082	estederecho incluye el no ser molestado a causa de sus opiniones, el de investigar yrecibir informaciones y opiniones, y el de difundirlas, sin limitación de fronteras,por cualquier medio de expresión.
+human_rights_un_spn_krs_64kb_0083	Artículo 20
+human_rights_un_spn_krs_64kb_0084	1.
+human_rights_un_spn_krs_64kb_0085	Toda persona tiene derecho a la libertad de reunión y de asociaciónpacíficas.
+human_rights_un_spn_krs_64kb_0086	2.
+human_rights_un_spn_krs_64kb_0087	Nadie podrá ser obligado a pertenecer a una asociación.
+human_rights_un_spn_krs_64kb_0088	Artículo 21
+human_rights_un_spn_krs_64kb_0089	1.
+human_rights_un_spn_krs_64kb_0090	Toda persona tiene derecho a participar en el gobierno de su país,directamente o por medio de representantes libremente escogidos.
+human_rights_un_spn_krs_64kb_0091	2.
+human_rights_un_spn_krs_64kb_0092	Toda persona tiene el derecho de acceso, en condiciones de igualdad, alas funciones públicas de su país.
+human_rights_un_spn_krs_64kb_0093	3.
+human_rights_un_spn_krs_64kb_0094	La voluntad del pueblo es la base de la autoridad del poder público;
+human_rights_un_spn_krs_64kb_0095	estavoluntad se expresará mediante elecciones auténticas que habrán decelebrarse periódicamente, por sufragio universal e igual y por votosecreto u otro procedimiento equivalente que garantice la libertad delvoto.
+human_rights_un_spn_krs_64kb_0096	Artículo 22
+human_rights_un_spn_krs_64kb_0097	Toda persona, como miembro de la sociedad, tiene derecho a la seguridadsocial, y a obtener, mediante el esfuerzo nacional y la cooperación internacional,habida cuenta de la organización y los recursos de cada Estado, la satisfacciónde los derechos económicos, sociales y culturales, indispensables a su dignidady al libre desarrollo de su personalidad.
+human_rights_un_spn_krs_64kb_0098	Artículo 23
+human_rights_un_spn_krs_64kb_0099	1.
+human_rights_un_spn_krs_64kb_0100	Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, acondiciones equitativas y satisfactorias de trabajo y a la protección contrael desempleo.
+human_rights_un_spn_krs_64kb_0101	2.
+human_rights_un_spn_krs_64kb_0102	Toda persona tiene derecho, sin discriminació n alguna, a igual salario portrabajo igual.
+human_rights_un_spn_krs_64kb_0103	3.
+human_rights_un_spn_krs_64kb_0104	Toda persona que trabaja tiene derecho a una remuneración equitativa ysatisfactoria, que le asegure, así como a su familia, una existenciaconforme a la dignidad humana y que será completada, en casonecesario, por cualesquiera otros medios de protección social.
+human_rights_un_spn_krs_64kb_0105	4.
+human_rights_un_spn_krs_64kb_0106	Toda persona tiene derecho a fundar sindicatos y a sindicarse para ladefensa de sus intereses.
+human_rights_un_spn_krs_64kb_0107	Artículo 24
+human_rights_un_spn_krs_64kb_0108	Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a unalimitación razonable de la duración del trabajo y a vacaciones periódicaspagadas.
+human_rights_un_spn_krs_64kb_0109	Artículo 25
+human_rights_un_spn_krs_64kb_0110	1.
+human_rights_un_spn_krs_64kb_0111	Toda persona tiene derecho a un nivel de vida adecuado que le asegure,así como a su familia, la salud y el bienestar, y en especial laalimentación, el vestido, la vivienda, la asistencia médica y los serviciossociales necesarios;
+human_rights_un_spn_krs_64kb_0112	tiene asimismo derecho a los seguros en caso dedesempleo, enfermedad, invalidez, viudez, vejez y otros casos de pérdidade sus medios de subsistencia por circunstancias independientes de suvoluntad.
+human_rights_un_spn_krs_64kb_0113	2.
+human_rights_un_spn_krs_64kb_0114	La maternidad y la infancia tienen derecho a cuidados y asistenciaespeciales.
+human_rights_un_spn_krs_64kb_0115	Todos los niños, nacidos de matrimonio o fuera dematrimonio, tienen derecho a igual protección social.
+human_rights_un_spn_krs_64kb_0116	Artículo 26
+human_rights_un_spn_krs_64kb_0117	1.
+human_rights_un_spn_krs_64kb_0118	Toda persona tiene derecho a la educación.
+human_rights_un_spn_krs_64kb_0119	La educación debe sergratuita, al menos en lo concerniente a la instrucción elemental yfundamental.
+human_rights_un_spn_krs_64kb_0120	La instrucción elemental será obligatoria.
+human_rights_un_spn_krs_64kb_0121	La instruccióntécnica y profesional habrá de ser generalizada;
+human_rights_un_spn_krs_64kb_0122	el acceso a los estudiossuperiores será igual para todos, en función de los méritos respectivos.
+human_rights_un_spn_krs_64kb_0123	2.
+human_rights_un_spn_krs_64kb_0124	La educación tendrá por objeto el pleno desarrollo de la personalidadhumana y el fortalecimiento del respeto a los derechos humanos y a laslibertades fundamentales;
+human_rights_un_spn_krs_64kb_0125	favorecerá la comprensión, la tolerancia y laamistad entre todas las naciones y todos los grupos étnicos o religiosos;
+human_rights_un_spn_krs_64kb_0126	ypromoverá el desarrollo de las actividades de las Naciones Unidas para elmantenimiento de la paz.
+human_rights_un_spn_krs_64kb_0127	3.
+human_rights_un_spn_krs_64kb_0128	Los padres tendrán derecho preferente a escoger el tipo de educaciónque habrá de darse a sus hijos.
+human_rights_un_spn_krs_64kb_0129	Artículo 27
+human_rights_un_spn_krs_64kb_0130	1.
+human_rights_un_spn_krs_64kb_0131	Toda persona tiene derecho a tomar parte libremente en la vida culturalde la comunidad, a gozar de las artes y a participar en el progresocientífico y en los beneficios que de él resulten.
+human_rights_un_spn_krs_64kb_0132	2.
+human_rights_un_spn_krs_64kb_0133	Toda persona tiene derecho a la protección de los intereses morales ymateriales que le correspondan por razón de las producciones científicas,literarias o artísticas de que sea autora.
+human_rights_un_spn_krs_64kb_0134	Artículo 28
+human_rights_un_spn_krs_64kb_0135	Toda persona tiene derecho a que se establezca un orden social e internacionalen el que los derechos y libertades proclamados en esta Declaración se haganplenamente efectivos.
+human_rights_un_spn_krs_64kb_0136	Artículo 29
+human_rights_un_spn_krs_64kb_0137	1.
+human_rights_un_spn_krs_64kb_0138	Toda persona tiene deberes respecto a la comunidad, puesto que sólo enella puede desarrollar libre y plenamente su personalidad.
+human_rights_un_spn_krs_64kb_0139	2.
+human_rights_un_spn_krs_64kb_0140	En el ejercicio de sus derechos y en el disfrute de sus libertades, todapersona estará solamente sujeta a las limitaciones establecidas por la leycon el único fin de asegurar el reconocimiento y el respeto de losderechos y libertades de los demás, y de satisfacer las justas exigenciasde la moral, del orden público y del bienestar general en una sociedaddemocrática.
+human_rights_un_spn_krs_64kb_0141	3.
+human_rights_un_spn_krs_64kb_0142	Estos derechos y libertades no podrán en ningún caso ser ejercidos enoposición a los propósitos y principios de las Naciones Unidas.
+human_rights_un_spn_krs_64kb_0143	Artículo 30
+human_rights_un_spn_krs_64kb_0144	Nada en la presente Declaración podrá interpretarse en el sentido de queconfiere derecho alguno al Estado, a un grupo o a una persona, para emprendery desarrollar actividades o realizar actos tendientes a la supresión de cualquierade los derechos y libertades proclamados en esta Declaración.

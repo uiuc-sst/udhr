@@ -1,169 +1,169 @@
-ind_0001	z mberi oɡok ɡjɛtɛmɪs jelətkozəta
-ind_0002	efəsɪt
-ind_0003	əkentɪttɪl arrə hɔɡj əz ɪmbɪresɡ tʃsalddʒə mɪndən əɡjes təɡdʒa mltsɡnak faləminteɡjenl s ɪlɪdɛɡɪnthetɛtlən dʒoɡainək ɪlesmərsɛ alkɔtdʒə ə ssəbadsɡ əz eɡassɡ s abke alapdʒt ə vilɡon
-ind_0004	əkentɪttɪl arrə hɔɡj əz əmberɪ dʒʊɡʊk el nɪm ɪsmərsə s semmɪbəfəvsɪ əz ɛmberesɡlɛlkɪesmerətt fɛllzt bərbr tʃsɪlɛkmɲexəz fɛsetɛtt s hɔɡj əz əmber lɪɡfbb vɡjəɪɡj ʊljən vilɡ ɪldʒfɪtɛlɪ ameljbɪn əz ɪlɲomstl valəmint ə ɲʊmɔrtl meɡszəbədoltɪmbɪri lɲek szafə s mɛɡɡjsdsɛ szəbəd lesz
-ind_0005	əkentɪttɪl annək fʊntʊssɡra hɔɡj əz əmberɪ dʒʊɡʊkat ə dʒɔɡ ʊralma fdɪlmɛszə nəhɔɡjaz əmber vɡs ssksɡbɪn ə ssarnʊksɡ s əz ɪlɲoms əllenɪ lzadsra kɲssɛrldʒn
-ind_0006	əkentɪttɪl arrə hɔɡj eɡən lɲɛɡɪs ə nɛmzətɪk ksttɪ bartɪ kaptʃsolətok kɪfədʒezdsnəkelmosdtsə
-ind_0007	əkentɪttɪl arrə hɔɡj əz ləpʊkmɲbən əz ɡjəslt emzətɪk npei dʒbl hɪtət tɪttɛk azalapfɛt əmberɪ dʒʊɡʊk əz əmberɪ ssɛmljɪsɡ mltsɡə s rtke ə frfeək s nkəɡjəndʒoɡsɡa mellɪtt valəmint kɪɲɪlvntɔttk əzt əz elhətrɔssukət hɔɡj elsɛɡtɪk əssɔtʃelɪs həladst s nəɡjʊbb ssəbadsɡ mellɪtt dʒɔbb letfɛlttɛlɛkət fəlstənək mɪɡ
-ind_0008	əkentɪttɪl arrə hɔɡj ə təɡllamɔk ktələztk maɡʊkət arrə hɔɡj əz ɡjəslt emzətɪk
-ind_0009	zɪrfesɪtfɪl eɡjttmkdfə bɪztʊstdʒk əz əmberɪ dʒʊɡʊk s ələpfet ssabədsɡokltalnɔs s tɲlɛɡɛs tisstɪlɪtbɛntərtst
-ind_0010	əkentɪttɪl arrə hɔɡj ə dʒʊɡʊk s szabədsɡok mɪbɛnltə tɛkentɛtbɛn kzs fəlfoɡskealəktsnək ə lɪɡnaɡjobb dʒelɛntsɡe vən əz əmltett ktelezɪttsɡ məradktəlantɪldʒɛstsnɪk ssempɔntdʒbla kzɡjls kiɲilvntdʒə əz əmberɪ dʒʊɡʊk ɪɡjetɛmleɡɛs ɲelatkɔzattmint əzt ə kzs ɛssmɲt ameljnɪk əlrsrɪ mɪndən npnek smindɛn nəmzetnɛk trɛkɛdniɛ kɪll əbbl ə tʃlbl hɔɡj mɪndən szemljs ə trsadəlom mɪndən szerfɛ llandən szem eltt tərtva ə dʒɪlɪn
-ind_0011	jilətkʊsatot ʊktəts s nɛvəls tdʒn ɪlmɔsdtsa e dʒʊɡʊk sszəbadsɡok tesstɪlətbəntartsnak kefɛdʒlesstst valəmint əsoknakfokʊsatʊsan məɡfəlsol həzai s nəmsətkse dʒʊɡssəbljɔk tdʒn trtnltəlnʊs s tɲlɛɡɛs alkəlmasst s ɛlesmərst mind ə təɡlləmoknpeɪ kztt mind pedɪɡ ə dʒʊɣatsɡʊk ələtt ll tɛrlɪtək npei kztt
-ind_0012	
-ind_0013	tʃikk
-ind_0014	inden
-ind_0015	əmberɪ lɲ ssəbadɔn szlɛtɪk s əɡjenl mltsɡə s dʒoɡa vən
-ind_0016	z ɪmbərɪksssəl s ləlkeismerettel brfn ɛɡjmssəl ssɪmbɛn təstfrɪ szɪllembən kɪll hʊɡjfiseltɛssenek
-ind_0017	
-ind_0018	tʃikk
-ind_0019	indenkɪ brməlj məɡklnbztɪtsrɛ nevɪsɪtɪsɪn fədʒra sznrɛ nɪmrɪ ɲəlfre fəllsrəpʊlɪtɪkai vəɡj brməlj ms vləmɲrə nəmsətɪ vəɡj trsadəlme erədetrɪ fəɡjɔnrəssletsrɪ vəɡj brməlj ms krlmɲrɛ vəl təkintet nlkl hevatkɔshat ə dʒɪlɪn
-ind_0020	jelətkozətban kɪɲɪlvntɔtt sszɪs dʒʊɡʊkrə s ssabadsɡokra
-ind_0021	zɛnfɛll nɪm lɪhɪt sɛmmiflɪ meɡklnbstətst tɪnnɪ annək əz orssɡnak faɡjtɛrlɪtnɪk pɔlɪtikai dʒʊɡi vəɡj nəmsətkse hɪljzetə alapdʒn sɪm ameljnɪk ə ssemljlləmpolɡra aszərent hɔɡj əz illet ʊrszɡ vəɡj tɪrlɛt fɡɡetlən ɡjmsɡ ələtt ll nemautʊnm vəɡj szʊfɪrɪnɪtsa brməlj fonətkossban korltɔsott
-ind_0022	
-ind_0023	tʃikk
-ind_0024	inden szɪmljnɪk dʒoɡa vən əz lɛthəs ə ssabadsxɔz s ə ssɪmljɪ beztʊnsxos
-ind_0025	
-ind_0026	tʃikk
-ind_0027	ɛnkit sɪm lɪhɪt rəbssɔlɡasɡban vəɡj szolɡasɡban tartane ə rəbssʊlɡəsɡ s arabszolɡakɪrɪskɪds mɪndən ələkdʒə tɪlʊs
-ind_0028	
-ind_0029	tʃikk
-ind_0030	ɛnkit sɪm lɪhɪt knvallətsnək afəɡj kɛɡjɛtlɛn ɪmbərtɪlən vəɡj leələtʃsoɲtbntɛtsnək vəɡj bnsmdnak alfɪtne
-ind_0031	
-ind_0032	tʃikk
-ind_0033	endɪnkenək dʒoɡa vən ahhoz hɔɡj dʒɔɡalaɲesɡt brhɔl ɛlesmərdʒk
-ind_0034	
-ind_0035	tʃikk
-ind_0036	trvɲ eltt mendɪnki əɡjenl s mɪndən meɡklnbstəts nlkl dʒoɡa vən ə trvɲɛɡjenl fdəlmhɛz
-ind_0037	endɪnkenək dʒoɡa vən əɡjenl fdəlɪmhɪz ə dʒɪlɪn jilətkʊsatot srtmindən məɡklnbztɪtssɛl s mɪndən iljen məɡklnbztɪtsrɛ erɲʊl felbʊdʒtssalszəmbɛn
-ind_0038	
-ind_0039	tʃikk
-ind_0040	inden szɪmljnɪk dʒoɡa vən əz əlkotmɲban vəɡj ə trfɲben rssrə beztʊstɔttaləpvət dʒʊɡʊkat srt əldʒrsok əllen ə həzai brsɡɔxoz tɲlɛɡɛs dʒɔɡɔrvoslətrtfoljamɔdnɪ
-ind_0041	
-ind_0042	tʃikk
-ind_0043	ɛnkit sɪm lɪhɪt nkɲɛsɛn letərtstatni rezɪtbɛ fenne vəɡj szmsnɪ
-ind_0044	
-ind_0045	tʃikk
-ind_0046	inden szɪmljnɪk tɛldʒɪsən əɡjenl dʒoɡa vən arrə hɔɡj ɡjt fɡɡetlən s prtətlənbrsɡ mltɲosan s ɲilfnʊsən trɡjəldʒə s ɛz hatrʊssɔn ɛɡjrszt dʒoɡai sktɛləsɛttsɡɪi fɪll msrsst mɪndən əllɪnɪ ɪmelt bŋje vd mɛɡəlapʊzɔttsɡa fɪll
-ind_0047	
-ind_0048	tʃikk
-ind_0049	
-ind_0050	inden bntɪtənd tʃsəlɪkmnɲɛl fdɔlt szemljt rtətlənnak kɪll fləlməsnɪmɪndaddiɡ əmɡ bnssɡt ɲilfnʊsən ləfoljtatott pɪrbɛn ə fdəlmhɛz szksɡəsvələmənɲi bɪztʊstk mellɪtt trvɲesɛn mɛɡlləptdʒk
-ind_0051	
-ind_0052	ɛnkit sɪm szəbəd eltlne ɔlj tʃselɪkmɲrt vəɡj molasztsrt əmelj elkvətsəpɪllanatban ə həzai dʒɔɡ vəɡj ə nəmsətkse dʒɔɡ ssɪrint nɪm vɔlt bntɪtənd tʃsɪlekmɲ
-ind_0053	ɡjəntʃsək nɪm szəbəd sljʊsabb bntətst kiszəbni mint əmelj ə bntɛtɛndtʃsɪlekmɲ ɛlkvetse pellənətban vɔlt alkəlmazhət
-ind_0054	
-ind_0055	tʃikk
-ind_0056	ɛnkinɪk maɡnlɛtbɛ tʃsaldi ɡjɪibə ləxɪljɛ mɛɡfləsstsbə vəɡj lefɛlɪssbənəm szəbəd nkɲɛsɛn bəavatkozni sɪm pedɪɡ bɛtʃslɛtbɛn vəɡj dʒ hrnefbɪnmeɡsrtɪne
-ind_0057	inden szɪmljnɪk dʒoɡa vən əz iljen bɛafatkozsokkal vəɡj srtsɪkkəlszɪmben ə trvɲ fdəlmhɛz
-ind_0058	
-ind_0059	tʃikk
-ind_0060	
-ind_0061	z llamʊn bɪll mɪndən szɪmljnɪk dʒoɡa vən ssəbadɔn mosʊɡnɪ s laxɪljtszabədʊn mɛɡvlasstane
-ind_0062	
-ind_0063	inden szɪmljnɪk dʒoɡa vən mɪndən ʊrssɡɔt idɪrtvɪ sədʒt həsdʒt is əlhaɡjnivalament sədʒt hasdʒba vesszətrnɪ
-ind_0064	
-ind_0065	tʃikk
-ind_0066	
-ind_0067	inden szɪmljnɪk dʒoɡa vən əz ldss ell ms orssɡban mɛnedkət kərɛsni s əms ʊrszɡ ɲdʒtɔtta mɛnedkət lfɛsni
-ind_0068	
-ind_0069	rrɛ ə dʒoɡra nɪm lɪhɪt hifətkɔznɪ ksnsɡes bntʃseləkmɲ meətti
-ind_0070	kɛllkppənməɡələpozɔtt ldss sɪm pedɪɡ əz ɡjəslt emzətɪk tʃldʒaivəl s ɪlfɛifel ɛllɪnttəstɛvkɛɲsɡ ɛsətbɪn
-ind_0071	
-ind_0072	tʃikk
-ind_0073	
-ind_0074	inden szɪmljnɪk dʒoɡa vən valamɪlj lləmpɔlɡrsxʊz
-ind_0075	
-ind_0076	ɛnkit sɪm lɪhɪt sɪm llampʊlɡrsɡtl sɪm lləmpolɡrsɡa mɛɡvltɔztatsnəkdʒʊɡtl nkɲɛsɛn meɡfɔsstənɪ
-ind_0077	
-ind_0078	tʃikk
-ind_0079	
-ind_0080	ind ə frfenak mind ə nnək ə hzəssɡra rɪtt kɔr elrstl kɪsdve dʒoɡa vən fadʒonnɛmsətɪsɡɪn vəɡj fallsʊn əlapʊl kɔrltʊzs nlkl hzassɡɔt ktni s tʃsəldʊtələptəne
-ind_0081	hzassɡ tɛkentɛtbɛn ə frfenak s ə nnək mind ə hzassɡ tartəmə aləttmind ə hzassɡ fɛlbʊntsə tɛkentɛtbɛn əɡjenl dʒoɡai vannak
-ind_0082	
-ind_0083	sassɡʊt tʃsak ə dʒvend hsastrsak szəbəd s tɪldʒɛs beləəɡjessfɪl lɪhɪt ktni
-ind_0084	
-ind_0085	tʃsald ə trsadəlom tɪrmszɛtes s ələpfet alkɔt ɪlɛmə s dʒoɡa vən ə trsadəlʊmfələmint əz llam vdəlmre
-ind_0086	
-ind_0087	tʃikk
-ind_0088	
-ind_0089	inden szɪmljnɪk mind əɡjnelɪɡ mind msokkal ɪɡjttɛsɛn dʒoɡa vən ə tolədʒdonhʊs
-ind_0090	
-ind_0091	ɛnkit sɪm lɪhɪt tʊladʒdʊntl nkɲɛsɛn meɡfɔsstənɪ
-ind_0092	
-ind_0093	tʃikk
-ind_0094	inden szɪmljnɪk dʒoɡa vən ə ɡʊndɔlət ə ləlkeɪsmɛrət s ə vəlls ssabadsxɔz ɛz ə dʒoɡmaɡbən fɔɡlaldʒa ə vəlls s ə meɡɡjzds meɡvltɔstətsnək ssəbadsɡt valəmint afəllsnak vəɡj ə meɡɡjsdsnək mind əɡjnelɪɡ mind ɪɡjttɛsɛn mind ə ɲilfnɔssɡəltt mind ə maɡnletben ʊktəts ɡjəkorls s ssertartsɔk vɡzse tdʒn fəlkifɪdʒɪzsrə dʒottətsnək dʒɔɡt
-ind_0095	
-ind_0096	tʃikk
-ind_0097	inden szɪmljnɪk dʒoɡa vən ə vlɛmɲ s ə kɪfɪdʒezs ssabadsxɔz əmelj maɡbənfɔɡləldʒa əzt ə dʒʊɡʊt hɔɡj flɪmɲe meatt nɪ szənvəddʒən zəklatst s hɔɡj hətrɔkra vəltekintɛt nlkl kʊtathəssʊn tvehessən s tɪrdʒəszthessen hrekɪt s ɛssmkət brmiljənkefɛdʒɛzse mdɔn
-ind_0098	
-ind_0099	tʃikk
-ind_0100	
-ind_0101	inden szɪmljnɪk dʒoɡa vən bks tʃl ɡjləkɛzsi s eɡjəslse ssabadsxɔz
-ind_0102	
-ind_0103	ɛnkit sɪm lɪhɪt valamɪlj ɪɡjɪslɛtbe vəl belpsrɛ ktɪlɪsnɪ
-ind_0104	
-ind_0105	tʃikk
-ind_0106	
-ind_0107	inden szɪmljnɪk dʒoɡa vən ə həsdʒa kzɡjɛɪnɪk eɡazɡətsban əkr kzvətlenl əkrssabədon vləsztʊtt kpvɪsɪlɪ tdʒn vəl rszvtɪlhes
-ind_0108	
-ind_0109	inden szɪmljnɪk əɡjenl fəlttelek mellɪtt dʒoɡa vən sədʒt həsdʒban kzszolɡlatellsɔkrə vəl əlkəlməzshos
-ind_0110	
-ind_0111	kshətəlɔm tɛkɪntljnək ələpdʒə ə np əkarata
-ind_0112	ɛz əz əkərət əɡjenl szəvasati dʒɔɡ stetkos szəvəss vəɡj ə szəvəss ssəbadsɡt ezsəl eɡjənrtken beztʊst eldʒrs aləpdʒnedssəkɔnknt tərtand tesztɪssɡɛs fləsztsɔn kɪll hɔɡj kefɪdʒəzsrɪ dʒossʊn
-ind_0113	
-ind_0114	tʃikk
-ind_0115	inden szɪmljnɪk mint ə trsadəlom təɡdʒnak dʒoɡa vən ə szʊtʃeles beztʊnsxos
-ind_0116	mendenssemljnɛk oɡjantʃsak ɪɡɲə vən arrə hɔɡj əz llamʊk ɪrfɪsstsei s ə nɪmsetksieɡjttmkds erɪdmɲekppɪn s szmotvɛtvɛ əz əɡjes ʊrssɡɔk szerfɪzɪtfɛl s ɡasdəsɡɪ ərfɔrrsaifəl ə mltsxʊz sssəmljisɡnek ssəbadɔn vəl kefɛdʒldshɛz ssksɡes ɡasdəsɡɪ szʊtʃeles skʊltorlɪs dʒoɡait kiɪlɡthəsse
-ind_0117	
-ind_0118	tʃikk
-ind_0119	
-ind_0120	inden szɪmljnɪk dʒoɡa vən ə mʊnxos ə monka szəbəd mɛɡfləsztshʊs amltɲos s keelɡt munkəfəlttɛlɪxɪz s ə mʊnkanlklɪsɡ əllenɪ fdəlɪmhɪz
-ind_0121	
-ind_0122	z əɡjenl munkrt mendɛnkɪnɪk brmɪljɛn meɡklnbstəts nlkl əɡjenl brhɛzfan dʒoɡa
-ind_0123	
-ind_0124	endɪnkenək aki dɔlɡozik ʊljən mltɲos s keelɡt fezətshez vən dʒoɡa ameljszmrə s tʃsalddʒə szmra əz əmberɪ mltsɡnak mɛɡfɪləl ltət beztʊst s əməljɪtmeɡfəlɛl ɛsətbɪn ə szʊtʃeles vdɛlɛm sszɪs eɡjb əsskzəi ɪɡsztɪnek ki
-ind_0125	
-ind_0126	inden szɪmljnɪk dʒoɡa vən ə pɪhɛnshəz ə szəbəd ɪdhz nevɪsɪtɪsɪn ə monkaidtartamnək sszɪr korltɔzshoz valəmint əz edssəkɔnknti fizɛtətt ssabadsxɔz
-ind_0127	
-ind_0128	tʃikk
-ind_0129	inden szɪmljnɪk dʒoɡa vən ə pɪhɛnsrə s ssabadidre bəlɛrtfə ə monkaid sssərkɔrltɔsst s əz edssəkos fizɛtətt szabədsɡot
-ind_0130	
-ind_0131	tʃikk
-ind_0132	
-ind_0133	inden szɪmljnɪk dʒoɡa vən sədʒt məɡa s tʃsalddʒə ɪɡsssɡnək s dʒltnekbeztostsrə alkəlməs lɪtssnfɔnalhɔs nevɪsɪtɪsɪn lelɪmhɪs rohsathɔz lakshɔsorfɔsɪ ɡondɔzshɔs valəmint ə ssksɡes szʊtʃeles ssolɡltətsʊxʊs dʒoɡa vən amʊnkənlklisɡ bəteɡsɡ rɔkkantsɡ svəɡjsɡ rɪɡsɡ əsətrɪ szl fələmintmindazɔn ms esətekrɪ szl bestʊstshɔs əmekʊr ltfɪnntərtsi ɪsskzeɪt əkarattlfɡɡətlən krlmɲɪk meatt ɛlvɛsstɪ
-ind_0134	
-ind_0135	z əɲasɡ s ə ɡjɪrməkkɔr klnleɡɛs seɡtsxɛz s tmoɡatshɔz adnək dʒʊɡʊt
-ind_0136	inden ɡjərmɪk əkr hzassɡbl əkr hzassɡɔn kvl sslɪtətt uɡjanəbban əssɔtʃelɪs fdelɪmbɪn rssəsl
-ind_0137	
-ind_0138	tʃikk
-ind_0139	
-ind_0140	inden szɪmljnɪk dʒoɡa vən ə nɛvɪlshez
-ind_0141	nevelsnek ləɡalbbes əz ɪləme səlapvət oktatst illɛtɛn ɪŋjənesnek kɪll lɛnnɪe
-ind_0142	z ɪləme ʊktəts ktɛlɪz
-ind_0143	tɛtʃhnikai sszakoktətst ltalnʊss kɪll tɪnnɪ
-ind_0144	ə fɪlsbb tanʊlmɲʊkra vəl fɪlftɪlnek mendɪnki eltt
-ind_0145	rdɛmhɛs kpəst əɡjenl fəlttelek mellɪtt ɲitfə kɪll llniə
-ind_0146	
-ind_0147	nevelsnek əz əmberɪ ssɛmljɪsɡ tɪldʒɛs kebʊntəkoztatsra valəmint əz əmberɪ dʒʊɡoks ələpfet szabədsɡok tesstɪlətbəntartsnak mɛɡərstsrə kɪll erɲʊlnea
-ind_0148	nevelsnek el kɪll sɪɡtəneə ə nɛmzətɪk valəmint əz sszɪs fadʒɪ s fəllse tʃsʊpʊrtokkztte mɪɡrtst trəlmɪt s bartsɡot valəmint əz ɡjəslt emzətɪk ltal ə bkɪfenntartsnək rdəkbɪn kɪfɪdʒtɛtt tevkɪɲsɡ kefedʒldst
-ind_0149	
-ind_0150	sslkɛt ɪlsbbsɡi dʒɔɡ ɪllete mɪɡ ə ɡjɛrmekɪiknək ədənd nɛvəls mɛɡfləsstsbən
-ind_0151	
-ind_0152	tʃikk
-ind_0153	
-ind_0154	inden szɪmljnɪk dʒoɡa vən ə kzssɡ kolturles lɪtbɛn vəl szəbəd rszvtɪlhes əmfssətək lvɛzshes valəmint ə tudɔmɲ halədsbən s əz əbbl szrmazdʒttemɲɪkben vəl rszvtɪlhes
-ind_0155	
-ind_0156	endɪnkenək dʒoɡa vən mɪndən ltəla əlkotʊtt tʊdɔmɲɔs irodəlmi s mfszɛtitermkkɪl kaptʃsolətos ɛrkltʃsɪ s əɲaɡɪ rdəkɪenek fdəlmhɛz
-ind_0157	
-ind_0158	tʃikk inden szɪmljnɪk dʒoɡa vən ahhoz hɔɡj mind ə trsədəlmemɪnd ə nəmsətkse fessʊɲɔk tɛkentɛtbɛn ʊljən rəndszər ʊrəlkʊddʒkaməljbɪn ə dʒɪlɪn jelətkozətban kɪɲɪlvntɔtt dʒʊɡʊk s szəbadsɡɔktɪldʒəs hətlljal rvɲəslhɛssənɪk
-ind_0159	
-ind_0160	tʃikk
-ind_0161	
-ind_0162	szɪmljnɪk ktɛlɪssɡəi vannak ə ksssɡɡɪl ssɪmbɛn ameljnɪk kerətbɛnɪɡjədl lehɛtsɡes ə ssɛmljɪsɡ szəbəd s tɪldʒɛs kefedʒldsə
-ind_0163	
-ind_0164	oɡainək ɡjakɔrlsa s ssabadsɡainak lfɛsəte tɛkentɛtbɛn sɪnkɪ sintʃs əlvɪtve mskʊrltʊzsnak mint əmɛljət ə trvɲ kesrləɡ msɔk dʒoɡai s szəbədsɡai əlismərsnɪks tesstɪlətbəntartsnak bɪstʊstsa rdəkbɪn valəmint ə dɪmokratekʊs trsadalɔmɛrkltʃsɪ ksrɪnddʒɛ s ltəlnos dʒlte dʒʊɡʊs kfɪtɪlmɲeenək keɪlɡtsɛ rdɪkbənməɡllapt
-ind_0165	
-ind_0166	zekɪt ə dʒʊɡʊkat s ssəbədsɡokət sɪmmɪ əsətrɪ sɪm lɪhɪt əz ɡjəslt emzɛtɪktʃldʒaivəl s ɪlfɛifel ɪllɛnttɛsən ɡjəkorʊlne
-ind_0167	
-ind_0168	tʃikk
-ind_0169	dʒɪlɪn jɪlətkɔsət əɡjɪtlən rɛndəlkɪzsɛ sɪm rtɛlmeshet ɡj hɔɡj əz valamɪlj lləmvalamelj tʃsopʊrt vəɡj valamɪlj eɡjn rssrə brmɪljɛn dʒʊɡʊt adnə arrə hɔɡj əz ɪttkiɲɪlfntott dʒʊɡʊk s szabədsɡok mɛɡsɛmmɪstsre erɲʊl təfkeɲsɡət fedʒtsen kefaɡj iljen tʃsɪlekmɲt ɪlkvessen
+human_rights_un_ind_rd_64kb_0001	z mberi oɡok ɡjɛtɛmɪs jelətkozəta
+human_rights_un_ind_rd_64kb_0002	efəsɪt
+human_rights_un_ind_rd_64kb_0003	əkentɪttɪl arrə hɔɡj əz ɪmbɪresɡ tʃsalddʒə mɪndən əɡjes təɡdʒa mltsɡnak faləminteɡjenl s ɪlɪdɛɡɪnthetɛtlən dʒoɡainək ɪlesmərsɛ alkɔtdʒə ə ssəbadsɡ əz eɡassɡ s abke alapdʒt ə vilɡon
+human_rights_un_ind_rd_64kb_0004	əkentɪttɪl arrə hɔɡj əz əmberɪ dʒʊɡʊk el nɪm ɪsmərsə s semmɪbəfəvsɪ əz ɛmberesɡlɛlkɪesmerətt fɛllzt bərbr tʃsɪlɛkmɲexəz fɛsetɛtt s hɔɡj əz əmber lɪɡfbb vɡjəɪɡj ʊljən vilɡ ɪldʒfɪtɛlɪ ameljbɪn əz ɪlɲomstl valəmint ə ɲʊmɔrtl meɡszəbədoltɪmbɪri lɲek szafə s mɛɡɡjsdsɛ szəbəd lesz
+human_rights_un_ind_rd_64kb_0005	əkentɪttɪl annək fʊntʊssɡra hɔɡj əz əmberɪ dʒʊɡʊkat ə dʒɔɡ ʊralma fdɪlmɛszə nəhɔɡjaz əmber vɡs ssksɡbɪn ə ssarnʊksɡ s əz ɪlɲoms əllenɪ lzadsra kɲssɛrldʒn
+human_rights_un_ind_rd_64kb_0006	əkentɪttɪl arrə hɔɡj eɡən lɲɛɡɪs ə nɛmzətɪk ksttɪ bartɪ kaptʃsolətok kɪfədʒezdsnəkelmosdtsə
+human_rights_un_ind_rd_64kb_0007	əkentɪttɪl arrə hɔɡj əz ləpʊkmɲbən əz ɡjəslt emzətɪk npei dʒbl hɪtət tɪttɛk azalapfɛt əmberɪ dʒʊɡʊk əz əmberɪ ssɛmljɪsɡ mltsɡə s rtke ə frfeək s nkəɡjəndʒoɡsɡa mellɪtt valəmint kɪɲɪlvntɔttk əzt əz elhətrɔssukət hɔɡj elsɛɡtɪk əssɔtʃelɪs həladst s nəɡjʊbb ssəbadsɡ mellɪtt dʒɔbb letfɛlttɛlɛkət fəlstənək mɪɡ
+human_rights_un_ind_rd_64kb_0008	əkentɪttɪl arrə hɔɡj ə təɡllamɔk ktələztk maɡʊkət arrə hɔɡj əz ɡjəslt emzətɪk
+human_rights_un_ind_rd_64kb_0009	zɪrfesɪtfɪl eɡjttmkdfə bɪztʊstdʒk əz əmberɪ dʒʊɡʊk s ələpfet ssabədsɡokltalnɔs s tɲlɛɡɛs tisstɪlɪtbɛntərtst
+human_rights_un_ind_rd_64kb_0010	əkentɪttɪl arrə hɔɡj ə dʒʊɡʊk s szabədsɡok mɪbɛnltə tɛkentɛtbɛn kzs fəlfoɡskealəktsnək ə lɪɡnaɡjobb dʒelɛntsɡe vən əz əmltett ktelezɪttsɡ məradktəlantɪldʒɛstsnɪk ssempɔntdʒbla kzɡjls kiɲilvntdʒə əz əmberɪ dʒʊɡʊk ɪɡjetɛmleɡɛs ɲelatkɔzattmint əzt ə kzs ɛssmɲt ameljnɪk əlrsrɪ mɪndən npnek smindɛn nəmzetnɛk trɛkɛdniɛ kɪll əbbl ə tʃlbl hɔɡj mɪndən szemljs ə trsadəlom mɪndən szerfɛ llandən szem eltt tərtva ə dʒɪlɪn
+human_rights_un_ind_rd_64kb_0011	jilətkʊsatot ʊktəts s nɛvəls tdʒn ɪlmɔsdtsa e dʒʊɡʊk sszəbadsɡok tesstɪlətbəntartsnak kefɛdʒlesstst valəmint əsoknakfokʊsatʊsan məɡfəlsol həzai s nəmsətkse dʒʊɡssəbljɔk tdʒn trtnltəlnʊs s tɲlɛɡɛs alkəlmasst s ɛlesmərst mind ə təɡlləmoknpeɪ kztt mind pedɪɡ ə dʒʊɣatsɡʊk ələtt ll tɛrlɪtək npei kztt
+human_rights_un_ind_rd_64kb_0012	
+human_rights_un_ind_rd_64kb_0013	tʃikk
+human_rights_un_ind_rd_64kb_0014	inden
+human_rights_un_ind_rd_64kb_0015	əmberɪ lɲ ssəbadɔn szlɛtɪk s əɡjenl mltsɡə s dʒoɡa vən
+human_rights_un_ind_rd_64kb_0016	z ɪmbərɪksssəl s ləlkeismerettel brfn ɛɡjmssəl ssɪmbɛn təstfrɪ szɪllembən kɪll hʊɡjfiseltɛssenek
+human_rights_un_ind_rd_64kb_0017	
+human_rights_un_ind_rd_64kb_0018	tʃikk
+human_rights_un_ind_rd_64kb_0019	indenkɪ brməlj məɡklnbztɪtsrɛ nevɪsɪtɪsɪn fədʒra sznrɛ nɪmrɪ ɲəlfre fəllsrəpʊlɪtɪkai vəɡj brməlj ms vləmɲrə nəmsətɪ vəɡj trsadəlme erədetrɪ fəɡjɔnrəssletsrɪ vəɡj brməlj ms krlmɲrɛ vəl təkintet nlkl hevatkɔshat ə dʒɪlɪn
+human_rights_un_ind_rd_64kb_0020	jelətkozətban kɪɲɪlvntɔtt sszɪs dʒʊɡʊkrə s ssabadsɡokra
+human_rights_un_ind_rd_64kb_0021	zɛnfɛll nɪm lɪhɪt sɛmmiflɪ meɡklnbstətst tɪnnɪ annək əz orssɡnak faɡjtɛrlɪtnɪk pɔlɪtikai dʒʊɡi vəɡj nəmsətkse hɪljzetə alapdʒn sɪm ameljnɪk ə ssemljlləmpolɡra aszərent hɔɡj əz illet ʊrszɡ vəɡj tɪrlɛt fɡɡetlən ɡjmsɡ ələtt ll nemautʊnm vəɡj szʊfɪrɪnɪtsa brməlj fonətkossban korltɔsott
+human_rights_un_ind_rd_64kb_0022	
+human_rights_un_ind_rd_64kb_0023	tʃikk
+human_rights_un_ind_rd_64kb_0024	inden szɪmljnɪk dʒoɡa vən əz lɛthəs ə ssabadsxɔz s ə ssɪmljɪ beztʊnsxos
+human_rights_un_ind_rd_64kb_0025	
+human_rights_un_ind_rd_64kb_0026	tʃikk
+human_rights_un_ind_rd_64kb_0027	ɛnkit sɪm lɪhɪt rəbssɔlɡasɡban vəɡj szolɡasɡban tartane ə rəbssʊlɡəsɡ s arabszolɡakɪrɪskɪds mɪndən ələkdʒə tɪlʊs
+human_rights_un_ind_rd_64kb_0028	
+human_rights_un_ind_rd_64kb_0029	tʃikk
+human_rights_un_ind_rd_64kb_0030	ɛnkit sɪm lɪhɪt knvallətsnək afəɡj kɛɡjɛtlɛn ɪmbərtɪlən vəɡj leələtʃsoɲtbntɛtsnək vəɡj bnsmdnak alfɪtne
+human_rights_un_ind_rd_64kb_0031	
+human_rights_un_ind_rd_64kb_0032	tʃikk
+human_rights_un_ind_rd_64kb_0033	endɪnkenək dʒoɡa vən ahhoz hɔɡj dʒɔɡalaɲesɡt brhɔl ɛlesmərdʒk
+human_rights_un_ind_rd_64kb_0034	
+human_rights_un_ind_rd_64kb_0035	tʃikk
+human_rights_un_ind_rd_64kb_0036	trvɲ eltt mendɪnki əɡjenl s mɪndən meɡklnbstəts nlkl dʒoɡa vən ə trvɲɛɡjenl fdəlmhɛz
+human_rights_un_ind_rd_64kb_0037	endɪnkenək dʒoɡa vən əɡjenl fdəlɪmhɪz ə dʒɪlɪn jilətkʊsatot srtmindən məɡklnbztɪtssɛl s mɪndən iljen məɡklnbztɪtsrɛ erɲʊl felbʊdʒtssalszəmbɛn
+human_rights_un_ind_rd_64kb_0038	
+human_rights_un_ind_rd_64kb_0039	tʃikk
+human_rights_un_ind_rd_64kb_0040	inden szɪmljnɪk dʒoɡa vən əz əlkotmɲban vəɡj ə trfɲben rssrə beztʊstɔttaləpvət dʒʊɡʊkat srt əldʒrsok əllen ə həzai brsɡɔxoz tɲlɛɡɛs dʒɔɡɔrvoslətrtfoljamɔdnɪ
+human_rights_un_ind_rd_64kb_0041	
+human_rights_un_ind_rd_64kb_0042	tʃikk
+human_rights_un_ind_rd_64kb_0043	ɛnkit sɪm lɪhɪt nkɲɛsɛn letərtstatni rezɪtbɛ fenne vəɡj szmsnɪ
+human_rights_un_ind_rd_64kb_0044	
+human_rights_un_ind_rd_64kb_0045	tʃikk
+human_rights_un_ind_rd_64kb_0046	inden szɪmljnɪk tɛldʒɪsən əɡjenl dʒoɡa vən arrə hɔɡj ɡjt fɡɡetlən s prtətlənbrsɡ mltɲosan s ɲilfnʊsən trɡjəldʒə s ɛz hatrʊssɔn ɛɡjrszt dʒoɡai sktɛləsɛttsɡɪi fɪll msrsst mɪndən əllɪnɪ ɪmelt bŋje vd mɛɡəlapʊzɔttsɡa fɪll
+human_rights_un_ind_rd_64kb_0047	
+human_rights_un_ind_rd_64kb_0048	tʃikk
+human_rights_un_ind_rd_64kb_0049	
+human_rights_un_ind_rd_64kb_0050	inden bntɪtənd tʃsəlɪkmnɲɛl fdɔlt szemljt rtətlənnak kɪll fləlməsnɪmɪndaddiɡ əmɡ bnssɡt ɲilfnʊsən ləfoljtatott pɪrbɛn ə fdəlmhɛz szksɡəsvələmənɲi bɪztʊstk mellɪtt trvɲesɛn mɛɡlləptdʒk
+human_rights_un_ind_rd_64kb_0051	
+human_rights_un_ind_rd_64kb_0052	ɛnkit sɪm szəbəd eltlne ɔlj tʃselɪkmɲrt vəɡj molasztsrt əmelj elkvətsəpɪllanatban ə həzai dʒɔɡ vəɡj ə nəmsətkse dʒɔɡ ssɪrint nɪm vɔlt bntɪtənd tʃsɪlekmɲ
+human_rights_un_ind_rd_64kb_0053	ɡjəntʃsək nɪm szəbəd sljʊsabb bntətst kiszəbni mint əmelj ə bntɛtɛndtʃsɪlekmɲ ɛlkvetse pellənətban vɔlt alkəlmazhət
+human_rights_un_ind_rd_64kb_0054	
+human_rights_un_ind_rd_64kb_0055	tʃikk
+human_rights_un_ind_rd_64kb_0056	ɛnkinɪk maɡnlɛtbɛ tʃsaldi ɡjɪibə ləxɪljɛ mɛɡfləsstsbə vəɡj lefɛlɪssbənəm szəbəd nkɲɛsɛn bəavatkozni sɪm pedɪɡ bɛtʃslɛtbɛn vəɡj dʒ hrnefbɪnmeɡsrtɪne
+human_rights_un_ind_rd_64kb_0057	inden szɪmljnɪk dʒoɡa vən əz iljen bɛafatkozsokkal vəɡj srtsɪkkəlszɪmben ə trvɲ fdəlmhɛz
+human_rights_un_ind_rd_64kb_0058	
+human_rights_un_ind_rd_64kb_0059	tʃikk
+human_rights_un_ind_rd_64kb_0060	
+human_rights_un_ind_rd_64kb_0061	z llamʊn bɪll mɪndən szɪmljnɪk dʒoɡa vən ssəbadɔn mosʊɡnɪ s laxɪljtszabədʊn mɛɡvlasstane
+human_rights_un_ind_rd_64kb_0062	
+human_rights_un_ind_rd_64kb_0063	inden szɪmljnɪk dʒoɡa vən mɪndən ʊrssɡɔt idɪrtvɪ sədʒt həsdʒt is əlhaɡjnivalament sədʒt hasdʒba vesszətrnɪ
+human_rights_un_ind_rd_64kb_0064	
+human_rights_un_ind_rd_64kb_0065	tʃikk
+human_rights_un_ind_rd_64kb_0066	
+human_rights_un_ind_rd_64kb_0067	inden szɪmljnɪk dʒoɡa vən əz ldss ell ms orssɡban mɛnedkət kərɛsni s əms ʊrszɡ ɲdʒtɔtta mɛnedkət lfɛsni
+human_rights_un_ind_rd_64kb_0068	
+human_rights_un_ind_rd_64kb_0069	rrɛ ə dʒoɡra nɪm lɪhɪt hifətkɔznɪ ksnsɡes bntʃseləkmɲ meətti
+human_rights_un_ind_rd_64kb_0070	kɛllkppənməɡələpozɔtt ldss sɪm pedɪɡ əz ɡjəslt emzətɪk tʃldʒaivəl s ɪlfɛifel ɛllɪnttəstɛvkɛɲsɡ ɛsətbɪn
+human_rights_un_ind_rd_64kb_0071	
+human_rights_un_ind_rd_64kb_0072	tʃikk
+human_rights_un_ind_rd_64kb_0073	
+human_rights_un_ind_rd_64kb_0074	inden szɪmljnɪk dʒoɡa vən valamɪlj lləmpɔlɡrsxʊz
+human_rights_un_ind_rd_64kb_0075	
+human_rights_un_ind_rd_64kb_0076	ɛnkit sɪm lɪhɪt sɪm llampʊlɡrsɡtl sɪm lləmpolɡrsɡa mɛɡvltɔztatsnəkdʒʊɡtl nkɲɛsɛn meɡfɔsstənɪ
+human_rights_un_ind_rd_64kb_0077	
+human_rights_un_ind_rd_64kb_0078	tʃikk
+human_rights_un_ind_rd_64kb_0079	
+human_rights_un_ind_rd_64kb_0080	ind ə frfenak mind ə nnək ə hzəssɡra rɪtt kɔr elrstl kɪsdve dʒoɡa vən fadʒonnɛmsətɪsɡɪn vəɡj fallsʊn əlapʊl kɔrltʊzs nlkl hzassɡɔt ktni s tʃsəldʊtələptəne
+human_rights_un_ind_rd_64kb_0081	hzassɡ tɛkentɛtbɛn ə frfenak s ə nnək mind ə hzassɡ tartəmə aləttmind ə hzassɡ fɛlbʊntsə tɛkentɛtbɛn əɡjenl dʒoɡai vannak
+human_rights_un_ind_rd_64kb_0082	
+human_rights_un_ind_rd_64kb_0083	sassɡʊt tʃsak ə dʒvend hsastrsak szəbəd s tɪldʒɛs beləəɡjessfɪl lɪhɪt ktni
+human_rights_un_ind_rd_64kb_0084	
+human_rights_un_ind_rd_64kb_0085	tʃsald ə trsadəlom tɪrmszɛtes s ələpfet alkɔt ɪlɛmə s dʒoɡa vən ə trsadəlʊmfələmint əz llam vdəlmre
+human_rights_un_ind_rd_64kb_0086	
+human_rights_un_ind_rd_64kb_0087	tʃikk
+human_rights_un_ind_rd_64kb_0088	
+human_rights_un_ind_rd_64kb_0089	inden szɪmljnɪk mind əɡjnelɪɡ mind msokkal ɪɡjttɛsɛn dʒoɡa vən ə tolədʒdonhʊs
+human_rights_un_ind_rd_64kb_0090	
+human_rights_un_ind_rd_64kb_0091	ɛnkit sɪm lɪhɪt tʊladʒdʊntl nkɲɛsɛn meɡfɔsstənɪ
+human_rights_un_ind_rd_64kb_0092	
+human_rights_un_ind_rd_64kb_0093	tʃikk
+human_rights_un_ind_rd_64kb_0094	inden szɪmljnɪk dʒoɡa vən ə ɡʊndɔlət ə ləlkeɪsmɛrət s ə vəlls ssabadsxɔz ɛz ə dʒoɡmaɡbən fɔɡlaldʒa ə vəlls s ə meɡɡjzds meɡvltɔstətsnək ssəbadsɡt valəmint afəllsnak vəɡj ə meɡɡjsdsnək mind əɡjnelɪɡ mind ɪɡjttɛsɛn mind ə ɲilfnɔssɡəltt mind ə maɡnletben ʊktəts ɡjəkorls s ssertartsɔk vɡzse tdʒn fəlkifɪdʒɪzsrə dʒottətsnək dʒɔɡt
+human_rights_un_ind_rd_64kb_0095	
+human_rights_un_ind_rd_64kb_0096	tʃikk
+human_rights_un_ind_rd_64kb_0097	inden szɪmljnɪk dʒoɡa vən ə vlɛmɲ s ə kɪfɪdʒezs ssabadsxɔz əmelj maɡbənfɔɡləldʒa əzt ə dʒʊɡʊt hɔɡj flɪmɲe meatt nɪ szənvəddʒən zəklatst s hɔɡj hətrɔkra vəltekintɛt nlkl kʊtathəssʊn tvehessən s tɪrdʒəszthessen hrekɪt s ɛssmkət brmiljənkefɛdʒɛzse mdɔn
+human_rights_un_ind_rd_64kb_0098	
+human_rights_un_ind_rd_64kb_0099	tʃikk
+human_rights_un_ind_rd_64kb_0100	
+human_rights_un_ind_rd_64kb_0101	inden szɪmljnɪk dʒoɡa vən bks tʃl ɡjləkɛzsi s eɡjəslse ssabadsxɔz
+human_rights_un_ind_rd_64kb_0102	
+human_rights_un_ind_rd_64kb_0103	ɛnkit sɪm lɪhɪt valamɪlj ɪɡjɪslɛtbe vəl belpsrɛ ktɪlɪsnɪ
+human_rights_un_ind_rd_64kb_0104	
+human_rights_un_ind_rd_64kb_0105	tʃikk
+human_rights_un_ind_rd_64kb_0106	
+human_rights_un_ind_rd_64kb_0107	inden szɪmljnɪk dʒoɡa vən ə həsdʒa kzɡjɛɪnɪk eɡazɡətsban əkr kzvətlenl əkrssabədon vləsztʊtt kpvɪsɪlɪ tdʒn vəl rszvtɪlhes
+human_rights_un_ind_rd_64kb_0108	
+human_rights_un_ind_rd_64kb_0109	inden szɪmljnɪk əɡjenl fəlttelek mellɪtt dʒoɡa vən sədʒt həsdʒban kzszolɡlatellsɔkrə vəl əlkəlməzshos
+human_rights_un_ind_rd_64kb_0110	
+human_rights_un_ind_rd_64kb_0111	kshətəlɔm tɛkɪntljnək ələpdʒə ə np əkarata
+human_rights_un_ind_rd_64kb_0112	ɛz əz əkərət əɡjenl szəvasati dʒɔɡ stetkos szəvəss vəɡj ə szəvəss ssəbadsɡt ezsəl eɡjənrtken beztʊst eldʒrs aləpdʒnedssəkɔnknt tərtand tesztɪssɡɛs fləsztsɔn kɪll hɔɡj kefɪdʒəzsrɪ dʒossʊn
+human_rights_un_ind_rd_64kb_0113	
+human_rights_un_ind_rd_64kb_0114	tʃikk
+human_rights_un_ind_rd_64kb_0115	inden szɪmljnɪk mint ə trsadəlom təɡdʒnak dʒoɡa vən ə szʊtʃeles beztʊnsxos
+human_rights_un_ind_rd_64kb_0116	mendenssemljnɛk oɡjantʃsak ɪɡɲə vən arrə hɔɡj əz llamʊk ɪrfɪsstsei s ə nɪmsetksieɡjttmkds erɪdmɲekppɪn s szmotvɛtvɛ əz əɡjes ʊrssɡɔk szerfɪzɪtfɛl s ɡasdəsɡɪ ərfɔrrsaifəl ə mltsxʊz sssəmljisɡnek ssəbadɔn vəl kefɛdʒldshɛz ssksɡes ɡasdəsɡɪ szʊtʃeles skʊltorlɪs dʒoɡait kiɪlɡthəsse
+human_rights_un_ind_rd_64kb_0117	
+human_rights_un_ind_rd_64kb_0118	tʃikk
+human_rights_un_ind_rd_64kb_0119	
+human_rights_un_ind_rd_64kb_0120	inden szɪmljnɪk dʒoɡa vən ə mʊnxos ə monka szəbəd mɛɡfləsztshʊs amltɲos s keelɡt munkəfəlttɛlɪxɪz s ə mʊnkanlklɪsɡ əllenɪ fdəlɪmhɪz
+human_rights_un_ind_rd_64kb_0121	
+human_rights_un_ind_rd_64kb_0122	z əɡjenl munkrt mendɛnkɪnɪk brmɪljɛn meɡklnbstəts nlkl əɡjenl brhɛzfan dʒoɡa
+human_rights_un_ind_rd_64kb_0123	
+human_rights_un_ind_rd_64kb_0124	endɪnkenək aki dɔlɡozik ʊljən mltɲos s keelɡt fezətshez vən dʒoɡa ameljszmrə s tʃsalddʒə szmra əz əmberɪ mltsɡnak mɛɡfɪləl ltət beztʊst s əməljɪtmeɡfəlɛl ɛsətbɪn ə szʊtʃeles vdɛlɛm sszɪs eɡjb əsskzəi ɪɡsztɪnek ki
+human_rights_un_ind_rd_64kb_0125	
+human_rights_un_ind_rd_64kb_0126	inden szɪmljnɪk dʒoɡa vən ə pɪhɛnshəz ə szəbəd ɪdhz nevɪsɪtɪsɪn ə monkaidtartamnək sszɪr korltɔzshoz valəmint əz edssəkɔnknti fizɛtətt ssabadsxɔz
+human_rights_un_ind_rd_64kb_0127	
+human_rights_un_ind_rd_64kb_0128	tʃikk
+human_rights_un_ind_rd_64kb_0129	inden szɪmljnɪk dʒoɡa vən ə pɪhɛnsrə s ssabadidre bəlɛrtfə ə monkaid sssərkɔrltɔsst s əz edssəkos fizɛtətt szabədsɡot
+human_rights_un_ind_rd_64kb_0130	
+human_rights_un_ind_rd_64kb_0131	tʃikk
+human_rights_un_ind_rd_64kb_0132	
+human_rights_un_ind_rd_64kb_0133	inden szɪmljnɪk dʒoɡa vən sədʒt məɡa s tʃsalddʒə ɪɡsssɡnək s dʒltnekbeztostsrə alkəlməs lɪtssnfɔnalhɔs nevɪsɪtɪsɪn lelɪmhɪs rohsathɔz lakshɔsorfɔsɪ ɡondɔzshɔs valəmint ə ssksɡes szʊtʃeles ssolɡltətsʊxʊs dʒoɡa vən amʊnkənlklisɡ bəteɡsɡ rɔkkantsɡ svəɡjsɡ rɪɡsɡ əsətrɪ szl fələmintmindazɔn ms esətekrɪ szl bestʊstshɔs əmekʊr ltfɪnntərtsi ɪsskzeɪt əkarattlfɡɡətlən krlmɲɪk meatt ɛlvɛsstɪ
+human_rights_un_ind_rd_64kb_0134	
+human_rights_un_ind_rd_64kb_0135	z əɲasɡ s ə ɡjɪrməkkɔr klnleɡɛs seɡtsxɛz s tmoɡatshɔz adnək dʒʊɡʊt
+human_rights_un_ind_rd_64kb_0136	inden ɡjərmɪk əkr hzassɡbl əkr hzassɡɔn kvl sslɪtətt uɡjanəbban əssɔtʃelɪs fdelɪmbɪn rssəsl
+human_rights_un_ind_rd_64kb_0137	
+human_rights_un_ind_rd_64kb_0138	tʃikk
+human_rights_un_ind_rd_64kb_0139	
+human_rights_un_ind_rd_64kb_0140	inden szɪmljnɪk dʒoɡa vən ə nɛvɪlshez
+human_rights_un_ind_rd_64kb_0141	nevelsnek ləɡalbbes əz ɪləme səlapvət oktatst illɛtɛn ɪŋjənesnek kɪll lɛnnɪe
+human_rights_un_ind_rd_64kb_0142	z ɪləme ʊktəts ktɛlɪz
+human_rights_un_ind_rd_64kb_0143	tɛtʃhnikai sszakoktətst ltalnʊss kɪll tɪnnɪ
+human_rights_un_ind_rd_64kb_0144	ə fɪlsbb tanʊlmɲʊkra vəl fɪlftɪlnek mendɪnki eltt
+human_rights_un_ind_rd_64kb_0145	rdɛmhɛs kpəst əɡjenl fəlttelek mellɪtt ɲitfə kɪll llniə
+human_rights_un_ind_rd_64kb_0146	
+human_rights_un_ind_rd_64kb_0147	nevelsnek əz əmberɪ ssɛmljɪsɡ tɪldʒɛs kebʊntəkoztatsra valəmint əz əmberɪ dʒʊɡoks ələpfet szabədsɡok tesstɪlətbəntartsnak mɛɡərstsrə kɪll erɲʊlnea
+human_rights_un_ind_rd_64kb_0148	nevelsnek el kɪll sɪɡtəneə ə nɛmzətɪk valəmint əz sszɪs fadʒɪ s fəllse tʃsʊpʊrtokkztte mɪɡrtst trəlmɪt s bartsɡot valəmint əz ɡjəslt emzətɪk ltal ə bkɪfenntartsnək rdəkbɪn kɪfɪdʒtɛtt tevkɪɲsɡ kefedʒldst
+human_rights_un_ind_rd_64kb_0149	
+human_rights_un_ind_rd_64kb_0150	sslkɛt ɪlsbbsɡi dʒɔɡ ɪllete mɪɡ ə ɡjɛrmekɪiknək ədənd nɛvəls mɛɡfləsstsbən
+human_rights_un_ind_rd_64kb_0151	
+human_rights_un_ind_rd_64kb_0152	tʃikk
+human_rights_un_ind_rd_64kb_0153	
+human_rights_un_ind_rd_64kb_0154	inden szɪmljnɪk dʒoɡa vən ə kzssɡ kolturles lɪtbɛn vəl szəbəd rszvtɪlhes əmfssətək lvɛzshes valəmint ə tudɔmɲ halədsbən s əz əbbl szrmazdʒttemɲɪkben vəl rszvtɪlhes
+human_rights_un_ind_rd_64kb_0155	
+human_rights_un_ind_rd_64kb_0156	endɪnkenək dʒoɡa vən mɪndən ltəla əlkotʊtt tʊdɔmɲɔs irodəlmi s mfszɛtitermkkɪl kaptʃsolətos ɛrkltʃsɪ s əɲaɡɪ rdəkɪenek fdəlmhɛz
+human_rights_un_ind_rd_64kb_0157	
+human_rights_un_ind_rd_64kb_0158	tʃikk inden szɪmljnɪk dʒoɡa vən ahhoz hɔɡj mind ə trsədəlmemɪnd ə nəmsətkse fessʊɲɔk tɛkentɛtbɛn ʊljən rəndszər ʊrəlkʊddʒkaməljbɪn ə dʒɪlɪn jelətkozətban kɪɲɪlvntɔtt dʒʊɡʊk s szəbadsɡɔktɪldʒəs hətlljal rvɲəslhɛssənɪk
+human_rights_un_ind_rd_64kb_0159	
+human_rights_un_ind_rd_64kb_0160	tʃikk
+human_rights_un_ind_rd_64kb_0161	
+human_rights_un_ind_rd_64kb_0162	szɪmljnɪk ktɛlɪssɡəi vannak ə ksssɡɡɪl ssɪmbɛn ameljnɪk kerətbɛnɪɡjədl lehɛtsɡes ə ssɛmljɪsɡ szəbəd s tɪldʒɛs kefedʒldsə
+human_rights_un_ind_rd_64kb_0163	
+human_rights_un_ind_rd_64kb_0164	oɡainək ɡjakɔrlsa s ssabadsɡainak lfɛsəte tɛkentɛtbɛn sɪnkɪ sintʃs əlvɪtve mskʊrltʊzsnak mint əmɛljət ə trvɲ kesrləɡ msɔk dʒoɡai s szəbədsɡai əlismərsnɪks tesstɪlətbəntartsnak bɪstʊstsa rdəkbɪn valəmint ə dɪmokratekʊs trsadalɔmɛrkltʃsɪ ksrɪnddʒɛ s ltəlnos dʒlte dʒʊɡʊs kfɪtɪlmɲeenək keɪlɡtsɛ rdɪkbənməɡllapt
+human_rights_un_ind_rd_64kb_0165	
+human_rights_un_ind_rd_64kb_0166	zekɪt ə dʒʊɡʊkat s ssəbədsɡokət sɪmmɪ əsətrɪ sɪm lɪhɪt əz ɡjəslt emzɛtɪktʃldʒaivəl s ɪlfɛifel ɪllɛnttɛsən ɡjəkorʊlne
+human_rights_un_ind_rd_64kb_0167	
+human_rights_un_ind_rd_64kb_0168	tʃikk
+human_rights_un_ind_rd_64kb_0169	dʒɪlɪn jɪlətkɔsət əɡjɪtlən rɛndəlkɪzsɛ sɪm rtɛlmeshet ɡj hɔɡj əz valamɪlj lləmvalamelj tʃsopʊrt vəɡj valamɪlj eɡjn rssrə brmɪljɛn dʒʊɡʊt adnə arrə hɔɡj əz ɪttkiɲɪlfntott dʒʊɡʊk s szabədsɡok mɛɡsɛmmɪstsre erɲʊl təfkeɲsɡət fedʒtsen kefaɡj iljen tʃsɪlekmɲt ɪlkvessen

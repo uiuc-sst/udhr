@@ -1,158 +1,158 @@
-lav_0001	Vispārējā cilvēktiesību deklarācija 
-lav_0002	Preambula
-lav_0003	Ievērodama, ka visiem cilvēku sabiedrības locekļiem piemītošās pašcieņas un viņuvienlīdzīgu un neatņemamu tiesību atzīšana ir brīvības, taisnīguma un vispārēja mierapamats, unievērodama, ka cilvēktiesību necienīšana un nicināšana noved pie barbariskiemaktiem, kas izraisa sašutumu cilvēces apziņā, un ka tādas pasaules radīšana, kurācilvēkiem būs vārda un pārliecības brīvība un tie būs brīvi no bailēm un trūkuma, irpasludināta kā cilvēku augstākie centieni, unievērodama, ka nepieciešams, lai cilvēktiesības aizsargātu likuma spēks nolūkānodrošināt tādu stāvokli, lai cilvēks nebūtu spiests izmantot kā pēdējo līdzeklisacelšanos pret tirāniju un apspiestību, unievērodama, ka nepieciešams veicināt draudzīgu attiecību attīstību starp tautām, unievērodama, ka Apvienoto Nāciju tautas Statūtos apliecināja savu ticību cilvēkapamattiesībām, cilvēka personības pašcieņai un vērtībai un vīriešu un sieviešulīdztiesībai un apņēmās sekmēt sociālo progresu un dzīves apstākļu uzlabošanuvislielākās brīvības apstākļos, unievērodama, ka dalībvalstis apņēmās, sadarbojoties ar Apvienoto Nāciju Organizāciju,veicināt cilvēktiesību un pamatbrīvību vispārēju cienīšanu un ievērošanu, unievērodama, ka šo tiesību un brīvību rakstura vispārējai izpratnei ir milzīga nozīme šīssaistības pilnīgai izpildei,
-lav_0004	Ģenerālā Asambleja pasludinašo Vispārējo cilvēktiesību deklarāciju par uzdevumu, kuru pildīt jātiecas visām tautāmun visām valstīm, lai katrs cilvēks un katrs sabiedrības institūts, pastāvīgi ievērojot šo
-lav_0005	Deklarāciju, ar izskaidrošanu un izglītošanu censtos veicināt šo tiesību un brīvīburespektēšanu un, realizējot nacionālos un starptautiskus progresīvus pasākumus,nodrošinātu to vispārēju un efektīvu atzīšanu un īstenošanu kā Organizācijasdalībvalstu, tā arī to jurisdikcijā esošo teritoriju tautās.
-lav_0006	1.
-lav_0007	pants
-lav_0008	Visi cilvēki piedzimst brīvi un vienlīdzīgi savā cieņā un tiesībās.
-lav_0009	Viņiem ir saprāts unsirdsapziņa, un viņiem citam pret citu jāizturas brālības garā.
-lav_0010	2.
-lav_0011	pants
-lav_0012	Katram cilvēkam jābūt apveltītam ar visām tiesībām un visām brīvībām, kaspasludinātas šajā deklarācijā, neatkarīgi no rases, ādas krāsas, dzimuma, valodas,reliģijas, politiskās vai citas pārliecības, nacionālās vai citas izcelsmes, mantiskāstāvokļa, kārtas vai cita stāvokļa.
-lav_0013	Turklāt nedrīkst būt nekādas atšķirības valsts vai teritorijas, pie kuras cilvēks pieder,politiskā, tiesiskā vai starptautiskā stāvokļa dēļ neatkarīgi no tā, vai šī teritorija irneatkarīga, aizbilstama, bez pašpārvaldes vai kaut kā citādi ierobežota savāsuverenitātē.
-lav_0014	Katram cilvēkam ir tiesības uz dzīvību, brīvību un personas neaizskaramību.
-lav_0015	3.
-lav_0016	pants
-lav_0017	4.
-lav_0018	pants
-lav_0019	Nevienu cilvēku nedrīkst turēt verdzībā vai nebrīvē; visa veida verdzība un vergutirdzniecība ir aizliegta.
-lav_0020	5.
-lav_0021	pants
-lav_0022	Nevienu cilvēku nedrīkst pakļaut spīdzināšanai vai cietsirdīgi, necilvēcīgi ar viņuapieties un sodīt, pazemojot viņa cilvēcisko cieņu.
-lav_0023	6.
-lav_0024	pants
-lav_0025	Katram cilvēkam, lai kur viņš atrastos, ir tiesības tikt atzītam par personu likumapriekšā.
-lav_0026	7.
-lav_0027	pants
-lav_0028	Visi cilvēki ir vienlīdzīgi likuma priekšā, un viņiem ir tiesības, bez jebkādāmatšķirībām, uz vienādu likuma aizsardzību pret jebkādu diskrimināciju, kura pārkāpjšo Deklarāciju, un pret jebkuru kūdīšanu uz tādu diskrimināciju.
-lav_0029	8.
-lav_0030	pants
-lav_0031	Katram cilvēkam ir tiesības uz efektīvu viņa tiesību atjaunošanu kompetentānacionālā tiesā gadījumos, kad pārkāptas viņa pamattiesības, kas noteiktas konstitūcijāvai likumā.
-lav_0032	9.
-lav_0033	pants
-lav_0034	Nevienu nedrīkst patvaļīgi arestēt, aizturēt vai pakļaut izraidīšanai.
-lav_0035	10.
-lav_0036	pants
-lav_0037	Katram cilvēkam viņa tiesību un pienākumu noskaidrošanai, kā arī lai noteiktu viņamizvirzītās kriminālās apsūdzības pamatotību, ir tiesības sakarā ar visu personuvienlīdzību likuma un tiesas priekšā prasīt, lai viņa lietu atklāti un ievērojot visastaisnīguma prasības izskatītu neatkarīga un objektīva tiesa.
-lav_0038	11.
-lav_0039	pants
-lav_0040	1.
-lav_0041	Katram cilvēkam, kam inkriminēts kriminālnoziegums, ir tiesības tikt uzskatītampar nevainīgu, kamēr viņa vaina nebūs pierādīta saskaņā ar likumu atklātā tiesasprocesā, kurā viņam tiek nodrošinātas visas iespējas uz aizstāvību.
-lav_0042	2.
-lav_0043	Nevienu nedrīkst notiesāt par noziegumu tādas darbības vai bezdarbības dēļ, kassaskaņā ar izdarīšanas brīdī spēkā bijušajiem valsts iekšējiem likumiem vaistarptautiskajām tiesībām nebija kriminālnoziegums.
-lav_0044	Tāpat nedrīkst piespriestsmagāku sodu nekā tas, kas bija jāpiemēro laikā, kad tika izdarīts kriminālnoziegums.
-lav_0045	12.
-lav_0046	pants
-lav_0047	Nedrīkst patvaļīgi iejaukties neviena privātajā un ģimenes dzīvē, patvaļīgi apdraudētviņa dzīvokļa neaizskaramību vai viņa korespondences noslēpumu, vai nelikumīgiapdraudēt viņa godu un reputāciju.
-lav_0048	Katram cilvēkam ir tiesības uz likuma aizsardzībupret šādu iejaukšanos vai šādiem apdraudējumiem.
-lav_0049	13.
-lav_0050	pants
-lav_0051	1.
-lav_0052	Katram cilvēkam ir tiesības brīvi pārvietoties un izvēlēties sev dzīvesvietu jebkurāvalstī.
-lav_0053	2.
-lav_0054	Katram cilvēkam ir tiesības atstāt jebkuru, arī savu valsti un atgriezties savā valstī.
-lav_0055	14.
-lav_0056	pants
-lav_0057	1.
-lav_0058	Katram cilvēkam ir tiesības meklēt patvērumu no vajāšanas citās valstīs unizmantot šo patvērumu.
-lav_0059	2.
-lav_0060	Šīs tiesības nevar tikt izmantotas tādas vajāšanas gadījumā, kas īstenībā saistīta arnepolitiska nozieguma izdarīšanu vai ar darbību, kas ir pretrunā ar Apvienoto Nāciju
-lav_0061	Organizācijas mērķiem un principiem.
-lav_0062	15.
-lav_0063	pants
-lav_0064	1.
-lav_0065	Katram cilvēkam ir tiesības uz tautību.
-lav_0066	2.
-lav_0067	Nevienam patvaļīgi nedrīkst atņemt tā tautību vai tiesības mainīt savu tautību.
-lav_0068	16.
-lav_0069	pants
-lav_0070	1.
-lav_0071	Vīriešiem un sievietēm, kas sasnieguši pilngadību, ir tiesības bez jebkādiem ar rasu,tautību vai reliģiju atšķirībām saistītiem ierobežojumiem stāties laulībā un nodibinātģimeni.
-lav_0072	Viņiem ir vienlīdzīgas tiesības, stājoties laulībā, laulības laikā un šķirotlaulību.
-lav_0073	2.
-lav_0074	Laulība var tikt slēgta tikai ar abu personu, kas stājas laulībā, brīvu un pilnīgupiekrišanu.
-lav_0075	3.
-lav_0076	Ģimene ir dabiska sabiedrības pamatšūniņa, un tai ir tiesības uz sabiedrības unvalsts aizsardzību.
-lav_0077	17.
-lav_0078	pants
-lav_0079	1.
-lav_0080	Katram cilvēkam ir tiesības uz īpašumu kā vienpersoniski, tā arī kopīgi ar citiem.
-lav_0081	2.
-lav_0082	Nevienam patvaļīgi nedrīkst atņemt īpašumu.
-lav_0083	18.
-lav_0084	pants
-lav_0085	Katram cilvēkam ir tiesības uz domu, apziņas un reliģijas brīvību, brīvību pieņemtreliģiju vai pārliecību pēc savas izvēles un brīvību nodoties savai reliģijai unpārliecībai tiklab vienatnē, kā arī kopā ar citiem publiski vai nošķirti piekopjot kultu,izpildot reliģiskas vai rituālas ceremonijas un sludinot mācību.
-lav_0086	19.
-lav_0087	pants
-lav_0088	Katram cilvēkam ir tiesības uz pārliecības brīvību un tiesības brīvi paust savusuzskatus: šīs tiesības ietver brīvību netraucēti palikt pie saviem uzskatiem un brīvībumeklēt, saņemt un izplatīt informāciju un idejas ar jebkuriem līdzekļiem neatkarīgi novalstu robežām.
-lav_0089	20.
-lav_0090	pants
-lav_0091	1.
-lav_0092	Katram cilvēkam ir tiesības uz miermīlīgu sapulču un asociāciju brīvību.
-lav_0093	2.
-lav_0094	Nevienu nedrīkst piespiest iestāties kaut kādā asociācijā.
-lav_0095	21.
-lav_0096	pants
-lav_0097	1.
-lav_0098	Katram cilvēkam ir tiesības piedalīties savas valsts pārvaldē tieši vai ar brīviizvēlētu pārstāvju starpniecību.
-lav_0099	2.
-lav_0100	Ikvienam ir vienlīdzīgas tiesības piedalīties valsts pārvaldē savā zemē.
-lav_0101	3.
-lav_0102	Tautas gribai ir jābūt valdības varas pamatam: šai gribai ir jābūt izteiktaiperiodiskās un nefalsificētās vēlēšanās, kam jānotiek uz vispārēju un vienlīdzīguvēlēšanu tiesību pamata, aizklāti balsojot vai arī citās līdzvērtīgās formās, kasnodrošina vēlētāju brīvas gribas izpaudumu.
-lav_0103	22.
-lav_0104	pants
-lav_0105	Katram cilvēkam kā sabiedrības loceklim ir tiesības uz sociālo nodrošinājumu un viņapersonības pašcieņas uzturēšanai un brīvai attīstībai nepieciešamo tiesību īstenošanuekonomiskajā, sociālajā un kultūras jomā ar nacionālo pasākumu palīdzību unstarptautiskās sadarbības ceļā un atbilstoši katras valsts struktūrai un resursiem.
-lav_0106	23.
-lav_0107	pants
-lav_0108	1.
-lav_0109	Katram cilvēkam ir tiesības uz darbu, uz brīvu darba izvēli, uz taisnīgiem unlabvēlīgiem darba apstākļiem un uz aizsardzību pret bezdarbu.
-lav_0110	2.
-lav_0111	Katram cilvēkam, bez jebkādas diskriminācijas, ir tiesības uz vienādu atlīdzību parlīdzvērtīgu darbu.
-lav_0112	3.
-lav_0113	Katram strādājošam ir tiesības uz taisnīgu un apmierinošu darba algu, kasnodrošina cilvēka cienīgu dzīvi viņam un viņa ģimenei.
-lav_0114	Nepieciešamības gadījumā tājāpapildina ar citiem sociālās nodrošināšanas līdzekļiem.
-lav_0115	4.
-lav_0116	Katram cilvēkam ir tiesības dibināt arodbiedrības un iestāties arodbiedrībās savuinterešu aizsardzībai.
-lav_0117	24.
-lav_0118	pants
-lav_0119	Katram cilvēkam ir tiesības uz atpūtu un brīvo laiku, ieskaitot tiesības uz saprātīgudarbadienas ierobežojumu un uz apmaksātu periodisku atvaļinājumu.
-lav_0120	25.
-lav_0121	pants
-lav_0122	1.
-lav_0123	Katram cilvēkam ir tiesības uz tādu dzīves līmeni, ieskaitot uzturu, apģērbu,mājokli, medicīniskos pakalpojumus un vajadzīgo sociālo apkalpošanu, kasnepieciešams viņa un viņa ģimenes veselības uzturēšanai un labklājībai, un tiesības uznodrošinājumu sakarā ar bezdarbu, slimību, invaliditāti, atraitnību, vecuma iestāšanosvai citos eksistences līdzekļu zaudējumu gadījumos, kas radušies no viņa neatkarīguapstākļu dēļ.
-lav_0124	2.
-lav_0125	Mātēm un bērniem ir tiesības uz īpašu aizsardzību un palīdzību.
-lav_0126	Visiem bērniem,laulībā un ārlaulībā dzimušajiem, ir jābauda vienāda sociālā aizsardzība.
-lav_0127	26.
-lav_0128	pants
-lav_0129	1.
-lav_0130	Katram cilvēkam ir tiesības uz izglītību.
-lav_0131	Izglītībai, vismaz pamata un vispārējaiizglītībai, ir jābūt bezmaksas.
-lav_0132	Pamatizglītībai ir jābūt obligātai.
-lav_0133	Tehniskajai unprofesionālajai izglītībai ir jābūt visiem pieejamai, un augstākai izglītībai jābūtvienādi pieejamai visiem atbilstoši katra spējām.
-lav_0134	2.
-lav_0135	Izglītības mērķim jābūt pilnīgai personības attīstībai, un tai jāstiprina cilvēktiesībuun pamatbrīvību ievērošana.
-lav_0136	Izglītībai ir jāveicina savstarpējā saprašanās, iecietība undraudzība starp visām tautām, rasu un reliģiskajām grupām un Apvienoto Nāciju
-lav_0137	Organizācijas darbība miera uzturēšanā.
-lav_0138	27.
-lav_0139	pants
-lav_0140	1.
-lav_0141	Katram cilvēkam ir tiesības brīvi piedalīties sabiedrības kultūras dzīvē, baudītmākslu, piedalīties zinātnes progresā un izmantot tā labumus.
-lav_0142	2.
-lav_0143	Katram cilvēkam ir tiesības uz morālo un materiālo interešu aizsardzību, kassaistītas ar zinātniskajiem, literārajiem vai mākslas darbiem, kuru autors viņš ir.
-lav_0144	28.
-lav_0145	pants
-lav_0146	Katram cilvēkam ir tiesības uz sociālo un starptautisko kārtību, kurā var tikt pilnīgirealizētas šajā Deklarācijā izklāstītās tiesības un brīvības.
-lav_0147	29.
-lav_0148	pants
-lav_0149	1.
-lav_0150	Katram cilvēkam ir pienākumi pret sabiedrību, kurā tikai ir iespējama viņapersonības brīva un pilnīga attīstība.
-lav_0151	2.
-lav_0152	Realizējot savas tiesības un brīvības, katram cilvēkam ir jāpakļaujas tikai likumānoteiktiem ierobežojumiem, kuru nolūks ir vienīgi citu cilvēku tiesību un brīvībupienācīgas atzīšanas un cieņas nodrošinājums un morāles, sabiedriskās kārtības unvispārējas labklājības taisnīgu prasību apmierināšana demokrātiskā sabiedrībā.
-lav_0153	3.
-lav_0154	Šo tiesību un brīvību īstenošana nekādā ziņā nedrīkst būt pretrunā ar Apvienoto
-lav_0155	Nāciju Organizācijas mērķiem un principiem.
-lav_0156	30.
-lav_0157	pants
-lav_0158	Neko šajā Deklarācijā nedrīkst interpretēt tādejādi, lai kādai valstij, personu grupai vaiatsevišķām personām būtu tiesības jebkādā veidā darboties vai veikt darbības, kurumērķis ir likvidēt šajā Deklarācijā izklāstītās tiesības un brīvības.
+human_rights_un_lav_kb_64kb_0001	Vispārējā cilvēktiesību deklarācija 
+human_rights_un_lav_kb_64kb_0002	Preambula
+human_rights_un_lav_kb_64kb_0003	Ievērodama, ka visiem cilvēku sabiedrības locekļiem piemītošās pašcieņas un viņuvienlīdzīgu un neatņemamu tiesību atzīšana ir brīvības, taisnīguma un vispārēja mierapamats, unievērodama, ka cilvēktiesību necienīšana un nicināšana noved pie barbariskiemaktiem, kas izraisa sašutumu cilvēces apziņā, un ka tādas pasaules radīšana, kurācilvēkiem būs vārda un pārliecības brīvība un tie būs brīvi no bailēm un trūkuma, irpasludināta kā cilvēku augstākie centieni, unievērodama, ka nepieciešams, lai cilvēktiesības aizsargātu likuma spēks nolūkānodrošināt tādu stāvokli, lai cilvēks nebūtu spiests izmantot kā pēdējo līdzeklisacelšanos pret tirāniju un apspiestību, unievērodama, ka nepieciešams veicināt draudzīgu attiecību attīstību starp tautām, unievērodama, ka Apvienoto Nāciju tautas Statūtos apliecināja savu ticību cilvēkapamattiesībām, cilvēka personības pašcieņai un vērtībai un vīriešu un sieviešulīdztiesībai un apņēmās sekmēt sociālo progresu un dzīves apstākļu uzlabošanuvislielākās brīvības apstākļos, unievērodama, ka dalībvalstis apņēmās, sadarbojoties ar Apvienoto Nāciju Organizāciju,veicināt cilvēktiesību un pamatbrīvību vispārēju cienīšanu un ievērošanu, unievērodama, ka šo tiesību un brīvību rakstura vispārējai izpratnei ir milzīga nozīme šīssaistības pilnīgai izpildei,
+human_rights_un_lav_kb_64kb_0004	Ģenerālā Asambleja pasludinašo Vispārējo cilvēktiesību deklarāciju par uzdevumu, kuru pildīt jātiecas visām tautāmun visām valstīm, lai katrs cilvēks un katrs sabiedrības institūts, pastāvīgi ievērojot šo
+human_rights_un_lav_kb_64kb_0005	Deklarāciju, ar izskaidrošanu un izglītošanu censtos veicināt šo tiesību un brīvīburespektēšanu un, realizējot nacionālos un starptautiskus progresīvus pasākumus,nodrošinātu to vispārēju un efektīvu atzīšanu un īstenošanu kā Organizācijasdalībvalstu, tā arī to jurisdikcijā esošo teritoriju tautās.
+human_rights_un_lav_kb_64kb_0006	1.
+human_rights_un_lav_kb_64kb_0007	pants
+human_rights_un_lav_kb_64kb_0008	Visi cilvēki piedzimst brīvi un vienlīdzīgi savā cieņā un tiesībās.
+human_rights_un_lav_kb_64kb_0009	Viņiem ir saprāts unsirdsapziņa, un viņiem citam pret citu jāizturas brālības garā.
+human_rights_un_lav_kb_64kb_0010	2.
+human_rights_un_lav_kb_64kb_0011	pants
+human_rights_un_lav_kb_64kb_0012	Katram cilvēkam jābūt apveltītam ar visām tiesībām un visām brīvībām, kaspasludinātas šajā deklarācijā, neatkarīgi no rases, ādas krāsas, dzimuma, valodas,reliģijas, politiskās vai citas pārliecības, nacionālās vai citas izcelsmes, mantiskāstāvokļa, kārtas vai cita stāvokļa.
+human_rights_un_lav_kb_64kb_0013	Turklāt nedrīkst būt nekādas atšķirības valsts vai teritorijas, pie kuras cilvēks pieder,politiskā, tiesiskā vai starptautiskā stāvokļa dēļ neatkarīgi no tā, vai šī teritorija irneatkarīga, aizbilstama, bez pašpārvaldes vai kaut kā citādi ierobežota savāsuverenitātē.
+human_rights_un_lav_kb_64kb_0014	Katram cilvēkam ir tiesības uz dzīvību, brīvību un personas neaizskaramību.
+human_rights_un_lav_kb_64kb_0015	3.
+human_rights_un_lav_kb_64kb_0016	pants
+human_rights_un_lav_kb_64kb_0017	4.
+human_rights_un_lav_kb_64kb_0018	pants
+human_rights_un_lav_kb_64kb_0019	Nevienu cilvēku nedrīkst turēt verdzībā vai nebrīvē; visa veida verdzība un vergutirdzniecība ir aizliegta.
+human_rights_un_lav_kb_64kb_0020	5.
+human_rights_un_lav_kb_64kb_0021	pants
+human_rights_un_lav_kb_64kb_0022	Nevienu cilvēku nedrīkst pakļaut spīdzināšanai vai cietsirdīgi, necilvēcīgi ar viņuapieties un sodīt, pazemojot viņa cilvēcisko cieņu.
+human_rights_un_lav_kb_64kb_0023	6.
+human_rights_un_lav_kb_64kb_0024	pants
+human_rights_un_lav_kb_64kb_0025	Katram cilvēkam, lai kur viņš atrastos, ir tiesības tikt atzītam par personu likumapriekšā.
+human_rights_un_lav_kb_64kb_0026	7.
+human_rights_un_lav_kb_64kb_0027	pants
+human_rights_un_lav_kb_64kb_0028	Visi cilvēki ir vienlīdzīgi likuma priekšā, un viņiem ir tiesības, bez jebkādāmatšķirībām, uz vienādu likuma aizsardzību pret jebkādu diskrimināciju, kura pārkāpjšo Deklarāciju, un pret jebkuru kūdīšanu uz tādu diskrimināciju.
+human_rights_un_lav_kb_64kb_0029	8.
+human_rights_un_lav_kb_64kb_0030	pants
+human_rights_un_lav_kb_64kb_0031	Katram cilvēkam ir tiesības uz efektīvu viņa tiesību atjaunošanu kompetentānacionālā tiesā gadījumos, kad pārkāptas viņa pamattiesības, kas noteiktas konstitūcijāvai likumā.
+human_rights_un_lav_kb_64kb_0032	9.
+human_rights_un_lav_kb_64kb_0033	pants
+human_rights_un_lav_kb_64kb_0034	Nevienu nedrīkst patvaļīgi arestēt, aizturēt vai pakļaut izraidīšanai.
+human_rights_un_lav_kb_64kb_0035	10.
+human_rights_un_lav_kb_64kb_0036	pants
+human_rights_un_lav_kb_64kb_0037	Katram cilvēkam viņa tiesību un pienākumu noskaidrošanai, kā arī lai noteiktu viņamizvirzītās kriminālās apsūdzības pamatotību, ir tiesības sakarā ar visu personuvienlīdzību likuma un tiesas priekšā prasīt, lai viņa lietu atklāti un ievērojot visastaisnīguma prasības izskatītu neatkarīga un objektīva tiesa.
+human_rights_un_lav_kb_64kb_0038	11.
+human_rights_un_lav_kb_64kb_0039	pants
+human_rights_un_lav_kb_64kb_0040	1.
+human_rights_un_lav_kb_64kb_0041	Katram cilvēkam, kam inkriminēts kriminālnoziegums, ir tiesības tikt uzskatītampar nevainīgu, kamēr viņa vaina nebūs pierādīta saskaņā ar likumu atklātā tiesasprocesā, kurā viņam tiek nodrošinātas visas iespējas uz aizstāvību.
+human_rights_un_lav_kb_64kb_0042	2.
+human_rights_un_lav_kb_64kb_0043	Nevienu nedrīkst notiesāt par noziegumu tādas darbības vai bezdarbības dēļ, kassaskaņā ar izdarīšanas brīdī spēkā bijušajiem valsts iekšējiem likumiem vaistarptautiskajām tiesībām nebija kriminālnoziegums.
+human_rights_un_lav_kb_64kb_0044	Tāpat nedrīkst piespriestsmagāku sodu nekā tas, kas bija jāpiemēro laikā, kad tika izdarīts kriminālnoziegums.
+human_rights_un_lav_kb_64kb_0045	12.
+human_rights_un_lav_kb_64kb_0046	pants
+human_rights_un_lav_kb_64kb_0047	Nedrīkst patvaļīgi iejaukties neviena privātajā un ģimenes dzīvē, patvaļīgi apdraudētviņa dzīvokļa neaizskaramību vai viņa korespondences noslēpumu, vai nelikumīgiapdraudēt viņa godu un reputāciju.
+human_rights_un_lav_kb_64kb_0048	Katram cilvēkam ir tiesības uz likuma aizsardzībupret šādu iejaukšanos vai šādiem apdraudējumiem.
+human_rights_un_lav_kb_64kb_0049	13.
+human_rights_un_lav_kb_64kb_0050	pants
+human_rights_un_lav_kb_64kb_0051	1.
+human_rights_un_lav_kb_64kb_0052	Katram cilvēkam ir tiesības brīvi pārvietoties un izvēlēties sev dzīvesvietu jebkurāvalstī.
+human_rights_un_lav_kb_64kb_0053	2.
+human_rights_un_lav_kb_64kb_0054	Katram cilvēkam ir tiesības atstāt jebkuru, arī savu valsti un atgriezties savā valstī.
+human_rights_un_lav_kb_64kb_0055	14.
+human_rights_un_lav_kb_64kb_0056	pants
+human_rights_un_lav_kb_64kb_0057	1.
+human_rights_un_lav_kb_64kb_0058	Katram cilvēkam ir tiesības meklēt patvērumu no vajāšanas citās valstīs unizmantot šo patvērumu.
+human_rights_un_lav_kb_64kb_0059	2.
+human_rights_un_lav_kb_64kb_0060	Šīs tiesības nevar tikt izmantotas tādas vajāšanas gadījumā, kas īstenībā saistīta arnepolitiska nozieguma izdarīšanu vai ar darbību, kas ir pretrunā ar Apvienoto Nāciju
+human_rights_un_lav_kb_64kb_0061	Organizācijas mērķiem un principiem.
+human_rights_un_lav_kb_64kb_0062	15.
+human_rights_un_lav_kb_64kb_0063	pants
+human_rights_un_lav_kb_64kb_0064	1.
+human_rights_un_lav_kb_64kb_0065	Katram cilvēkam ir tiesības uz tautību.
+human_rights_un_lav_kb_64kb_0066	2.
+human_rights_un_lav_kb_64kb_0067	Nevienam patvaļīgi nedrīkst atņemt tā tautību vai tiesības mainīt savu tautību.
+human_rights_un_lav_kb_64kb_0068	16.
+human_rights_un_lav_kb_64kb_0069	pants
+human_rights_un_lav_kb_64kb_0070	1.
+human_rights_un_lav_kb_64kb_0071	Vīriešiem un sievietēm, kas sasnieguši pilngadību, ir tiesības bez jebkādiem ar rasu,tautību vai reliģiju atšķirībām saistītiem ierobežojumiem stāties laulībā un nodibinātģimeni.
+human_rights_un_lav_kb_64kb_0072	Viņiem ir vienlīdzīgas tiesības, stājoties laulībā, laulības laikā un šķirotlaulību.
+human_rights_un_lav_kb_64kb_0073	2.
+human_rights_un_lav_kb_64kb_0074	Laulība var tikt slēgta tikai ar abu personu, kas stājas laulībā, brīvu un pilnīgupiekrišanu.
+human_rights_un_lav_kb_64kb_0075	3.
+human_rights_un_lav_kb_64kb_0076	Ģimene ir dabiska sabiedrības pamatšūniņa, un tai ir tiesības uz sabiedrības unvalsts aizsardzību.
+human_rights_un_lav_kb_64kb_0077	17.
+human_rights_un_lav_kb_64kb_0078	pants
+human_rights_un_lav_kb_64kb_0079	1.
+human_rights_un_lav_kb_64kb_0080	Katram cilvēkam ir tiesības uz īpašumu kā vienpersoniski, tā arī kopīgi ar citiem.
+human_rights_un_lav_kb_64kb_0081	2.
+human_rights_un_lav_kb_64kb_0082	Nevienam patvaļīgi nedrīkst atņemt īpašumu.
+human_rights_un_lav_kb_64kb_0083	18.
+human_rights_un_lav_kb_64kb_0084	pants
+human_rights_un_lav_kb_64kb_0085	Katram cilvēkam ir tiesības uz domu, apziņas un reliģijas brīvību, brīvību pieņemtreliģiju vai pārliecību pēc savas izvēles un brīvību nodoties savai reliģijai unpārliecībai tiklab vienatnē, kā arī kopā ar citiem publiski vai nošķirti piekopjot kultu,izpildot reliģiskas vai rituālas ceremonijas un sludinot mācību.
+human_rights_un_lav_kb_64kb_0086	19.
+human_rights_un_lav_kb_64kb_0087	pants
+human_rights_un_lav_kb_64kb_0088	Katram cilvēkam ir tiesības uz pārliecības brīvību un tiesības brīvi paust savusuzskatus: šīs tiesības ietver brīvību netraucēti palikt pie saviem uzskatiem un brīvībumeklēt, saņemt un izplatīt informāciju un idejas ar jebkuriem līdzekļiem neatkarīgi novalstu robežām.
+human_rights_un_lav_kb_64kb_0089	20.
+human_rights_un_lav_kb_64kb_0090	pants
+human_rights_un_lav_kb_64kb_0091	1.
+human_rights_un_lav_kb_64kb_0092	Katram cilvēkam ir tiesības uz miermīlīgu sapulču un asociāciju brīvību.
+human_rights_un_lav_kb_64kb_0093	2.
+human_rights_un_lav_kb_64kb_0094	Nevienu nedrīkst piespiest iestāties kaut kādā asociācijā.
+human_rights_un_lav_kb_64kb_0095	21.
+human_rights_un_lav_kb_64kb_0096	pants
+human_rights_un_lav_kb_64kb_0097	1.
+human_rights_un_lav_kb_64kb_0098	Katram cilvēkam ir tiesības piedalīties savas valsts pārvaldē tieši vai ar brīviizvēlētu pārstāvju starpniecību.
+human_rights_un_lav_kb_64kb_0099	2.
+human_rights_un_lav_kb_64kb_0100	Ikvienam ir vienlīdzīgas tiesības piedalīties valsts pārvaldē savā zemē.
+human_rights_un_lav_kb_64kb_0101	3.
+human_rights_un_lav_kb_64kb_0102	Tautas gribai ir jābūt valdības varas pamatam: šai gribai ir jābūt izteiktaiperiodiskās un nefalsificētās vēlēšanās, kam jānotiek uz vispārēju un vienlīdzīguvēlēšanu tiesību pamata, aizklāti balsojot vai arī citās līdzvērtīgās formās, kasnodrošina vēlētāju brīvas gribas izpaudumu.
+human_rights_un_lav_kb_64kb_0103	22.
+human_rights_un_lav_kb_64kb_0104	pants
+human_rights_un_lav_kb_64kb_0105	Katram cilvēkam kā sabiedrības loceklim ir tiesības uz sociālo nodrošinājumu un viņapersonības pašcieņas uzturēšanai un brīvai attīstībai nepieciešamo tiesību īstenošanuekonomiskajā, sociālajā un kultūras jomā ar nacionālo pasākumu palīdzību unstarptautiskās sadarbības ceļā un atbilstoši katras valsts struktūrai un resursiem.
+human_rights_un_lav_kb_64kb_0106	23.
+human_rights_un_lav_kb_64kb_0107	pants
+human_rights_un_lav_kb_64kb_0108	1.
+human_rights_un_lav_kb_64kb_0109	Katram cilvēkam ir tiesības uz darbu, uz brīvu darba izvēli, uz taisnīgiem unlabvēlīgiem darba apstākļiem un uz aizsardzību pret bezdarbu.
+human_rights_un_lav_kb_64kb_0110	2.
+human_rights_un_lav_kb_64kb_0111	Katram cilvēkam, bez jebkādas diskriminācijas, ir tiesības uz vienādu atlīdzību parlīdzvērtīgu darbu.
+human_rights_un_lav_kb_64kb_0112	3.
+human_rights_un_lav_kb_64kb_0113	Katram strādājošam ir tiesības uz taisnīgu un apmierinošu darba algu, kasnodrošina cilvēka cienīgu dzīvi viņam un viņa ģimenei.
+human_rights_un_lav_kb_64kb_0114	Nepieciešamības gadījumā tājāpapildina ar citiem sociālās nodrošināšanas līdzekļiem.
+human_rights_un_lav_kb_64kb_0115	4.
+human_rights_un_lav_kb_64kb_0116	Katram cilvēkam ir tiesības dibināt arodbiedrības un iestāties arodbiedrībās savuinterešu aizsardzībai.
+human_rights_un_lav_kb_64kb_0117	24.
+human_rights_un_lav_kb_64kb_0118	pants
+human_rights_un_lav_kb_64kb_0119	Katram cilvēkam ir tiesības uz atpūtu un brīvo laiku, ieskaitot tiesības uz saprātīgudarbadienas ierobežojumu un uz apmaksātu periodisku atvaļinājumu.
+human_rights_un_lav_kb_64kb_0120	25.
+human_rights_un_lav_kb_64kb_0121	pants
+human_rights_un_lav_kb_64kb_0122	1.
+human_rights_un_lav_kb_64kb_0123	Katram cilvēkam ir tiesības uz tādu dzīves līmeni, ieskaitot uzturu, apģērbu,mājokli, medicīniskos pakalpojumus un vajadzīgo sociālo apkalpošanu, kasnepieciešams viņa un viņa ģimenes veselības uzturēšanai un labklājībai, un tiesības uznodrošinājumu sakarā ar bezdarbu, slimību, invaliditāti, atraitnību, vecuma iestāšanosvai citos eksistences līdzekļu zaudējumu gadījumos, kas radušies no viņa neatkarīguapstākļu dēļ.
+human_rights_un_lav_kb_64kb_0124	2.
+human_rights_un_lav_kb_64kb_0125	Mātēm un bērniem ir tiesības uz īpašu aizsardzību un palīdzību.
+human_rights_un_lav_kb_64kb_0126	Visiem bērniem,laulībā un ārlaulībā dzimušajiem, ir jābauda vienāda sociālā aizsardzība.
+human_rights_un_lav_kb_64kb_0127	26.
+human_rights_un_lav_kb_64kb_0128	pants
+human_rights_un_lav_kb_64kb_0129	1.
+human_rights_un_lav_kb_64kb_0130	Katram cilvēkam ir tiesības uz izglītību.
+human_rights_un_lav_kb_64kb_0131	Izglītībai, vismaz pamata un vispārējaiizglītībai, ir jābūt bezmaksas.
+human_rights_un_lav_kb_64kb_0132	Pamatizglītībai ir jābūt obligātai.
+human_rights_un_lav_kb_64kb_0133	Tehniskajai unprofesionālajai izglītībai ir jābūt visiem pieejamai, un augstākai izglītībai jābūtvienādi pieejamai visiem atbilstoši katra spējām.
+human_rights_un_lav_kb_64kb_0134	2.
+human_rights_un_lav_kb_64kb_0135	Izglītības mērķim jābūt pilnīgai personības attīstībai, un tai jāstiprina cilvēktiesībuun pamatbrīvību ievērošana.
+human_rights_un_lav_kb_64kb_0136	Izglītībai ir jāveicina savstarpējā saprašanās, iecietība undraudzība starp visām tautām, rasu un reliģiskajām grupām un Apvienoto Nāciju
+human_rights_un_lav_kb_64kb_0137	Organizācijas darbība miera uzturēšanā.
+human_rights_un_lav_kb_64kb_0138	27.
+human_rights_un_lav_kb_64kb_0139	pants
+human_rights_un_lav_kb_64kb_0140	1.
+human_rights_un_lav_kb_64kb_0141	Katram cilvēkam ir tiesības brīvi piedalīties sabiedrības kultūras dzīvē, baudītmākslu, piedalīties zinātnes progresā un izmantot tā labumus.
+human_rights_un_lav_kb_64kb_0142	2.
+human_rights_un_lav_kb_64kb_0143	Katram cilvēkam ir tiesības uz morālo un materiālo interešu aizsardzību, kassaistītas ar zinātniskajiem, literārajiem vai mākslas darbiem, kuru autors viņš ir.
+human_rights_un_lav_kb_64kb_0144	28.
+human_rights_un_lav_kb_64kb_0145	pants
+human_rights_un_lav_kb_64kb_0146	Katram cilvēkam ir tiesības uz sociālo un starptautisko kārtību, kurā var tikt pilnīgirealizētas šajā Deklarācijā izklāstītās tiesības un brīvības.
+human_rights_un_lav_kb_64kb_0147	29.
+human_rights_un_lav_kb_64kb_0148	pants
+human_rights_un_lav_kb_64kb_0149	1.
+human_rights_un_lav_kb_64kb_0150	Katram cilvēkam ir pienākumi pret sabiedrību, kurā tikai ir iespējama viņapersonības brīva un pilnīga attīstība.
+human_rights_un_lav_kb_64kb_0151	2.
+human_rights_un_lav_kb_64kb_0152	Realizējot savas tiesības un brīvības, katram cilvēkam ir jāpakļaujas tikai likumānoteiktiem ierobežojumiem, kuru nolūks ir vienīgi citu cilvēku tiesību un brīvībupienācīgas atzīšanas un cieņas nodrošinājums un morāles, sabiedriskās kārtības unvispārējas labklājības taisnīgu prasību apmierināšana demokrātiskā sabiedrībā.
+human_rights_un_lav_kb_64kb_0153	3.
+human_rights_un_lav_kb_64kb_0154	Šo tiesību un brīvību īstenošana nekādā ziņā nedrīkst būt pretrunā ar Apvienoto
+human_rights_un_lav_kb_64kb_0155	Nāciju Organizācijas mērķiem un principiem.
+human_rights_un_lav_kb_64kb_0156	30.
+human_rights_un_lav_kb_64kb_0157	pants
+human_rights_un_lav_kb_64kb_0158	Neko šajā Deklarācijā nedrīkst interpretēt tādejādi, lai kādai valstij, personu grupai vaiatsevišķām personām būtu tiesības jebkādā veidā darboties vai veikt darbības, kurumērķis ir likvidēt šajā Deklarācijā izklāstītās tiesības un brīvības.

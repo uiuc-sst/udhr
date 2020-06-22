@@ -1,180 +1,180 @@
-ltz_0001	UNIVERSAL - DEKLARATIOUN VUN DE MËNSCHERECHTER
-ltz_0002	PRÄAMBEL
-ltz_0003	Well d’Unerkennong vun der Dignitéit, déi all Mêmber vun der Mënschefamillgebuer as, a vu sénge gläichen an onersetzleche Rechter de Fëllement vun der
-ltz_0004	Fräiheet, der Gerechtegkeet an dem Fridden an der Welt as,
-ltz_0005	Well et do, wou d’Mënscherechter nët unerkannt an nët respektéiert gin, zubarbareschen Akte koum, déi d’Gewësse vun der ganzer Mënschheetrevoltéieren a well d’Schafe vun enger Welt, an deer d’Mënschen d’Fräiheet vum
-ltz_0006	Wuert a vum Glaf hun, an deer se fräi si vu Fuurcht an Nout, als dem Mënschsäin héchst Striewe proklaméiert gouf,
-ltz_0007	Well et haaptsächlech drëm geet fir duerch e Rechtssystem Hand iwwerd’Mënscherechter ze halen an datt de Mënsch doduerch nët forcéiert gët fir säileschten Auswee an der Revolt géint d’Tyrannei an d’Ënnerdrécktgin ze sichen,
-ltz_0008	Well et haaptsächlech drëm geet fir d’Entwécklong vun de frëndschaaftleche
-ltz_0009	Relatiounen tëscht den Natiounen z’encouragéieren,
-ltz_0010	Well an der Charta d’Vëlleker vun de Vereenten Natiounen op en Neits hire Glafan d’Grondrechter vum Mënsch, an d’Dignitéit an an de Wäert vun dermënschlecher Persoun, an d’Gläichheet vun de Rechter vu Mann a Fraproklaméiert a sech dofir entscheed hu fir dem zoziale Fortschrëtt de Virzock zegin a besser Lieweskonditiounen a méi enger grousser Fräiheet ze schafen,
-ltz_0011	Well d’Mëmberstate sech verflicht hu fir an Zesummenaarbecht mat der
-ltz_0012	Organisatioun vun de Vereenten Natiounen dofir ze suergen, dattd’Mënscherechter an d’Grondfräiheten allgemeng respektéiert a realiséiert gin,
-ltz_0013	Well eng an déi selwecht Opfaassong iwwer dës Rechter a Fräiheten aus der
-ltz_0014	Mooss wichteg as fir dëst Engagement voll a ganz kënnen duerchzeféieren,
-ltz_0015	PROKLAMÉIERT D’GENEROLVERSAMMLONG:
-ltz_0016	Dës UNIVERSAL-DEKLARATIOUN VUN DE MËNSCHERECHTER, déi als enallgemengt Ideal vun all Vollek an all Natioun soll ugestrieft gin aus deem Grond,datt all eenzele Mënsch an all Organ vun der Gesellschaft, ëmmer am Geeschtvun dëser Deklaratioun, sech ustrenge fir duerch den Unterrécht an d’Erzéiongde Respekt vun dëse Rechter a Fräiheten z’entwécklen an no an no duerch
-ltz_0017	Mesüren um nationalen an internationale Plang hir Unerkennong ze sécheren,datt d’Populatiounen aus de Mêmberstate selwer an déi aus Gebitter, déi ënnerhirer Geriichtsbarkeet stin, en allgemengen a gudde Gebrauch dervu kënnenmaachen.
-ltz_0018	Artikel 1
-ltz_0019	All Mënsch kënnt fräi a mat deer selwechter Dignitéit an dene selwechte Rechterop d’Welt.
-ltz_0020	Jiddereen huet säi Verstand a säi Gewësse krut an soll an engem
-ltz_0021	Geescht vu Bridderlechkeet denen anere géintiwwer handelen.
-ltz_0022	Artikel 2
-ltz_0023	Jidderee kann all déi Rechter an all déi Fräiheten, déi an dëser Deklaratiounproklaméiert sin, fir sech verlaangen an dat ouni Ënnerscheed sief et vu Rass,
-ltz_0024	Hautfaarf, Geschlecht, Sprooch, Relioun, politesche odder anerer Iwwerzegong,nationalem odder zozialem Urspronk, Verméigen, Gebuurt odder soss enger
-ltz_0025	Situatioun.
-ltz_0026	Et duerf do dernieft och keen Ennerscheed gemat gin, dee mampoliteschen, rechtlechen odder internationale statut vun deem Land odder deem
-ltz_0027	Gebitt begrënnt gët, aus deem eng Persoun hierstaamt, egal ob dëst Land odderdëst Gebitt onofhängeg, ënner engem Mandat, nët autonom odder séng
-ltz_0028	Souveränitéit an irgendenger Form begrenzt as.
-ltz_0029	Artikel 3
-ltz_0030	All Mësch huet Recht op d’Liewen, op d’Fräiheet an op d’Secherheet vu sénger
-ltz_0031	Persoun.
-ltz_0032	Artikel 4
-ltz_0033	Kee Mënsch daarf a Sklaverei odder a Kniechtschaaft gehal gin;
-ltz_0034	d’Sklaverei ande Sklavenhandel sin an all hire Forme verbueden.
-ltz_0035	Artikel 5
-ltz_0036	Keen duerf gefoltert an och kee grausam, onmënschlech, onwiirdeg bestrooft abehandelt gin.
-ltz_0037	Artikel 6
-ltz_0038	Jiddereen huet iwwerall d’Recht op Unerkennong vu sénger juristescher
-ltz_0039	Perséinlechkeet.
-ltz_0040	Artikel 7
-ltz_0041	D’Mënsche sin alleguer gläich virum Gesetz a si hun ouni Ënnerscheed Recht opdee selwechte Schutz vum Gesetz.
-ltz_0042	Alleguer hu se Recht op dee selwechte
-ltz_0043	Schutz géint all Diskriminatioun, déi dës Deklaratioun géing verletzen a géint all
-ltz_0044	Provokatioun zu esou enger Diskriminatioun.
-ltz_0045	Artikel 8
-ltz_0046	All Mënsch huet d’Recht fir bei denen zoustännegen nationale Geriichter eneffektive Recours géint déi Akten ze man, déi d’fundamental Rechter, déi himduerch d’Konstitutioun odder duerch d’Gesetz zoustin, verletzen.
-ltz_0047	Artikel 9
-ltz_0048	Kee Mënsch duerf arbiträr verhaft, agesat odder ausgewise gin.
-ltz_0049	Artikel 10
-ltz_0050	All Mënsch huet d’Recht, a voller Gläichheet, datt séng Saach, säin Uleiesgerecht an öffentlech virun engem onofhängegen an onparteiesche Geriicht zur
-ltz_0051	Sprooch kënnt, dat iwwer séng Rechter a Flichten an iwwer d’Berechtegong vunall Uklo, déi a Strofsaache géint e gefouert gët, entscheet.
-ltz_0052	Artikel 11
-ltz_0053	1.
-ltz_0054	All Mënsch, dee wéinst engem strofbaren Akt ugeklot gët as esou laangals onschëlleg unzegesinn, bis séng Schold gesetzlech an am Verlaf vunengem öffentleche Prozess nogewisen as, an deem e mat Sécherheet opall néideg Garantië fir séng Verdedegong konnt rechnen.
-ltz_0055	2.
-ltz_0056	Keen duerf veruurtelt gi fir Saachen, déi e gemat odder ënnerlooss huet,déi an deem Ament, wou dat geschitt as, no nationalem aninternationalem Recht keng strofbar Akte woren.
-ltz_0057	Och duerf kee méi enghéich Strof kréie wi déi, déi an deem Ament applizéiert gouf, an deem destrofbaren Akt geschitt as.
-ltz_0058	Artikel 12
-ltz_0059	An enger Persoun hiirt Privatliewen, hir Famill, hir Wunnéng odder hir
-ltz_0060	Korrespondenz duerf sech nët arbiträr agemëscht, an hir Éier an hire gudde Ruffoch nët ugetaascht gin.
-ltz_0061	All Mënsch huet d’Recht op de Schutz vum Gesetz géintesou en Amëschen an Untaaschten.
-ltz_0062	Artikel 13
-ltz_0063	1.
-ltz_0064	All Mënsch huet d’Recht fir fräi bannent de Grenze vun all Stat zezirkuléieren a séng Residenz ze wielen.
-ltz_0065	2.
-ltz_0066	All Mënsch huet d’Recht fir all Land ze verloossen, och säin egent, annees a säi Land heemzekommen.
-ltz_0067	Artikel 14
-ltz_0068	1.
-ltz_0069	All Mënsch huet d’Recht fir, wann e verfollegt gët, Asyl an anere Lännerze sichen a Gebrauch dovunner ze maachen.
-ltz_0070	2.
-ltz_0071	Op dëst Recht ka sech nët beruff gin am Fall vun Ukloen, déi reell opengem Verbrieche vum allgemenge Recht an op Handlonge fundéieren,déi géint d’Ziler an d’Grondsätz vun de Vereenten Natioune verstoussen.
-ltz_0072	Artikel 15
-ltz_0073	1.
-ltz_0074	All Mënsch huet d’Recht op eng Nationalitéit.
-ltz_0075	2.
-ltz_0076	Séng Nationalitéit duerf kengem Mënsch arbiträr entzu gin, och nët dat
-ltz_0077	Recht fir séng Nationalitéit ze changéieren.
-ltz_0078	Artikel 16
-ltz_0079	1.
-ltz_0080	Wa Mann a Fra am Alter si fir sech ze bestueden, hu se d’Recht fir dat zemaachen an eng Famill ze grënnen ouni iirgendeng Restriktioun watd’Rass, d’Nationalitéit odder d’Relioun ugeet.
-ltz_0081	Si hu beim Bestiednes, am
-ltz_0082	Bestiednes a bei sénger Opléisong déi selwecht Rechter.
-ltz_0083	2.
-ltz_0084	D’Bestiednes duerf nëmme mat der fräier a voller Awëllegong vum
-ltz_0085	Brautpuer geschloss gin.
-ltz_0086	3.
-ltz_0087	D’Famill as dat natiirlecht a fundamentaalt Element vun der Gesellschaft asi huet d’Recht op de Schutz vu Gesellschaft a Stat.
-ltz_0088	Artikel 17
-ltz_0089	1.
-ltz_0090	All Mënsch huet d’Recht, eleng an och mat aneren zesummen, op
-ltz_0091	Egentom.
-ltz_0092	2.
-ltz_0093	Säin Egentom duerf kengem Mënsch arbiträr entzu gin.
-ltz_0094	Artikel 18
-ltz_0095	All Mënsch huet d’Recht op Gedanke-, Gewëssens- a Reliounsfräiheet;
-ltz_0096	andësem Recht mat dran as d’Fräiheet fir séng Relioun odder séng Iwwerzegongze änneren, grad esou wéi d’Fräiheet fir séng Relioun a séng lwwerzegong elengodder mat aneren ze manifestéieren, sief et an der Öffentlechkeet odder privat,duerch den Unterrécht, d’Praktizéieren, de Kultus an d’Feiere vu Riten.
-ltz_0097	Artikel 19
-ltz_0098	All Mënsch huet d’Recht op eng fräi Menong a fir se fräi auszedrécken, an deemoch d’Recht mat dran as op eng Menong fräi vu Fuurcht an dat Recht fir
-ltz_0099	Informatiounen an Iddiën ze sichen, ze kréien an ze verbrede mat all dene
-ltz_0100	Mëttele fir sech auszedrécken, déi et gët an ouni sech mussen u Grenze vu
-ltz_0101	Länner ze halen.
-ltz_0102	Artikel 20
-ltz_0103	1.
-ltz_0104	All Mënsch huet d’Recht op Versammlungs- a Verenegongsfräiheet amfriddleche Sënn.
-ltz_0105	2.
-ltz_0106	Keen duerf an eng Verenegong gezwong gin.
-ltz_0107	Artikel 21
-ltz_0108	1.
-ltz_0109	All Mënsch huet d’Recht fir un den öffentlechen Ugeleënhete vu séngem
-ltz_0110	Land matzewiirken, sief et direkt odder duerch fräi gewielt Vertrieder.
-ltz_0111	2.
-ltz_0112	All Mënsch huet d’Recht fir ënner gläiche Konditiounen an d’öffentlech
-ltz_0113	Fonktioune vu séngem Land eranzekommen.
-ltz_0114	3.
-ltz_0115	De Vollekswëllen as d’Grondlag vun der Öffentlecher Gewalt hirer
-ltz_0116	Autoritéit;
-ltz_0117	dee Wëlle muss sech an éierleche Walen, déi periodeschofzehale sin no engem gläichen an allgemenge Walrecht, a geheime
-ltz_0118	Walen odder an enger gläichwäerteger Prozedur, déi fräi Walegarantéiert, auszedrécken.
-ltz_0119	Artikel 22
-ltz_0120	All Mënsch huet als Mêmber vun der Gesellschaft d’Recht op zozial Sécherheet;
-ltz_0121	en as berechtegt fir an de Genoss vun de wirtschaftlechen, zozialen a kulturelle
-ltz_0122	Rechter ze kommen, déi fir séng Dignitéit an d’fräi Entwécklong vu sénger
-ltz_0123	Perséinlechkeet néideg sin, dat alles duerch en nationalen Effort an enginternational Zesummenaarbecht an an engem Mooss, wéi d’Organisatioun and’Ressource vun all Land et ausweisen.
-ltz_0124	Artikel 23
-ltz_0125	1.
-ltz_0126	All Mënsch huet d’Recht op Aarbecht, op d’fräi Wiel vu sénger Aarbecht,op Aarbechtskonditiounen, déi gerecht sin an zefridde stellen an op de
-ltz_0127	Schutz géint de Chômage.
-ltz_0128	2.
-ltz_0129	Jiddereen huet ouni Diskriminatioun d’Recht op de selwechte Loun fir déiselwecht Aarbecht.
-ltz_0130	3.
-ltz_0131	Jiddereen, dee schafft, huet d’Recht op e gerechten an ordentleche Loun,deen him selwer a sénger Famill eng Existenz op der Basis vun dermënschlëcher Dignitéit séchert an deen, wann néideg, duerch all anerzozial Mesüre gestäipt gët.
-ltz_0132	4.
-ltz_0133	All Mënsch huet d’Recht fir mat anere Leit Beruffsorganisatiounen zegrënnen a fir séng Intressen ze verdedegen dranzegoen.
-ltz_0134	Artikel 24
-ltz_0135	All Mënsch huet d’Recht op Rou a Fräizäit a besonnesch op eng räsonnabelbegrenzten Dauer vun der Aarbechtszäit an op periodeschen a bezuelte Congé.
-ltz_0136	Artikel 25
-ltz_0137	1.
-ltz_0138	All Mënsch huet d’Recht op e Liewesniveau, deen duergeet fir him selwera sénger Famill d’Gesondheet an d’Gutt-Ergoen, besonnesch d’Narong,d’Kleder, d’Wunneng, d’medezinesch Fleg an déi néideg zozial
-ltz_0139	Déngschter ze garantéieren;
-ltz_0140	en huet d’Recht op Sécherheet am Fall vu
-ltz_0141	Chômage, Krankheet, Invaliditéit, als Witfra odder Witmann, am Alter anan anere Fäll, wou en d’Mëttele fir säi Liewesënnerhalt nët méi huetduerch Ëmstänn, déi onofhängeg si vu séngem Wëllen.
-ltz_0142	2.
-ltz_0143	Mamm a Kand hun d’Recht op speziell Hëllef a Bäistand.
-ltz_0144	D’Kanneralleguer, ob se am odder nët am Bestiednes gebuer gin, kommen an de
-ltz_0145	Genoss vun deem selwechten zoziale Schutz.
-ltz_0146	Artikel 26
-ltz_0147	1.
-ltz_0148	All Mënsch huet d’Recht op Bildung.
-ltz_0149	Den Unterrécht muss op d’mannst fird’Elementar- an d’Grondschoule gratis sin.
-ltz_0150	Den Elementarunterrécht asobligatoresch.
-ltz_0151	Den techneschen an de Beruffsunterécht musseverallgemengert sin.
-ltz_0152	Den héiere Studium muss jidderengem mat deneselwechte Rechter an op der Basis vu sénge Leeschtungen opstoen.
-ltz_0153	2.
-ltz_0154	D’Bildung soll déi voll Entwécklong vun der mënschlecher Perséinlechkeeta méi e grousse Respekt vun de Mënscherechter an de Grondfräihetenuviséieren.
-ltz_0155	Si soll de Versteesdemech, d’Toleranz an d’Frëndschaafttëscht allen Natiounen an alle Gruppe vu Rassen a Relioune grad esoufavoriséiere wéi d’Entwécklong vun de Vereenten Natiounen hiren
-ltz_0156	Aktivitéite fir d’Erhale vum Fridden.
-ltz_0157	3.
-ltz_0158	D’Elteren hu virewech d’Recht fir de Genre vun de Kanner hirer Bildung zewielen.
-ltz_0159	Artikel 27
-ltz_0160	1.
-ltz_0161	All Mënsch huet d’Recht fir fräi un der Kommunotéit hirem kulturelle
-ltz_0162	Liewen deelzehuelen, an de Genoss vun der Konscht ze kommen a vumwësseschaaftleche Fortschrëtt a vun allem, wat sech doraus u Guddemergët, ze profitéieren.
-ltz_0163	2.
-ltz_0164	Jiddereen huet d’Recht op de Schutz vun de moraleschen a materiellen
-ltz_0165	Intressen, déi aus jidfer wësseschaaftlecher, literarescher odderartistescher Produktioun entstin, vun deer hien den Auteur as.
-ltz_0166	Artikel 28
-ltz_0167	All Mënsch huet d’Recht op eng zozial an international Uerdnong, an deer sechdéi Rechter a Fräiheten, déi an dëser Deklaratioun opgezielt gin, voll kënnenauswiirken.
-ltz_0168	Artikel 29
-ltz_0169	1.
-ltz_0170	All Mënsch huet Flichte vis-à-vis vun der Kommunotéit, an deer eleng déifräi a voll Entwécklong vu sénger Perséinlechkeet méiglech as.
-ltz_0171	2.
-ltz_0172	Am Gebrauch vu sénge Rechter an am Genoss vu sénge Fräiheten asjiddereen nëmmen dene Limiten ënnerworf, déi d’Gesetz eenzeg an elengdofir virgesäit, datt d’Unerkennong an de Respekt vun aneren hire Rechtera Fräihete gesechert sin a fir engem gerechten Usproch op Moral, opöffentlech Uerdnong an op en allgemengt Wuel an enger demokratescher
-ltz_0173	Gesellschaft z’entspriechen.
-ltz_0174	3.
-ltz_0175	Dës Rechter a Fräiheten duerfen a kengem Fall am Widdersproch mat de
-ltz_0176	Vereenten Natiounen hiren Ziler a Prinzippie stoen.
-ltz_0177	Artikel 30
-ltz_0178	Keng Bestëmmong vun dëser Deklaratioun duerf esou ausgeluegt gin, datt e
-ltz_0179	Recht fir e Stat, eng Grupp odder en eenzele Mënsch dra wär fir sech un
-ltz_0180	Aktivitéiten ze gin odder Akten duerchzeféieren, déi drop erauslafe fir d’Rechteran d’Fräiheten, déi dra genannt sin, ëmzestoussen.
+human_rights_un_lb_ll_64kb_0001	UNIVERSAL - DEKLARATIOUN VUN DE MËNSCHERECHTER
+human_rights_un_lb_ll_64kb_0002	PRÄAMBEL
+human_rights_un_lb_ll_64kb_0003	Well d’Unerkennong vun der Dignitéit, déi all Mêmber vun der Mënschefamillgebuer as, a vu sénge gläichen an onersetzleche Rechter de Fëllement vun der
+human_rights_un_lb_ll_64kb_0004	Fräiheet, der Gerechtegkeet an dem Fridden an der Welt as,
+human_rights_un_lb_ll_64kb_0005	Well et do, wou d’Mënscherechter nët unerkannt an nët respektéiert gin, zubarbareschen Akte koum, déi d’Gewësse vun der ganzer Mënschheetrevoltéieren a well d’Schafe vun enger Welt, an deer d’Mënschen d’Fräiheet vum
+human_rights_un_lb_ll_64kb_0006	Wuert a vum Glaf hun, an deer se fräi si vu Fuurcht an Nout, als dem Mënschsäin héchst Striewe proklaméiert gouf,
+human_rights_un_lb_ll_64kb_0007	Well et haaptsächlech drëm geet fir duerch e Rechtssystem Hand iwwerd’Mënscherechter ze halen an datt de Mënsch doduerch nët forcéiert gët fir säileschten Auswee an der Revolt géint d’Tyrannei an d’Ënnerdrécktgin ze sichen,
+human_rights_un_lb_ll_64kb_0008	Well et haaptsächlech drëm geet fir d’Entwécklong vun de frëndschaaftleche
+human_rights_un_lb_ll_64kb_0009	Relatiounen tëscht den Natiounen z’encouragéieren,
+human_rights_un_lb_ll_64kb_0010	Well an der Charta d’Vëlleker vun de Vereenten Natiounen op en Neits hire Glafan d’Grondrechter vum Mënsch, an d’Dignitéit an an de Wäert vun dermënschlecher Persoun, an d’Gläichheet vun de Rechter vu Mann a Fraproklaméiert a sech dofir entscheed hu fir dem zoziale Fortschrëtt de Virzock zegin a besser Lieweskonditiounen a méi enger grousser Fräiheet ze schafen,
+human_rights_un_lb_ll_64kb_0011	Well d’Mëmberstate sech verflicht hu fir an Zesummenaarbecht mat der
+human_rights_un_lb_ll_64kb_0012	Organisatioun vun de Vereenten Natiounen dofir ze suergen, dattd’Mënscherechter an d’Grondfräiheten allgemeng respektéiert a realiséiert gin,
+human_rights_un_lb_ll_64kb_0013	Well eng an déi selwecht Opfaassong iwwer dës Rechter a Fräiheten aus der
+human_rights_un_lb_ll_64kb_0014	Mooss wichteg as fir dëst Engagement voll a ganz kënnen duerchzeféieren,
+human_rights_un_lb_ll_64kb_0015	PROKLAMÉIERT D’GENEROLVERSAMMLONG:
+human_rights_un_lb_ll_64kb_0016	Dës UNIVERSAL-DEKLARATIOUN VUN DE MËNSCHERECHTER, déi als enallgemengt Ideal vun all Vollek an all Natioun soll ugestrieft gin aus deem Grond,datt all eenzele Mënsch an all Organ vun der Gesellschaft, ëmmer am Geeschtvun dëser Deklaratioun, sech ustrenge fir duerch den Unterrécht an d’Erzéiongde Respekt vun dëse Rechter a Fräiheten z’entwécklen an no an no duerch
+human_rights_un_lb_ll_64kb_0017	Mesüren um nationalen an internationale Plang hir Unerkennong ze sécheren,datt d’Populatiounen aus de Mêmberstate selwer an déi aus Gebitter, déi ënnerhirer Geriichtsbarkeet stin, en allgemengen a gudde Gebrauch dervu kënnenmaachen.
+human_rights_un_lb_ll_64kb_0018	Artikel 1
+human_rights_un_lb_ll_64kb_0019	All Mënsch kënnt fräi a mat deer selwechter Dignitéit an dene selwechte Rechterop d’Welt.
+human_rights_un_lb_ll_64kb_0020	Jiddereen huet säi Verstand a säi Gewësse krut an soll an engem
+human_rights_un_lb_ll_64kb_0021	Geescht vu Bridderlechkeet denen anere géintiwwer handelen.
+human_rights_un_lb_ll_64kb_0022	Artikel 2
+human_rights_un_lb_ll_64kb_0023	Jidderee kann all déi Rechter an all déi Fräiheten, déi an dëser Deklaratiounproklaméiert sin, fir sech verlaangen an dat ouni Ënnerscheed sief et vu Rass,
+human_rights_un_lb_ll_64kb_0024	Hautfaarf, Geschlecht, Sprooch, Relioun, politesche odder anerer Iwwerzegong,nationalem odder zozialem Urspronk, Verméigen, Gebuurt odder soss enger
+human_rights_un_lb_ll_64kb_0025	Situatioun.
+human_rights_un_lb_ll_64kb_0026	Et duerf do dernieft och keen Ennerscheed gemat gin, dee mampoliteschen, rechtlechen odder internationale statut vun deem Land odder deem
+human_rights_un_lb_ll_64kb_0027	Gebitt begrënnt gët, aus deem eng Persoun hierstaamt, egal ob dëst Land odderdëst Gebitt onofhängeg, ënner engem Mandat, nët autonom odder séng
+human_rights_un_lb_ll_64kb_0028	Souveränitéit an irgendenger Form begrenzt as.
+human_rights_un_lb_ll_64kb_0029	Artikel 3
+human_rights_un_lb_ll_64kb_0030	All Mësch huet Recht op d’Liewen, op d’Fräiheet an op d’Secherheet vu sénger
+human_rights_un_lb_ll_64kb_0031	Persoun.
+human_rights_un_lb_ll_64kb_0032	Artikel 4
+human_rights_un_lb_ll_64kb_0033	Kee Mënsch daarf a Sklaverei odder a Kniechtschaaft gehal gin;
+human_rights_un_lb_ll_64kb_0034	d’Sklaverei ande Sklavenhandel sin an all hire Forme verbueden.
+human_rights_un_lb_ll_64kb_0035	Artikel 5
+human_rights_un_lb_ll_64kb_0036	Keen duerf gefoltert an och kee grausam, onmënschlech, onwiirdeg bestrooft abehandelt gin.
+human_rights_un_lb_ll_64kb_0037	Artikel 6
+human_rights_un_lb_ll_64kb_0038	Jiddereen huet iwwerall d’Recht op Unerkennong vu sénger juristescher
+human_rights_un_lb_ll_64kb_0039	Perséinlechkeet.
+human_rights_un_lb_ll_64kb_0040	Artikel 7
+human_rights_un_lb_ll_64kb_0041	D’Mënsche sin alleguer gläich virum Gesetz a si hun ouni Ënnerscheed Recht opdee selwechte Schutz vum Gesetz.
+human_rights_un_lb_ll_64kb_0042	Alleguer hu se Recht op dee selwechte
+human_rights_un_lb_ll_64kb_0043	Schutz géint all Diskriminatioun, déi dës Deklaratioun géing verletzen a géint all
+human_rights_un_lb_ll_64kb_0044	Provokatioun zu esou enger Diskriminatioun.
+human_rights_un_lb_ll_64kb_0045	Artikel 8
+human_rights_un_lb_ll_64kb_0046	All Mënsch huet d’Recht fir bei denen zoustännegen nationale Geriichter eneffektive Recours géint déi Akten ze man, déi d’fundamental Rechter, déi himduerch d’Konstitutioun odder duerch d’Gesetz zoustin, verletzen.
+human_rights_un_lb_ll_64kb_0047	Artikel 9
+human_rights_un_lb_ll_64kb_0048	Kee Mënsch duerf arbiträr verhaft, agesat odder ausgewise gin.
+human_rights_un_lb_ll_64kb_0049	Artikel 10
+human_rights_un_lb_ll_64kb_0050	All Mënsch huet d’Recht, a voller Gläichheet, datt séng Saach, säin Uleiesgerecht an öffentlech virun engem onofhängegen an onparteiesche Geriicht zur
+human_rights_un_lb_ll_64kb_0051	Sprooch kënnt, dat iwwer séng Rechter a Flichten an iwwer d’Berechtegong vunall Uklo, déi a Strofsaache géint e gefouert gët, entscheet.
+human_rights_un_lb_ll_64kb_0052	Artikel 11
+human_rights_un_lb_ll_64kb_0053	1.
+human_rights_un_lb_ll_64kb_0054	All Mënsch, dee wéinst engem strofbaren Akt ugeklot gët as esou laangals onschëlleg unzegesinn, bis séng Schold gesetzlech an am Verlaf vunengem öffentleche Prozess nogewisen as, an deem e mat Sécherheet opall néideg Garantië fir séng Verdedegong konnt rechnen.
+human_rights_un_lb_ll_64kb_0055	2.
+human_rights_un_lb_ll_64kb_0056	Keen duerf veruurtelt gi fir Saachen, déi e gemat odder ënnerlooss huet,déi an deem Ament, wou dat geschitt as, no nationalem aninternationalem Recht keng strofbar Akte woren.
+human_rights_un_lb_ll_64kb_0057	Och duerf kee méi enghéich Strof kréie wi déi, déi an deem Ament applizéiert gouf, an deem destrofbaren Akt geschitt as.
+human_rights_un_lb_ll_64kb_0058	Artikel 12
+human_rights_un_lb_ll_64kb_0059	An enger Persoun hiirt Privatliewen, hir Famill, hir Wunnéng odder hir
+human_rights_un_lb_ll_64kb_0060	Korrespondenz duerf sech nët arbiträr agemëscht, an hir Éier an hire gudde Ruffoch nët ugetaascht gin.
+human_rights_un_lb_ll_64kb_0061	All Mënsch huet d’Recht op de Schutz vum Gesetz géintesou en Amëschen an Untaaschten.
+human_rights_un_lb_ll_64kb_0062	Artikel 13
+human_rights_un_lb_ll_64kb_0063	1.
+human_rights_un_lb_ll_64kb_0064	All Mënsch huet d’Recht fir fräi bannent de Grenze vun all Stat zezirkuléieren a séng Residenz ze wielen.
+human_rights_un_lb_ll_64kb_0065	2.
+human_rights_un_lb_ll_64kb_0066	All Mënsch huet d’Recht fir all Land ze verloossen, och säin egent, annees a säi Land heemzekommen.
+human_rights_un_lb_ll_64kb_0067	Artikel 14
+human_rights_un_lb_ll_64kb_0068	1.
+human_rights_un_lb_ll_64kb_0069	All Mënsch huet d’Recht fir, wann e verfollegt gët, Asyl an anere Lännerze sichen a Gebrauch dovunner ze maachen.
+human_rights_un_lb_ll_64kb_0070	2.
+human_rights_un_lb_ll_64kb_0071	Op dëst Recht ka sech nët beruff gin am Fall vun Ukloen, déi reell opengem Verbrieche vum allgemenge Recht an op Handlonge fundéieren,déi géint d’Ziler an d’Grondsätz vun de Vereenten Natioune verstoussen.
+human_rights_un_lb_ll_64kb_0072	Artikel 15
+human_rights_un_lb_ll_64kb_0073	1.
+human_rights_un_lb_ll_64kb_0074	All Mënsch huet d’Recht op eng Nationalitéit.
+human_rights_un_lb_ll_64kb_0075	2.
+human_rights_un_lb_ll_64kb_0076	Séng Nationalitéit duerf kengem Mënsch arbiträr entzu gin, och nët dat
+human_rights_un_lb_ll_64kb_0077	Recht fir séng Nationalitéit ze changéieren.
+human_rights_un_lb_ll_64kb_0078	Artikel 16
+human_rights_un_lb_ll_64kb_0079	1.
+human_rights_un_lb_ll_64kb_0080	Wa Mann a Fra am Alter si fir sech ze bestueden, hu se d’Recht fir dat zemaachen an eng Famill ze grënnen ouni iirgendeng Restriktioun watd’Rass, d’Nationalitéit odder d’Relioun ugeet.
+human_rights_un_lb_ll_64kb_0081	Si hu beim Bestiednes, am
+human_rights_un_lb_ll_64kb_0082	Bestiednes a bei sénger Opléisong déi selwecht Rechter.
+human_rights_un_lb_ll_64kb_0083	2.
+human_rights_un_lb_ll_64kb_0084	D’Bestiednes duerf nëmme mat der fräier a voller Awëllegong vum
+human_rights_un_lb_ll_64kb_0085	Brautpuer geschloss gin.
+human_rights_un_lb_ll_64kb_0086	3.
+human_rights_un_lb_ll_64kb_0087	D’Famill as dat natiirlecht a fundamentaalt Element vun der Gesellschaft asi huet d’Recht op de Schutz vu Gesellschaft a Stat.
+human_rights_un_lb_ll_64kb_0088	Artikel 17
+human_rights_un_lb_ll_64kb_0089	1.
+human_rights_un_lb_ll_64kb_0090	All Mënsch huet d’Recht, eleng an och mat aneren zesummen, op
+human_rights_un_lb_ll_64kb_0091	Egentom.
+human_rights_un_lb_ll_64kb_0092	2.
+human_rights_un_lb_ll_64kb_0093	Säin Egentom duerf kengem Mënsch arbiträr entzu gin.
+human_rights_un_lb_ll_64kb_0094	Artikel 18
+human_rights_un_lb_ll_64kb_0095	All Mënsch huet d’Recht op Gedanke-, Gewëssens- a Reliounsfräiheet;
+human_rights_un_lb_ll_64kb_0096	andësem Recht mat dran as d’Fräiheet fir séng Relioun odder séng Iwwerzegongze änneren, grad esou wéi d’Fräiheet fir séng Relioun a séng lwwerzegong elengodder mat aneren ze manifestéieren, sief et an der Öffentlechkeet odder privat,duerch den Unterrécht, d’Praktizéieren, de Kultus an d’Feiere vu Riten.
+human_rights_un_lb_ll_64kb_0097	Artikel 19
+human_rights_un_lb_ll_64kb_0098	All Mënsch huet d’Recht op eng fräi Menong a fir se fräi auszedrécken, an deemoch d’Recht mat dran as op eng Menong fräi vu Fuurcht an dat Recht fir
+human_rights_un_lb_ll_64kb_0099	Informatiounen an Iddiën ze sichen, ze kréien an ze verbrede mat all dene
+human_rights_un_lb_ll_64kb_0100	Mëttele fir sech auszedrécken, déi et gët an ouni sech mussen u Grenze vu
+human_rights_un_lb_ll_64kb_0101	Länner ze halen.
+human_rights_un_lb_ll_64kb_0102	Artikel 20
+human_rights_un_lb_ll_64kb_0103	1.
+human_rights_un_lb_ll_64kb_0104	All Mënsch huet d’Recht op Versammlungs- a Verenegongsfräiheet amfriddleche Sënn.
+human_rights_un_lb_ll_64kb_0105	2.
+human_rights_un_lb_ll_64kb_0106	Keen duerf an eng Verenegong gezwong gin.
+human_rights_un_lb_ll_64kb_0107	Artikel 21
+human_rights_un_lb_ll_64kb_0108	1.
+human_rights_un_lb_ll_64kb_0109	All Mënsch huet d’Recht fir un den öffentlechen Ugeleënhete vu séngem
+human_rights_un_lb_ll_64kb_0110	Land matzewiirken, sief et direkt odder duerch fräi gewielt Vertrieder.
+human_rights_un_lb_ll_64kb_0111	2.
+human_rights_un_lb_ll_64kb_0112	All Mënsch huet d’Recht fir ënner gläiche Konditiounen an d’öffentlech
+human_rights_un_lb_ll_64kb_0113	Fonktioune vu séngem Land eranzekommen.
+human_rights_un_lb_ll_64kb_0114	3.
+human_rights_un_lb_ll_64kb_0115	De Vollekswëllen as d’Grondlag vun der Öffentlecher Gewalt hirer
+human_rights_un_lb_ll_64kb_0116	Autoritéit;
+human_rights_un_lb_ll_64kb_0117	dee Wëlle muss sech an éierleche Walen, déi periodeschofzehale sin no engem gläichen an allgemenge Walrecht, a geheime
+human_rights_un_lb_ll_64kb_0118	Walen odder an enger gläichwäerteger Prozedur, déi fräi Walegarantéiert, auszedrécken.
+human_rights_un_lb_ll_64kb_0119	Artikel 22
+human_rights_un_lb_ll_64kb_0120	All Mënsch huet als Mêmber vun der Gesellschaft d’Recht op zozial Sécherheet;
+human_rights_un_lb_ll_64kb_0121	en as berechtegt fir an de Genoss vun de wirtschaftlechen, zozialen a kulturelle
+human_rights_un_lb_ll_64kb_0122	Rechter ze kommen, déi fir séng Dignitéit an d’fräi Entwécklong vu sénger
+human_rights_un_lb_ll_64kb_0123	Perséinlechkeet néideg sin, dat alles duerch en nationalen Effort an enginternational Zesummenaarbecht an an engem Mooss, wéi d’Organisatioun and’Ressource vun all Land et ausweisen.
+human_rights_un_lb_ll_64kb_0124	Artikel 23
+human_rights_un_lb_ll_64kb_0125	1.
+human_rights_un_lb_ll_64kb_0126	All Mënsch huet d’Recht op Aarbecht, op d’fräi Wiel vu sénger Aarbecht,op Aarbechtskonditiounen, déi gerecht sin an zefridde stellen an op de
+human_rights_un_lb_ll_64kb_0127	Schutz géint de Chômage.
+human_rights_un_lb_ll_64kb_0128	2.
+human_rights_un_lb_ll_64kb_0129	Jiddereen huet ouni Diskriminatioun d’Recht op de selwechte Loun fir déiselwecht Aarbecht.
+human_rights_un_lb_ll_64kb_0130	3.
+human_rights_un_lb_ll_64kb_0131	Jiddereen, dee schafft, huet d’Recht op e gerechten an ordentleche Loun,deen him selwer a sénger Famill eng Existenz op der Basis vun dermënschlëcher Dignitéit séchert an deen, wann néideg, duerch all anerzozial Mesüre gestäipt gët.
+human_rights_un_lb_ll_64kb_0132	4.
+human_rights_un_lb_ll_64kb_0133	All Mënsch huet d’Recht fir mat anere Leit Beruffsorganisatiounen zegrënnen a fir séng Intressen ze verdedegen dranzegoen.
+human_rights_un_lb_ll_64kb_0134	Artikel 24
+human_rights_un_lb_ll_64kb_0135	All Mënsch huet d’Recht op Rou a Fräizäit a besonnesch op eng räsonnabelbegrenzten Dauer vun der Aarbechtszäit an op periodeschen a bezuelte Congé.
+human_rights_un_lb_ll_64kb_0136	Artikel 25
+human_rights_un_lb_ll_64kb_0137	1.
+human_rights_un_lb_ll_64kb_0138	All Mënsch huet d’Recht op e Liewesniveau, deen duergeet fir him selwera sénger Famill d’Gesondheet an d’Gutt-Ergoen, besonnesch d’Narong,d’Kleder, d’Wunneng, d’medezinesch Fleg an déi néideg zozial
+human_rights_un_lb_ll_64kb_0139	Déngschter ze garantéieren;
+human_rights_un_lb_ll_64kb_0140	en huet d’Recht op Sécherheet am Fall vu
+human_rights_un_lb_ll_64kb_0141	Chômage, Krankheet, Invaliditéit, als Witfra odder Witmann, am Alter anan anere Fäll, wou en d’Mëttele fir säi Liewesënnerhalt nët méi huetduerch Ëmstänn, déi onofhängeg si vu séngem Wëllen.
+human_rights_un_lb_ll_64kb_0142	2.
+human_rights_un_lb_ll_64kb_0143	Mamm a Kand hun d’Recht op speziell Hëllef a Bäistand.
+human_rights_un_lb_ll_64kb_0144	D’Kanneralleguer, ob se am odder nët am Bestiednes gebuer gin, kommen an de
+human_rights_un_lb_ll_64kb_0145	Genoss vun deem selwechten zoziale Schutz.
+human_rights_un_lb_ll_64kb_0146	Artikel 26
+human_rights_un_lb_ll_64kb_0147	1.
+human_rights_un_lb_ll_64kb_0148	All Mënsch huet d’Recht op Bildung.
+human_rights_un_lb_ll_64kb_0149	Den Unterrécht muss op d’mannst fird’Elementar- an d’Grondschoule gratis sin.
+human_rights_un_lb_ll_64kb_0150	Den Elementarunterrécht asobligatoresch.
+human_rights_un_lb_ll_64kb_0151	Den techneschen an de Beruffsunterécht musseverallgemengert sin.
+human_rights_un_lb_ll_64kb_0152	Den héiere Studium muss jidderengem mat deneselwechte Rechter an op der Basis vu sénge Leeschtungen opstoen.
+human_rights_un_lb_ll_64kb_0153	2.
+human_rights_un_lb_ll_64kb_0154	D’Bildung soll déi voll Entwécklong vun der mënschlecher Perséinlechkeeta méi e grousse Respekt vun de Mënscherechter an de Grondfräihetenuviséieren.
+human_rights_un_lb_ll_64kb_0155	Si soll de Versteesdemech, d’Toleranz an d’Frëndschaafttëscht allen Natiounen an alle Gruppe vu Rassen a Relioune grad esoufavoriséiere wéi d’Entwécklong vun de Vereenten Natiounen hiren
+human_rights_un_lb_ll_64kb_0156	Aktivitéite fir d’Erhale vum Fridden.
+human_rights_un_lb_ll_64kb_0157	3.
+human_rights_un_lb_ll_64kb_0158	D’Elteren hu virewech d’Recht fir de Genre vun de Kanner hirer Bildung zewielen.
+human_rights_un_lb_ll_64kb_0159	Artikel 27
+human_rights_un_lb_ll_64kb_0160	1.
+human_rights_un_lb_ll_64kb_0161	All Mënsch huet d’Recht fir fräi un der Kommunotéit hirem kulturelle
+human_rights_un_lb_ll_64kb_0162	Liewen deelzehuelen, an de Genoss vun der Konscht ze kommen a vumwësseschaaftleche Fortschrëtt a vun allem, wat sech doraus u Guddemergët, ze profitéieren.
+human_rights_un_lb_ll_64kb_0163	2.
+human_rights_un_lb_ll_64kb_0164	Jiddereen huet d’Recht op de Schutz vun de moraleschen a materiellen
+human_rights_un_lb_ll_64kb_0165	Intressen, déi aus jidfer wësseschaaftlecher, literarescher odderartistescher Produktioun entstin, vun deer hien den Auteur as.
+human_rights_un_lb_ll_64kb_0166	Artikel 28
+human_rights_un_lb_ll_64kb_0167	All Mënsch huet d’Recht op eng zozial an international Uerdnong, an deer sechdéi Rechter a Fräiheten, déi an dëser Deklaratioun opgezielt gin, voll kënnenauswiirken.
+human_rights_un_lb_ll_64kb_0168	Artikel 29
+human_rights_un_lb_ll_64kb_0169	1.
+human_rights_un_lb_ll_64kb_0170	All Mënsch huet Flichte vis-à-vis vun der Kommunotéit, an deer eleng déifräi a voll Entwécklong vu sénger Perséinlechkeet méiglech as.
+human_rights_un_lb_ll_64kb_0171	2.
+human_rights_un_lb_ll_64kb_0172	Am Gebrauch vu sénge Rechter an am Genoss vu sénge Fräiheten asjiddereen nëmmen dene Limiten ënnerworf, déi d’Gesetz eenzeg an elengdofir virgesäit, datt d’Unerkennong an de Respekt vun aneren hire Rechtera Fräihete gesechert sin a fir engem gerechten Usproch op Moral, opöffentlech Uerdnong an op en allgemengt Wuel an enger demokratescher
+human_rights_un_lb_ll_64kb_0173	Gesellschaft z’entspriechen.
+human_rights_un_lb_ll_64kb_0174	3.
+human_rights_un_lb_ll_64kb_0175	Dës Rechter a Fräiheten duerfen a kengem Fall am Widdersproch mat de
+human_rights_un_lb_ll_64kb_0176	Vereenten Natiounen hiren Ziler a Prinzippie stoen.
+human_rights_un_lb_ll_64kb_0177	Artikel 30
+human_rights_un_lb_ll_64kb_0178	Keng Bestëmmong vun dëser Deklaratioun duerf esou ausgeluegt gin, datt e
+human_rights_un_lb_ll_64kb_0179	Recht fir e Stat, eng Grupp odder en eenzele Mënsch dra wär fir sech un
+human_rights_un_lb_ll_64kb_0180	Aktivitéiten ze gin odder Akten duerchzeféieren, déi drop erauslafe fir d’Rechteran d’Fräiheten, déi dra genannt sin, ëmzestoussen.

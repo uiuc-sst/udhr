@@ -1,144 +1,144 @@
-nld_0001	UNIVERSELE VERKLARING VAN DE RECHTEN VAN DE MENS
-nld_0002	Preambule
-nld_0003	Overwegende, dat erkenning van de inherente waardigheid en van de gelijke enonvervreemdbare rechten van alle leden van de mensengemeenschap grondslagis voor de vrijheid, gerechtigheid en vrede in de wereld;
-nld_0004	Overwegende, dat terzijdestelling van en minachting voor de rechten van demens geleid hebben tot barbaarse handelingen, die het geweten van demensheid geweld hebben aangedaan en dat de komst van een wereld, waarinde mensen vrijheid van meningsuiting en geloof zullen genieten, en vrij zullenzijn van vrees en gebrek, is verkondigd als het hoogste ideaal van iedere mens;
-nld_0005	Overwegende, dat het van het grootste belang is, dat de rechten van de mensbeschermd worden door de suprematie van het recht, opdat de mens nietgedwongen worde om in laatste instantie zijn toevlucht te nemen tot opstandtegen tyrannie en onderdrukking;
-nld_0006	Overwegende, dat het van het grootste belang is om de ontwikkeling vanvriendschappelijke betrekkingen tussen de naties te bevorderen;
-nld_0007	Overwegende, dat de volkeren van de Verenigde Naties in het Handvest hunvertrouwen in de fundamentele rechten van de mens, in de waardigheid en dewaarde van de mens en in de gelijke rechten van mannen en vrouwen opnieuwhebben bevestigd, en besloten hebben om sociale vooruitgang en een hogerelevensstandaard in groter vrijheid te bevorderen;
-nld_0008	Overwegende, dat de Staten, welke Lid zijn van de Verenigde Naties, zichplechtig verbonden hebben om, in samenwerking met de Organisatie van de
-nld_0009	Verenigde Naties, overal de eerbied voor en inachtneming van de rechten van demens en de fundamentele vrijheden te bevorderen;
-nld_0010	Overwegende, dat het van het grootste belang is voor de volledige nakoming vandeze verbintenis, dat een ieder begrip hebbe voor deze rechten en vrijheden;
-nld_0011	Op grond daarvan proclameert de Algemene Vergadering deze Universele
-nld_0012	Verklaring van de Rechten van de Mens als het gemeenschappelijk door allevolkeren en alle naties te bereiken ideaal, opdat ieder individu en elk orgaan vande gemeenschap, met deze verklaring voortdurend voor ogen, er naar zal strevendoor onderwijs en opvoeding de eerbied voor deze rechten en vrijheden tebevorderen, en door vooruitstrevende maatregelen, op nationaal eninternationaal terrein, deze rechten algemeen en daadwerkelijk te doen erkennenen toepassen, zowel onder de volkeren van Staten die Lid van de Verenigde
-nld_0013	Naties zijn, zelf, als onder de volkeren van gebieden, die onder hun jurisdictiestaan:
-nld_0014	Artikel 1
-nld_0015	Alle mensen worden vrij en gelijk in waardigheid en rechten geboren.
-nld_0016	Zij zijnbegiftigd met verstand en geweten, en behoren zich jegens elkander in eengeest van broederschap te gedragen.
-nld_0017	Artikel 2
-nld_0018	Een ieder heeft aanspraak op alle rechten en vrijheden, in deze Verklaringopgesomd, zonder enig onderscheid van welke aard ook, zoals ras, kleur,geslacht, taal, godsdienst, politieke of andere overtuiging, nationale ofmaatschappelijke afkomst, eigendom, geboorte of andere status.
-nld_0019	Verder zal geen onderscheid worden gemaakt naar de politieke, juridische ofinternationale status van het land of gebied, waartoe iemand behoort,onverschillig of het een onafhankelijk, trust-, of niet-zelfbesturend gebied betreft,dan wel of er een andere beperking van de soevereiniteit bestaat.
-nld_0020	Artikel 3
-nld_0021	Een ieder heeft het recht op leven, vrijheid en onschendbaarheid van zijnpersoon.
-nld_0022	Artikel 4
-nld_0023	Niemand zal in slavernij of horigheid gehouden worden.
-nld_0024	Slavernij enslavenhandel in iedere vorm zijn verboden.
-nld_0025	Artikel 5
-nld_0026	Niemand zal onderworpen worden aan folteringen, noch aan een wrede,onmenselijke of onterende behandeling of bestraffing.
-nld_0027	Artikel 6
-nld_0028	Een ieder heeft, waar hij zich ook bevindt, het recht als persoon erkend teworden voor de wet.
-nld_0029	Artikel 7
-nld_0030	Allen zijn gelijk voor de wet en hebben zonder onderscheid aanspraak op gelijkebescherming door de wet.
-nld_0031	Allen hebben aanspraak op gelijke bescherming tegeniedere achterstelling in strijd met deze Verklaring en tegen iedere ophitsing tot eendergelijke achterstelling.
-nld_0032	Artikel 8
-nld_0033	Een ieder heeft recht op daadwerkelijke rechtshulp van bevoegde nationalerechterlijke instanties tegen handelingen, welke in strijd zijn met de grondrechtenhem toegekend bij Grondwet of wet.
-nld_0034	Artikel 9
-nld_0035	Niemand zal onderworpen worden aan willekeurige arrestatie, detentie ofverbanning.
-nld_0036	Artikel 10
-nld_0037	Een ieder heeft, in volle gelijkheid, recht op een eerlijke en openbarebehandeling van zijn zaak door een onafhankelijke en onpartijdige rechterlijkeinstantie bij het vaststellen van zijn rechten en verplichtingen en bij het bepalenvan de gegrondheid van een tegen hem ingestelde strafvervolging.
-nld_0038	Artikel 11
-nld_0039	1.
-nld_0040	Een ieder, die wegens een strafbaar feit wordt vervolgd, heeft er recht opvoor onschuldig gehouden te worden, totdat zijn schuld krachtens de wetbewezen wordt in een openbare rechtszitting, waarbij hem allewaarborgen, nodig voor zijn verdediging, zijn toegekend.
-nld_0041	2.
-nld_0042	Niemand zal voor schuldig gehouden worden aan enig strafrechtelijkvergrijp op grond van enige handeling of enig verzuim, welke naarnationaal of internationaal recht geen strafrechtelijk vergrijp betekendenop het tijdstip, waarop de handeling of het verzuim begaan werd.
-nld_0043	Evenminzal een zwaardere straf worden opgelegd dan die, welke ten tijde van hetbegaan van het strafbare feit van toepassing was.
-nld_0044	Artikel 12
-nld_0045	Niemand zal onderworpen worden aan willekeurige inmenging in zijnpersoonlijke aangelegenheden, in zijn gezin, zijn tehuis of zijn briefwisseling,noch aan enige aantasting van zijn eer of goede naam.
-nld_0046	Tegen een dergelijkeinmenging of aantasting heeft een ieder recht op bescherming door de wet.
-nld_0047	Artikel 13
-nld_0048	1.
-nld_0049	Een ieder heeft het recht zich vrijelijk te verplaatsen en te vertoevenbinnen de grenzen van elke Staat.
-nld_0050	2.
-nld_0051	Een ieder heeft het recht welk land ook, met inbegrip van het zijne, teverlaten en naar zijn land terug te keren.
-nld_0052	Artikel 14
-nld_0053	1.
-nld_0054	Een ieder heeft het recht om in andere landen asiel te zoeken en tegenieten tegen vervolging.
-nld_0055	2.
-nld_0056	Op dit recht kan geen beroep worden gedaan ingeval vanstrafvervolgingen wegens misdrijven van niet-politieke aard ofhandelingen in strijd met de doeleinden en beginselen van de Verenigde
-nld_0057	Naties.
-nld_0058	Artikel 15
-nld_0059	1.
-nld_0060	Een ieder heeft het recht op een nationaliteit.
-nld_0061	2.
-nld_0062	Aan niemand mag willekeurig zijn nationaliteit worden ontnomen, noch hetrecht worden ontzegd om van nationaliteit te veranderen.
-nld_0063	Artikel 16
-nld_0064	1.
-nld_0065	Zonder enige beperking op grond van ras, nationaliteit of godsdienst,hebben mannen en vrouwen van huwbare leeftijd het recht om te huwenen een gezin te stichten.
-nld_0066	Zij hebben gelijke rechten wat het huwelijkbetreft, tijdens het huwelijk en bij de ontbinding ervan.
-nld_0067	2.
-nld_0068	Een huwelijk kan slechts worden gesloten met de vrije en volledigetoestemming van de aanstaande echtgenoten.
-nld_0069	3.
-nld_0070	Het gezin is de natuurlijke en fundamentele groepseenheid van demaatschappij en heeft recht op bescherming door de maatschappij en de
-nld_0071	Staat.
-nld_0072	Artikel 17
-nld_0073	1.
-nld_0074	Een ieder heeft recht op eigendom, hetzij alleen, hetzij tezamen metanderen.
-nld_0075	2.
-nld_0076	Niemand mag willekeurig van zijn eigendom worden beroofd.
-nld_0077	Artikel 18
-nld_0078	Een ieder heeft recht op vrijheid van gedachte, geweten en godsdienst;
-nld_0079	dit rechtomvat tevens de vrijheid om van godsdienst of overtuiging te veranderen,alsmede de vrijheid hetzij alleen, hetzij met anderen zowel in het openbaar als inzijn particuliere leven zijn godsdienst of overtuiging te belijden door hetonderwijzen ervan, door de praktische toepassing, door eredienst en deinachtneming van de geboden en voorschriften.
-nld_0080	Artikel 19
-nld_0081	Een ieder heeft recht op vrijheid van mening en meningsuiting.
-nld_0082	Dit recht omvatde vrijheid om zonder inmenging een mening te koesteren en om door allemiddelen en ongeacht grenzen inlichtingen en denkbeelden op te sporen, teontvangen en door te geven.
-nld_0083	Artikel 20
-nld_0084	1.
-nld_0085	Een ieder heeft recht op vrijheid van vreedzame vereniging envergadering.
-nld_0086	2.
-nld_0087	Niemand mag worden gedwongen om tot een vereniging te behoren.
-nld_0088	Artikel 21
-nld_0089	1.
-nld_0090	Een ieder heeft het recht om deel te nemen aan het bestuur van zijn land,rechtstreeks of door middel van vrij gekozen vertegenwoordigers.
-nld_0091	2.
-nld_0092	Een ieder heeft het recht om op voet van gelijkheid te worden toegelatentot de overheidsdiensten van zijn land.
-nld_0093	3.
-nld_0094	De wil van het volk zal de grondslag zijn van het gezag van de Regering;
-nld_0095	deze wil zal tot uiting komen in periodieke en eerlijke verkiezingen, diegehouden zullen worden krachtens algemeen en gelijkwaardig kiesrechten bij geheime stemmingen of volgens een procedure, die evenzeer devrijheid van de stemmen verzekert.
-nld_0096	Artikel 22
-nld_0097	Een ieder heeft als lid van de gemeenschap recht op maatschappelijke zekerheiden heeft er aanspraak op, dat door middel van nationale inspanning eninternationale samenwerking, en overeenkomstig de organisatie en dehulpbronnen van de betreffende Staat, de economische, sociale en culturelerechten, die onmisbaar zijn voor zijn waardigheid en voor de vrije ontplooiing vanzijn persoonlijkheid, verwezenlijkt worden.
-nld_0098	Artikel 23
-nld_0099	1.
-nld_0100	Een ieder heeft recht op arbeid, op vrije keuze van beroep, op rechtmatigeen gunstige arbeidsvoorwaarden en op bescherming tegen werkloosheid.
-nld_0101	2.
-nld_0102	Een ieder, zonder enige achterstelling, heeft recht op gelijk loon voorgelijke arbeid.
-nld_0103	3.
-nld_0104	Een ieder, die arbeid verricht, heeft recht op een rechtvaardige engunstige beloning, welke hem en zijn gezin een menswaardig bestaanverzekert, welke beloning zo nodig met andere middelen van socialebescherming zal worden aangevuld.
-nld_0105	4.
-nld_0106	Een ieder heeft het recht om vakverenigingen op te richten en zich daarbijaan te sluiten ter bescherming van zijn belangen.
-nld_0107	Artikel 24
-nld_0108	Een ieder heeft recht op rust en op eigen vrije tijd, met inbegrip van een redelijkebeperking van de arbeidstijd, en op periodieke vakanties met behoud van loon.
-nld_0109	Artikel 25
-nld_0110	1.
-nld_0111	Een ieder heeft recht op een levensstandaard, die hoog genoeg is voor degezondheid en het welzijn van zichzelf en zijn gezin, waaronder inbegrepenvoeding, kleding, huisvesting en geneeskundige verzorging en denoodzakelijke sociale diensten, alsmede het recht op voorziening in gevalvan werkloosheid, ziekte, invaliditeit, overlijden van de echtgenoot,ouderdom of een ander gemis aan bestaansmiddelen, ontstaan tengevolge van omstandigheden onafhankelijk van zijn wil.
-nld_0112	2.
-nld_0113	Moeder en kind hebben recht op bijzondere zorg en bijstand.
-nld_0114	Alle kinderen,al dan niet wettig, zullen dezelfde sociale bescherming genieten.
-nld_0115	Artikel 26
-nld_0116	1.
-nld_0117	Een ieder heeft recht op onderwijs;
-nld_0118	het onderwijs zal kosteloos zijn,althans wat het lager en basisonderwijs betreft.
-nld_0119	Het lager onderwijs zalverplicht zijn.
-nld_0120	Ambachtsonderwijs en beroepsopleiding zullen algemeenbeschikbaar worden gesteld.
-nld_0121	Hoger onderwijs zal openstaan voor eenieder, die daartoe de begaafdheid bezit.
-nld_0122	2.
-nld_0123	Het onderwijs zal gericht zijn op de volle ontwikkeling van de menselijkepersoonlijkheid en op de versterking van de eerbied voor de rechten vande mens en de fundamentele vrijheden.
-nld_0124	Het zal het begrip, deverdraagzaamheid en de vriendschap onder alle naties, rassen ofgodsdienstige groepen bevorderen en het zal de werkzaamheden van de
-nld_0125	Verenigde Naties voor de handhaving van de vrede steunen.
-nld_0126	3.
-nld_0127	Aan de ouders komt in de eerste plaats het recht toe om de soort vanopvoeding en onderwijs te kiezen, welke aan hun kinderen zal wordengegeven.
-nld_0128	Artikel 27
-nld_0129	1.
-nld_0130	Een ieder heeft het recht om vrijelijk deel te nemen aan het culturele levenvan de gemeenschap, om te genieten van kunst en om deel te hebben aanwetenschappelijke vooruitgang en de vruchten daarvan.
-nld_0131	2.
-nld_0132	Een ieder heeft het recht op de bescherming van de geestelijke enmateriële belangen, voortspruitende uit een wetenschappelijk, letterkundigof artistiek werk, dat hij heeft voortgebracht.
-nld_0133	Artikel 28
-nld_0134	Een ieder heeft recht op het bestaan van een zodanige maatschappelijke eninternationale orde, dat de rechten en vrijheden, in deze Verklaring genoemd,daarin ten volle kunnen worden verwezenlijkt.
-nld_0135	Artikel 29
-nld_0136	1.
-nld_0137	Een ieder heeft plichten jegens de gemeenschap, zonder welke de vrije
-nld_0138	2.
-nld_0139	en volledige ontplooiing van zijn persoonlijkheid niet mogelijk is.
-nld_0140	In de uitoefening van zijn rechten en vrijheden zal een ieder slechtsonderworpen zijn aan die beperkingen, welke bij de wet zijn vastgestelden wel uitsluitend ter verzekering van de onmisbare erkenning eneerbiediging van de rechten en vrijheden van anderen en om te voldoenaan de gerechtvaardigde eisen van de moraliteit, de openbare orde en hetalgemeen welzijn in een democratische gemeenschap.
-nld_0141	3.
-nld_0142	Deze rechten en vrijheden mogen in geen geval worden uitgeoefend instrijd met de doeleinden en beginselen van de Verenigde Naties.
-nld_0143	Artikel 30
-nld_0144	Geen bepaling in deze Verklaring zal zodanig mogen worden uitgelegd, datwelke Staat, groep of persoon dan ook, daaraan enig recht kan ontlenen om ietste ondernemen of handelingen van welke aard ook te verrichten, die vernietigingvan een van de rechten en vrijheden, in deze Verklaring genoemd, ten doelhebben.
+human_rights_un_dut_mb_64kb_0001	UNIVERSELE VERKLARING VAN DE RECHTEN VAN DE MENS
+human_rights_un_dut_mb_64kb_0002	Preambule
+human_rights_un_dut_mb_64kb_0003	Overwegende, dat erkenning van de inherente waardigheid en van de gelijke enonvervreemdbare rechten van alle leden van de mensengemeenschap grondslagis voor de vrijheid, gerechtigheid en vrede in de wereld;
+human_rights_un_dut_mb_64kb_0004	Overwegende, dat terzijdestelling van en minachting voor de rechten van demens geleid hebben tot barbaarse handelingen, die het geweten van demensheid geweld hebben aangedaan en dat de komst van een wereld, waarinde mensen vrijheid van meningsuiting en geloof zullen genieten, en vrij zullenzijn van vrees en gebrek, is verkondigd als het hoogste ideaal van iedere mens;
+human_rights_un_dut_mb_64kb_0005	Overwegende, dat het van het grootste belang is, dat de rechten van de mensbeschermd worden door de suprematie van het recht, opdat de mens nietgedwongen worde om in laatste instantie zijn toevlucht te nemen tot opstandtegen tyrannie en onderdrukking;
+human_rights_un_dut_mb_64kb_0006	Overwegende, dat het van het grootste belang is om de ontwikkeling vanvriendschappelijke betrekkingen tussen de naties te bevorderen;
+human_rights_un_dut_mb_64kb_0007	Overwegende, dat de volkeren van de Verenigde Naties in het Handvest hunvertrouwen in de fundamentele rechten van de mens, in de waardigheid en dewaarde van de mens en in de gelijke rechten van mannen en vrouwen opnieuwhebben bevestigd, en besloten hebben om sociale vooruitgang en een hogerelevensstandaard in groter vrijheid te bevorderen;
+human_rights_un_dut_mb_64kb_0008	Overwegende, dat de Staten, welke Lid zijn van de Verenigde Naties, zichplechtig verbonden hebben om, in samenwerking met de Organisatie van de
+human_rights_un_dut_mb_64kb_0009	Verenigde Naties, overal de eerbied voor en inachtneming van de rechten van demens en de fundamentele vrijheden te bevorderen;
+human_rights_un_dut_mb_64kb_0010	Overwegende, dat het van het grootste belang is voor de volledige nakoming vandeze verbintenis, dat een ieder begrip hebbe voor deze rechten en vrijheden;
+human_rights_un_dut_mb_64kb_0011	Op grond daarvan proclameert de Algemene Vergadering deze Universele
+human_rights_un_dut_mb_64kb_0012	Verklaring van de Rechten van de Mens als het gemeenschappelijk door allevolkeren en alle naties te bereiken ideaal, opdat ieder individu en elk orgaan vande gemeenschap, met deze verklaring voortdurend voor ogen, er naar zal strevendoor onderwijs en opvoeding de eerbied voor deze rechten en vrijheden tebevorderen, en door vooruitstrevende maatregelen, op nationaal eninternationaal terrein, deze rechten algemeen en daadwerkelijk te doen erkennenen toepassen, zowel onder de volkeren van Staten die Lid van de Verenigde
+human_rights_un_dut_mb_64kb_0013	Naties zijn, zelf, als onder de volkeren van gebieden, die onder hun jurisdictiestaan:
+human_rights_un_dut_mb_64kb_0014	Artikel 1
+human_rights_un_dut_mb_64kb_0015	Alle mensen worden vrij en gelijk in waardigheid en rechten geboren.
+human_rights_un_dut_mb_64kb_0016	Zij zijnbegiftigd met verstand en geweten, en behoren zich jegens elkander in eengeest van broederschap te gedragen.
+human_rights_un_dut_mb_64kb_0017	Artikel 2
+human_rights_un_dut_mb_64kb_0018	Een ieder heeft aanspraak op alle rechten en vrijheden, in deze Verklaringopgesomd, zonder enig onderscheid van welke aard ook, zoals ras, kleur,geslacht, taal, godsdienst, politieke of andere overtuiging, nationale ofmaatschappelijke afkomst, eigendom, geboorte of andere status.
+human_rights_un_dut_mb_64kb_0019	Verder zal geen onderscheid worden gemaakt naar de politieke, juridische ofinternationale status van het land of gebied, waartoe iemand behoort,onverschillig of het een onafhankelijk, trust-, of niet-zelfbesturend gebied betreft,dan wel of er een andere beperking van de soevereiniteit bestaat.
+human_rights_un_dut_mb_64kb_0020	Artikel 3
+human_rights_un_dut_mb_64kb_0021	Een ieder heeft het recht op leven, vrijheid en onschendbaarheid van zijnpersoon.
+human_rights_un_dut_mb_64kb_0022	Artikel 4
+human_rights_un_dut_mb_64kb_0023	Niemand zal in slavernij of horigheid gehouden worden.
+human_rights_un_dut_mb_64kb_0024	Slavernij enslavenhandel in iedere vorm zijn verboden.
+human_rights_un_dut_mb_64kb_0025	Artikel 5
+human_rights_un_dut_mb_64kb_0026	Niemand zal onderworpen worden aan folteringen, noch aan een wrede,onmenselijke of onterende behandeling of bestraffing.
+human_rights_un_dut_mb_64kb_0027	Artikel 6
+human_rights_un_dut_mb_64kb_0028	Een ieder heeft, waar hij zich ook bevindt, het recht als persoon erkend teworden voor de wet.
+human_rights_un_dut_mb_64kb_0029	Artikel 7
+human_rights_un_dut_mb_64kb_0030	Allen zijn gelijk voor de wet en hebben zonder onderscheid aanspraak op gelijkebescherming door de wet.
+human_rights_un_dut_mb_64kb_0031	Allen hebben aanspraak op gelijke bescherming tegeniedere achterstelling in strijd met deze Verklaring en tegen iedere ophitsing tot eendergelijke achterstelling.
+human_rights_un_dut_mb_64kb_0032	Artikel 8
+human_rights_un_dut_mb_64kb_0033	Een ieder heeft recht op daadwerkelijke rechtshulp van bevoegde nationalerechterlijke instanties tegen handelingen, welke in strijd zijn met de grondrechtenhem toegekend bij Grondwet of wet.
+human_rights_un_dut_mb_64kb_0034	Artikel 9
+human_rights_un_dut_mb_64kb_0035	Niemand zal onderworpen worden aan willekeurige arrestatie, detentie ofverbanning.
+human_rights_un_dut_mb_64kb_0036	Artikel 10
+human_rights_un_dut_mb_64kb_0037	Een ieder heeft, in volle gelijkheid, recht op een eerlijke en openbarebehandeling van zijn zaak door een onafhankelijke en onpartijdige rechterlijkeinstantie bij het vaststellen van zijn rechten en verplichtingen en bij het bepalenvan de gegrondheid van een tegen hem ingestelde strafvervolging.
+human_rights_un_dut_mb_64kb_0038	Artikel 11
+human_rights_un_dut_mb_64kb_0039	1.
+human_rights_un_dut_mb_64kb_0040	Een ieder, die wegens een strafbaar feit wordt vervolgd, heeft er recht opvoor onschuldig gehouden te worden, totdat zijn schuld krachtens de wetbewezen wordt in een openbare rechtszitting, waarbij hem allewaarborgen, nodig voor zijn verdediging, zijn toegekend.
+human_rights_un_dut_mb_64kb_0041	2.
+human_rights_un_dut_mb_64kb_0042	Niemand zal voor schuldig gehouden worden aan enig strafrechtelijkvergrijp op grond van enige handeling of enig verzuim, welke naarnationaal of internationaal recht geen strafrechtelijk vergrijp betekendenop het tijdstip, waarop de handeling of het verzuim begaan werd.
+human_rights_un_dut_mb_64kb_0043	Evenminzal een zwaardere straf worden opgelegd dan die, welke ten tijde van hetbegaan van het strafbare feit van toepassing was.
+human_rights_un_dut_mb_64kb_0044	Artikel 12
+human_rights_un_dut_mb_64kb_0045	Niemand zal onderworpen worden aan willekeurige inmenging in zijnpersoonlijke aangelegenheden, in zijn gezin, zijn tehuis of zijn briefwisseling,noch aan enige aantasting van zijn eer of goede naam.
+human_rights_un_dut_mb_64kb_0046	Tegen een dergelijkeinmenging of aantasting heeft een ieder recht op bescherming door de wet.
+human_rights_un_dut_mb_64kb_0047	Artikel 13
+human_rights_un_dut_mb_64kb_0048	1.
+human_rights_un_dut_mb_64kb_0049	Een ieder heeft het recht zich vrijelijk te verplaatsen en te vertoevenbinnen de grenzen van elke Staat.
+human_rights_un_dut_mb_64kb_0050	2.
+human_rights_un_dut_mb_64kb_0051	Een ieder heeft het recht welk land ook, met inbegrip van het zijne, teverlaten en naar zijn land terug te keren.
+human_rights_un_dut_mb_64kb_0052	Artikel 14
+human_rights_un_dut_mb_64kb_0053	1.
+human_rights_un_dut_mb_64kb_0054	Een ieder heeft het recht om in andere landen asiel te zoeken en tegenieten tegen vervolging.
+human_rights_un_dut_mb_64kb_0055	2.
+human_rights_un_dut_mb_64kb_0056	Op dit recht kan geen beroep worden gedaan ingeval vanstrafvervolgingen wegens misdrijven van niet-politieke aard ofhandelingen in strijd met de doeleinden en beginselen van de Verenigde
+human_rights_un_dut_mb_64kb_0057	Naties.
+human_rights_un_dut_mb_64kb_0058	Artikel 15
+human_rights_un_dut_mb_64kb_0059	1.
+human_rights_un_dut_mb_64kb_0060	Een ieder heeft het recht op een nationaliteit.
+human_rights_un_dut_mb_64kb_0061	2.
+human_rights_un_dut_mb_64kb_0062	Aan niemand mag willekeurig zijn nationaliteit worden ontnomen, noch hetrecht worden ontzegd om van nationaliteit te veranderen.
+human_rights_un_dut_mb_64kb_0063	Artikel 16
+human_rights_un_dut_mb_64kb_0064	1.
+human_rights_un_dut_mb_64kb_0065	Zonder enige beperking op grond van ras, nationaliteit of godsdienst,hebben mannen en vrouwen van huwbare leeftijd het recht om te huwenen een gezin te stichten.
+human_rights_un_dut_mb_64kb_0066	Zij hebben gelijke rechten wat het huwelijkbetreft, tijdens het huwelijk en bij de ontbinding ervan.
+human_rights_un_dut_mb_64kb_0067	2.
+human_rights_un_dut_mb_64kb_0068	Een huwelijk kan slechts worden gesloten met de vrije en volledigetoestemming van de aanstaande echtgenoten.
+human_rights_un_dut_mb_64kb_0069	3.
+human_rights_un_dut_mb_64kb_0070	Het gezin is de natuurlijke en fundamentele groepseenheid van demaatschappij en heeft recht op bescherming door de maatschappij en de
+human_rights_un_dut_mb_64kb_0071	Staat.
+human_rights_un_dut_mb_64kb_0072	Artikel 17
+human_rights_un_dut_mb_64kb_0073	1.
+human_rights_un_dut_mb_64kb_0074	Een ieder heeft recht op eigendom, hetzij alleen, hetzij tezamen metanderen.
+human_rights_un_dut_mb_64kb_0075	2.
+human_rights_un_dut_mb_64kb_0076	Niemand mag willekeurig van zijn eigendom worden beroofd.
+human_rights_un_dut_mb_64kb_0077	Artikel 18
+human_rights_un_dut_mb_64kb_0078	Een ieder heeft recht op vrijheid van gedachte, geweten en godsdienst;
+human_rights_un_dut_mb_64kb_0079	dit rechtomvat tevens de vrijheid om van godsdienst of overtuiging te veranderen,alsmede de vrijheid hetzij alleen, hetzij met anderen zowel in het openbaar als inzijn particuliere leven zijn godsdienst of overtuiging te belijden door hetonderwijzen ervan, door de praktische toepassing, door eredienst en deinachtneming van de geboden en voorschriften.
+human_rights_un_dut_mb_64kb_0080	Artikel 19
+human_rights_un_dut_mb_64kb_0081	Een ieder heeft recht op vrijheid van mening en meningsuiting.
+human_rights_un_dut_mb_64kb_0082	Dit recht omvatde vrijheid om zonder inmenging een mening te koesteren en om door allemiddelen en ongeacht grenzen inlichtingen en denkbeelden op te sporen, teontvangen en door te geven.
+human_rights_un_dut_mb_64kb_0083	Artikel 20
+human_rights_un_dut_mb_64kb_0084	1.
+human_rights_un_dut_mb_64kb_0085	Een ieder heeft recht op vrijheid van vreedzame vereniging envergadering.
+human_rights_un_dut_mb_64kb_0086	2.
+human_rights_un_dut_mb_64kb_0087	Niemand mag worden gedwongen om tot een vereniging te behoren.
+human_rights_un_dut_mb_64kb_0088	Artikel 21
+human_rights_un_dut_mb_64kb_0089	1.
+human_rights_un_dut_mb_64kb_0090	Een ieder heeft het recht om deel te nemen aan het bestuur van zijn land,rechtstreeks of door middel van vrij gekozen vertegenwoordigers.
+human_rights_un_dut_mb_64kb_0091	2.
+human_rights_un_dut_mb_64kb_0092	Een ieder heeft het recht om op voet van gelijkheid te worden toegelatentot de overheidsdiensten van zijn land.
+human_rights_un_dut_mb_64kb_0093	3.
+human_rights_un_dut_mb_64kb_0094	De wil van het volk zal de grondslag zijn van het gezag van de Regering;
+human_rights_un_dut_mb_64kb_0095	deze wil zal tot uiting komen in periodieke en eerlijke verkiezingen, diegehouden zullen worden krachtens algemeen en gelijkwaardig kiesrechten bij geheime stemmingen of volgens een procedure, die evenzeer devrijheid van de stemmen verzekert.
+human_rights_un_dut_mb_64kb_0096	Artikel 22
+human_rights_un_dut_mb_64kb_0097	Een ieder heeft als lid van de gemeenschap recht op maatschappelijke zekerheiden heeft er aanspraak op, dat door middel van nationale inspanning eninternationale samenwerking, en overeenkomstig de organisatie en dehulpbronnen van de betreffende Staat, de economische, sociale en culturelerechten, die onmisbaar zijn voor zijn waardigheid en voor de vrije ontplooiing vanzijn persoonlijkheid, verwezenlijkt worden.
+human_rights_un_dut_mb_64kb_0098	Artikel 23
+human_rights_un_dut_mb_64kb_0099	1.
+human_rights_un_dut_mb_64kb_0100	Een ieder heeft recht op arbeid, op vrije keuze van beroep, op rechtmatigeen gunstige arbeidsvoorwaarden en op bescherming tegen werkloosheid.
+human_rights_un_dut_mb_64kb_0101	2.
+human_rights_un_dut_mb_64kb_0102	Een ieder, zonder enige achterstelling, heeft recht op gelijk loon voorgelijke arbeid.
+human_rights_un_dut_mb_64kb_0103	3.
+human_rights_un_dut_mb_64kb_0104	Een ieder, die arbeid verricht, heeft recht op een rechtvaardige engunstige beloning, welke hem en zijn gezin een menswaardig bestaanverzekert, welke beloning zo nodig met andere middelen van socialebescherming zal worden aangevuld.
+human_rights_un_dut_mb_64kb_0105	4.
+human_rights_un_dut_mb_64kb_0106	Een ieder heeft het recht om vakverenigingen op te richten en zich daarbijaan te sluiten ter bescherming van zijn belangen.
+human_rights_un_dut_mb_64kb_0107	Artikel 24
+human_rights_un_dut_mb_64kb_0108	Een ieder heeft recht op rust en op eigen vrije tijd, met inbegrip van een redelijkebeperking van de arbeidstijd, en op periodieke vakanties met behoud van loon.
+human_rights_un_dut_mb_64kb_0109	Artikel 25
+human_rights_un_dut_mb_64kb_0110	1.
+human_rights_un_dut_mb_64kb_0111	Een ieder heeft recht op een levensstandaard, die hoog genoeg is voor degezondheid en het welzijn van zichzelf en zijn gezin, waaronder inbegrepenvoeding, kleding, huisvesting en geneeskundige verzorging en denoodzakelijke sociale diensten, alsmede het recht op voorziening in gevalvan werkloosheid, ziekte, invaliditeit, overlijden van de echtgenoot,ouderdom of een ander gemis aan bestaansmiddelen, ontstaan tengevolge van omstandigheden onafhankelijk van zijn wil.
+human_rights_un_dut_mb_64kb_0112	2.
+human_rights_un_dut_mb_64kb_0113	Moeder en kind hebben recht op bijzondere zorg en bijstand.
+human_rights_un_dut_mb_64kb_0114	Alle kinderen,al dan niet wettig, zullen dezelfde sociale bescherming genieten.
+human_rights_un_dut_mb_64kb_0115	Artikel 26
+human_rights_un_dut_mb_64kb_0116	1.
+human_rights_un_dut_mb_64kb_0117	Een ieder heeft recht op onderwijs;
+human_rights_un_dut_mb_64kb_0118	het onderwijs zal kosteloos zijn,althans wat het lager en basisonderwijs betreft.
+human_rights_un_dut_mb_64kb_0119	Het lager onderwijs zalverplicht zijn.
+human_rights_un_dut_mb_64kb_0120	Ambachtsonderwijs en beroepsopleiding zullen algemeenbeschikbaar worden gesteld.
+human_rights_un_dut_mb_64kb_0121	Hoger onderwijs zal openstaan voor eenieder, die daartoe de begaafdheid bezit.
+human_rights_un_dut_mb_64kb_0122	2.
+human_rights_un_dut_mb_64kb_0123	Het onderwijs zal gericht zijn op de volle ontwikkeling van de menselijkepersoonlijkheid en op de versterking van de eerbied voor de rechten vande mens en de fundamentele vrijheden.
+human_rights_un_dut_mb_64kb_0124	Het zal het begrip, deverdraagzaamheid en de vriendschap onder alle naties, rassen ofgodsdienstige groepen bevorderen en het zal de werkzaamheden van de
+human_rights_un_dut_mb_64kb_0125	Verenigde Naties voor de handhaving van de vrede steunen.
+human_rights_un_dut_mb_64kb_0126	3.
+human_rights_un_dut_mb_64kb_0127	Aan de ouders komt in de eerste plaats het recht toe om de soort vanopvoeding en onderwijs te kiezen, welke aan hun kinderen zal wordengegeven.
+human_rights_un_dut_mb_64kb_0128	Artikel 27
+human_rights_un_dut_mb_64kb_0129	1.
+human_rights_un_dut_mb_64kb_0130	Een ieder heeft het recht om vrijelijk deel te nemen aan het culturele levenvan de gemeenschap, om te genieten van kunst en om deel te hebben aanwetenschappelijke vooruitgang en de vruchten daarvan.
+human_rights_un_dut_mb_64kb_0131	2.
+human_rights_un_dut_mb_64kb_0132	Een ieder heeft het recht op de bescherming van de geestelijke enmateriële belangen, voortspruitende uit een wetenschappelijk, letterkundigof artistiek werk, dat hij heeft voortgebracht.
+human_rights_un_dut_mb_64kb_0133	Artikel 28
+human_rights_un_dut_mb_64kb_0134	Een ieder heeft recht op het bestaan van een zodanige maatschappelijke eninternationale orde, dat de rechten en vrijheden, in deze Verklaring genoemd,daarin ten volle kunnen worden verwezenlijkt.
+human_rights_un_dut_mb_64kb_0135	Artikel 29
+human_rights_un_dut_mb_64kb_0136	1.
+human_rights_un_dut_mb_64kb_0137	Een ieder heeft plichten jegens de gemeenschap, zonder welke de vrije
+human_rights_un_dut_mb_64kb_0138	2.
+human_rights_un_dut_mb_64kb_0139	en volledige ontplooiing van zijn persoonlijkheid niet mogelijk is.
+human_rights_un_dut_mb_64kb_0140	In de uitoefening van zijn rechten en vrijheden zal een ieder slechtsonderworpen zijn aan die beperkingen, welke bij de wet zijn vastgestelden wel uitsluitend ter verzekering van de onmisbare erkenning eneerbiediging van de rechten en vrijheden van anderen en om te voldoenaan de gerechtvaardigde eisen van de moraliteit, de openbare orde en hetalgemeen welzijn in een democratische gemeenschap.
+human_rights_un_dut_mb_64kb_0141	3.
+human_rights_un_dut_mb_64kb_0142	Deze rechten en vrijheden mogen in geen geval worden uitgeoefend instrijd met de doeleinden en beginselen van de Verenigde Naties.
+human_rights_un_dut_mb_64kb_0143	Artikel 30
+human_rights_un_dut_mb_64kb_0144	Geen bepaling in deze Verklaring zal zodanig mogen worden uitgelegd, datwelke Staat, groep of persoon dan ook, daaraan enig recht kan ontlenen om ietste ondernemen of handelingen van welke aard ook te verrichten, die vernietigingvan een van de rechten en vrijheden, in deze Verklaring genoemd, ten doelhebben.

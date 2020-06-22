@@ -1,184 +1,184 @@
-deu_0001	Resolution 217 A (III) der Generalversammlung vom 10. Dezember 1948 
-deu_0002	Allgemeine Erklärung der Menschenrechte
-deu_0003	PRÄAMBEL
-deu_0004	Da die Anerkennung der angeborenen Würde und der gleichen und unveräußerlichen
-deu_0005	Rechte aller Mitglieder der Gemeinschaft der Menschen die Grundlage von Freiheit,
-deu_0006	Gerechtigkeit und Frieden in der Welt bildet,da die Nichtanerkennung und Verachtung der Menschenrechte zu Akten der Barbareigeführt haben, die das Gewissen der Menschheit mit Empörung erfüllen, und daverkündet worden ist, daß einer Welt, in der die Menschen Rede- und
-deu_0007	Glaubensfreiheit und Freiheit von Furcht und Not genießen, das höchste Streben des
-deu_0008	Menschen gilt,da es notwendig ist, die Menschenrechte durch die Herrschaft des Rechtes zuschützen, damit der Mensch nicht gezwungen wird, als letztes Mittel zum Aufstandgegen Tyrannei und Unterdrückung zu greifen,da es notwendig ist, die Entwicklung freundschaftlicher Beziehungen zwischen den
-deu_0009	Nationen zu fördern,da die Völker der Vereinten Nationen in der Charta ihren Glauben an diegrundlegenden Menschenrechte, an die Würde und den Wert der menschlichen Personund an die Gleichberechtigung von Mann und Frau erneut bekräftigt und beschlossenhaben, den sozialen Fortschritt und bessere Lebensbedingungen in größerer Freiheitzu fördern,da die Mitgliedstaaten sich verpflichtet haben, in Zusammenarbeit mit den Vereinten
-deu_0010	Nationen auf die allgemeine Achtung und Einhaltung der Menschenrechte und
-deu_0011	Grundfreiheiten hinzuwirken,da ein gemeinsames Verständnis dieser Rechte und Freiheiten von größter
-deu_0012	Wichtigkeit für die volle Erfüllung dieser Verpflichtung ist,verkündet die Generalversammlungdiese Allgemeine Erklärung der Menschenrechte als das von allen Völkern und
-deu_0013	Nationen zu erreichende gemeinsame Ideal, damit jeder einzelne und alle Organe der
-deu_0014	Gesellschaft sich diese Erklärung stets gegenwärtig halten und sich bemühen, durch
-deu_0015	Unterricht und Erziehung die Achtung vor diesen Rechten und Freiheiten zu fördernund durch fortschreitende nationale und internationale Maßnahmen ihre allgemeineund tatsächliche Anerkennung und Einhaltung durch die Bevölkerung der
-deu_0016	Mitgliedstaaten selbst wie auch durch die Bevölkerung der ihrer Hoheitsgewaltunterstehenden Gebiete zu gewährleisten.
-deu_0017	Artikel 1
-deu_0018	Alle Menschen sind frei und gleich an Würde und Rechten geboren.
-deu_0019	Sie sind mit
-deu_0020	Vernunft und Gewissen begabt und sollen einander im Geiste der Brüderlichkeitbegegnen.
-deu_0021	Artikel 2
-deu_0022	Jeder hat Anspruch auf alle in dieser Erklärung verkündeten Rechte und Freiheiten,ohne irgendeinen Unterschied, etwa nach Rasse, Hautfarbe, Geschlecht, Sprache,
-deu_0023	Religion, politischer oder sonstiger Anschauung, nationaler oder sozialer Herkunft,
-deu_0024	Vermögen, Geburt oder sonstigem Stand.
-deu_0025	Des weiteren darf kein Unterschied gemacht werden auf Grund der politischen,rechtlichen oder internationalen Stellung des Landes oder Gebietes, dem eine Personangehört, gleichgültig ob dieses unabhängig ist, unter Treuhandschaft steht, keine
-deu_0026	Selbstregierung besitzt oder sonst in seiner Souveränität eingeschränkt ist.
-deu_0027	Artikel 3
-deu_0028	Jeder hat das Recht auf Leben, Freiheit und Sicherheit der Person.
-deu_0029	Artikel 4
-deu_0030	Niemand darf in Sklaverei oder Leibeigenschaft gehalten werden;
-deu_0031	Sklaverei und
-deu_0032	Sklavenhandel in allen ihren Formen sind verboten.
-deu_0033	Artikel 5
-deu_0034	Niemand darf der Folter oder grausamer, unmenschlicher oder erniedrigender
-deu_0035	Behandlung oder Strafe unterworfen werden.
-deu_0036	Jeder hat das Recht, überall als rechtsfähig anerkannt zu werden.
-deu_0037	Artikel 6
-deu_0038	Artikel 7
-deu_0039	Alle Menschen sind vor dem Gesetz gleich und haben ohne Unterschied Anspruch aufgleichen Schutz durch das Gesetz.
-deu_0040	Alle haben Anspruch auf gleichen Schutz gegenjede Diskriminierung, die gegen diese Erklärung verstößt, und gegen jede Aufhetzungzu einer derartigen Diskriminierung.
-deu_0041	Artikel 8
-deu_0042	Jeder hat Anspruch auf einen wirksamen Rechtsbehelf bei den zuständigeninnerstaatlichen Gerichten gegen Handlungen, durch die seine ihm nach der
-deu_0043	Verfassung oder nach dem Gesetz zustehenden Grundrechte verletzt werden.
-deu_0044	Artikel 9
-deu_0045	Niemand darf willkürlich festgenommen, in Haft gehalten oder des Landes verwiesenwerden.
-deu_0046	Artikel 10
-deu_0047	Jeder hat bei der Feststellung seiner Rechte und Pflichten sowie bei einer gegen ihnerhobenen strafrechtlichen Beschuldigung in voller Gleichheit Anspruch auf eingerechtes und öffentliches Verfahren vor einem unabhängigen und unparteiischen
-deu_0048	Gericht.
-deu_0049	Artikel 11
-deu_0050	1.
-deu_0051	Jeder, der einer strafbaren Handlung beschuldigt wird, hat das Recht, alsunschuldig zu gelten, solange seine Schuld nicht in einem öffentlichen Verfahren, indem er alle für seine Verteidigung notwendigen Garantien gehabt hat, gemäß dem
-deu_0052	Gesetz nachgewiesen ist.
-deu_0053	2.
-deu_0054	Niemand darf wegen einer Handlung oder Unterlassung verurteilt werden, die zur
-deu_0055	Zeit ihrer Begehung nach innerstaatlichem oder internationalem Recht nicht strafbarwar.
-deu_0056	Ebenso darf keine schwerere Strafe als die zum Zeitpunkt der Begehung derstrafbaren Handlung angedrohte Strafe verhängt werden.
-deu_0057	Artikel 12
-deu_0058	Niemand darf willkürlichen Eingriffen in sein Privatleben, seine Familie, seine
-deu_0059	Wohnung und seinen Schriftverkehr oder Beeinträchtigungen seiner Ehre und seines
-deu_0060	Rufes ausgesetzt werden.
-deu_0061	Jeder hat Anspruch auf rechtlichen Schutz gegen solche
-deu_0062	Eingriffe oder Beeinträchtigungen.
-deu_0063	Artikel 13
-deu_0064	1.
-deu_0065	Jeder hat das Recht, sich innerhalb eines Staates frei zu bewegen und seinen
-deu_0066	Aufenthaltsort frei zu wählen.
-deu_0067	2.
-deu_0068	Jeder hat das Recht, jedes Land, einschließlich seines eigenen, zu verlassen und insein Land zurückzukehren.
-deu_0069	Artikel 14
-deu_0070	1.
-deu_0071	Jeder hat das Recht, in anderen Ländern vor Verfolgung Asyl zu suchen und zugenießen.
-deu_0072	2.
-deu_0073	Dieses Recht kann nicht in Anspruch genommen werden im Falle einer
-deu_0074	Strafverfolgung, die tatsächlich auf Grund von Verbrechen nichtpolitischer Art oderauf Grund von Handlungen erfolgt, die gegen die Ziele und Grundsätze der Vereinten
-deu_0075	Nationen verstoßen.
-deu_0076	1.
-deu_0077	Jeder hat das Recht auf eine Staatsangehörigkeit.
-deu_0078	Artikel 15
-deu_0079	2.
-deu_0080	Niemandem darf seine Staatsangehörigkeit willkürlich entzogen noch das Rechtversagt werden, seine Staatsangehörigkeit zu wechseln.
-deu_0081	Artikel 16
-deu_0082	1.
-deu_0083	Heiratsfähige Männer und Frauen haben ohne jede Beschränkung auf Grund der
-deu_0084	Rasse, der Staatsangehörigkeit oder der Religion das Recht, zu heiraten und eine
-deu_0085	Familie zu gründen.
-deu_0086	Sie haben bei der Eheschließung, während der Ehe und bei deren
-deu_0087	Auflösung gleiche Rechte.
-deu_0088	2.
-deu_0089	Eine Ehe darf nur bei freier und uneingeschränkter Willenseinigung der künftigen
-deu_0090	Ehegatten geschlossen werden.
-deu_0091	3.
-deu_0092	Die Familie ist die natürliche Grundeinheit der Gesellschaft und hat Anspruch auf
-deu_0093	Schutz durch Gesellschaft und Staat.
-deu_0094	Artikel 17
-deu_0095	1.
-deu_0096	Jeder hat das Recht, sowohl allein als auch in Gemeinschaft mit anderen Eigentuminnezuhaben.
-deu_0097	2.
-deu_0098	Niemand darf willkürlich seines Eigentums beraubt werden.
-deu_0099	Artikel 18
-deu_0100	Jeder hat das Recht auf Gedanken-, Gewissens- und Religionsfreiheit;
-deu_0101	dieses Rechtschließt die Freiheit ein, seine Religion oder seine Weltanschauung zu wechseln,sowie die Freiheit, seine Religion oder seine Weltanschauung allein oder in
-deu_0102	Gemeinschaft mit anderen, öffentlich oder privat durch Lehre, Ausübung,
-deu_0103	Gottesdienst und Kulthandlungen zu bekennen.
-deu_0104	Artikel 19
-deu_0105	Jeder hat das Recht auf Meinungsfreiheit und freie Meinungsäußerung;
-deu_0106	dieses Rechtschließt die Freiheit ein, Meinungen ungehindert anzuhängen sowie über Medienjeder Art und ohne Rücksicht auf Grenzen Informationen und Gedankengut zu suchen,zu empfangen und zu verbreiten.
-deu_0107	Artikel 20
-deu_0108	1.
-deu_0109	Alle Menschen haben das Recht, sich friedlich zu versammeln und zu
-deu_0110	Vereinigungen zusammenzuschließen.
-deu_0111	2.
-deu_0112	Niemand darf gezwungen werden, einer Vereinigung anzugehören.
-deu_0113	Artikel 21
-deu_0114	1.
-deu_0115	Jeder hat das Recht, an der Gestaltung der öffentlichen Angelegenheiten seines
-deu_0116	Landes unmittelbar oder durch frei gewählte Vertreter mitzuwirken.
-deu_0117	2.
-deu_0118	Jeder hat das Recht auf gleichen Zugang zu öffentlichen Ämtern in seinem Lande.
-deu_0119	3.
-deu_0120	Der Wille des Volkes bildet die Grundlage für die Autorität der öffentlichen Gewalt;
-deu_0121	dieser Wille muß durch regelmäßige, unverfälschte, allgemeine und gleiche Wahlenmit geheimer Stimmabgabe oder einem gleichwertigen freien Wahlverfahren zum
-deu_0122	Ausdruck kommen.
-deu_0123	Artikel 22
-deu_0124	Jeder hat als Mitglied der Gesellschaft das Recht auf soziale Sicherheit und Anspruchdarauf, durch innerstaatliche Maßnahmen und internationale Zusammenarbeit sowieunter Berücksichtigung der Organisation und der Mittel jedes Staates in den Genußder wirtschaftlichen, sozialen und kulturellen Rechte zu gelangen, die für seine Würdeund die freie Entwicklung seiner Persönlichkeit unentbehrlich sind.
-deu_0125	Artikel 23
-deu_0126	1.
-deu_0127	Jeder hat das Recht auf Arbeit, auf freie Berufswahl, auf gerechte undbefriedigende Arbeitsbedingungen sowie auf Schutz vor Arbeitslosigkeit.
-deu_0128	2.
-deu_0129	Jeder, ohne Unterschied, hat das Recht auf gleichen Lohn für gleiche Arbeit.
-deu_0130	3.
-deu_0131	Jeder, der arbeitet, hat das Recht auf gerechte und befriedigende Entlohnung, dieihm und seiner Familie eine der menschlichen Würde entsprechende Existenz sichert,gegebenenfalls ergänzt durch andere soziale Schutzmaßnahmen.
-deu_0132	4.
-deu_0133	Jeder hat das Recht, zum Schutze seiner Interessen Gewerkschaften zu bilden undsolchen beizutreten.
-deu_0134	Artikel 24
-deu_0135	Jeder hat das Recht auf Erholung und Freizeit und insbesondere auf eine vernünftige
-deu_0136	Begrenzung der Arbeitszeit und regelmäßigen bezahlten Urlaub.
-deu_0137	Artikel 25
-deu_0138	1.
-deu_0139	Jeder hat das Recht auf einen Lebensstandard, der seine und seiner Familie
-deu_0140	Gesundheit und Wohl gewährleistet, einschließlich Nahrung, Kleidung, Wohnung,ärztliche Versorgung und notwendige soziale Leistungen, sowie das Recht auf
-deu_0141	Sicherheit im Falle von Arbeitslosigkeit, Krankheit, Invalidität oder Verwitwung, im
-deu_0142	Alter sowie bei anderweitigem Verlust seiner Unterhaltsmittel durch unverschuldete
-deu_0143	Umstände.
-deu_0144	2.
-deu_0145	Mütter und Kinder haben Anspruch auf besondere Fürsorge und Unterstützung.
-deu_0146	Alle Kinder, eheliche wie außereheliche, genießen den gleichen sozialen Schutz.
-deu_0147	Artikel 26
-deu_0148	1.
-deu_0149	Jeder hat das Recht auf Bildung.
-deu_0150	Die Bildung ist unentgeltlich, zum mindesten der
-deu_0151	Grundschulunterricht und die grundlegende Bildung.
-deu_0152	Der Grundschulunterricht istobligatorisch.
-deu_0153	Fach- und Berufsschulunterricht müssen allgemein verfügbar gemachtwerden, und der Hochschulunterricht muß allen gleichermaßen entsprechend ihren
-deu_0154	Fähigkeiten offenstehen.
-deu_0155	2.
-deu_0156	Die Bildung muß auf die volle Entfaltung der menschlichen Persönlichkeit und aufdie Stärkung der Achtung vor den Menschenrechten und Grundfreiheiten gerichtetsein.
-deu_0157	Sie muß zu Verständnis, Toleranz und Freundschaft zwischen allen Nationenund allen rassischen oder religiösen Gruppen beitragen und der Tätigkeit der
-deu_0158	Vereinten Nationen für die Wahrung des Friedens förderlich sein.
-deu_0159	3.
-deu_0160	Die Eltern haben ein vorrangiges Recht, die Art der Bildung zu wählen, die ihren
-deu_0161	Kindern zuteil werden soll.
-deu_0162	Artikel 27
-deu_0163	1.
-deu_0164	Jeder hat das Recht, am kulturellen Leben der Gemeinschaft frei teilzunehmen, sichan den Künsten zu erfreuen und am wissenschaftlichen Fortschritt und dessen
-deu_0165	Errungenschaften teilzuhaben.
-deu_0166	2.
-deu_0167	Jeder hat das Recht auf Schutz der geistigen und materiellen Interessen, die ihm als
-deu_0168	Urheber von Werken der Wissenschaft, Literatur oder Kunst erwachsen.
-deu_0169	Artikel 28
-deu_0170	Jeder hat Anspruch auf eine soziale und internationale Ordnung, in der die in dieser
-deu_0171	Erklärung verkündeten Rechte und Freiheiten voll verwirklicht werden können.
-deu_0172	Artikel 29
-deu_0173	1.
-deu_0174	Jeder hat Pflichten gegenüber der Gemeinschaft, in der allein die freie und volle
-deu_0175	Entfaltung seiner Persönlichkeit möglich ist.
-deu_0176	2.
-deu_0177	Jeder ist bei der Ausübung seiner Rechte und Freiheiten nur den Beschränkungenunterworfen, die das Gesetz ausschließlich zu dem Zweck vorsieht, die Anerkennungund Achtung der Rechte und Freiheiten anderer zu sichern und den gerechten
-deu_0178	Anforderungen der Moral, der öffentlichen Ordnung und des allgemeinen Wohles ineiner demokratischen Gesellschaft zu genügen.
-deu_0179	3.
-deu_0180	Diese Rechte und Freiheiten dürfen in keinem Fall im Widerspruch zu den Zielenund Grundsätzen der Vereinten Nationen ausgeübt werden.
-deu_0181	Artikel 30
-deu_0182	Keine Bestimmung dieser Erklärung darf dahin ausgelegt werden, daß sie für einen
-deu_0183	Staat, eine Gruppe oder eine Person irgendein Recht begründet, eine Tätigkeitauszuüben oder eine Handlung zu begehen, welche die Beseitigung der in dieser
-deu_0184	Erklärung verkündeten Rechte und Freiheiten zum Ziel hat.
+human_rights_un_ger_robu_64kb_0001	Resolution 217 A (III) der Generalversammlung vom 10. Dezember 1948 
+human_rights_un_ger_robu_64kb_0002	Allgemeine Erklärung der Menschenrechte
+human_rights_un_ger_robu_64kb_0003	PRÄAMBEL
+human_rights_un_ger_robu_64kb_0004	Da die Anerkennung der angeborenen Würde und der gleichen und unveräußerlichen
+human_rights_un_ger_robu_64kb_0005	Rechte aller Mitglieder der Gemeinschaft der Menschen die Grundlage von Freiheit,
+human_rights_un_ger_robu_64kb_0006	Gerechtigkeit und Frieden in der Welt bildet,da die Nichtanerkennung und Verachtung der Menschenrechte zu Akten der Barbareigeführt haben, die das Gewissen der Menschheit mit Empörung erfüllen, und daverkündet worden ist, daß einer Welt, in der die Menschen Rede- und
+human_rights_un_ger_robu_64kb_0007	Glaubensfreiheit und Freiheit von Furcht und Not genießen, das höchste Streben des
+human_rights_un_ger_robu_64kb_0008	Menschen gilt,da es notwendig ist, die Menschenrechte durch die Herrschaft des Rechtes zuschützen, damit der Mensch nicht gezwungen wird, als letztes Mittel zum Aufstandgegen Tyrannei und Unterdrückung zu greifen,da es notwendig ist, die Entwicklung freundschaftlicher Beziehungen zwischen den
+human_rights_un_ger_robu_64kb_0009	Nationen zu fördern,da die Völker der Vereinten Nationen in der Charta ihren Glauben an diegrundlegenden Menschenrechte, an die Würde und den Wert der menschlichen Personund an die Gleichberechtigung von Mann und Frau erneut bekräftigt und beschlossenhaben, den sozialen Fortschritt und bessere Lebensbedingungen in größerer Freiheitzu fördern,da die Mitgliedstaaten sich verpflichtet haben, in Zusammenarbeit mit den Vereinten
+human_rights_un_ger_robu_64kb_0010	Nationen auf die allgemeine Achtung und Einhaltung der Menschenrechte und
+human_rights_un_ger_robu_64kb_0011	Grundfreiheiten hinzuwirken,da ein gemeinsames Verständnis dieser Rechte und Freiheiten von größter
+human_rights_un_ger_robu_64kb_0012	Wichtigkeit für die volle Erfüllung dieser Verpflichtung ist,verkündet die Generalversammlungdiese Allgemeine Erklärung der Menschenrechte als das von allen Völkern und
+human_rights_un_ger_robu_64kb_0013	Nationen zu erreichende gemeinsame Ideal, damit jeder einzelne und alle Organe der
+human_rights_un_ger_robu_64kb_0014	Gesellschaft sich diese Erklärung stets gegenwärtig halten und sich bemühen, durch
+human_rights_un_ger_robu_64kb_0015	Unterricht und Erziehung die Achtung vor diesen Rechten und Freiheiten zu fördernund durch fortschreitende nationale und internationale Maßnahmen ihre allgemeineund tatsächliche Anerkennung und Einhaltung durch die Bevölkerung der
+human_rights_un_ger_robu_64kb_0016	Mitgliedstaaten selbst wie auch durch die Bevölkerung der ihrer Hoheitsgewaltunterstehenden Gebiete zu gewährleisten.
+human_rights_un_ger_robu_64kb_0017	Artikel 1
+human_rights_un_ger_robu_64kb_0018	Alle Menschen sind frei und gleich an Würde und Rechten geboren.
+human_rights_un_ger_robu_64kb_0019	Sie sind mit
+human_rights_un_ger_robu_64kb_0020	Vernunft und Gewissen begabt und sollen einander im Geiste der Brüderlichkeitbegegnen.
+human_rights_un_ger_robu_64kb_0021	Artikel 2
+human_rights_un_ger_robu_64kb_0022	Jeder hat Anspruch auf alle in dieser Erklärung verkündeten Rechte und Freiheiten,ohne irgendeinen Unterschied, etwa nach Rasse, Hautfarbe, Geschlecht, Sprache,
+human_rights_un_ger_robu_64kb_0023	Religion, politischer oder sonstiger Anschauung, nationaler oder sozialer Herkunft,
+human_rights_un_ger_robu_64kb_0024	Vermögen, Geburt oder sonstigem Stand.
+human_rights_un_ger_robu_64kb_0025	Des weiteren darf kein Unterschied gemacht werden auf Grund der politischen,rechtlichen oder internationalen Stellung des Landes oder Gebietes, dem eine Personangehört, gleichgültig ob dieses unabhängig ist, unter Treuhandschaft steht, keine
+human_rights_un_ger_robu_64kb_0026	Selbstregierung besitzt oder sonst in seiner Souveränität eingeschränkt ist.
+human_rights_un_ger_robu_64kb_0027	Artikel 3
+human_rights_un_ger_robu_64kb_0028	Jeder hat das Recht auf Leben, Freiheit und Sicherheit der Person.
+human_rights_un_ger_robu_64kb_0029	Artikel 4
+human_rights_un_ger_robu_64kb_0030	Niemand darf in Sklaverei oder Leibeigenschaft gehalten werden;
+human_rights_un_ger_robu_64kb_0031	Sklaverei und
+human_rights_un_ger_robu_64kb_0032	Sklavenhandel in allen ihren Formen sind verboten.
+human_rights_un_ger_robu_64kb_0033	Artikel 5
+human_rights_un_ger_robu_64kb_0034	Niemand darf der Folter oder grausamer, unmenschlicher oder erniedrigender
+human_rights_un_ger_robu_64kb_0035	Behandlung oder Strafe unterworfen werden.
+human_rights_un_ger_robu_64kb_0036	Jeder hat das Recht, überall als rechtsfähig anerkannt zu werden.
+human_rights_un_ger_robu_64kb_0037	Artikel 6
+human_rights_un_ger_robu_64kb_0038	Artikel 7
+human_rights_un_ger_robu_64kb_0039	Alle Menschen sind vor dem Gesetz gleich und haben ohne Unterschied Anspruch aufgleichen Schutz durch das Gesetz.
+human_rights_un_ger_robu_64kb_0040	Alle haben Anspruch auf gleichen Schutz gegenjede Diskriminierung, die gegen diese Erklärung verstößt, und gegen jede Aufhetzungzu einer derartigen Diskriminierung.
+human_rights_un_ger_robu_64kb_0041	Artikel 8
+human_rights_un_ger_robu_64kb_0042	Jeder hat Anspruch auf einen wirksamen Rechtsbehelf bei den zuständigeninnerstaatlichen Gerichten gegen Handlungen, durch die seine ihm nach der
+human_rights_un_ger_robu_64kb_0043	Verfassung oder nach dem Gesetz zustehenden Grundrechte verletzt werden.
+human_rights_un_ger_robu_64kb_0044	Artikel 9
+human_rights_un_ger_robu_64kb_0045	Niemand darf willkürlich festgenommen, in Haft gehalten oder des Landes verwiesenwerden.
+human_rights_un_ger_robu_64kb_0046	Artikel 10
+human_rights_un_ger_robu_64kb_0047	Jeder hat bei der Feststellung seiner Rechte und Pflichten sowie bei einer gegen ihnerhobenen strafrechtlichen Beschuldigung in voller Gleichheit Anspruch auf eingerechtes und öffentliches Verfahren vor einem unabhängigen und unparteiischen
+human_rights_un_ger_robu_64kb_0048	Gericht.
+human_rights_un_ger_robu_64kb_0049	Artikel 11
+human_rights_un_ger_robu_64kb_0050	1.
+human_rights_un_ger_robu_64kb_0051	Jeder, der einer strafbaren Handlung beschuldigt wird, hat das Recht, alsunschuldig zu gelten, solange seine Schuld nicht in einem öffentlichen Verfahren, indem er alle für seine Verteidigung notwendigen Garantien gehabt hat, gemäß dem
+human_rights_un_ger_robu_64kb_0052	Gesetz nachgewiesen ist.
+human_rights_un_ger_robu_64kb_0053	2.
+human_rights_un_ger_robu_64kb_0054	Niemand darf wegen einer Handlung oder Unterlassung verurteilt werden, die zur
+human_rights_un_ger_robu_64kb_0055	Zeit ihrer Begehung nach innerstaatlichem oder internationalem Recht nicht strafbarwar.
+human_rights_un_ger_robu_64kb_0056	Ebenso darf keine schwerere Strafe als die zum Zeitpunkt der Begehung derstrafbaren Handlung angedrohte Strafe verhängt werden.
+human_rights_un_ger_robu_64kb_0057	Artikel 12
+human_rights_un_ger_robu_64kb_0058	Niemand darf willkürlichen Eingriffen in sein Privatleben, seine Familie, seine
+human_rights_un_ger_robu_64kb_0059	Wohnung und seinen Schriftverkehr oder Beeinträchtigungen seiner Ehre und seines
+human_rights_un_ger_robu_64kb_0060	Rufes ausgesetzt werden.
+human_rights_un_ger_robu_64kb_0061	Jeder hat Anspruch auf rechtlichen Schutz gegen solche
+human_rights_un_ger_robu_64kb_0062	Eingriffe oder Beeinträchtigungen.
+human_rights_un_ger_robu_64kb_0063	Artikel 13
+human_rights_un_ger_robu_64kb_0064	1.
+human_rights_un_ger_robu_64kb_0065	Jeder hat das Recht, sich innerhalb eines Staates frei zu bewegen und seinen
+human_rights_un_ger_robu_64kb_0066	Aufenthaltsort frei zu wählen.
+human_rights_un_ger_robu_64kb_0067	2.
+human_rights_un_ger_robu_64kb_0068	Jeder hat das Recht, jedes Land, einschließlich seines eigenen, zu verlassen und insein Land zurückzukehren.
+human_rights_un_ger_robu_64kb_0069	Artikel 14
+human_rights_un_ger_robu_64kb_0070	1.
+human_rights_un_ger_robu_64kb_0071	Jeder hat das Recht, in anderen Ländern vor Verfolgung Asyl zu suchen und zugenießen.
+human_rights_un_ger_robu_64kb_0072	2.
+human_rights_un_ger_robu_64kb_0073	Dieses Recht kann nicht in Anspruch genommen werden im Falle einer
+human_rights_un_ger_robu_64kb_0074	Strafverfolgung, die tatsächlich auf Grund von Verbrechen nichtpolitischer Art oderauf Grund von Handlungen erfolgt, die gegen die Ziele und Grundsätze der Vereinten
+human_rights_un_ger_robu_64kb_0075	Nationen verstoßen.
+human_rights_un_ger_robu_64kb_0076	1.
+human_rights_un_ger_robu_64kb_0077	Jeder hat das Recht auf eine Staatsangehörigkeit.
+human_rights_un_ger_robu_64kb_0078	Artikel 15
+human_rights_un_ger_robu_64kb_0079	2.
+human_rights_un_ger_robu_64kb_0080	Niemandem darf seine Staatsangehörigkeit willkürlich entzogen noch das Rechtversagt werden, seine Staatsangehörigkeit zu wechseln.
+human_rights_un_ger_robu_64kb_0081	Artikel 16
+human_rights_un_ger_robu_64kb_0082	1.
+human_rights_un_ger_robu_64kb_0083	Heiratsfähige Männer und Frauen haben ohne jede Beschränkung auf Grund der
+human_rights_un_ger_robu_64kb_0084	Rasse, der Staatsangehörigkeit oder der Religion das Recht, zu heiraten und eine
+human_rights_un_ger_robu_64kb_0085	Familie zu gründen.
+human_rights_un_ger_robu_64kb_0086	Sie haben bei der Eheschließung, während der Ehe und bei deren
+human_rights_un_ger_robu_64kb_0087	Auflösung gleiche Rechte.
+human_rights_un_ger_robu_64kb_0088	2.
+human_rights_un_ger_robu_64kb_0089	Eine Ehe darf nur bei freier und uneingeschränkter Willenseinigung der künftigen
+human_rights_un_ger_robu_64kb_0090	Ehegatten geschlossen werden.
+human_rights_un_ger_robu_64kb_0091	3.
+human_rights_un_ger_robu_64kb_0092	Die Familie ist die natürliche Grundeinheit der Gesellschaft und hat Anspruch auf
+human_rights_un_ger_robu_64kb_0093	Schutz durch Gesellschaft und Staat.
+human_rights_un_ger_robu_64kb_0094	Artikel 17
+human_rights_un_ger_robu_64kb_0095	1.
+human_rights_un_ger_robu_64kb_0096	Jeder hat das Recht, sowohl allein als auch in Gemeinschaft mit anderen Eigentuminnezuhaben.
+human_rights_un_ger_robu_64kb_0097	2.
+human_rights_un_ger_robu_64kb_0098	Niemand darf willkürlich seines Eigentums beraubt werden.
+human_rights_un_ger_robu_64kb_0099	Artikel 18
+human_rights_un_ger_robu_64kb_0100	Jeder hat das Recht auf Gedanken-, Gewissens- und Religionsfreiheit;
+human_rights_un_ger_robu_64kb_0101	dieses Rechtschließt die Freiheit ein, seine Religion oder seine Weltanschauung zu wechseln,sowie die Freiheit, seine Religion oder seine Weltanschauung allein oder in
+human_rights_un_ger_robu_64kb_0102	Gemeinschaft mit anderen, öffentlich oder privat durch Lehre, Ausübung,
+human_rights_un_ger_robu_64kb_0103	Gottesdienst und Kulthandlungen zu bekennen.
+human_rights_un_ger_robu_64kb_0104	Artikel 19
+human_rights_un_ger_robu_64kb_0105	Jeder hat das Recht auf Meinungsfreiheit und freie Meinungsäußerung;
+human_rights_un_ger_robu_64kb_0106	dieses Rechtschließt die Freiheit ein, Meinungen ungehindert anzuhängen sowie über Medienjeder Art und ohne Rücksicht auf Grenzen Informationen und Gedankengut zu suchen,zu empfangen und zu verbreiten.
+human_rights_un_ger_robu_64kb_0107	Artikel 20
+human_rights_un_ger_robu_64kb_0108	1.
+human_rights_un_ger_robu_64kb_0109	Alle Menschen haben das Recht, sich friedlich zu versammeln und zu
+human_rights_un_ger_robu_64kb_0110	Vereinigungen zusammenzuschließen.
+human_rights_un_ger_robu_64kb_0111	2.
+human_rights_un_ger_robu_64kb_0112	Niemand darf gezwungen werden, einer Vereinigung anzugehören.
+human_rights_un_ger_robu_64kb_0113	Artikel 21
+human_rights_un_ger_robu_64kb_0114	1.
+human_rights_un_ger_robu_64kb_0115	Jeder hat das Recht, an der Gestaltung der öffentlichen Angelegenheiten seines
+human_rights_un_ger_robu_64kb_0116	Landes unmittelbar oder durch frei gewählte Vertreter mitzuwirken.
+human_rights_un_ger_robu_64kb_0117	2.
+human_rights_un_ger_robu_64kb_0118	Jeder hat das Recht auf gleichen Zugang zu öffentlichen Ämtern in seinem Lande.
+human_rights_un_ger_robu_64kb_0119	3.
+human_rights_un_ger_robu_64kb_0120	Der Wille des Volkes bildet die Grundlage für die Autorität der öffentlichen Gewalt;
+human_rights_un_ger_robu_64kb_0121	dieser Wille muß durch regelmäßige, unverfälschte, allgemeine und gleiche Wahlenmit geheimer Stimmabgabe oder einem gleichwertigen freien Wahlverfahren zum
+human_rights_un_ger_robu_64kb_0122	Ausdruck kommen.
+human_rights_un_ger_robu_64kb_0123	Artikel 22
+human_rights_un_ger_robu_64kb_0124	Jeder hat als Mitglied der Gesellschaft das Recht auf soziale Sicherheit und Anspruchdarauf, durch innerstaatliche Maßnahmen und internationale Zusammenarbeit sowieunter Berücksichtigung der Organisation und der Mittel jedes Staates in den Genußder wirtschaftlichen, sozialen und kulturellen Rechte zu gelangen, die für seine Würdeund die freie Entwicklung seiner Persönlichkeit unentbehrlich sind.
+human_rights_un_ger_robu_64kb_0125	Artikel 23
+human_rights_un_ger_robu_64kb_0126	1.
+human_rights_un_ger_robu_64kb_0127	Jeder hat das Recht auf Arbeit, auf freie Berufswahl, auf gerechte undbefriedigende Arbeitsbedingungen sowie auf Schutz vor Arbeitslosigkeit.
+human_rights_un_ger_robu_64kb_0128	2.
+human_rights_un_ger_robu_64kb_0129	Jeder, ohne Unterschied, hat das Recht auf gleichen Lohn für gleiche Arbeit.
+human_rights_un_ger_robu_64kb_0130	3.
+human_rights_un_ger_robu_64kb_0131	Jeder, der arbeitet, hat das Recht auf gerechte und befriedigende Entlohnung, dieihm und seiner Familie eine der menschlichen Würde entsprechende Existenz sichert,gegebenenfalls ergänzt durch andere soziale Schutzmaßnahmen.
+human_rights_un_ger_robu_64kb_0132	4.
+human_rights_un_ger_robu_64kb_0133	Jeder hat das Recht, zum Schutze seiner Interessen Gewerkschaften zu bilden undsolchen beizutreten.
+human_rights_un_ger_robu_64kb_0134	Artikel 24
+human_rights_un_ger_robu_64kb_0135	Jeder hat das Recht auf Erholung und Freizeit und insbesondere auf eine vernünftige
+human_rights_un_ger_robu_64kb_0136	Begrenzung der Arbeitszeit und regelmäßigen bezahlten Urlaub.
+human_rights_un_ger_robu_64kb_0137	Artikel 25
+human_rights_un_ger_robu_64kb_0138	1.
+human_rights_un_ger_robu_64kb_0139	Jeder hat das Recht auf einen Lebensstandard, der seine und seiner Familie
+human_rights_un_ger_robu_64kb_0140	Gesundheit und Wohl gewährleistet, einschließlich Nahrung, Kleidung, Wohnung,ärztliche Versorgung und notwendige soziale Leistungen, sowie das Recht auf
+human_rights_un_ger_robu_64kb_0141	Sicherheit im Falle von Arbeitslosigkeit, Krankheit, Invalidität oder Verwitwung, im
+human_rights_un_ger_robu_64kb_0142	Alter sowie bei anderweitigem Verlust seiner Unterhaltsmittel durch unverschuldete
+human_rights_un_ger_robu_64kb_0143	Umstände.
+human_rights_un_ger_robu_64kb_0144	2.
+human_rights_un_ger_robu_64kb_0145	Mütter und Kinder haben Anspruch auf besondere Fürsorge und Unterstützung.
+human_rights_un_ger_robu_64kb_0146	Alle Kinder, eheliche wie außereheliche, genießen den gleichen sozialen Schutz.
+human_rights_un_ger_robu_64kb_0147	Artikel 26
+human_rights_un_ger_robu_64kb_0148	1.
+human_rights_un_ger_robu_64kb_0149	Jeder hat das Recht auf Bildung.
+human_rights_un_ger_robu_64kb_0150	Die Bildung ist unentgeltlich, zum mindesten der
+human_rights_un_ger_robu_64kb_0151	Grundschulunterricht und die grundlegende Bildung.
+human_rights_un_ger_robu_64kb_0152	Der Grundschulunterricht istobligatorisch.
+human_rights_un_ger_robu_64kb_0153	Fach- und Berufsschulunterricht müssen allgemein verfügbar gemachtwerden, und der Hochschulunterricht muß allen gleichermaßen entsprechend ihren
+human_rights_un_ger_robu_64kb_0154	Fähigkeiten offenstehen.
+human_rights_un_ger_robu_64kb_0155	2.
+human_rights_un_ger_robu_64kb_0156	Die Bildung muß auf die volle Entfaltung der menschlichen Persönlichkeit und aufdie Stärkung der Achtung vor den Menschenrechten und Grundfreiheiten gerichtetsein.
+human_rights_un_ger_robu_64kb_0157	Sie muß zu Verständnis, Toleranz und Freundschaft zwischen allen Nationenund allen rassischen oder religiösen Gruppen beitragen und der Tätigkeit der
+human_rights_un_ger_robu_64kb_0158	Vereinten Nationen für die Wahrung des Friedens förderlich sein.
+human_rights_un_ger_robu_64kb_0159	3.
+human_rights_un_ger_robu_64kb_0160	Die Eltern haben ein vorrangiges Recht, die Art der Bildung zu wählen, die ihren
+human_rights_un_ger_robu_64kb_0161	Kindern zuteil werden soll.
+human_rights_un_ger_robu_64kb_0162	Artikel 27
+human_rights_un_ger_robu_64kb_0163	1.
+human_rights_un_ger_robu_64kb_0164	Jeder hat das Recht, am kulturellen Leben der Gemeinschaft frei teilzunehmen, sichan den Künsten zu erfreuen und am wissenschaftlichen Fortschritt und dessen
+human_rights_un_ger_robu_64kb_0165	Errungenschaften teilzuhaben.
+human_rights_un_ger_robu_64kb_0166	2.
+human_rights_un_ger_robu_64kb_0167	Jeder hat das Recht auf Schutz der geistigen und materiellen Interessen, die ihm als
+human_rights_un_ger_robu_64kb_0168	Urheber von Werken der Wissenschaft, Literatur oder Kunst erwachsen.
+human_rights_un_ger_robu_64kb_0169	Artikel 28
+human_rights_un_ger_robu_64kb_0170	Jeder hat Anspruch auf eine soziale und internationale Ordnung, in der die in dieser
+human_rights_un_ger_robu_64kb_0171	Erklärung verkündeten Rechte und Freiheiten voll verwirklicht werden können.
+human_rights_un_ger_robu_64kb_0172	Artikel 29
+human_rights_un_ger_robu_64kb_0173	1.
+human_rights_un_ger_robu_64kb_0174	Jeder hat Pflichten gegenüber der Gemeinschaft, in der allein die freie und volle
+human_rights_un_ger_robu_64kb_0175	Entfaltung seiner Persönlichkeit möglich ist.
+human_rights_un_ger_robu_64kb_0176	2.
+human_rights_un_ger_robu_64kb_0177	Jeder ist bei der Ausübung seiner Rechte und Freiheiten nur den Beschränkungenunterworfen, die das Gesetz ausschließlich zu dem Zweck vorsieht, die Anerkennungund Achtung der Rechte und Freiheiten anderer zu sichern und den gerechten
+human_rights_un_ger_robu_64kb_0178	Anforderungen der Moral, der öffentlichen Ordnung und des allgemeinen Wohles ineiner demokratischen Gesellschaft zu genügen.
+human_rights_un_ger_robu_64kb_0179	3.
+human_rights_un_ger_robu_64kb_0180	Diese Rechte und Freiheiten dürfen in keinem Fall im Widerspruch zu den Zielenund Grundsätzen der Vereinten Nationen ausgeübt werden.
+human_rights_un_ger_robu_64kb_0181	Artikel 30
+human_rights_un_ger_robu_64kb_0182	Keine Bestimmung dieser Erklärung darf dahin ausgelegt werden, daß sie für einen
+human_rights_un_ger_robu_64kb_0183	Staat, eine Gruppe oder eine Person irgendein Recht begründet, eine Tätigkeitauszuüben oder eine Handlung zu begehen, welche die Beseitigung der in dieser
+human_rights_un_ger_robu_64kb_0184	Erklärung verkündeten Rechte und Freiheiten zum Ziel hat.

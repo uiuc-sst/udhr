@@ -1,138 +1,138 @@
-eng-GB_0001	Universal Declaration of Human Rights
-eng-GB_0002	Preamble
-eng-GB_0003	Whereas recognition of the inherent dignity and of the equal and inalienablerights of all members of the human family is the foundation of freedom, justiceand peace in the world,
-eng-GB_0004	Whereas disregard and contempt for human rights have resulted in barbarousacts which have outraged the conscience of mankind, and the advent of a worldin which human beings shall enjoy freedom of speech and belief and freedomfrom fear and want has been proclaimed as the highest aspiration of the commonpeople,
-eng-GB_0005	Whereas it is essential, if man is not to be compelled to have recourse, as a lastresort, to rebellion against tyranny and oppression, that human rights should beprotected by the rule of law,
-eng-GB_0006	Whereas it is essential to promote the development of friendly relations betweennations,
-eng-GB_0007	Whereas the peoples of the United Nations have in the Charter reaffirmed theirfaith in fundamental human rights, in the dignity and worth of the human personand in the equal rights of men and women and have determined to promotesocial progress and better standards of life in larger freedom,
-eng-GB_0008	Whereas Member States have pledged themselves to achieve, in cooperationwith the United Nations, the promotion of universal respect for and observance ofhuman rights and fundamental freedoms,
-eng-GB_0009	Whereas a common understanding of these rights and freedoms is of thegreatest importance for the full realization of this pledge,
-eng-GB_0010	Now, therefore,
-eng-GB_0011	The General Assembly,
-eng-GB_0012	Proclaims this Universal Declaration of Human Rights as a common standard ofachievement for all peoples and all nations, to the end that every individual andevery organ of society, keeping this Declaration constantly in mind, shall strive byteaching and education to promote respect for these rights and freedoms and byprogressive measures, national and international, to secure their universal andeffective recognition and observance, both among the peoples of Member Statesthemselves and among the peoples of territories under their jurisdiction.
-eng-GB_0013	Article I
-eng-GB_0014	All human beings are born free and equal in dignity and rights.
-eng-GB_0015	They areendowed with reason and conscience and should act towards one another in aspirit of brotherhood.
-eng-GB_0016	Article 2
-eng-GB_0017	Everyone is entitled to all the rights and freedoms set forth in this Declaration,without distinction of any kind, such as race, colour, sex, language, religion,political or other opinion, national or social origin, property, birth or other status.
-eng-GB_0018	Furthermore, no distinction shall be made on the basis of the political,jurisdictional or international status of the country or territory to which a personbelongs, whether it be independent, trust, non-self-governing or under any otherlimitation of sovereignty.
-eng-GB_0019	Article 3
-eng-GB_0020	Everyone has the right to life, liberty and the security of person.
-eng-GB_0021	Article 4
-eng-GB_0022	No one shall be held in slavery or servitude;
-eng-GB_0023	slavery and the slave trade shall beprohibited in all their forms.
-eng-GB_0024	Article 5
-eng-GB_0025	No one shall be subjected to torture or to cruel, inhuman or degrading treatmentor punishment.
-eng-GB_0026	Article 6
-eng-GB_0027	Everyone has the right to recognition everywhere as a person before the law.
-eng-GB_0028	Article 7
-eng-GB_0029	All are equal before the law and are entitled without any discrimination to equalprotection of the law.
-eng-GB_0030	All are entitled to equal protection against anydiscrimination in violation of this Declaration and against any incitement to suchdiscrimination.
-eng-GB_0031	Article 8
-eng-GB_0032	Everyone has the right to an effective remedy by the competent national tribunalsfor acts violating the fundamental rights granted him by the constitution or by law.
-eng-GB_0033	Article 9
-eng-GB_0034	No one shall be subjected to arbitrary arrest, detention or exile.
-eng-GB_0035	Article 10
-eng-GB_0036	Everyone is entitled in full equality to a fair and public hearing by an independentand impartial tribunal, in the determination of his rights and obligations and of anycriminal charge against him.
-eng-GB_0037	Article 11
-eng-GB_0038	1.
-eng-GB_0039	Everyone charged with a penal offence has the right to be presumedinnocent until proved guilty according to law in a public trial at which hehas had all the guarantees necessary for his defence.
-eng-GB_0040	2.
-eng-GB_0041	No one shall be held guilty of any penal offence on account of any act oromission which did not constitute a penal offence, under national orinternational law, at the time when it was committed.
-eng-GB_0042	Nor shall a heavierpenalty be imposed than the one that was applicable at the time the penaloffence was committed.
-eng-GB_0043	Article 12
-eng-GB_0044	No one shall be subjected to arbitrary interference with his privacy, family, homeor correspondence, nor to attacks upon his honour and reputation.
-eng-GB_0045	Everyone hasthe right to the protection of the law against such interference or attacks.
-eng-GB_0046	Article 13
-eng-GB_0047	1.
-eng-GB_0048	Everyone has the right to freedom of movement and residence within theborders of each State.
-eng-GB_0049	2.
-eng-GB_0050	Everyone has the right to leave any country, including his own, and toreturn to his country.
-eng-GB_0051	Article 14
-eng-GB_0052	1.
-eng-GB_0053	Everyone has the right to seek and to enjoy in other countries asylum frompersecution.
-eng-GB_0054	2.
-eng-GB_0055	This right may not be invoked in the case of prosecutions genuinelyarising from non-political crimes or from acts contrary to the purposes andprinciples of the United Nations.
-eng-GB_0056	Article 15
-eng-GB_0057	1.
-eng-GB_0058	Everyone has the right to a nationality.
-eng-GB_0059	2.
-eng-GB_0060	No one shall be arbitrarily deprived of his nationality nor denied the right tochange his nationality.
-eng-GB_0061	Article 16
-eng-GB_0062	1.
-eng-GB_0063	Men and women of full age, without any limitation due to race, nationalityor religion, have the right to marry and to found a family.
-eng-GB_0064	They are entitledto equal rights as to marriage, during marriage and at its dissolution.
-eng-GB_0065	2.
-eng-GB_0066	Marriage shall be entered into only with the free and full consent of theintending spouses.
-eng-GB_0067	3.
-eng-GB_0068	The family is the natural and fundamental group unit of society and isentitled to protection by society and the State.
-eng-GB_0069	Article 17
-eng-GB_0070	1.
-eng-GB_0071	Everyone has the right to own property alone as well as in association withothers.
-eng-GB_0072	2.
-eng-GB_0073	No one shall be arbitrarily deprived of his property.
-eng-GB_0074	Article 18
-eng-GB_0075	Everyone has the right to freedom of thought, conscience and religion;
-eng-GB_0076	this rightincludes freedom to change his religion or belief, and freedom, either alone or incommunity with others and in public or private, to manifest his religion or belief inteaching, practice, worship and observance.
-eng-GB_0077	Article 19
-eng-GB_0078	Everyone has the right to freedom of opinion and expression;
-eng-GB_0079	this right includesfreedom to hold opinions without interference and to seek, receive and impartinformation and ideas through any media and regardless of frontiers.
-eng-GB_0080	Article 20
-eng-GB_0081	1.
-eng-GB_0082	Everyone has the right to freedom of peaceful assembly and association.
-eng-GB_0083	2.
-eng-GB_0084	No one may be compelled to belong to an association.
-eng-GB_0085	Article 21
-eng-GB_0086	1.
-eng-GB_0087	Everyone has the right to take part in the government of his country,directly or through freely chosen representatives.
-eng-GB_0088	2.
-eng-GB_0089	Everyone has the right to equal access to public service in his country.
-eng-GB_0090	3.
-eng-GB_0091	The will of the people shall be the basis of the authority of government;
-eng-GB_0092	this will shall be expressed in periodic and genuine elections which shallbe by universal and equal suffrage and shall be held by secret vote or byequivalent free voting procedures.
-eng-GB_0093	Article 22
-eng-GB_0094	Everyone, as a member of society, has the right to social security and is entitledto realization, through national effort and international co-operation and inaccordance with the organization and resources of each State, of the economic,social and cultural rights indispensable for his dignity and the free developmentof his personality.
-eng-GB_0095	Article 23
-eng-GB_0096	1.
-eng-GB_0097	Everyone has the right to work, to free choice of employment, to just andfavourable conditions of work and to protection against unemployment.
-eng-GB_0098	2.
-eng-GB_0099	Everyone, without any discrimination, has the right to equal pay for equalwork.
-eng-GB_0100	3.
-eng-GB_0101	Everyone who works has the right to just and favourable remunerationensuring for himself and his family an existence worthy of human dignity,and supplemented, if necessary, by other means of social protection.
-eng-GB_0102	4.
-eng-GB_0103	Everyone has the right to form and to join trade unions for the protection ofhis interests.
-eng-GB_0104	Article 24
-eng-GB_0105	Everyone has the right to rest and leisure, including reasonable limitation ofworking hours and periodic holidays with pay.
-eng-GB_0106	Article 25
-eng-GB_0107	1.
-eng-GB_0108	Everyone has the right to a standard of living adequate for the health andwell-being of himself and of his family, including food, clothing, housingand medical care and necessary social services, and the right to securityin the event of unemployment, sickness, disability, widowhood, old age orother lack of livelihood in circumstances beyond his control.
-eng-GB_0109	2.
-eng-GB_0110	Motherhood and childhood are entitled to special care and assistance.
-eng-GB_0111	Allchildren, whether born in or out of wedlock, shall enjoy the same socialprotection.
-eng-GB_0112	Article 26
-eng-GB_0113	1.
-eng-GB_0114	Everyone has the right to education.
-eng-GB_0115	Education shall be free, at least in theelementary and fundamental stages.
-eng-GB_0116	Elementary education shall becompulsory.
-eng-GB_0117	Technical and professional education shall be madegenerally available and higher education shall be equally accessible to allon the basis of merit.
-eng-GB_0118	2.
-eng-GB_0119	Education shall be directed to the full development of the humanpersonality and to the strengthening of respect for human rights andfundamental freedoms.
-eng-GB_0120	It shall promote understanding, tolerance andfriendship among all nations, racial or religious groups, and shall furtherthe activities of the United Nations for the maintenance of peace.
-eng-GB_0121	3.
-eng-GB_0122	Parents have a prior right to choose the kind of education that shall begiven to their children.
-eng-GB_0123	Article 27
-eng-GB_0124	1.
-eng-GB_0125	Everyone has the right freely to participate in the cultural life of thecommunity, to enjoy the arts and to share in scientific advancement andits benefits.
-eng-GB_0126	2.
-eng-GB_0127	Everyone has the right to the protection of the moral and material interestsresulting from any scientific, literary or artistic production of which he is theauthor.
-eng-GB_0128	Article 28
-eng-GB_0129	Everyone is entitled to a social and international order in which the rights andfreedoms set forth in this Declaration can be fully realized.
-eng-GB_0130	Article 29
-eng-GB_0131	1.
-eng-GB_0132	Everyone has duties to the community in which alone the free and fulldevelopment of his personality is possible.
-eng-GB_0133	2.
-eng-GB_0134	In the exercise of his rights and freedoms, everyone shall be subject onlyto such limitations as are determined by law solely for the purpose ofsecuring due recognition and respect for the rights and freedoms of othersand of meeting the just requirements of morality, public order and thegeneral welfare in a democratic society.
-eng-GB_0135	3.
-eng-GB_0136	These rights and freedoms may in no case be exercised contrary to thepurposes and principles of the United Nations.
-eng-GB_0137	Article 30
-eng-GB_0138	Nothing in this Declaration may be interpreted as implying for any State, group orperson any right to engage in any activity or to perform any act aimed at thedestruction of any of the rights and freedoms set forth herein.
+human_rights_un_eng_drb_64kb_0001	Universal Declaration of Human Rights
+human_rights_un_eng_drb_64kb_0002	Preamble
+human_rights_un_eng_drb_64kb_0003	Whereas recognition of the inherent dignity and of the equal and inalienablerights of all members of the human family is the foundation of freedom, justiceand peace in the world,
+human_rights_un_eng_drb_64kb_0004	Whereas disregard and contempt for human rights have resulted in barbarousacts which have outraged the conscience of mankind, and the advent of a worldin which human beings shall enjoy freedom of speech and belief and freedomfrom fear and want has been proclaimed as the highest aspiration of the commonpeople,
+human_rights_un_eng_drb_64kb_0005	Whereas it is essential, if man is not to be compelled to have recourse, as a lastresort, to rebellion against tyranny and oppression, that human rights should beprotected by the rule of law,
+human_rights_un_eng_drb_64kb_0006	Whereas it is essential to promote the development of friendly relations betweennations,
+human_rights_un_eng_drb_64kb_0007	Whereas the peoples of the United Nations have in the Charter reaffirmed theirfaith in fundamental human rights, in the dignity and worth of the human personand in the equal rights of men and women and have determined to promotesocial progress and better standards of life in larger freedom,
+human_rights_un_eng_drb_64kb_0008	Whereas Member States have pledged themselves to achieve, in cooperationwith the United Nations, the promotion of universal respect for and observance ofhuman rights and fundamental freedoms,
+human_rights_un_eng_drb_64kb_0009	Whereas a common understanding of these rights and freedoms is of thegreatest importance for the full realization of this pledge,
+human_rights_un_eng_drb_64kb_0010	Now, therefore,
+human_rights_un_eng_drb_64kb_0011	The General Assembly,
+human_rights_un_eng_drb_64kb_0012	Proclaims this Universal Declaration of Human Rights as a common standard ofachievement for all peoples and all nations, to the end that every individual andevery organ of society, keeping this Declaration constantly in mind, shall strive byteaching and education to promote respect for these rights and freedoms and byprogressive measures, national and international, to secure their universal andeffective recognition and observance, both among the peoples of Member Statesthemselves and among the peoples of territories under their jurisdiction.
+human_rights_un_eng_drb_64kb_0013	Article I
+human_rights_un_eng_drb_64kb_0014	All human beings are born free and equal in dignity and rights.
+human_rights_un_eng_drb_64kb_0015	They areendowed with reason and conscience and should act towards one another in aspirit of brotherhood.
+human_rights_un_eng_drb_64kb_0016	Article 2
+human_rights_un_eng_drb_64kb_0017	Everyone is entitled to all the rights and freedoms set forth in this Declaration,without distinction of any kind, such as race, colour, sex, language, religion,political or other opinion, national or social origin, property, birth or other status.
+human_rights_un_eng_drb_64kb_0018	Furthermore, no distinction shall be made on the basis of the political,jurisdictional or international status of the country or territory to which a personbelongs, whether it be independent, trust, non-self-governing or under any otherlimitation of sovereignty.
+human_rights_un_eng_drb_64kb_0019	Article 3
+human_rights_un_eng_drb_64kb_0020	Everyone has the right to life, liberty and the security of person.
+human_rights_un_eng_drb_64kb_0021	Article 4
+human_rights_un_eng_drb_64kb_0022	No one shall be held in slavery or servitude;
+human_rights_un_eng_drb_64kb_0023	slavery and the slave trade shall beprohibited in all their forms.
+human_rights_un_eng_drb_64kb_0024	Article 5
+human_rights_un_eng_drb_64kb_0025	No one shall be subjected to torture or to cruel, inhuman or degrading treatmentor punishment.
+human_rights_un_eng_drb_64kb_0026	Article 6
+human_rights_un_eng_drb_64kb_0027	Everyone has the right to recognition everywhere as a person before the law.
+human_rights_un_eng_drb_64kb_0028	Article 7
+human_rights_un_eng_drb_64kb_0029	All are equal before the law and are entitled without any discrimination to equalprotection of the law.
+human_rights_un_eng_drb_64kb_0030	All are entitled to equal protection against anydiscrimination in violation of this Declaration and against any incitement to suchdiscrimination.
+human_rights_un_eng_drb_64kb_0031	Article 8
+human_rights_un_eng_drb_64kb_0032	Everyone has the right to an effective remedy by the competent national tribunalsfor acts violating the fundamental rights granted him by the constitution or by law.
+human_rights_un_eng_drb_64kb_0033	Article 9
+human_rights_un_eng_drb_64kb_0034	No one shall be subjected to arbitrary arrest, detention or exile.
+human_rights_un_eng_drb_64kb_0035	Article 10
+human_rights_un_eng_drb_64kb_0036	Everyone is entitled in full equality to a fair and public hearing by an independentand impartial tribunal, in the determination of his rights and obligations and of anycriminal charge against him.
+human_rights_un_eng_drb_64kb_0037	Article 11
+human_rights_un_eng_drb_64kb_0038	1.
+human_rights_un_eng_drb_64kb_0039	Everyone charged with a penal offence has the right to be presumedinnocent until proved guilty according to law in a public trial at which hehas had all the guarantees necessary for his defence.
+human_rights_un_eng_drb_64kb_0040	2.
+human_rights_un_eng_drb_64kb_0041	No one shall be held guilty of any penal offence on account of any act oromission which did not constitute a penal offence, under national orinternational law, at the time when it was committed.
+human_rights_un_eng_drb_64kb_0042	Nor shall a heavierpenalty be imposed than the one that was applicable at the time the penaloffence was committed.
+human_rights_un_eng_drb_64kb_0043	Article 12
+human_rights_un_eng_drb_64kb_0044	No one shall be subjected to arbitrary interference with his privacy, family, homeor correspondence, nor to attacks upon his honour and reputation.
+human_rights_un_eng_drb_64kb_0045	Everyone hasthe right to the protection of the law against such interference or attacks.
+human_rights_un_eng_drb_64kb_0046	Article 13
+human_rights_un_eng_drb_64kb_0047	1.
+human_rights_un_eng_drb_64kb_0048	Everyone has the right to freedom of movement and residence within theborders of each State.
+human_rights_un_eng_drb_64kb_0049	2.
+human_rights_un_eng_drb_64kb_0050	Everyone has the right to leave any country, including his own, and toreturn to his country.
+human_rights_un_eng_drb_64kb_0051	Article 14
+human_rights_un_eng_drb_64kb_0052	1.
+human_rights_un_eng_drb_64kb_0053	Everyone has the right to seek and to enjoy in other countries asylum frompersecution.
+human_rights_un_eng_drb_64kb_0054	2.
+human_rights_un_eng_drb_64kb_0055	This right may not be invoked in the case of prosecutions genuinelyarising from non-political crimes or from acts contrary to the purposes andprinciples of the United Nations.
+human_rights_un_eng_drb_64kb_0056	Article 15
+human_rights_un_eng_drb_64kb_0057	1.
+human_rights_un_eng_drb_64kb_0058	Everyone has the right to a nationality.
+human_rights_un_eng_drb_64kb_0059	2.
+human_rights_un_eng_drb_64kb_0060	No one shall be arbitrarily deprived of his nationality nor denied the right tochange his nationality.
+human_rights_un_eng_drb_64kb_0061	Article 16
+human_rights_un_eng_drb_64kb_0062	1.
+human_rights_un_eng_drb_64kb_0063	Men and women of full age, without any limitation due to race, nationalityor religion, have the right to marry and to found a family.
+human_rights_un_eng_drb_64kb_0064	They are entitledto equal rights as to marriage, during marriage and at its dissolution.
+human_rights_un_eng_drb_64kb_0065	2.
+human_rights_un_eng_drb_64kb_0066	Marriage shall be entered into only with the free and full consent of theintending spouses.
+human_rights_un_eng_drb_64kb_0067	3.
+human_rights_un_eng_drb_64kb_0068	The family is the natural and fundamental group unit of society and isentitled to protection by society and the State.
+human_rights_un_eng_drb_64kb_0069	Article 17
+human_rights_un_eng_drb_64kb_0070	1.
+human_rights_un_eng_drb_64kb_0071	Everyone has the right to own property alone as well as in association withothers.
+human_rights_un_eng_drb_64kb_0072	2.
+human_rights_un_eng_drb_64kb_0073	No one shall be arbitrarily deprived of his property.
+human_rights_un_eng_drb_64kb_0074	Article 18
+human_rights_un_eng_drb_64kb_0075	Everyone has the right to freedom of thought, conscience and religion;
+human_rights_un_eng_drb_64kb_0076	this rightincludes freedom to change his religion or belief, and freedom, either alone or incommunity with others and in public or private, to manifest his religion or belief inteaching, practice, worship and observance.
+human_rights_un_eng_drb_64kb_0077	Article 19
+human_rights_un_eng_drb_64kb_0078	Everyone has the right to freedom of opinion and expression;
+human_rights_un_eng_drb_64kb_0079	this right includesfreedom to hold opinions without interference and to seek, receive and impartinformation and ideas through any media and regardless of frontiers.
+human_rights_un_eng_drb_64kb_0080	Article 20
+human_rights_un_eng_drb_64kb_0081	1.
+human_rights_un_eng_drb_64kb_0082	Everyone has the right to freedom of peaceful assembly and association.
+human_rights_un_eng_drb_64kb_0083	2.
+human_rights_un_eng_drb_64kb_0084	No one may be compelled to belong to an association.
+human_rights_un_eng_drb_64kb_0085	Article 21
+human_rights_un_eng_drb_64kb_0086	1.
+human_rights_un_eng_drb_64kb_0087	Everyone has the right to take part in the government of his country,directly or through freely chosen representatives.
+human_rights_un_eng_drb_64kb_0088	2.
+human_rights_un_eng_drb_64kb_0089	Everyone has the right to equal access to public service in his country.
+human_rights_un_eng_drb_64kb_0090	3.
+human_rights_un_eng_drb_64kb_0091	The will of the people shall be the basis of the authority of government;
+human_rights_un_eng_drb_64kb_0092	this will shall be expressed in periodic and genuine elections which shallbe by universal and equal suffrage and shall be held by secret vote or byequivalent free voting procedures.
+human_rights_un_eng_drb_64kb_0093	Article 22
+human_rights_un_eng_drb_64kb_0094	Everyone, as a member of society, has the right to social security and is entitledto realization, through national effort and international co-operation and inaccordance with the organization and resources of each State, of the economic,social and cultural rights indispensable for his dignity and the free developmentof his personality.
+human_rights_un_eng_drb_64kb_0095	Article 23
+human_rights_un_eng_drb_64kb_0096	1.
+human_rights_un_eng_drb_64kb_0097	Everyone has the right to work, to free choice of employment, to just andfavourable conditions of work and to protection against unemployment.
+human_rights_un_eng_drb_64kb_0098	2.
+human_rights_un_eng_drb_64kb_0099	Everyone, without any discrimination, has the right to equal pay for equalwork.
+human_rights_un_eng_drb_64kb_0100	3.
+human_rights_un_eng_drb_64kb_0101	Everyone who works has the right to just and favourable remunerationensuring for himself and his family an existence worthy of human dignity,and supplemented, if necessary, by other means of social protection.
+human_rights_un_eng_drb_64kb_0102	4.
+human_rights_un_eng_drb_64kb_0103	Everyone has the right to form and to join trade unions for the protection ofhis interests.
+human_rights_un_eng_drb_64kb_0104	Article 24
+human_rights_un_eng_drb_64kb_0105	Everyone has the right to rest and leisure, including reasonable limitation ofworking hours and periodic holidays with pay.
+human_rights_un_eng_drb_64kb_0106	Article 25
+human_rights_un_eng_drb_64kb_0107	1.
+human_rights_un_eng_drb_64kb_0108	Everyone has the right to a standard of living adequate for the health andwell-being of himself and of his family, including food, clothing, housingand medical care and necessary social services, and the right to securityin the event of unemployment, sickness, disability, widowhood, old age orother lack of livelihood in circumstances beyond his control.
+human_rights_un_eng_drb_64kb_0109	2.
+human_rights_un_eng_drb_64kb_0110	Motherhood and childhood are entitled to special care and assistance.
+human_rights_un_eng_drb_64kb_0111	Allchildren, whether born in or out of wedlock, shall enjoy the same socialprotection.
+human_rights_un_eng_drb_64kb_0112	Article 26
+human_rights_un_eng_drb_64kb_0113	1.
+human_rights_un_eng_drb_64kb_0114	Everyone has the right to education.
+human_rights_un_eng_drb_64kb_0115	Education shall be free, at least in theelementary and fundamental stages.
+human_rights_un_eng_drb_64kb_0116	Elementary education shall becompulsory.
+human_rights_un_eng_drb_64kb_0117	Technical and professional education shall be madegenerally available and higher education shall be equally accessible to allon the basis of merit.
+human_rights_un_eng_drb_64kb_0118	2.
+human_rights_un_eng_drb_64kb_0119	Education shall be directed to the full development of the humanpersonality and to the strengthening of respect for human rights andfundamental freedoms.
+human_rights_un_eng_drb_64kb_0120	It shall promote understanding, tolerance andfriendship among all nations, racial or religious groups, and shall furtherthe activities of the United Nations for the maintenance of peace.
+human_rights_un_eng_drb_64kb_0121	3.
+human_rights_un_eng_drb_64kb_0122	Parents have a prior right to choose the kind of education that shall begiven to their children.
+human_rights_un_eng_drb_64kb_0123	Article 27
+human_rights_un_eng_drb_64kb_0124	1.
+human_rights_un_eng_drb_64kb_0125	Everyone has the right freely to participate in the cultural life of thecommunity, to enjoy the arts and to share in scientific advancement andits benefits.
+human_rights_un_eng_drb_64kb_0126	2.
+human_rights_un_eng_drb_64kb_0127	Everyone has the right to the protection of the moral and material interestsresulting from any scientific, literary or artistic production of which he is theauthor.
+human_rights_un_eng_drb_64kb_0128	Article 28
+human_rights_un_eng_drb_64kb_0129	Everyone is entitled to a social and international order in which the rights andfreedoms set forth in this Declaration can be fully realized.
+human_rights_un_eng_drb_64kb_0130	Article 29
+human_rights_un_eng_drb_64kb_0131	1.
+human_rights_un_eng_drb_64kb_0132	Everyone has duties to the community in which alone the free and fulldevelopment of his personality is possible.
+human_rights_un_eng_drb_64kb_0133	2.
+human_rights_un_eng_drb_64kb_0134	In the exercise of his rights and freedoms, everyone shall be subject onlyto such limitations as are determined by law solely for the purpose ofsecuring due recognition and respect for the rights and freedoms of othersand of meeting the just requirements of morality, public order and thegeneral welfare in a democratic society.
+human_rights_un_eng_drb_64kb_0135	3.
+human_rights_un_eng_drb_64kb_0136	These rights and freedoms may in no case be exercised contrary to thepurposes and principles of the United Nations.
+human_rights_un_eng_drb_64kb_0137	Article 30
+human_rights_un_eng_drb_64kb_0138	Nothing in this Declaration may be interpreted as implying for any State, group orperson any right to engage in any activity or to perform any act aimed at thedestruction of any of the rights and freedoms set forth herein.

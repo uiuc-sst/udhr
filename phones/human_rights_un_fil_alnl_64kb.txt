@@ -1,157 +1,157 @@
-fil_0001	nɔːoŋ disjembe aŋ paŋkalahataŋ kapuluŋan ŋ mdʒa bansaŋ
-fil_0002	nadʒkakaisa aj nadʒsadʒawa at nadʒpahajadʒ ŋ pandaidʒdidʒ na pahajadʒ ŋ mdʒa
-fil_0003	kaapatan ŋ tao
-fil_0004	aŋ buoŋ nilalaman nɔːon aj mababasa sa mdʒa susunod napahina
-fil_0005	kasunod ŋ makasajsajaŋ dʒawaiŋ ito aŋ kapuluŋan ajnanawadʒan sa lahat ŋ mdʒa kadʒawad ŋ bansa upaŋ ilathala aŋ nilalaman ŋ
-fil_0006	pahajadʒ at upaŋ itoj paladʒanapin itaŋhal basahin at talakajin laluŋlalona sa mdʒa paaalan at iba paŋ institusjoŋ edukasjonal naŋ walaŋpadʒtataŋi bataj sa kaladʒajaŋ pulitikal ŋ mdʒa bansa ɔː mdʒa teitɔːjo
-fil_0007	
-fil_0008	paŋwakas na tekstoŋ maj pahintulot na salin sa pilipino ŋ katipunan ŋ
-fil_0009	badʒoŋ pilipina
-fil_0010	ipinaabot ŋ punoŋ paŋkaalaman ŋ mdʒa bansaŋ
-fil_0011	nadʒkakaisa paa sa pilipinas aŋ tauspusoŋ pasasalamat sa law kente ŋ
-fil_0012	pamantasan ŋ pilipinas na unaŋ nadʒlimbadʒ ŋ pahajadʒ na ito na salin sa
-fil_0013	pilipino
-fil_0014	ipinalimbadʒ ŋ punoŋ paŋkaalaman ŋ mdʒa bansaŋ nadʒkakaisapaa sa pilipinas at ŋ kadʒawaan ŋ kabatiaŋ paŋmadla ŋ mdʒa bansaŋ
-fil_0015	nadʒkakaisa
-fil_0016	pandaidʒdiɡ na padʒpapahajaɡ nɡ mdʒa kaɾapatan nɡ tao
-fil_0017	panimula
-fil_0018	sapadʒkat aŋ padʒkilala sa katutuboŋ kaaŋalan at sa pantaj at dimaikakaitna mdʒa kaapatan ŋ lahat ŋ nabibilaŋ sa aŋkan ŋ tao aj sijaŋ salidʒan ŋkalajaan katauŋan at kapajapaan sa daidʒdidʒ
-fil_0019	sapadʒkat aŋ padʒwawalaŋbahala at padʒlalapastaŋan sa mdʒa kaapatan ŋtao aj nadʒbuŋa ŋ mdʒa dʒawaŋ dimakatao na humamak sa budhi ŋsaŋkatauhan at aŋ padʒdatal ŋ isaŋ daidʒdidʒ na aŋ mdʒa tao ajmadʒtatamasa ŋ kalajaan sa padʒsasalita at ŋ kalidʒtasan sa paŋamba atpadʒdaalita aj ipinahajadʒ na pinakamataas na mithiin ŋ mdʒa kaaniwaŋ tao
-fil_0020	sapadʒkat mahaladʒa kuŋ aŋ tao aj dipipilitiŋ maŋhawakan bilaŋ huliŋmadʒadʒawa sa padʒhihimadʒsik laban sa paniniil at paŋaapi na aŋ mdʒakaapatan ŋ taoj mapaŋaladʒaan sa pamamadʒitan ŋ padʒhahai ŋ batas
-fil_0021	sapadʒkat mahaladʒaŋ itadʒujod aŋ padʒpapaunlad ŋ mabutiŋ padʒsasamahanŋ mdʒa bansa
-fil_0022	sapadʒkat aŋ mdʒa mamamajan ŋ mdʒa bansaŋ nadʒkakaisa aj nadʒpatibaj sa
-fil_0023	kata ŋ kanilaŋ pananalidʒ sa mdʒa salidʒaŋ kaapatan ŋ tao sa kaaŋalan atkahaladʒahan ŋ padʒkatao at sa pantaj na mdʒa kaapatan ŋ mdʒa lalaki at babaeat nadʒpapasijaŋ itadʒujod aŋ kaunlaaŋ panlipunan at laloŋ mabubutiŋpamantajan ŋ buhaj sa laloŋ malakiŋ kalajaan
-fil_0024	sapadʒkat aŋ mdʒa kasapiŋ ɛstado aj naŋako sa kanilaŋ saili na tamuhin sapakikipadʒtuluŋan sa mdʒa bansaŋ nadʒkakaisa aŋ padʒtatadʒujod ŋpandaidʒdidʒ na padʒdʒalaŋ at padʒtalima sa mdʒa kaapatan ŋ tao at mdʒa salidʒaŋkalajaan
-fil_0025	sapadʒkat lubhaŋ mahaladʒa aŋ padʒkakaunawa ŋ lahat sa mdʒa kaapatan atkalajaaŋ ito at lubhaŋ mahaladʒa sa dʒanap na padʒsasakatupaan ŋ mdʒapaŋakoŋ ito
-fil_0026	ŋajon samakatuwid
-fil_0027	aŋ paŋkalahataŋ kapuluŋanaj nadʒpapahajadʒ ŋ
-fil_0028	pandaidʒdidʒ na padʒpapahajadʒ na itoŋ mdʒa kaapatan ŋ taobilaŋ paŋkalahataŋ pamantajaŋ maisasadʒawa paa sa lahat ŋ tao atbansa sa lajuniŋ aŋ bawat tao at bawat dʒalamaj ŋ lipunan na ladʒiŋ nasaisip aŋ pahajadʒ na ito aj madʒsikap sa pamamadʒitan ŋ padʒtutuo atedukasjon na maitadʒujod aŋ padʒdʒalaŋ sa mdʒa kaapatan at kalajaaŋ ito atsa pamamadʒitan ŋ mdʒa hakbaŋ na padʒsuloŋ na pambansa at pandaidʒdidʒ ajmakamtan aŋ paŋkalahatan at mabisaŋ padʒkilala at padʒtalima sa mdʒa itomadʒiŋ ŋ mdʒa mamamajan ŋ mdʒa kasapiŋ ɛstado at ŋ mdʒa mamamajanŋ mdʒa teitɔːjo na nasa ilalim ŋ kanilaŋ nasasakupan
-fil_0029	atikulo
-fil_0030	aŋ lahat ŋ taoj isinilaŋ na malaja at pantajpantaj sa kaaŋalan at mdʒakaapatan
-fil_0031	silaj pinadʒkalɔːoban ŋ katwian at budhi at dapat madʒpaladʒajanaŋ isat isa sa diwa ŋ padʒkakapatian
-fil_0032	atikulo
-fil_0033	aŋ bawat taoj kaapatdapat sa lahat ŋ kaapatan at kalajaaŋ nakalahad sa
-fil_0034	pahajadʒ na ito naŋ walaŋ ano maŋ ui ŋ padʒtataŋi dʒaja ŋ lahi kulajkasaian wika elihijon kuɔːkuoŋ pampulitika ɔː iba pa pinadʒmulaŋ bansa olipunan aiaian kapaŋanakan ɔː iba paŋ katajuan
-fil_0035	bukod dito walaŋ padʒtataŋiŋ dʒadʒawin bataj sa katajuaŋ pampulitikahuisdiksijunal ɔː pandaidʒdidʒ na kaladʒajan ŋ bansa ɔː teitɔːjoŋ kinabibilaŋanŋ isaŋ tao madʒiŋ ito aj nadʒsasaili itinitiwala dinakapamamahala sa saili onasa ilalim ŋ ano maŋ katakdaan ŋ sobeanja
-fil_0036	atikulo
-fil_0037	aŋ bawat taoj maj kaapatan sa buhaj kalajaan at kapanatadʒan ŋ saili
-fil_0038	atikulo
-fil_0039	walaŋ sino maŋ aalipinin ɔː bubusabusin
-fil_0040	ipadʒbabawal aŋ ano maŋ anjo ŋpaŋaalipin at aŋ paŋaŋalakal ŋ alipin
-fil_0041	atikulo
-fil_0042	walaŋ sino maŋ pahihiapan ɔː lalapatan ŋ malupitdimakatao ɔː nakalalait napakikituŋo sa pausa
-fil_0043	atikulo
-fil_0044	aŋ bawat taoj maj kaapataŋ kilalanin saan maŋ dako bilaŋ isaŋ tao sahaap ŋ batas
-fil_0045	atikulo
-fil_0046	aŋ lahat aj pantajpantaj sa haap ŋ batas at maj kaapatan sa walaŋpadʒtataŋi ŋ paŋaŋaladʒa ŋ batas
-fil_0047	aŋ lahat aj maj kaapatan sa pantaj napaŋaŋaladʒa laban sa ano maŋ padʒtataŋitaŋiŋ nalalabadʒ sa pahajadʒ naito at laban sa ano maŋ padʒbubujo sa dʒajoŋ padʒtataŋitaŋi
-fil_0048	atikulo
-fil_0049	aŋ bawat taoj maj kaapatan sa mabisaŋ lunas ŋ kaampataŋ mdʒahukumaŋ pambansa tuŋkol sa mdʒa dʒawaŋ lumalabadʒ sa paŋunahiŋ mdʒakaapatan na ipinadʒkalɔːob sa kanja ŋ salidʒaŋ batas ɔː ŋ batas
-fil_0050	atikulo
-fil_0051	walaŋ sino maŋ ipaiilalim sa dimakatwiaŋ padʒdakip padʒpidʒil ɔːpadʒpapatapon
-fil_0052	atikulo
-fil_0053	aŋ bawat taoj maj kaapatan sa dʒanap na padʒkakapantajpantaj sa isaŋmakatauŋan at hajadʒ na padʒlilitis ŋ isaŋ hukumaŋ malaja at walaŋkinikiliŋan sa padʒpapasija ŋ kanjaŋ mdʒa kaapatan at panaŋutan at sa anomaŋ paataŋ na kiminal laban sa kanja
-fil_0054	atikulo
-fil_0055	
-fil_0056	aŋ bawat taoŋ pinaaataŋan ŋ padʒkakasalaŋ pinauusahan ajmaj kaapataŋ ituiŋ na walaŋsala haŋdʒaŋ dinapatutunajaŋnadʒkasala alinsunod sa batas sa isaŋ hajadʒ na padʒlilitis na ipinadʒkaɔːonnija ŋ lahat ŋ dʒaantijaŋ kailaŋan sa kanjaŋ padʒtataŋdʒol
-fil_0057	
-fil_0058	walaŋ taoŋ itutuiŋ na nadʒkasala ŋ padʒkakasalaŋ pinauusahandahil sa ano maŋ dʒawa ɔː padʒkukulaŋ na hindi isaŋ padʒkakasalaŋpinauusahan sa ilalim ŋ batas pambansa ɔː pandaidʒdidʒ nɔːoŋpanahoŋ dʒinawa ijon
-fil_0059	hindi in ipapataw aŋ pausaŋ laloŋ mabidʒatkajsa naaapat naŋ panahoŋ madʒawa aŋ padʒkakasalaŋpinauusahan
-fil_0060	atikulo
-fil_0061	walaŋ taoŋ isasailalim sa dimakatwiaŋ paŋhihimasok sa kanjaŋpananhimik pamilja tahanan ɔː pakikipadʒsulataŋ ni sa tulidʒsa sa kanjaŋkaaŋalan at mabutiŋ paŋalan
-fil_0062	aŋ bawat taoj maj kaapatan sapaŋaŋaladʒa ŋ batas laban sa dʒajoŋ mdʒa paŋhihimasok ɔː tulidʒsa
-fil_0063	atikulo
-fil_0064	
-fil_0065	aŋ bawat taoj maj kaapatan sa kalajaan ŋ padʒkilos at paniniahan salɔːob ŋ mdʒa haŋdʒahan ŋ bawat estado
-fil_0066	
-fil_0067	aŋ bawat taoj maj kaapataŋ umalis sa alin maŋ bansa pati na sakanjaŋ saili at bumalik sa kanjaŋ bansa
-fil_0068	atikulo
-fil_0069	
-fil_0070	aŋ bawat taoj maj kaapataŋ humanap at madʒtamasa sa ibaŋ bansaŋ padʒpapakupkop laban sa padʒuusidʒ
-fil_0071	
-fil_0072	aŋ kaapataŋ itoj hindi mahihiŋi sa mdʒa padʒuusidʒ na tunaj nanadʒbubuhat sa mdʒa padʒkakasalaŋ dipampulitika ɔː sa mdʒa dʒawaŋnasasaluŋat sa mdʒa lajunin at simulain ŋ mdʒa bansaŋ nadʒkakaisa
-fil_0073	atikulo
-fil_0074	
-fil_0075	aŋ bawat taoj maj kaapatan sa isaŋ padʒkamamamajan
-fil_0076	
-fil_0077	walaŋ sino maŋ aalisan ŋ kanjaŋ padʒkamamamajan ŋ walaŋkatwian ni padʒkakaitan ŋ kaapataŋ madʒpalit ŋ kanjaŋpadʒkamamamajan
-fil_0078	atikulo
-fil_0079	
-fil_0080	aŋ mdʒa lalakit babaeŋ maj sapat na dʒulaŋ aj maj kaapataŋ madʒasawa at madʒpamilja naŋ walaŋ ano maŋ padʒtatakda dahil sa lahibansaŋ kinabibilaŋan ɔː elihijon
-fil_0081	naaapat sila sa pantajpantaj nakaapatan sa padʒaasawa sa panahoŋ maj asawa at padʒpapawalaŋbisa nito
-fil_0082	
-fil_0083	aŋ padʒaasawaj papasukan lamaŋ sa pamamadʒitan ŋ malaja atlubos na padʒsaŋajon ŋ mdʒa nadʒbabalak madʒkapaŋasawahan
-fil_0084	
-fil_0085	aŋ pamilja aj likas at paŋunahiŋ paŋkat sa saŋaj ŋ lipunan atkaapatdapat sa paŋaŋaladʒa ŋ lipunan at ŋ ɛstado
-fil_0086	atikulo
-fil_0087	
-fil_0088	aŋ bawat taoj maj kaapataŋ madʒaŋkin ŋ aiaian naŋ madʒisadʒajon din na kasama ŋ iba
-fil_0089	
-fil_0090	walaŋ sino maŋ aalisan ŋ kanjaŋ aiaian naŋ walaŋ katwian
-fil_0091	atikulo
-fil_0092	aŋ bawat taoj maj kaapatan sa kalajaan ŋ padʒiisip budhi at elihijon
-fil_0093	kasama sa kaapataŋ ito aŋ kalajaaŋ madʒpalit ŋ kanjaŋ elihijon opaniniwala madʒiŋ nadʒiisa ɔː kasama aŋ iba sa pamajanan upaŋ ipakilala aŋkanjaŋ elihijon ɔː paniniwala sa padʒtutuo padʒsasadʒawapadʒsamba atpadʒtalima
-fil_0094	atikulo
-fil_0095	aŋ bawat taoj maj kaapatan sa kalajaan ŋ padʒkukuo at padʒpapahajadʒ
-fil_0096	kasama ŋ kaapataŋ ito aŋ kalajaan at kuukuo naŋ walaŋpaŋhihimasok at humanap tumaŋdʒap at madʒbidʒaj ŋ impɔːmasjon atkaisipan sa pamamadʒitan ŋ alin maŋ paaan ŋ padʒkakalat at walaŋpadʒsasaalaŋalaŋ ŋ mdʒa haŋdʒahan
-fil_0097	atikulo
-fil_0098	
-fil_0099	aŋ bawat taoj maj kaapatan sa kalajaan sa mapajapaŋpadʒpupuloŋ at padʒsasamahan
-fil_0100	
-fil_0101	walaŋ sino maŋ pipilitiŋ sumapi sa isaŋ kapisanan
-fil_0102	atikulo
-fil_0103	
-fil_0104	aŋ bawat taoj maj kaapataŋ makilahok sa pamahalaan ŋ kanjaŋbansa sa tuwian ɔː sa pamamadʒitan ŋ mdʒa kinatawaŋ malajaŋ pinili
-fil_0105	
-fil_0106	aŋ bawat taoj maj kaapatan sa pantaj na padʒpasok sa padʒliliŋkodpambajan ŋ kanjaŋ bansa
-fil_0107	
-fil_0108	aŋ kalɔːoban ŋ bajan aŋ madʒidʒiŋ salidʒan ŋ kapaŋjaihan ŋpamahalaan
-fil_0109	aŋ kalɔːobaŋ itoj ipahahajadʒ sa tunaj na mdʒa halalan sapanapanahon sa pamamadʒitan ŋ paŋkalahatan at pantajpantaj napadʒhahalal at idaaos sa pamamadʒitan ŋ lihim na balota ɔː sa katumbasna pamamaaan ŋ malajaŋ padʒbɔːto
-fil_0110	atikulo
-fil_0111	aŋ bawat tao bilaŋ kasapi ŋ lipunan aj maj kaapatan sa kapanatadʒaŋpanlipunan at naaapat na makinabaŋ sa pamamadʒitan ŋ pambansaŋpadʒsisikap at pakikipadʒtuluŋaŋ pandaidʒdidʒ at alinsunod sa padʒkakabuo at mdʒamapadʒkukunan ŋ bawat ɛstado sa mdʒa kaapataŋ paŋkabuhajanpanlipunan at paŋkalinaŋan na lubhaŋ kailaŋan paa sa kanjaŋkaaŋalan at sa malajaŋ padʒpapaunlad ŋ kanjaŋ padʒkatao
-fil_0112	atikulo
-fil_0113	
-fil_0114	aŋ bawat taoj maj kaapatan sa padʒdʒawa sa malajaŋ padʒpili ŋmapapasukaŋ hanapbuhaj sa makatauŋan at kanaisnais na mdʒakaladʒajan sa padʒdʒawa at sa paŋaŋaladʒa laban sa kawalaŋmapapasukaŋ hanapbuhaj
-fil_0115	
-fil_0116	aŋ bawat taoj maj kaapatan sa kapantaj na bajad ŋ kapantaj nadʒawain naŋ walaŋ ano maŋ padʒtataŋi
-fil_0117	
-fil_0118	aŋ bawat taoŋ dʒumadʒawa aj maj kaapatan sa makatauŋan atnababataj sa kabajaaŋ tumitijak sa kanjaŋ saili at sa kanjaŋpamilja ŋ kabuhajaŋ kaapatdapat sa kaaŋalan ŋ isaŋ tao atpupunan kuŋ kailaŋan ŋ iba paŋ paaan ŋ paŋaŋalaŋaŋpanlipunan
-fil_0119	
-fil_0120	aŋ bawat taoj maj kaapataŋ madʒtatadʒ at umanib sa mdʒa unjon ŋmaŋdʒadʒawa paa sa paŋaŋaladʒa ŋ kanjaŋ mdʒa kapakanan
-fil_0121	atikulo
-fil_0122	aŋ bawat taoj maj kaapatan sa pamamahiŋa at padʒlilibaŋ kasama aŋmdʒa makatwiaŋ padʒtatakda ŋ mdʒa oas ŋ padʒdʒawa at maj sahod sa mdʒapanapanahoŋ pista opisjal
-fil_0123	atikulo
-fil_0124	
-fil_0125	aŋ bawat taoj maj kaapatan sa isaŋ pamantajan ŋ pamumuhaj nasapat paa sa kalusudʒan at kadʒaliŋan ŋ kanjaŋ saili at ŋ kanjaŋpamilja kasama na aŋ padʒkain pananamit paniniahan atpadʒpapadʒamot at kinakailaŋaŋ mdʒa padʒliliŋkod panlipunan at ŋkaapatan sa kapanatadʒan sa panahoŋ walaŋ dʒawain padʒkakasakitpadʒkabalda padʒkabalo katandaan at iba paŋ kakapusan sa ikabubuhajsa mdʒa dimaiiwasaŋ paŋjajai
-fil_0126	
-fil_0127	aŋ padʒkaina at padʒkabata aj naaapat sa taŋiŋ kaliŋa at tuloŋ
-fil_0128	aŋlahat ŋ bata madʒiŋ anak na lehitimo ɔː dilehitimo aj madʒtatamasa ŋdʒajon diŋ paŋaŋaladʒaŋ panlipunan
-fil_0129	atikulo
-fil_0130	
-fil_0131	aŋ bawat taoj maj kaapatan sa edukasjon
-fil_0132	aŋ edukasjon aj walaŋbajad dɔːon man lamaŋ sa elementaja at paŋunahiŋ antas
-fil_0133	aŋedukasjoŋ elementaja aj madʒidʒiŋ sapilitan
-fil_0134	aŋ edukasjoŋ teknikalat pɔːpesjonal aj dʒadʒawiŋ maabot ŋ lahat at aŋ laloŋ mataas naedukasjon aj ipadʒkakalɔːob naŋ pantajpantaj sa lahat bataj sapadʒidʒiŋ kaapatdapat
-fil_0135	
-fil_0136	aŋ edukasjon aj itutuŋo sa dʒanap na padʒpapaunlad ŋ padʒkatao at sapadʒpapalakas ŋ padʒdʒalaŋ sa mdʒa kaapatan ŋ tao at mdʒapaŋunahiŋ kalajaan
-fil_0137	itatadʒujod nito aŋ padʒkakaunawaanpadʒbibidʒajan at padʒkakaibidʒan ŋ lahat ŋ bansa mdʒa paŋkat napanlahi ɔː panelihijon at palawakin aŋ mdʒa dʒawain ŋ mdʒa bansaŋ
-fil_0138	nadʒkakaisa sa ikapapanatili ŋ kapajapaan
-fil_0139	
-fil_0140	aŋ mdʒa madʒulaŋ aj maj paŋunahiŋ kaapataŋ pumili ŋ ui ŋedukasjoŋ ipadʒkalɔːob sa kanilaŋ mdʒa anak
-fil_0141	atikulo
-fil_0142	
-fil_0143	aŋ bawat taoj maj kaapataŋ makilahok naŋ malaja sa buhajpaŋkalinaŋan ŋ pamajanan upaŋ tamasahin aŋ mdʒa siniŋ atmakihati sa mdʒa kaunlaan sa sijensija at sa mdʒa pakinabaŋ dito
-fil_0144	
-fil_0145	aŋ bawat taoj maj kaapatan sa paŋaŋaladʒa ŋ mdʒa kapakanaŋmoal at matejal buŋa ŋ alin maŋ pɔːduksijoŋ paŋadʒhampampanitikan ɔː pansiniŋ na sija aŋ majakda
-fil_0146	atikulo
-fil_0147	aŋ bawat taoj maj kaapatan sa kaajusaŋ panlipunan at pandaidʒdidʒ na aŋmdʒa kaapatan at mdʒa kalajaaŋ itinakda sa pahajadʒ na ito aj dʒanap namaisasakatupaan
-fil_0148	atikulo
-fil_0149	
-fil_0150	aŋ bawat taoj maj mdʒa tuŋkulin sa pamajanan sa ikaaai lamaŋ ŋmalaja at dʒanap na padʒkaunlad ŋ kanjaŋ padʒkatao
-fil_0151	
-fil_0152	sa padʒdʒamit ŋ kanjaŋ mdʒa kaapatan at mdʒa kalajaan aŋ bawattaoj masasaklaw lamaŋ ŋ mdʒa katakdaan dʒaja ŋ ipinapasja ŋ batasŋ taŋiŋ sa lajunin lamaŋ ŋ padʒtatamo ŋ kaukulaŋ padʒkilala atpadʒdʒalaŋ sa mdʒa kaapatan at mdʒa kalajaan ŋ iba at sa padʒtudʒon samakatauŋaŋ kahiliŋan ŋ moalidad kaajusaŋ pambajan at ŋpaŋkalahataŋ kadʒaliŋan sa isaŋ demɔːkatikoŋ lipunan
-fil_0153	
-fil_0154	aŋ mdʒa kaapatan at kalajaaŋ ito aj hindi madʒadʒamit sa ano maŋpaŋjajai naŋ nasasaluŋat sa mdʒa lajunin at mdʒa simulain ŋ mdʒa
-fil_0155	bansaŋ nadʒkakaisa
-fil_0156	atikulo
-fil_0157	walaŋ badʒaj sa pahajadʒ na ito na mapapakahuludʒan aŋ nadʒbibidʒaj sa alinmaŋ ɛstado paŋkat ɔː tao ŋ ano maŋ kaapataŋ dʒumawa ŋ ano maŋkilusan ɔː madʒsadʒawa ŋ ano maŋ hakbaŋ na nadʒlalajoŋ siain aŋnakalahad dito
+human_rights_un_fil_alnl_64kb_0001	nɔːoŋ disjembe aŋ paŋkalahataŋ kapuluŋan ŋ mdʒa bansaŋ
+human_rights_un_fil_alnl_64kb_0002	nadʒkakaisa aj nadʒsadʒawa at nadʒpahajadʒ ŋ pandaidʒdidʒ na pahajadʒ ŋ mdʒa
+human_rights_un_fil_alnl_64kb_0003	kaapatan ŋ tao
+human_rights_un_fil_alnl_64kb_0004	aŋ buoŋ nilalaman nɔːon aj mababasa sa mdʒa susunod napahina
+human_rights_un_fil_alnl_64kb_0005	kasunod ŋ makasajsajaŋ dʒawaiŋ ito aŋ kapuluŋan ajnanawadʒan sa lahat ŋ mdʒa kadʒawad ŋ bansa upaŋ ilathala aŋ nilalaman ŋ
+human_rights_un_fil_alnl_64kb_0006	pahajadʒ at upaŋ itoj paladʒanapin itaŋhal basahin at talakajin laluŋlalona sa mdʒa paaalan at iba paŋ institusjoŋ edukasjonal naŋ walaŋpadʒtataŋi bataj sa kaladʒajaŋ pulitikal ŋ mdʒa bansa ɔː mdʒa teitɔːjo
+human_rights_un_fil_alnl_64kb_0007	
+human_rights_un_fil_alnl_64kb_0008	paŋwakas na tekstoŋ maj pahintulot na salin sa pilipino ŋ katipunan ŋ
+human_rights_un_fil_alnl_64kb_0009	badʒoŋ pilipina
+human_rights_un_fil_alnl_64kb_0010	ipinaabot ŋ punoŋ paŋkaalaman ŋ mdʒa bansaŋ
+human_rights_un_fil_alnl_64kb_0011	nadʒkakaisa paa sa pilipinas aŋ tauspusoŋ pasasalamat sa law kente ŋ
+human_rights_un_fil_alnl_64kb_0012	pamantasan ŋ pilipinas na unaŋ nadʒlimbadʒ ŋ pahajadʒ na ito na salin sa
+human_rights_un_fil_alnl_64kb_0013	pilipino
+human_rights_un_fil_alnl_64kb_0014	ipinalimbadʒ ŋ punoŋ paŋkaalaman ŋ mdʒa bansaŋ nadʒkakaisapaa sa pilipinas at ŋ kadʒawaan ŋ kabatiaŋ paŋmadla ŋ mdʒa bansaŋ
+human_rights_un_fil_alnl_64kb_0015	nadʒkakaisa
+human_rights_un_fil_alnl_64kb_0016	pandaidʒdiɡ na padʒpapahajaɡ nɡ mdʒa kaɾapatan nɡ tao
+human_rights_un_fil_alnl_64kb_0017	panimula
+human_rights_un_fil_alnl_64kb_0018	sapadʒkat aŋ padʒkilala sa katutuboŋ kaaŋalan at sa pantaj at dimaikakaitna mdʒa kaapatan ŋ lahat ŋ nabibilaŋ sa aŋkan ŋ tao aj sijaŋ salidʒan ŋkalajaan katauŋan at kapajapaan sa daidʒdidʒ
+human_rights_un_fil_alnl_64kb_0019	sapadʒkat aŋ padʒwawalaŋbahala at padʒlalapastaŋan sa mdʒa kaapatan ŋtao aj nadʒbuŋa ŋ mdʒa dʒawaŋ dimakatao na humamak sa budhi ŋsaŋkatauhan at aŋ padʒdatal ŋ isaŋ daidʒdidʒ na aŋ mdʒa tao ajmadʒtatamasa ŋ kalajaan sa padʒsasalita at ŋ kalidʒtasan sa paŋamba atpadʒdaalita aj ipinahajadʒ na pinakamataas na mithiin ŋ mdʒa kaaniwaŋ tao
+human_rights_un_fil_alnl_64kb_0020	sapadʒkat mahaladʒa kuŋ aŋ tao aj dipipilitiŋ maŋhawakan bilaŋ huliŋmadʒadʒawa sa padʒhihimadʒsik laban sa paniniil at paŋaapi na aŋ mdʒakaapatan ŋ taoj mapaŋaladʒaan sa pamamadʒitan ŋ padʒhahai ŋ batas
+human_rights_un_fil_alnl_64kb_0021	sapadʒkat mahaladʒaŋ itadʒujod aŋ padʒpapaunlad ŋ mabutiŋ padʒsasamahanŋ mdʒa bansa
+human_rights_un_fil_alnl_64kb_0022	sapadʒkat aŋ mdʒa mamamajan ŋ mdʒa bansaŋ nadʒkakaisa aj nadʒpatibaj sa
+human_rights_un_fil_alnl_64kb_0023	kata ŋ kanilaŋ pananalidʒ sa mdʒa salidʒaŋ kaapatan ŋ tao sa kaaŋalan atkahaladʒahan ŋ padʒkatao at sa pantaj na mdʒa kaapatan ŋ mdʒa lalaki at babaeat nadʒpapasijaŋ itadʒujod aŋ kaunlaaŋ panlipunan at laloŋ mabubutiŋpamantajan ŋ buhaj sa laloŋ malakiŋ kalajaan
+human_rights_un_fil_alnl_64kb_0024	sapadʒkat aŋ mdʒa kasapiŋ ɛstado aj naŋako sa kanilaŋ saili na tamuhin sapakikipadʒtuluŋan sa mdʒa bansaŋ nadʒkakaisa aŋ padʒtatadʒujod ŋpandaidʒdidʒ na padʒdʒalaŋ at padʒtalima sa mdʒa kaapatan ŋ tao at mdʒa salidʒaŋkalajaan
+human_rights_un_fil_alnl_64kb_0025	sapadʒkat lubhaŋ mahaladʒa aŋ padʒkakaunawa ŋ lahat sa mdʒa kaapatan atkalajaaŋ ito at lubhaŋ mahaladʒa sa dʒanap na padʒsasakatupaan ŋ mdʒapaŋakoŋ ito
+human_rights_un_fil_alnl_64kb_0026	ŋajon samakatuwid
+human_rights_un_fil_alnl_64kb_0027	aŋ paŋkalahataŋ kapuluŋanaj nadʒpapahajadʒ ŋ
+human_rights_un_fil_alnl_64kb_0028	pandaidʒdidʒ na padʒpapahajadʒ na itoŋ mdʒa kaapatan ŋ taobilaŋ paŋkalahataŋ pamantajaŋ maisasadʒawa paa sa lahat ŋ tao atbansa sa lajuniŋ aŋ bawat tao at bawat dʒalamaj ŋ lipunan na ladʒiŋ nasaisip aŋ pahajadʒ na ito aj madʒsikap sa pamamadʒitan ŋ padʒtutuo atedukasjon na maitadʒujod aŋ padʒdʒalaŋ sa mdʒa kaapatan at kalajaaŋ ito atsa pamamadʒitan ŋ mdʒa hakbaŋ na padʒsuloŋ na pambansa at pandaidʒdidʒ ajmakamtan aŋ paŋkalahatan at mabisaŋ padʒkilala at padʒtalima sa mdʒa itomadʒiŋ ŋ mdʒa mamamajan ŋ mdʒa kasapiŋ ɛstado at ŋ mdʒa mamamajanŋ mdʒa teitɔːjo na nasa ilalim ŋ kanilaŋ nasasakupan
+human_rights_un_fil_alnl_64kb_0029	atikulo
+human_rights_un_fil_alnl_64kb_0030	aŋ lahat ŋ taoj isinilaŋ na malaja at pantajpantaj sa kaaŋalan at mdʒakaapatan
+human_rights_un_fil_alnl_64kb_0031	silaj pinadʒkalɔːoban ŋ katwian at budhi at dapat madʒpaladʒajanaŋ isat isa sa diwa ŋ padʒkakapatian
+human_rights_un_fil_alnl_64kb_0032	atikulo
+human_rights_un_fil_alnl_64kb_0033	aŋ bawat taoj kaapatdapat sa lahat ŋ kaapatan at kalajaaŋ nakalahad sa
+human_rights_un_fil_alnl_64kb_0034	pahajadʒ na ito naŋ walaŋ ano maŋ ui ŋ padʒtataŋi dʒaja ŋ lahi kulajkasaian wika elihijon kuɔːkuoŋ pampulitika ɔː iba pa pinadʒmulaŋ bansa olipunan aiaian kapaŋanakan ɔː iba paŋ katajuan
+human_rights_un_fil_alnl_64kb_0035	bukod dito walaŋ padʒtataŋiŋ dʒadʒawin bataj sa katajuaŋ pampulitikahuisdiksijunal ɔː pandaidʒdidʒ na kaladʒajan ŋ bansa ɔː teitɔːjoŋ kinabibilaŋanŋ isaŋ tao madʒiŋ ito aj nadʒsasaili itinitiwala dinakapamamahala sa saili onasa ilalim ŋ ano maŋ katakdaan ŋ sobeanja
+human_rights_un_fil_alnl_64kb_0036	atikulo
+human_rights_un_fil_alnl_64kb_0037	aŋ bawat taoj maj kaapatan sa buhaj kalajaan at kapanatadʒan ŋ saili
+human_rights_un_fil_alnl_64kb_0038	atikulo
+human_rights_un_fil_alnl_64kb_0039	walaŋ sino maŋ aalipinin ɔː bubusabusin
+human_rights_un_fil_alnl_64kb_0040	ipadʒbabawal aŋ ano maŋ anjo ŋpaŋaalipin at aŋ paŋaŋalakal ŋ alipin
+human_rights_un_fil_alnl_64kb_0041	atikulo
+human_rights_un_fil_alnl_64kb_0042	walaŋ sino maŋ pahihiapan ɔː lalapatan ŋ malupitdimakatao ɔː nakalalait napakikituŋo sa pausa
+human_rights_un_fil_alnl_64kb_0043	atikulo
+human_rights_un_fil_alnl_64kb_0044	aŋ bawat taoj maj kaapataŋ kilalanin saan maŋ dako bilaŋ isaŋ tao sahaap ŋ batas
+human_rights_un_fil_alnl_64kb_0045	atikulo
+human_rights_un_fil_alnl_64kb_0046	aŋ lahat aj pantajpantaj sa haap ŋ batas at maj kaapatan sa walaŋpadʒtataŋi ŋ paŋaŋaladʒa ŋ batas
+human_rights_un_fil_alnl_64kb_0047	aŋ lahat aj maj kaapatan sa pantaj napaŋaŋaladʒa laban sa ano maŋ padʒtataŋitaŋiŋ nalalabadʒ sa pahajadʒ naito at laban sa ano maŋ padʒbubujo sa dʒajoŋ padʒtataŋitaŋi
+human_rights_un_fil_alnl_64kb_0048	atikulo
+human_rights_un_fil_alnl_64kb_0049	aŋ bawat taoj maj kaapatan sa mabisaŋ lunas ŋ kaampataŋ mdʒahukumaŋ pambansa tuŋkol sa mdʒa dʒawaŋ lumalabadʒ sa paŋunahiŋ mdʒakaapatan na ipinadʒkalɔːob sa kanja ŋ salidʒaŋ batas ɔː ŋ batas
+human_rights_un_fil_alnl_64kb_0050	atikulo
+human_rights_un_fil_alnl_64kb_0051	walaŋ sino maŋ ipaiilalim sa dimakatwiaŋ padʒdakip padʒpidʒil ɔːpadʒpapatapon
+human_rights_un_fil_alnl_64kb_0052	atikulo
+human_rights_un_fil_alnl_64kb_0053	aŋ bawat taoj maj kaapatan sa dʒanap na padʒkakapantajpantaj sa isaŋmakatauŋan at hajadʒ na padʒlilitis ŋ isaŋ hukumaŋ malaja at walaŋkinikiliŋan sa padʒpapasija ŋ kanjaŋ mdʒa kaapatan at panaŋutan at sa anomaŋ paataŋ na kiminal laban sa kanja
+human_rights_un_fil_alnl_64kb_0054	atikulo
+human_rights_un_fil_alnl_64kb_0055	
+human_rights_un_fil_alnl_64kb_0056	aŋ bawat taoŋ pinaaataŋan ŋ padʒkakasalaŋ pinauusahan ajmaj kaapataŋ ituiŋ na walaŋsala haŋdʒaŋ dinapatutunajaŋnadʒkasala alinsunod sa batas sa isaŋ hajadʒ na padʒlilitis na ipinadʒkaɔːonnija ŋ lahat ŋ dʒaantijaŋ kailaŋan sa kanjaŋ padʒtataŋdʒol
+human_rights_un_fil_alnl_64kb_0057	
+human_rights_un_fil_alnl_64kb_0058	walaŋ taoŋ itutuiŋ na nadʒkasala ŋ padʒkakasalaŋ pinauusahandahil sa ano maŋ dʒawa ɔː padʒkukulaŋ na hindi isaŋ padʒkakasalaŋpinauusahan sa ilalim ŋ batas pambansa ɔː pandaidʒdidʒ nɔːoŋpanahoŋ dʒinawa ijon
+human_rights_un_fil_alnl_64kb_0059	hindi in ipapataw aŋ pausaŋ laloŋ mabidʒatkajsa naaapat naŋ panahoŋ madʒawa aŋ padʒkakasalaŋpinauusahan
+human_rights_un_fil_alnl_64kb_0060	atikulo
+human_rights_un_fil_alnl_64kb_0061	walaŋ taoŋ isasailalim sa dimakatwiaŋ paŋhihimasok sa kanjaŋpananhimik pamilja tahanan ɔː pakikipadʒsulataŋ ni sa tulidʒsa sa kanjaŋkaaŋalan at mabutiŋ paŋalan
+human_rights_un_fil_alnl_64kb_0062	aŋ bawat taoj maj kaapatan sapaŋaŋaladʒa ŋ batas laban sa dʒajoŋ mdʒa paŋhihimasok ɔː tulidʒsa
+human_rights_un_fil_alnl_64kb_0063	atikulo
+human_rights_un_fil_alnl_64kb_0064	
+human_rights_un_fil_alnl_64kb_0065	aŋ bawat taoj maj kaapatan sa kalajaan ŋ padʒkilos at paniniahan salɔːob ŋ mdʒa haŋdʒahan ŋ bawat estado
+human_rights_un_fil_alnl_64kb_0066	
+human_rights_un_fil_alnl_64kb_0067	aŋ bawat taoj maj kaapataŋ umalis sa alin maŋ bansa pati na sakanjaŋ saili at bumalik sa kanjaŋ bansa
+human_rights_un_fil_alnl_64kb_0068	atikulo
+human_rights_un_fil_alnl_64kb_0069	
+human_rights_un_fil_alnl_64kb_0070	aŋ bawat taoj maj kaapataŋ humanap at madʒtamasa sa ibaŋ bansaŋ padʒpapakupkop laban sa padʒuusidʒ
+human_rights_un_fil_alnl_64kb_0071	
+human_rights_un_fil_alnl_64kb_0072	aŋ kaapataŋ itoj hindi mahihiŋi sa mdʒa padʒuusidʒ na tunaj nanadʒbubuhat sa mdʒa padʒkakasalaŋ dipampulitika ɔː sa mdʒa dʒawaŋnasasaluŋat sa mdʒa lajunin at simulain ŋ mdʒa bansaŋ nadʒkakaisa
+human_rights_un_fil_alnl_64kb_0073	atikulo
+human_rights_un_fil_alnl_64kb_0074	
+human_rights_un_fil_alnl_64kb_0075	aŋ bawat taoj maj kaapatan sa isaŋ padʒkamamamajan
+human_rights_un_fil_alnl_64kb_0076	
+human_rights_un_fil_alnl_64kb_0077	walaŋ sino maŋ aalisan ŋ kanjaŋ padʒkamamamajan ŋ walaŋkatwian ni padʒkakaitan ŋ kaapataŋ madʒpalit ŋ kanjaŋpadʒkamamamajan
+human_rights_un_fil_alnl_64kb_0078	atikulo
+human_rights_un_fil_alnl_64kb_0079	
+human_rights_un_fil_alnl_64kb_0080	aŋ mdʒa lalakit babaeŋ maj sapat na dʒulaŋ aj maj kaapataŋ madʒasawa at madʒpamilja naŋ walaŋ ano maŋ padʒtatakda dahil sa lahibansaŋ kinabibilaŋan ɔː elihijon
+human_rights_un_fil_alnl_64kb_0081	naaapat sila sa pantajpantaj nakaapatan sa padʒaasawa sa panahoŋ maj asawa at padʒpapawalaŋbisa nito
+human_rights_un_fil_alnl_64kb_0082	
+human_rights_un_fil_alnl_64kb_0083	aŋ padʒaasawaj papasukan lamaŋ sa pamamadʒitan ŋ malaja atlubos na padʒsaŋajon ŋ mdʒa nadʒbabalak madʒkapaŋasawahan
+human_rights_un_fil_alnl_64kb_0084	
+human_rights_un_fil_alnl_64kb_0085	aŋ pamilja aj likas at paŋunahiŋ paŋkat sa saŋaj ŋ lipunan atkaapatdapat sa paŋaŋaladʒa ŋ lipunan at ŋ ɛstado
+human_rights_un_fil_alnl_64kb_0086	atikulo
+human_rights_un_fil_alnl_64kb_0087	
+human_rights_un_fil_alnl_64kb_0088	aŋ bawat taoj maj kaapataŋ madʒaŋkin ŋ aiaian naŋ madʒisadʒajon din na kasama ŋ iba
+human_rights_un_fil_alnl_64kb_0089	
+human_rights_un_fil_alnl_64kb_0090	walaŋ sino maŋ aalisan ŋ kanjaŋ aiaian naŋ walaŋ katwian
+human_rights_un_fil_alnl_64kb_0091	atikulo
+human_rights_un_fil_alnl_64kb_0092	aŋ bawat taoj maj kaapatan sa kalajaan ŋ padʒiisip budhi at elihijon
+human_rights_un_fil_alnl_64kb_0093	kasama sa kaapataŋ ito aŋ kalajaaŋ madʒpalit ŋ kanjaŋ elihijon opaniniwala madʒiŋ nadʒiisa ɔː kasama aŋ iba sa pamajanan upaŋ ipakilala aŋkanjaŋ elihijon ɔː paniniwala sa padʒtutuo padʒsasadʒawapadʒsamba atpadʒtalima
+human_rights_un_fil_alnl_64kb_0094	atikulo
+human_rights_un_fil_alnl_64kb_0095	aŋ bawat taoj maj kaapatan sa kalajaan ŋ padʒkukuo at padʒpapahajadʒ
+human_rights_un_fil_alnl_64kb_0096	kasama ŋ kaapataŋ ito aŋ kalajaan at kuukuo naŋ walaŋpaŋhihimasok at humanap tumaŋdʒap at madʒbidʒaj ŋ impɔːmasjon atkaisipan sa pamamadʒitan ŋ alin maŋ paaan ŋ padʒkakalat at walaŋpadʒsasaalaŋalaŋ ŋ mdʒa haŋdʒahan
+human_rights_un_fil_alnl_64kb_0097	atikulo
+human_rights_un_fil_alnl_64kb_0098	
+human_rights_un_fil_alnl_64kb_0099	aŋ bawat taoj maj kaapatan sa kalajaan sa mapajapaŋpadʒpupuloŋ at padʒsasamahan
+human_rights_un_fil_alnl_64kb_0100	
+human_rights_un_fil_alnl_64kb_0101	walaŋ sino maŋ pipilitiŋ sumapi sa isaŋ kapisanan
+human_rights_un_fil_alnl_64kb_0102	atikulo
+human_rights_un_fil_alnl_64kb_0103	
+human_rights_un_fil_alnl_64kb_0104	aŋ bawat taoj maj kaapataŋ makilahok sa pamahalaan ŋ kanjaŋbansa sa tuwian ɔː sa pamamadʒitan ŋ mdʒa kinatawaŋ malajaŋ pinili
+human_rights_un_fil_alnl_64kb_0105	
+human_rights_un_fil_alnl_64kb_0106	aŋ bawat taoj maj kaapatan sa pantaj na padʒpasok sa padʒliliŋkodpambajan ŋ kanjaŋ bansa
+human_rights_un_fil_alnl_64kb_0107	
+human_rights_un_fil_alnl_64kb_0108	aŋ kalɔːoban ŋ bajan aŋ madʒidʒiŋ salidʒan ŋ kapaŋjaihan ŋpamahalaan
+human_rights_un_fil_alnl_64kb_0109	aŋ kalɔːobaŋ itoj ipahahajadʒ sa tunaj na mdʒa halalan sapanapanahon sa pamamadʒitan ŋ paŋkalahatan at pantajpantaj napadʒhahalal at idaaos sa pamamadʒitan ŋ lihim na balota ɔː sa katumbasna pamamaaan ŋ malajaŋ padʒbɔːto
+human_rights_un_fil_alnl_64kb_0110	atikulo
+human_rights_un_fil_alnl_64kb_0111	aŋ bawat tao bilaŋ kasapi ŋ lipunan aj maj kaapatan sa kapanatadʒaŋpanlipunan at naaapat na makinabaŋ sa pamamadʒitan ŋ pambansaŋpadʒsisikap at pakikipadʒtuluŋaŋ pandaidʒdidʒ at alinsunod sa padʒkakabuo at mdʒamapadʒkukunan ŋ bawat ɛstado sa mdʒa kaapataŋ paŋkabuhajanpanlipunan at paŋkalinaŋan na lubhaŋ kailaŋan paa sa kanjaŋkaaŋalan at sa malajaŋ padʒpapaunlad ŋ kanjaŋ padʒkatao
+human_rights_un_fil_alnl_64kb_0112	atikulo
+human_rights_un_fil_alnl_64kb_0113	
+human_rights_un_fil_alnl_64kb_0114	aŋ bawat taoj maj kaapatan sa padʒdʒawa sa malajaŋ padʒpili ŋmapapasukaŋ hanapbuhaj sa makatauŋan at kanaisnais na mdʒakaladʒajan sa padʒdʒawa at sa paŋaŋaladʒa laban sa kawalaŋmapapasukaŋ hanapbuhaj
+human_rights_un_fil_alnl_64kb_0115	
+human_rights_un_fil_alnl_64kb_0116	aŋ bawat taoj maj kaapatan sa kapantaj na bajad ŋ kapantaj nadʒawain naŋ walaŋ ano maŋ padʒtataŋi
+human_rights_un_fil_alnl_64kb_0117	
+human_rights_un_fil_alnl_64kb_0118	aŋ bawat taoŋ dʒumadʒawa aj maj kaapatan sa makatauŋan atnababataj sa kabajaaŋ tumitijak sa kanjaŋ saili at sa kanjaŋpamilja ŋ kabuhajaŋ kaapatdapat sa kaaŋalan ŋ isaŋ tao atpupunan kuŋ kailaŋan ŋ iba paŋ paaan ŋ paŋaŋalaŋaŋpanlipunan
+human_rights_un_fil_alnl_64kb_0119	
+human_rights_un_fil_alnl_64kb_0120	aŋ bawat taoj maj kaapataŋ madʒtatadʒ at umanib sa mdʒa unjon ŋmaŋdʒadʒawa paa sa paŋaŋaladʒa ŋ kanjaŋ mdʒa kapakanan
+human_rights_un_fil_alnl_64kb_0121	atikulo
+human_rights_un_fil_alnl_64kb_0122	aŋ bawat taoj maj kaapatan sa pamamahiŋa at padʒlilibaŋ kasama aŋmdʒa makatwiaŋ padʒtatakda ŋ mdʒa oas ŋ padʒdʒawa at maj sahod sa mdʒapanapanahoŋ pista opisjal
+human_rights_un_fil_alnl_64kb_0123	atikulo
+human_rights_un_fil_alnl_64kb_0124	
+human_rights_un_fil_alnl_64kb_0125	aŋ bawat taoj maj kaapatan sa isaŋ pamantajan ŋ pamumuhaj nasapat paa sa kalusudʒan at kadʒaliŋan ŋ kanjaŋ saili at ŋ kanjaŋpamilja kasama na aŋ padʒkain pananamit paniniahan atpadʒpapadʒamot at kinakailaŋaŋ mdʒa padʒliliŋkod panlipunan at ŋkaapatan sa kapanatadʒan sa panahoŋ walaŋ dʒawain padʒkakasakitpadʒkabalda padʒkabalo katandaan at iba paŋ kakapusan sa ikabubuhajsa mdʒa dimaiiwasaŋ paŋjajai
+human_rights_un_fil_alnl_64kb_0126	
+human_rights_un_fil_alnl_64kb_0127	aŋ padʒkaina at padʒkabata aj naaapat sa taŋiŋ kaliŋa at tuloŋ
+human_rights_un_fil_alnl_64kb_0128	aŋlahat ŋ bata madʒiŋ anak na lehitimo ɔː dilehitimo aj madʒtatamasa ŋdʒajon diŋ paŋaŋaladʒaŋ panlipunan
+human_rights_un_fil_alnl_64kb_0129	atikulo
+human_rights_un_fil_alnl_64kb_0130	
+human_rights_un_fil_alnl_64kb_0131	aŋ bawat taoj maj kaapatan sa edukasjon
+human_rights_un_fil_alnl_64kb_0132	aŋ edukasjon aj walaŋbajad dɔːon man lamaŋ sa elementaja at paŋunahiŋ antas
+human_rights_un_fil_alnl_64kb_0133	aŋedukasjoŋ elementaja aj madʒidʒiŋ sapilitan
+human_rights_un_fil_alnl_64kb_0134	aŋ edukasjoŋ teknikalat pɔːpesjonal aj dʒadʒawiŋ maabot ŋ lahat at aŋ laloŋ mataas naedukasjon aj ipadʒkakalɔːob naŋ pantajpantaj sa lahat bataj sapadʒidʒiŋ kaapatdapat
+human_rights_un_fil_alnl_64kb_0135	
+human_rights_un_fil_alnl_64kb_0136	aŋ edukasjon aj itutuŋo sa dʒanap na padʒpapaunlad ŋ padʒkatao at sapadʒpapalakas ŋ padʒdʒalaŋ sa mdʒa kaapatan ŋ tao at mdʒapaŋunahiŋ kalajaan
+human_rights_un_fil_alnl_64kb_0137	itatadʒujod nito aŋ padʒkakaunawaanpadʒbibidʒajan at padʒkakaibidʒan ŋ lahat ŋ bansa mdʒa paŋkat napanlahi ɔː panelihijon at palawakin aŋ mdʒa dʒawain ŋ mdʒa bansaŋ
+human_rights_un_fil_alnl_64kb_0138	nadʒkakaisa sa ikapapanatili ŋ kapajapaan
+human_rights_un_fil_alnl_64kb_0139	
+human_rights_un_fil_alnl_64kb_0140	aŋ mdʒa madʒulaŋ aj maj paŋunahiŋ kaapataŋ pumili ŋ ui ŋedukasjoŋ ipadʒkalɔːob sa kanilaŋ mdʒa anak
+human_rights_un_fil_alnl_64kb_0141	atikulo
+human_rights_un_fil_alnl_64kb_0142	
+human_rights_un_fil_alnl_64kb_0143	aŋ bawat taoj maj kaapataŋ makilahok naŋ malaja sa buhajpaŋkalinaŋan ŋ pamajanan upaŋ tamasahin aŋ mdʒa siniŋ atmakihati sa mdʒa kaunlaan sa sijensija at sa mdʒa pakinabaŋ dito
+human_rights_un_fil_alnl_64kb_0144	
+human_rights_un_fil_alnl_64kb_0145	aŋ bawat taoj maj kaapatan sa paŋaŋaladʒa ŋ mdʒa kapakanaŋmoal at matejal buŋa ŋ alin maŋ pɔːduksijoŋ paŋadʒhampampanitikan ɔː pansiniŋ na sija aŋ majakda
+human_rights_un_fil_alnl_64kb_0146	atikulo
+human_rights_un_fil_alnl_64kb_0147	aŋ bawat taoj maj kaapatan sa kaajusaŋ panlipunan at pandaidʒdidʒ na aŋmdʒa kaapatan at mdʒa kalajaaŋ itinakda sa pahajadʒ na ito aj dʒanap namaisasakatupaan
+human_rights_un_fil_alnl_64kb_0148	atikulo
+human_rights_un_fil_alnl_64kb_0149	
+human_rights_un_fil_alnl_64kb_0150	aŋ bawat taoj maj mdʒa tuŋkulin sa pamajanan sa ikaaai lamaŋ ŋmalaja at dʒanap na padʒkaunlad ŋ kanjaŋ padʒkatao
+human_rights_un_fil_alnl_64kb_0151	
+human_rights_un_fil_alnl_64kb_0152	sa padʒdʒamit ŋ kanjaŋ mdʒa kaapatan at mdʒa kalajaan aŋ bawattaoj masasaklaw lamaŋ ŋ mdʒa katakdaan dʒaja ŋ ipinapasja ŋ batasŋ taŋiŋ sa lajunin lamaŋ ŋ padʒtatamo ŋ kaukulaŋ padʒkilala atpadʒdʒalaŋ sa mdʒa kaapatan at mdʒa kalajaan ŋ iba at sa padʒtudʒon samakatauŋaŋ kahiliŋan ŋ moalidad kaajusaŋ pambajan at ŋpaŋkalahataŋ kadʒaliŋan sa isaŋ demɔːkatikoŋ lipunan
+human_rights_un_fil_alnl_64kb_0153	
+human_rights_un_fil_alnl_64kb_0154	aŋ mdʒa kaapatan at kalajaaŋ ito aj hindi madʒadʒamit sa ano maŋpaŋjajai naŋ nasasaluŋat sa mdʒa lajunin at mdʒa simulain ŋ mdʒa
+human_rights_un_fil_alnl_64kb_0155	bansaŋ nadʒkakaisa
+human_rights_un_fil_alnl_64kb_0156	atikulo
+human_rights_un_fil_alnl_64kb_0157	walaŋ badʒaj sa pahajadʒ na ito na mapapakahuludʒan aŋ nadʒbibidʒaj sa alinmaŋ ɛstado paŋkat ɔː tao ŋ ano maŋ kaapataŋ dʒumawa ŋ ano maŋkilusan ɔː madʒsadʒawa ŋ ano maŋ hakbaŋ na nadʒlalajoŋ siain aŋnakalahad dito

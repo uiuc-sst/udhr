@@ -1,144 +1,144 @@
-spa_0001	deklaɾasion uniβeɾsal de deɾecos wmanos
-spa_0002	aðoptaða j pɾoklamaða poɾ la asamblea xeneɾal en su resolusion s a i de
-spa_0003	s de disiembɾe de
-spa_0004	pɾeambulo
-spa_0005	konsiðeɾando ke la liβeɾtað la xustisia j la pas en el mundo tienen poɾ base elrekonosimiento de la digniðað intɾinseka j de los deɾecos iɣwuales e inalienaβlezðe toðos los miembɾos de la familia wmana
-spa_0006	konsiðeɾando ke el deskonosimiento j el menospɾesio de los deɾecoʃwmanos an oɾixinaðo aktos de baɾβaɾie ultɾaxantes paɾa la konsiensia de lawmaniðað
-spa_0007	j ke se a pɾoklamaðo komo la aspiɾasion mas eleβaða delombɾe el aðβenimiento de un mundo en ke los seɾes wmanos liβeɾaðos deltemoɾ j de la miseɾia disfɾuten de la liβeɾtað de palaβɾa j de la liβeɾtað dekɾensias
-spa_0008	konsiðeɾando esensial ke los deɾecos wmanos sean pɾotexiðos poɾ unreximen de deɾeco a fin de ke el ombɾe no se bea kompeliðo al supɾemoɾekuɾso de la reβelion kontɾa la tiɾania j la opɾesion
-spa_0009	konsiðeɾando tambien esensial pɾomoβeɾ el desaroʎo de relasiones amistosasentɾe las nasiones
-spa_0010	konsiðeɾando ke los pueβlos de las nasiones uniðas an reafiɾmaðo en la
-spa_0011	kaɾta su fe en los deɾecos fundamentales del ombɾe en la digniðað j el baloɾðe la peɾsona wmana j en la iɣwualdað de deɾecos de ombɾes j muxeɾes
-spa_0012	j sean deklaɾaðo resueltos a pɾomoβeɾ el pɾogɾeso sosial j a eleβaɾ el niβel de biðaðentɾo de un konsepto mas amplio de la liβeɾtað
-spa_0013	konsiðeɾando ke los estaðos miembɾos se an kompɾometiðo a aseguɾaɾ enkopeɾasion kon la oɾganisasion de las nasiones uniðas el respeto uniβeɾsal jefektiβo a los deɾecos j liβeɾtaðes fundamentales del ombɾe j
-spa_0014	konsiðeɾando ke una konsepsion komun de estos deɾecos j liβeɾtaðes es dela majoɾ impoɾtansia paɾa el pleno kumplimiento de dico kompɾomiso
-spa_0015	la asamblea xeneɾal
-spa_0016	pɾoklama la pɾesente deklaɾasion uniβeɾsal de deɾecos wmanos komo iðealkomun poɾ el ke toðos los pueβlos j nasiones deβen esfoɾsaɾse a fin de ketanto los indiβiðuos komo las institusiones inspiɾandose konstantemente en eʎapɾomueβan meðiante la enseɲansa j la eðukasion el respeto a estos deɾecosj liβeɾtaðes j aseguɾen poɾ meðiðas pɾogɾesiβas de kaɾakteɾ nasional einteɾnasional su rekonosimiento j aplikasion uniβeɾsales j efektiβos tanto entɾelos pueβlos de los estaðos miembɾos komo entɾe los de los teritoɾios kolokaðozβaxo su xuɾizðiksion
-spa_0017	aɾtikulo
-spa_0018	toðos los seɾes wmanos nasen liβɾes e iɣwuales en digniðað j deɾecos jðotaðos komo estan de rason j konsiensia deβen kompoɾtaɾse fɾateɾnalmentelos unos kon los otɾos
-spa_0019	aɾtikulo s
-spa_0020	toða peɾsona tiene los deɾecos j liβeɾtaðes pɾoklamaðos en esta deklaɾasionsin distinsion alguna de rasa koloɾ sekso iðioma relixion opinion politika o dekualkieɾ otɾa indole oɾixen nasional o sosial posision ekonomika nasimiento okualkieɾ otɾa kondision
-spa_0021	aðemas no se aɾa distinsion alguna fundaða en la kondision politika xuɾiðika ointeɾnasional del pais o teritoɾio de kuja xuɾizðiksion dependa una peɾsonatanto si se tɾata de un pais independiente komo de un teritoɾio baxoaðministɾasion fiðusiaɾia no autonomo o sometiðo a kualkieɾ otɾa limitasion desoβeɾania
-spa_0022	aɾtikulo
-spa_0023	toðo indiβiðuo tiene deɾeco a la biða a la liβeɾtað j a la seguɾiðað de supeɾsona
-spa_0024	aɾtikulo
-spa_0025	naðie estaɾa sometiðo a esklaβituð ni a seɾβiðumbɾe
-spa_0026	la esklaβituð j la tɾata desklaβos estan pɾojβiðas en toðas sus foɾmas
-spa_0027	aɾtikulo o
-spa_0028	naðie seɾa sometiðo a toɾtuɾas ni a penas o tɾatos kɾueles inwmanos oðegɾaðantes
-spa_0029	aɾtikulo s
-spa_0030	toðo seɾ wmano tiene deɾeco en toðas paɾtes al rekonosimiento de supeɾsonaliðað xuɾiðika
-spa_0031	aɾtikulo
-spa_0032	toðos son iɣwuales ante la lej j tienen sin distinsion deɾeco a iɣwual pɾoteksionde la lej
-spa_0033	toðos tienen deɾeco a iɣwual pɾoteksion kontɾa toða diskɾiminasion keinfɾinxa esta deklaɾasion j kontɾa toða pɾoβokasion a tal diskɾiminasion
-spa_0034	aɾtikulo
-spa_0035	toða peɾsona tiene deɾeco a un rekuɾso efektiβo ante los tɾiβunales nasionaleskompetentes ke la ampaɾe kontɾa aktos ke biolen sus deɾecosfundamentales rekonosiðos poɾ la konstitusion o poɾ la lej
-spa_0036	aɾtikulo
-spa_0037	naðie poðɾa seɾ aɾβitɾaɾiamente deteniðo pɾeso ni desteraðo
-spa_0038	aɾtikulo s
-spa_0039	toða peɾsona tiene deɾeco en kondisiones de plena iɣwualdað a seɾ oiðapuβlikamente j kon xustisia poɾ un tɾiβunal independiente e impaɾsial paɾa laðeteɾminasion de sus deɾecos j oβligasiones o paɾa el eksamen de kualkieɾakusasion kontɾa eʎa en mateɾia penal
-spa_0040	aɾtikulo s
-spa_0041	s
-spa_0042	toða peɾsona akusaða de delito tiene deɾeco a ke se pɾesuma suinosensia mientɾas no se pɾueβe su kulpaβiliðað konfoɾme a la lej j enxuisio puβliko en el ke se le ajan aseguɾaðo toðas las gaɾantiasnesesaɾias paɾa su defensa
-spa_0043	ss
-spa_0044	naðie seɾa kondenaðo poɾ aktos u omisiones ke en el momento dekometeɾse no fueɾon deliktiβos segun el deɾeco nasional o inteɾnasional
-spa_0045	tampoko se impondɾa pena mas gɾaβe ke la aplikaβle en el momento dela komision del delito
-spa_0046	aɾtikulo s
-spa_0047	naðie seɾa oβxeto de inxeɾensias aɾβitɾaɾias en su biða pɾiβaða su familia suðomisilio o su korespondensia ni de atakes a su onra o a su reputasion
-spa_0048	toða peɾsona tiene deɾeco a la pɾoteksion de la lej kontɾa tales inxeɾensias oatakes
-spa_0049	aɾtikulo
-spa_0050	s
-spa_0051	toða peɾsona tiene deɾeco a siɾkulaɾ liβɾemente j a elexiɾ su resiðensiaen el teritoɾio de un estaðo
-spa_0052	ss
-spa_0053	toða peɾsona tiene deɾeco a saliɾ de kualkieɾ pais inkluso el pɾopio ja regɾesaɾ a su pais
-spa_0054	aɾtikulo s
-spa_0055	s
-spa_0056	en kaso de peɾsekusion toða peɾsona tiene deɾeco a buskaɾ asilo j aðisfɾutaɾ de el en kualkieɾ pais
-spa_0057	ss
-spa_0058	este deɾeco no poðɾa seɾ inbokaðo kontɾa una aksion xuðisial realmenteoɾixinaða poɾ delitos komunes o poɾ aktos opuestos a los pɾopositos jpɾinsipios de las nasiones uniðas
-spa_0059	aɾtikulo s
-spa_0060	s
-spa_0061	toða peɾsona tiene deɾeco a una nasionaliðað
-spa_0062	ss
-spa_0063	a naðie se pɾiβaɾa aɾβitɾaɾiamente de su nasionaliðað ni del deɾeco akambiaɾ de nasionaliðað
-spa_0064	aɾtikulo s
-spa_0065	s
-spa_0066	los ombɾes j las muxeɾes a paɾtiɾ de la eðað nuβil tienen deɾeco sinɾestɾiksion alguna poɾ motiβos de rasa nasionaliðað o relixion a kasaɾsej fundaɾ una familia
-spa_0067	j disfɾutaɾan de iɣwuales deɾecos en kuanto almatɾimonio duɾante el matɾimonio j en kaso de disolusion del matɾimonio
-spa_0068	ss
-spa_0069	solo meðiante liβɾe j pleno konsentimiento de los futuɾos esposos poðɾakontɾaeɾse el matɾimonio
-spa_0070	s
-spa_0071	la familia es el elemento natuɾal j fundamental de la sosieðað j tieneðeɾeco a la pɾoteksion de la sosieðað j del estaðo
-spa_0072	aɾtikulo
-spa_0073	s
-spa_0074	toða peɾsona tiene deɾeco a la pɾopieðað indiβiðual j kolektiβamente
-spa_0075	ss
-spa_0076	naðie seɾa pɾiβaðo aɾβitɾaɾiamente de su pɾopieðað
-spa_0077	aɾtikulo k
-spa_0078	toða peɾsona tiene deɾeco a la liβeɾtað de pensamiento de konsiensia j deɾelixion
-spa_0079	este deɾeco inkluje la liβeɾtað de kambiaɾ de relixion o de kɾensia asikomo la liβeɾtað de manifestaɾ su relixion o su kɾensia indiβiðual jkolektiβamente tanto en puβliko komo en pɾiβaðo poɾ la enseɲansa la pɾaktikael kulto j la oβseɾβansia
-spa_0080	aɾtikulo
-spa_0081	toðo indiβiðuo tiene deɾeco a la liβeɾtað de opinion j de ekspɾesion
-spa_0082	esteðeɾeco inkluje el no seɾ molestaðo a kausa de sus opiniones el de inbestigaɾ jɾesiβiɾ infoɾmasiones j opiniones j el de difundiɾlas sin limitasion de fɾonteɾaspoɾ kualkieɾ meðio de ekspɾesion
-spa_0083	aɾtikulo i
-spa_0084	s
-spa_0085	toða peɾsona tiene deɾeco a la liβeɾtað de reunion j de asosiasionpasifikas
-spa_0086	ss
-spa_0087	naðie poðɾa seɾ oβligaðo a peɾteneseɾ a una asosiasion
-spa_0088	aɾtikulo s
-spa_0089	s
-spa_0090	toða peɾsona tiene deɾeco a paɾtisipaɾ en el goβieɾno de su paisðiɾektamente o poɾ meðio de repɾesentantes liβɾemente eskoxiðos
-spa_0091	ss
-spa_0092	toða peɾsona tiene el deɾeco de akseso en kondisiones de iɣwualdað alas funsiones puβlikas de su pais
-spa_0093	s
-spa_0094	la boluntað del pueβlo es la base de la autoɾiðað del poðeɾ puβliko
-spa_0095	estaβoluntað se ekspɾesaɾa meðiante eleksiones autentikas ke aβɾan deseleβɾaɾse peɾioðikamente poɾ sufɾaxio uniβeɾsal e iɣwual j poɾ botosekɾeto u otɾo pɾoseðimiento ekiβalente ke gaɾantise la liβeɾtað delβoto
-spa_0096	aɾtikulo s
-spa_0097	toða peɾsona komo miembɾo de la sosieðað tiene deɾeco a la seguɾiðaðsosial j a oβteneɾ meðiante el esfueɾso nasional j la kopeɾasion inteɾnasionalaβiða kuenta de la oɾganisasion j los rekuɾsos de kaða estaðo la satisfaksionde los deɾecos ekonomikos sosiales j kultuɾales indispensaβles a su digniðaðj al liβɾe desaroʎo de su peɾsonaliðað
-spa_0098	aɾtikulo s
-spa_0099	s
-spa_0100	toða peɾsona tiene deɾeco al tɾaβaxo a la liβɾe eleksion de su tɾaβaxo akondisiones ekitatiβas j satisfaktoɾias de tɾaβaxo j a la pɾoteksion kontɾael desempleo
-spa_0101	ss
-spa_0102	toða peɾsona tiene deɾeco sin diskɾiminasio n alguna a iɣwual salaɾio poɾtɾaβaxo iɣwual
-spa_0103	s
-spa_0104	toða peɾsona ke tɾaβaxa tiene deɾeco a una remuneɾasion ekitatiβa jsatisfaktoɾia ke le aseguɾe asi komo a su familia una eksistensiakonfoɾme a la digniðað wmana j ke seɾa kompletaða en kasonesesaɾio poɾ kualeskieɾa otɾos meðios de pɾoteksion sosial
-spa_0105	s
-spa_0106	toða peɾsona tiene deɾeco a fundaɾ sindikatos j a sindikaɾse paɾa laðefensa de sus inteɾeses
-spa_0107	aɾtikulo s
-spa_0108	toða peɾsona tiene deɾeco al deskanso al disfɾute del tiempo liβɾe a unalimitasion rasonaβle de la duɾasion del tɾaβaxo j a bakasiones peɾioðikaspagaðs
-spa_0109	aɾtikulo so
-spa_0110	s
-spa_0111	toða peɾsona tiene deɾeco a un niβel de biða aðekuaðo ke le aseguɾeasi komo a su familia la saluð j el bienestaɾ j en espesial lalimentasion el bestiðo la biβienda la asistensia meðika j los seɾβisiososiales nesesaɾios
-spa_0112	tiene asimizmo deɾeco a los seguɾos en kaso deðesempleo enfeɾmeðað inbaliðej biuðej bexes j otɾos kasos de peɾðiðaðe sus meðios de suβsistensia poɾ siɾkunstansias independientes de suβoluntað
-spa_0113	ss
-spa_0114	la mateɾniðað j la infansia tienen deɾeco a kuiðaðos j asistensiaespesiales
-spa_0115	toðos los niɲos nasiðos de matɾimonio o fueɾa dematɾimonio tienen deɾeco a iɣwual pɾoteksion sosial
-spa_0116	aɾtikulo ss
-spa_0117	s
-spa_0118	toða peɾsona tiene deɾeco a la eðukasion
-spa_0119	la eðukasion deβe seɾgɾatuita al menos en lo konseɾniente a la instɾuksion elemental jfundamental
-spa_0120	la instɾuksion elemental seɾa oβligatoɾia
-spa_0121	la instɾuksionteknika j pɾofesional aβɾa de seɾ xeneɾalisaða
-spa_0122	el akseso a los estuðiossupeɾioɾes seɾa iɣwual paɾa toðos en funsion de los meɾitos respektiβos
-spa_0123	ss
-spa_0124	la eðukasion tendɾa poɾ oβxeto el pleno desaroʎo de la peɾsonaliðaðwmana j el foɾtalesimiento del respeto a los deɾecos wmanos j a lazliβeɾtaðes fundamentales
-spa_0125	faβoɾeseɾa la kompɾension la toleɾansia j lamistað entɾe toðas las nasiones j toðos los gɾupos etnikos o relixiosos
-spa_0126	jpɾomoβeɾa el desaroʎo de las aktiβiðaðes de las nasiones uniðas paɾa elmantenimiento de la pas
-spa_0127	s
-spa_0128	los paðɾes tendɾan deɾeco pɾefeɾente a eskoxeɾ el tipo de eðukasionke aβɾa de daɾse a sus jxos
-spa_0129	aɾtikulo s
-spa_0130	s
-spa_0131	toða peɾsona tiene deɾeco a tomaɾ paɾte liβɾemente en la biða kultuɾalde la komuniðað a gosaɾ de las aɾtes j a paɾtisipaɾ en el pɾogɾesosientifiko j en los benefisios ke de el resulten
-spa_0132	ss
-spa_0133	toða peɾsona tiene deɾeco a la pɾoteksion de los inteɾeses moɾales jmateɾiales ke le korespondan poɾ rason de las pɾoðuksiones sientifikasliteɾaɾias o aɾtistikas de ke sea autoɾa
-spa_0134	aɾtikulo s
-spa_0135	toða peɾsona tiene deɾeco a ke se estaβleska un oɾðen sosial e inteɾnasionalen el ke los deɾecos j liβeɾtaðes pɾoklamaðos en esta deklaɾasion se aganplenamente efektiβos
-spa_0136	aɾtikulo s
-spa_0137	s
-spa_0138	toða peɾsona tiene deβeɾes respekto a la komuniðað puesto ke solo eneʎa pueðe desaroʎaɾ liβɾe j plenamente su peɾsonaliðað
-spa_0139	ss
-spa_0140	en el exeɾsisio de sus deɾecos j en el disfɾute de sus liβeɾtaðes toðapeɾsona estaɾa solamente suxeta a las limitasiones estaβlesiðas poɾ la lejkon el uniko fin de aseguɾaɾ el rekonosimiento j el respeto de lozðeɾecos j liβeɾtaðes de los demas j de satisfaseɾ las xustas eksixensiazðe la moɾal del oɾðen puβliko j del bienestaɾ xeneɾal en una sosieðaðemokɾatika
-spa_0141	s
-spa_0142	estos deɾecos j liβeɾtaðes no poðɾan en ningun kaso seɾ exeɾsiðos enoposision a los pɾopositos j pɾinsipios de las nasiones uniðas
-spa_0143	aɾtikulo
-spa_0144	naða en la pɾesente deklaɾasion poðɾa inteɾpɾetaɾse en el sentiðo de kekonfieɾe deɾeco alguno al estaðo a un gɾupo o a una peɾsona paɾa empɾendeɾj desaroʎaɾ aktiβiðaðes o realisaɾ aktos tendientes a la supɾesion de kualkieɾaðe los deɾecos j liβeɾtaðes pɾoklamaðos en esta deklaɾasion
+human_rights_un_spa_mr_64kb_0001	deklaɾasion uniβeɾsal de deɾecos wmanos
+human_rights_un_spa_mr_64kb_0002	aðoptaða j pɾoklamaða poɾ la asamblea xeneɾal en su resolusion s a i de
+human_rights_un_spa_mr_64kb_0003	s de disiembɾe de
+human_rights_un_spa_mr_64kb_0004	pɾeambulo
+human_rights_un_spa_mr_64kb_0005	konsiðeɾando ke la liβeɾtað la xustisia j la pas en el mundo tienen poɾ base elrekonosimiento de la digniðað intɾinseka j de los deɾecos iɣwuales e inalienaβlezðe toðos los miembɾos de la familia wmana
+human_rights_un_spa_mr_64kb_0006	konsiðeɾando ke el deskonosimiento j el menospɾesio de los deɾecoʃwmanos an oɾixinaðo aktos de baɾβaɾie ultɾaxantes paɾa la konsiensia de lawmaniðað
+human_rights_un_spa_mr_64kb_0007	j ke se a pɾoklamaðo komo la aspiɾasion mas eleβaða delombɾe el aðβenimiento de un mundo en ke los seɾes wmanos liβeɾaðos deltemoɾ j de la miseɾia disfɾuten de la liβeɾtað de palaβɾa j de la liβeɾtað dekɾensias
+human_rights_un_spa_mr_64kb_0008	konsiðeɾando esensial ke los deɾecos wmanos sean pɾotexiðos poɾ unreximen de deɾeco a fin de ke el ombɾe no se bea kompeliðo al supɾemoɾekuɾso de la reβelion kontɾa la tiɾania j la opɾesion
+human_rights_un_spa_mr_64kb_0009	konsiðeɾando tambien esensial pɾomoβeɾ el desaroʎo de relasiones amistosasentɾe las nasiones
+human_rights_un_spa_mr_64kb_0010	konsiðeɾando ke los pueβlos de las nasiones uniðas an reafiɾmaðo en la
+human_rights_un_spa_mr_64kb_0011	kaɾta su fe en los deɾecos fundamentales del ombɾe en la digniðað j el baloɾðe la peɾsona wmana j en la iɣwualdað de deɾecos de ombɾes j muxeɾes
+human_rights_un_spa_mr_64kb_0012	j sean deklaɾaðo resueltos a pɾomoβeɾ el pɾogɾeso sosial j a eleβaɾ el niβel de biðaðentɾo de un konsepto mas amplio de la liβeɾtað
+human_rights_un_spa_mr_64kb_0013	konsiðeɾando ke los estaðos miembɾos se an kompɾometiðo a aseguɾaɾ enkopeɾasion kon la oɾganisasion de las nasiones uniðas el respeto uniβeɾsal jefektiβo a los deɾecos j liβeɾtaðes fundamentales del ombɾe j
+human_rights_un_spa_mr_64kb_0014	konsiðeɾando ke una konsepsion komun de estos deɾecos j liβeɾtaðes es dela majoɾ impoɾtansia paɾa el pleno kumplimiento de dico kompɾomiso
+human_rights_un_spa_mr_64kb_0015	la asamblea xeneɾal
+human_rights_un_spa_mr_64kb_0016	pɾoklama la pɾesente deklaɾasion uniβeɾsal de deɾecos wmanos komo iðealkomun poɾ el ke toðos los pueβlos j nasiones deβen esfoɾsaɾse a fin de ketanto los indiβiðuos komo las institusiones inspiɾandose konstantemente en eʎapɾomueβan meðiante la enseɲansa j la eðukasion el respeto a estos deɾecosj liβeɾtaðes j aseguɾen poɾ meðiðas pɾogɾesiβas de kaɾakteɾ nasional einteɾnasional su rekonosimiento j aplikasion uniβeɾsales j efektiβos tanto entɾelos pueβlos de los estaðos miembɾos komo entɾe los de los teritoɾios kolokaðozβaxo su xuɾizðiksion
+human_rights_un_spa_mr_64kb_0017	aɾtikulo
+human_rights_un_spa_mr_64kb_0018	toðos los seɾes wmanos nasen liβɾes e iɣwuales en digniðað j deɾecos jðotaðos komo estan de rason j konsiensia deβen kompoɾtaɾse fɾateɾnalmentelos unos kon los otɾos
+human_rights_un_spa_mr_64kb_0019	aɾtikulo s
+human_rights_un_spa_mr_64kb_0020	toða peɾsona tiene los deɾecos j liβeɾtaðes pɾoklamaðos en esta deklaɾasionsin distinsion alguna de rasa koloɾ sekso iðioma relixion opinion politika o dekualkieɾ otɾa indole oɾixen nasional o sosial posision ekonomika nasimiento okualkieɾ otɾa kondision
+human_rights_un_spa_mr_64kb_0021	aðemas no se aɾa distinsion alguna fundaða en la kondision politika xuɾiðika ointeɾnasional del pais o teritoɾio de kuja xuɾizðiksion dependa una peɾsonatanto si se tɾata de un pais independiente komo de un teritoɾio baxoaðministɾasion fiðusiaɾia no autonomo o sometiðo a kualkieɾ otɾa limitasion desoβeɾania
+human_rights_un_spa_mr_64kb_0022	aɾtikulo
+human_rights_un_spa_mr_64kb_0023	toðo indiβiðuo tiene deɾeco a la biða a la liβeɾtað j a la seguɾiðað de supeɾsona
+human_rights_un_spa_mr_64kb_0024	aɾtikulo
+human_rights_un_spa_mr_64kb_0025	naðie estaɾa sometiðo a esklaβituð ni a seɾβiðumbɾe
+human_rights_un_spa_mr_64kb_0026	la esklaβituð j la tɾata desklaβos estan pɾojβiðas en toðas sus foɾmas
+human_rights_un_spa_mr_64kb_0027	aɾtikulo o
+human_rights_un_spa_mr_64kb_0028	naðie seɾa sometiðo a toɾtuɾas ni a penas o tɾatos kɾueles inwmanos oðegɾaðantes
+human_rights_un_spa_mr_64kb_0029	aɾtikulo s
+human_rights_un_spa_mr_64kb_0030	toðo seɾ wmano tiene deɾeco en toðas paɾtes al rekonosimiento de supeɾsonaliðað xuɾiðika
+human_rights_un_spa_mr_64kb_0031	aɾtikulo
+human_rights_un_spa_mr_64kb_0032	toðos son iɣwuales ante la lej j tienen sin distinsion deɾeco a iɣwual pɾoteksionde la lej
+human_rights_un_spa_mr_64kb_0033	toðos tienen deɾeco a iɣwual pɾoteksion kontɾa toða diskɾiminasion keinfɾinxa esta deklaɾasion j kontɾa toða pɾoβokasion a tal diskɾiminasion
+human_rights_un_spa_mr_64kb_0034	aɾtikulo
+human_rights_un_spa_mr_64kb_0035	toða peɾsona tiene deɾeco a un rekuɾso efektiβo ante los tɾiβunales nasionaleskompetentes ke la ampaɾe kontɾa aktos ke biolen sus deɾecosfundamentales rekonosiðos poɾ la konstitusion o poɾ la lej
+human_rights_un_spa_mr_64kb_0036	aɾtikulo
+human_rights_un_spa_mr_64kb_0037	naðie poðɾa seɾ aɾβitɾaɾiamente deteniðo pɾeso ni desteraðo
+human_rights_un_spa_mr_64kb_0038	aɾtikulo s
+human_rights_un_spa_mr_64kb_0039	toða peɾsona tiene deɾeco en kondisiones de plena iɣwualdað a seɾ oiðapuβlikamente j kon xustisia poɾ un tɾiβunal independiente e impaɾsial paɾa laðeteɾminasion de sus deɾecos j oβligasiones o paɾa el eksamen de kualkieɾakusasion kontɾa eʎa en mateɾia penal
+human_rights_un_spa_mr_64kb_0040	aɾtikulo s
+human_rights_un_spa_mr_64kb_0041	s
+human_rights_un_spa_mr_64kb_0042	toða peɾsona akusaða de delito tiene deɾeco a ke se pɾesuma suinosensia mientɾas no se pɾueβe su kulpaβiliðað konfoɾme a la lej j enxuisio puβliko en el ke se le ajan aseguɾaðo toðas las gaɾantiasnesesaɾias paɾa su defensa
+human_rights_un_spa_mr_64kb_0043	ss
+human_rights_un_spa_mr_64kb_0044	naðie seɾa kondenaðo poɾ aktos u omisiones ke en el momento dekometeɾse no fueɾon deliktiβos segun el deɾeco nasional o inteɾnasional
+human_rights_un_spa_mr_64kb_0045	tampoko se impondɾa pena mas gɾaβe ke la aplikaβle en el momento dela komision del delito
+human_rights_un_spa_mr_64kb_0046	aɾtikulo s
+human_rights_un_spa_mr_64kb_0047	naðie seɾa oβxeto de inxeɾensias aɾβitɾaɾias en su biða pɾiβaða su familia suðomisilio o su korespondensia ni de atakes a su onra o a su reputasion
+human_rights_un_spa_mr_64kb_0048	toða peɾsona tiene deɾeco a la pɾoteksion de la lej kontɾa tales inxeɾensias oatakes
+human_rights_un_spa_mr_64kb_0049	aɾtikulo
+human_rights_un_spa_mr_64kb_0050	s
+human_rights_un_spa_mr_64kb_0051	toða peɾsona tiene deɾeco a siɾkulaɾ liβɾemente j a elexiɾ su resiðensiaen el teritoɾio de un estaðo
+human_rights_un_spa_mr_64kb_0052	ss
+human_rights_un_spa_mr_64kb_0053	toða peɾsona tiene deɾeco a saliɾ de kualkieɾ pais inkluso el pɾopio ja regɾesaɾ a su pais
+human_rights_un_spa_mr_64kb_0054	aɾtikulo s
+human_rights_un_spa_mr_64kb_0055	s
+human_rights_un_spa_mr_64kb_0056	en kaso de peɾsekusion toða peɾsona tiene deɾeco a buskaɾ asilo j aðisfɾutaɾ de el en kualkieɾ pais
+human_rights_un_spa_mr_64kb_0057	ss
+human_rights_un_spa_mr_64kb_0058	este deɾeco no poðɾa seɾ inbokaðo kontɾa una aksion xuðisial realmenteoɾixinaða poɾ delitos komunes o poɾ aktos opuestos a los pɾopositos jpɾinsipios de las nasiones uniðas
+human_rights_un_spa_mr_64kb_0059	aɾtikulo s
+human_rights_un_spa_mr_64kb_0060	s
+human_rights_un_spa_mr_64kb_0061	toða peɾsona tiene deɾeco a una nasionaliðað
+human_rights_un_spa_mr_64kb_0062	ss
+human_rights_un_spa_mr_64kb_0063	a naðie se pɾiβaɾa aɾβitɾaɾiamente de su nasionaliðað ni del deɾeco akambiaɾ de nasionaliðað
+human_rights_un_spa_mr_64kb_0064	aɾtikulo s
+human_rights_un_spa_mr_64kb_0065	s
+human_rights_un_spa_mr_64kb_0066	los ombɾes j las muxeɾes a paɾtiɾ de la eðað nuβil tienen deɾeco sinɾestɾiksion alguna poɾ motiβos de rasa nasionaliðað o relixion a kasaɾsej fundaɾ una familia
+human_rights_un_spa_mr_64kb_0067	j disfɾutaɾan de iɣwuales deɾecos en kuanto almatɾimonio duɾante el matɾimonio j en kaso de disolusion del matɾimonio
+human_rights_un_spa_mr_64kb_0068	ss
+human_rights_un_spa_mr_64kb_0069	solo meðiante liβɾe j pleno konsentimiento de los futuɾos esposos poðɾakontɾaeɾse el matɾimonio
+human_rights_un_spa_mr_64kb_0070	s
+human_rights_un_spa_mr_64kb_0071	la familia es el elemento natuɾal j fundamental de la sosieðað j tieneðeɾeco a la pɾoteksion de la sosieðað j del estaðo
+human_rights_un_spa_mr_64kb_0072	aɾtikulo
+human_rights_un_spa_mr_64kb_0073	s
+human_rights_un_spa_mr_64kb_0074	toða peɾsona tiene deɾeco a la pɾopieðað indiβiðual j kolektiβamente
+human_rights_un_spa_mr_64kb_0075	ss
+human_rights_un_spa_mr_64kb_0076	naðie seɾa pɾiβaðo aɾβitɾaɾiamente de su pɾopieðað
+human_rights_un_spa_mr_64kb_0077	aɾtikulo k
+human_rights_un_spa_mr_64kb_0078	toða peɾsona tiene deɾeco a la liβeɾtað de pensamiento de konsiensia j deɾelixion
+human_rights_un_spa_mr_64kb_0079	este deɾeco inkluje la liβeɾtað de kambiaɾ de relixion o de kɾensia asikomo la liβeɾtað de manifestaɾ su relixion o su kɾensia indiβiðual jkolektiβamente tanto en puβliko komo en pɾiβaðo poɾ la enseɲansa la pɾaktikael kulto j la oβseɾβansia
+human_rights_un_spa_mr_64kb_0080	aɾtikulo
+human_rights_un_spa_mr_64kb_0081	toðo indiβiðuo tiene deɾeco a la liβeɾtað de opinion j de ekspɾesion
+human_rights_un_spa_mr_64kb_0082	esteðeɾeco inkluje el no seɾ molestaðo a kausa de sus opiniones el de inbestigaɾ jɾesiβiɾ infoɾmasiones j opiniones j el de difundiɾlas sin limitasion de fɾonteɾaspoɾ kualkieɾ meðio de ekspɾesion
+human_rights_un_spa_mr_64kb_0083	aɾtikulo i
+human_rights_un_spa_mr_64kb_0084	s
+human_rights_un_spa_mr_64kb_0085	toða peɾsona tiene deɾeco a la liβeɾtað de reunion j de asosiasionpasifikas
+human_rights_un_spa_mr_64kb_0086	ss
+human_rights_un_spa_mr_64kb_0087	naðie poðɾa seɾ oβligaðo a peɾteneseɾ a una asosiasion
+human_rights_un_spa_mr_64kb_0088	aɾtikulo s
+human_rights_un_spa_mr_64kb_0089	s
+human_rights_un_spa_mr_64kb_0090	toða peɾsona tiene deɾeco a paɾtisipaɾ en el goβieɾno de su paisðiɾektamente o poɾ meðio de repɾesentantes liβɾemente eskoxiðos
+human_rights_un_spa_mr_64kb_0091	ss
+human_rights_un_spa_mr_64kb_0092	toða peɾsona tiene el deɾeco de akseso en kondisiones de iɣwualdað alas funsiones puβlikas de su pais
+human_rights_un_spa_mr_64kb_0093	s
+human_rights_un_spa_mr_64kb_0094	la boluntað del pueβlo es la base de la autoɾiðað del poðeɾ puβliko
+human_rights_un_spa_mr_64kb_0095	estaβoluntað se ekspɾesaɾa meðiante eleksiones autentikas ke aβɾan deseleβɾaɾse peɾioðikamente poɾ sufɾaxio uniβeɾsal e iɣwual j poɾ botosekɾeto u otɾo pɾoseðimiento ekiβalente ke gaɾantise la liβeɾtað delβoto
+human_rights_un_spa_mr_64kb_0096	aɾtikulo s
+human_rights_un_spa_mr_64kb_0097	toða peɾsona komo miembɾo de la sosieðað tiene deɾeco a la seguɾiðaðsosial j a oβteneɾ meðiante el esfueɾso nasional j la kopeɾasion inteɾnasionalaβiða kuenta de la oɾganisasion j los rekuɾsos de kaða estaðo la satisfaksionde los deɾecos ekonomikos sosiales j kultuɾales indispensaβles a su digniðaðj al liβɾe desaroʎo de su peɾsonaliðað
+human_rights_un_spa_mr_64kb_0098	aɾtikulo s
+human_rights_un_spa_mr_64kb_0099	s
+human_rights_un_spa_mr_64kb_0100	toða peɾsona tiene deɾeco al tɾaβaxo a la liβɾe eleksion de su tɾaβaxo akondisiones ekitatiβas j satisfaktoɾias de tɾaβaxo j a la pɾoteksion kontɾael desempleo
+human_rights_un_spa_mr_64kb_0101	ss
+human_rights_un_spa_mr_64kb_0102	toða peɾsona tiene deɾeco sin diskɾiminasio n alguna a iɣwual salaɾio poɾtɾaβaxo iɣwual
+human_rights_un_spa_mr_64kb_0103	s
+human_rights_un_spa_mr_64kb_0104	toða peɾsona ke tɾaβaxa tiene deɾeco a una remuneɾasion ekitatiβa jsatisfaktoɾia ke le aseguɾe asi komo a su familia una eksistensiakonfoɾme a la digniðað wmana j ke seɾa kompletaða en kasonesesaɾio poɾ kualeskieɾa otɾos meðios de pɾoteksion sosial
+human_rights_un_spa_mr_64kb_0105	s
+human_rights_un_spa_mr_64kb_0106	toða peɾsona tiene deɾeco a fundaɾ sindikatos j a sindikaɾse paɾa laðefensa de sus inteɾeses
+human_rights_un_spa_mr_64kb_0107	aɾtikulo s
+human_rights_un_spa_mr_64kb_0108	toða peɾsona tiene deɾeco al deskanso al disfɾute del tiempo liβɾe a unalimitasion rasonaβle de la duɾasion del tɾaβaxo j a bakasiones peɾioðikaspagaðs
+human_rights_un_spa_mr_64kb_0109	aɾtikulo so
+human_rights_un_spa_mr_64kb_0110	s
+human_rights_un_spa_mr_64kb_0111	toða peɾsona tiene deɾeco a un niβel de biða aðekuaðo ke le aseguɾeasi komo a su familia la saluð j el bienestaɾ j en espesial lalimentasion el bestiðo la biβienda la asistensia meðika j los seɾβisiososiales nesesaɾios
+human_rights_un_spa_mr_64kb_0112	tiene asimizmo deɾeco a los seguɾos en kaso deðesempleo enfeɾmeðað inbaliðej biuðej bexes j otɾos kasos de peɾðiðaðe sus meðios de suβsistensia poɾ siɾkunstansias independientes de suβoluntað
+human_rights_un_spa_mr_64kb_0113	ss
+human_rights_un_spa_mr_64kb_0114	la mateɾniðað j la infansia tienen deɾeco a kuiðaðos j asistensiaespesiales
+human_rights_un_spa_mr_64kb_0115	toðos los niɲos nasiðos de matɾimonio o fueɾa dematɾimonio tienen deɾeco a iɣwual pɾoteksion sosial
+human_rights_un_spa_mr_64kb_0116	aɾtikulo ss
+human_rights_un_spa_mr_64kb_0117	s
+human_rights_un_spa_mr_64kb_0118	toða peɾsona tiene deɾeco a la eðukasion
+human_rights_un_spa_mr_64kb_0119	la eðukasion deβe seɾgɾatuita al menos en lo konseɾniente a la instɾuksion elemental jfundamental
+human_rights_un_spa_mr_64kb_0120	la instɾuksion elemental seɾa oβligatoɾia
+human_rights_un_spa_mr_64kb_0121	la instɾuksionteknika j pɾofesional aβɾa de seɾ xeneɾalisaða
+human_rights_un_spa_mr_64kb_0122	el akseso a los estuðiossupeɾioɾes seɾa iɣwual paɾa toðos en funsion de los meɾitos respektiβos
+human_rights_un_spa_mr_64kb_0123	ss
+human_rights_un_spa_mr_64kb_0124	la eðukasion tendɾa poɾ oβxeto el pleno desaroʎo de la peɾsonaliðaðwmana j el foɾtalesimiento del respeto a los deɾecos wmanos j a lazliβeɾtaðes fundamentales
+human_rights_un_spa_mr_64kb_0125	faβoɾeseɾa la kompɾension la toleɾansia j lamistað entɾe toðas las nasiones j toðos los gɾupos etnikos o relixiosos
+human_rights_un_spa_mr_64kb_0126	jpɾomoβeɾa el desaroʎo de las aktiβiðaðes de las nasiones uniðas paɾa elmantenimiento de la pas
+human_rights_un_spa_mr_64kb_0127	s
+human_rights_un_spa_mr_64kb_0128	los paðɾes tendɾan deɾeco pɾefeɾente a eskoxeɾ el tipo de eðukasionke aβɾa de daɾse a sus jxos
+human_rights_un_spa_mr_64kb_0129	aɾtikulo s
+human_rights_un_spa_mr_64kb_0130	s
+human_rights_un_spa_mr_64kb_0131	toða peɾsona tiene deɾeco a tomaɾ paɾte liβɾemente en la biða kultuɾalde la komuniðað a gosaɾ de las aɾtes j a paɾtisipaɾ en el pɾogɾesosientifiko j en los benefisios ke de el resulten
+human_rights_un_spa_mr_64kb_0132	ss
+human_rights_un_spa_mr_64kb_0133	toða peɾsona tiene deɾeco a la pɾoteksion de los inteɾeses moɾales jmateɾiales ke le korespondan poɾ rason de las pɾoðuksiones sientifikasliteɾaɾias o aɾtistikas de ke sea autoɾa
+human_rights_un_spa_mr_64kb_0134	aɾtikulo s
+human_rights_un_spa_mr_64kb_0135	toða peɾsona tiene deɾeco a ke se estaβleska un oɾðen sosial e inteɾnasionalen el ke los deɾecos j liβeɾtaðes pɾoklamaðos en esta deklaɾasion se aganplenamente efektiβos
+human_rights_un_spa_mr_64kb_0136	aɾtikulo s
+human_rights_un_spa_mr_64kb_0137	s
+human_rights_un_spa_mr_64kb_0138	toða peɾsona tiene deβeɾes respekto a la komuniðað puesto ke solo eneʎa pueðe desaroʎaɾ liβɾe j plenamente su peɾsonaliðað
+human_rights_un_spa_mr_64kb_0139	ss
+human_rights_un_spa_mr_64kb_0140	en el exeɾsisio de sus deɾecos j en el disfɾute de sus liβeɾtaðes toðapeɾsona estaɾa solamente suxeta a las limitasiones estaβlesiðas poɾ la lejkon el uniko fin de aseguɾaɾ el rekonosimiento j el respeto de lozðeɾecos j liβeɾtaðes de los demas j de satisfaseɾ las xustas eksixensiazðe la moɾal del oɾðen puβliko j del bienestaɾ xeneɾal en una sosieðaðemokɾatika
+human_rights_un_spa_mr_64kb_0141	s
+human_rights_un_spa_mr_64kb_0142	estos deɾecos j liβeɾtaðes no poðɾan en ningun kaso seɾ exeɾsiðos enoposision a los pɾopositos j pɾinsipios de las nasiones uniðas
+human_rights_un_spa_mr_64kb_0143	aɾtikulo
+human_rights_un_spa_mr_64kb_0144	naða en la pɾesente deklaɾasion poðɾa inteɾpɾetaɾse en el sentiðo de kekonfieɾe deɾeco alguno al estaðo a un gɾupo o a una peɾsona paɾa empɾendeɾj desaroʎaɾ aktiβiðaðes o realisaɾ aktos tendientes a la supɾesion de kualkieɾaðe los deɾecos j liβeɾtaðes pɾoklamaðos en esta deklaɾasion

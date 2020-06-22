@@ -1,143 +1,143 @@
-fry_0001	Universele ferklearring fan de rjochten fan de minske
-fry_0002	Universele ferklearring fan de rjochten fan de minske, proklamearre op 10desimber 1948 troch de Algemiene Gearkomste fan ’e Feriene Naasjes.
-fry_0003	Pree-ambule
-fry_0004	Yn betinken nommen dat it erkennen fan de ynherinte weardichheid en fan degelikense en ûnferfrjemdbere rjochten fan alle leden fan de minskemienskipgrûnslach is foar de frijheid, rjochtfeardigens en frede yn ’e wrâld;
-fry_0005	Yn betinken nommen dat it oan ’e kant skowen en lytsachtsjen fan ’e rjochten fan
-fry_0006	’e minske laat hawwe ta barbaarske dieden, dy’t it gewisse fan it minskdornfaksearre hawwe en dat de komst fan in wrâld dêr’t minsken frijheid fanmieningsutering en leauwe barre mei, en hja frij wêze sille fan eangst en ferlet,ferkundige is as it heechste ideaal fan elk minske;
-fry_0007	Yn betinken nommen dat it fan it grutste belang is dat de rjochten fan de minskebeskerme wurde, troch de suppremaasje fan it rjocht, dat de minske net twongenwurde mei om yn lêste ynstânsje syn taflecht te nimmen ta opstân tsjin tyrannyen ûnderdrukking;
-fry_0008	Yn betinken nommen dat it fan it grutste belang is de ûntjouwing fan freonskiplikebetrekkings tusken de naasjes fuort te sterkjen;
-fry_0009	Yn betinken nommen dat de folken fan ’e Feriene Naasjes yn it Hânfest harbetrouwen yn ’e fûnemintele rjochten fan ’e minske, yn de weardichheid en dewearde fan ’e minske en yn de gelikense rjochten fan manlju en froulju op ’e nijbefestige hawwe, en besletten hawwe sosjale foarútgong en in hegerelibbensstandert yn grutter frijheid te befoarderjen;
-fry_0010	Yn betinken nommen dat de steaten, dy’t lid binne fan ’e Feriene Naasjesplechtich tasein hawwe om yn gearwurking mei de organisaasjes fan ’e Feriene
-fry_0011	Naasjes, rûnom de earbied foar en it ynachtnimmen fan ’e rjochten fan ’e minskeen de fûnemintele frijheid te befoarderjen;
-fry_0012	Yn betinken nommen dat it fan it grutste belang is foar it folslein útfieren fan dyoerienkomst dat elkenien in goed begryp hat fan dy rjochten en frijheden;
-fry_0013	Dêrom proklamearret de Algemiene Gearkomste dizze Universele Ferklearringfan de Rjochten fan de Minske as it mienskiplik troch alle folken en naasjes teberikken ideaal, mei it doel dat elk yndividu en elk orgaan fan ’e mienskip meidizze Ferklearring hieltyd foar eagen, der nei stribje sil om troch ûnderwiis enopfieding de earbied foar dy rjochten en frijheden te befoarderjen en trochfoarútstribjende maatregels, nasjonaal en ynternasjonaal, dy rjochten algemienen echt erkenne en tapasse te litten, likegoed ûnder de folken fan steaten dy’t lidfan ’e Feriene Naasjes binne, as ûnder de folken fan gebieten ûnder harjurisdiksje:
-fry_0014	Kêst 1
-fry_0015	Alle minsken wurde frij en gelyk yn weardigens en rjochten berne.
-fry_0016	Hja hawweferstân en gewisse meikrigen en hearre har foar inoar oer yn in geast fanbruorskip te hâlden en te dragen.
-fry_0017	Kêst 2
-fry_0018	Elk hat oanspraak op alle rjochten en frijheden yn dizze Ferklearring opneamd,sûnder hokker ûnderskie ek mar lykas ras, kleur, slachte, taal, godstsjinst,politike of oare oertsjûging, nasjonaal of maatskiplik komôf, eigendom, berte ofoare status.
-fry_0019	Fierder sil gjin ûnderskie makke wurde nei politike, juridyske of ynternasjonalestatus fan it lân of gebiet, dêr’t immen ta heart, likefolle as it om in ûnôfhinklik,trust- of net selsbestjoerend gebiet giet of as der in oare beheining fan ’esûvereiniteit bestiet.
-fry_0020	Kêst 3
-fry_0021	Elk hat rjocht op libben, frijheid en ûnskeinberens fan syn persoan.
-fry_0022	Kêst 4
-fry_0023	Nimmen sil yn slavemij of hearrigens hâlden wurde.
-fry_0024	Slavernij en slavehannel ynelke foarm binne ferbean.
-fry_0025	Kêst 5
-fry_0026	Nimmen sil ûnderwurpen wurde oan folteringen, noch oan in wrede, ûnminslikeof ûntearjende behanneling of bestraffing.
-fry_0027	Kêst 6
-fry_0028	Elk hat, wêr’t er ek is, it rjocht om as persoan erkend te wurden foar de wet.
-fry_0029	Kêst 7
-fry_0030	Elkenien is gelyk foar de wet en hat sûnder ûnderskied oanspraak op gelikensebeskerming troch de wet.
-fry_0031	Elk hat rjocht op gelikense beskerming tsjin elkeefterstelling yn striid mei dizze Ferklearring en tsjin elke oantrún ta sa’nefterstelling.
-fry_0032	Kêst 8
-fry_0033	Elk hat rjocht op doeltreffende rjochtshelp fan foechhawwende nasjonalerjochtlike ynstânsjes tsjin hanlingen dy’t yn striid binne mei de grûnrjochten himtakend by grûnwet of wet.
-fry_0034	Kêst 9
-fry_0035	Nimmen sil ûnderwurpen wurde oan eigenwillige arrestaasje, detinsje offerbanning.
-fry_0036	Kêst 10
-fry_0037	Elk foar oar hat rjocht op in earlike en iepenbiere behanling fan syn saak troch inûnôfhinklike en ûnpartidige rjochtlike ynstânsje by it fêststellen fan syn rjochtenen ferplichtings en by it bepalen fan it grûndearre wêzen fan in tsjin him ynsteldestrafferfolging.
-fry_0038	Kêst 11
-fry_0039	1.
-fry_0040	Elk dy’t foar in strafber feit ferfolge wurdt, hat der rjocht op om foarûnskuldich hâlden te wurden oant syn skuld út krêft fan ’e wet bewiisdwurdt yn in iepenbiere terjochtsitting dêr’t him alle waarboargen, nedichfoar syn ferdigening, by takend binne.
-fry_0041	2.
-fry_0042	Nimmen sil foar skuldich hâlden wurde oan hokfoar strafrjochtlik fergrypek op grûn fan hokker hanling of fersom ek dat neffens nasjonaal ofynternasjonaal rjocht gjin strafrjochtlik fergryp betsjutte op it stuit dat dyhanling of dat fersom begien waard.
-fry_0043	Likemin sil in swierdere straf opleinwurde as de straf dy’t fan tapassing wie op it stuit dat it strafbere feitbegien waard.
-fry_0044	Kêst 12
-fry_0045	Nimmen sil ûnderwurpen wurde oan oarmans eigenwillich ynmingen yn synpersoanlike oangelegenheden, yn syn húshâlding, syn thús of syn briefwiksel,noch ien of oare oantaasting fan syn eare of goede namme.
-fry_0046	Elk hat rjocht opbeskerming troch de wet tsjin sok ymningen of oantaasten.
-fry_0047	Kêst 13
-fry_0048	1.
-fry_0049	Elk hat it rjocht om him frij te ferpleatsen en te ferbliuwen binnen degrinzen fan elke steat.
-fry_0050	2.
-fry_0051	Elk hat it rjocht om elk lân, syn eigen ynbegrepen, te ferlitten en yn syn lânwerom te kommen.
-fry_0052	Kêst 14
-fry_0053	1.
-fry_0054	Elk hat it rjocht om yn oare lannen asyl te freegjen en te hawwen tsjinferfolging.
-fry_0055	2.
-fry_0056	Op dat rjocht kin gjin berop dien wurde yn gefal fan strafferfolgingsfanwegen misdriuwen fan net-politike aard of hanlings yn striid mei dedoelen en begjinsels fan ’e Feriene Naasjes.
-fry_0057	Kêst 15
-fry_0058	1.
-fry_0059	Elk hat rjocht op in nasjonaliteit.
-fry_0060	2.
-fry_0061	Nimmen mei eigenwillich syn nasjonaliteit ûntnommen wurde, noch itrjocht ûntsein wurde fan nasjonaliteit te feroarjen.
-fry_0062	Kêst 16
-fry_0063	1.
-fry_0064	Sûnder ien of oare beheining op grûn fan ras, nasjonaliteit of godstsjinsthawwe manlju en froulju as se de jierren dêrta hawwe it rjocht om tetrouwen en in gesin te stichtsjen.
-fry_0065	Hja hawwe gelikense rjochten wattrouwen oanbelanget, yn har trouwen en by de ûntbining dêrfan.
-fry_0066	2.
-fry_0067	In houlik kin allinne sletten wurde mei de frije en folsleine tastimming fanelk syn oare helte.
-fry_0068	3.
-fry_0069	lt gesin is de natuerlike en fûnemintele groepsienheid fan ’e maatskippij enhat rjocht op beskerming troch de maatskippij en de steat.
-fry_0070	Kêst 17
-fry_0071	1.
-fry_0072	Elk hat rjocht op eigendom, itsij allinne, itsij yn ’e mande mei oaren.
-fry_0073	2.
-fry_0074	Nimmen mei samar fan syn eigendom berôve wurde.
-fry_0075	Kêst 18
-fry_0076	Elk hat rjocht op frijheid fan tinken, gewisse en godstsjinst;
-fry_0077	dat rjocht hâldt teffensde frijheid yn om fan godstsjinst of oertsjûging te feroarjen, en de frijheid om òfallinne òf yn ’e mande mei oaren sawol yn it iepenbier as yn it partikuliere libben,foar syn godstsjinst of oertsjûging út te kommen troch dy te ûnderwizen, troch itpraktysk tapassen, troch earetsjinst en it ûnderhâlden fan geboaden enfoarskriften.
-fry_0078	Kêst 19
-fry_0079	Elk hat rjocht op frijheid fan miening en mieningsutering.
-fry_0080	Dat rjocht hâldt defrijheid yn om sûnder ynminging in miening te hawwen en om troch alle middelsen sûnder grinzen acht te slaan, ynljochtings en tinkbylden op te spoaren, teûntfangen en troch te jaan.
-fry_0081	Kêst 20
-fry_0082	1.
-fry_0083	Elk hat rjocht op frijheid fan freedsume feriening en gearkomste.
-fry_0084	2.
-fry_0085	Nimmen mei twongen wurde om by in feriening te hearren.
-fry_0086	Kêst 21
-fry_0087	1.
-fry_0088	Elk hat it rjocht om diel te nimmen oan it bestjoer fan syn lân, streekrjochtof troch frij keazen fertsjintwurdigers.
-fry_0089	2.
-fry_0090	Elk hat it rjocht om op foet fan gelikensens talitten te wurden ta deoerheidstsjinsten fan syn lân.
-fry_0091	3.
-fry_0092	De wil fan it folk sil de grûnslach wêze fan it gesach fan it regear;
-fry_0093	dy wil silta utering komme yn periodike en earlike ferkiezings dy’t hâlden wurdesille út krêft fan algemien en lykweardich kiesrjocht en by geheimestimmings of neffens in proseduere dy’t krektlikegoed boarch stiet foar defrijheid fan stimmen.
-fry_0094	Kêst 22
-fry_0095	Elk hat as lid fan ’e mienskip rjocht op maatskiplike wissigens en hat deroanspraak op dat troch nasjonale ynspanning en ynternasjonale gearwurking, enyn oerienstimming mei de organisaasje en de helpboarnen fan ’eoanbelangjende steat, de ekonomyske, sosjale en kulturele rjochten dy ’tûnmisber binne foar syn weardichheid en foar it frij ûntploaien fan synpersoanlikheid, ferwêzentlike wurde.
-fry_0096	Kêst 23
-fry_0097	1.
-fry_0098	Elk hat rjocht op wurk, op frije kar fan berop, op rjochtrnjittige en geunstigearbeids-betingsten en op beskerming tsjin wurkleazens.
-fry_0099	2.
-fry_0100	Elk hat, sûnder ien of oare benefterstelling, rjocht op itselde lean foaritselde wurk.
-fry_0101	3.
-fry_0102	Elk dy’t wurk docht, hat rjocht op in rjochtfeardige en geunstige beleanningdy’t him en syn húshâlding in minskweardich bestean mooglik makket;
-fry_0103	dybeleanning sil sa nedich mei oare middels fan sosjale beskerming oanfollewurde.
-fry_0104	4.
-fry_0105	Elk hat it rjocht om fakferienings op te rjochtsjen en him dêr by oan tesluten om syn belangen te beskermjen.
-fry_0106	Kêst 24
-fry_0107	Elk hat rjocht op rêst en frije tiid, mei ynbegryp fan in ridlike beheining fan ’earbeidstiid en periodike fakânsjes mei behâld fan lean.
-fry_0108	Kêst 25
-fry_0109	1.
-fry_0110	Elk hat rjocht op in libbensstandert dy’t heech genôch is foar de sûnens enit wolwêzen fan himsels en syn húshâlding, dêrûnder begrepen iten,klean, húsfesting en medyske fersoarging en needsaaklike sosjaletsjinsten en rjocht op foarsjenning yn gefal fan wurkleazens, sykte,ynvaliditeit, ferstjerren fan ’e oare helte, âlderdom of in oar gemis oanbesteansmiddels troch omstannichheden bûten syn wil.
-fry_0111	2.
-fry_0112	Mern en bern hawwe rjocht op bysûndere soarch en bystân.
-fry_0113	Alle bern, alof net wetlik, sille ûnder deselde sosjale beskerming falle.
-fry_0114	Kêst 26
-fry_0115	1.
-fry_0116	Elk hat rjocht op ûnderwiis;
-fry_0117	it ûnderwiis sil fergees wêze, teminsten wat itleger en basisûnderwiis oanbelanget.
-fry_0118	It leger ûnderwiis sil ferplichte wêze.
-fry_0119	Beropsûnderwiis en beropsoplieding sille algemien beskikber steld wurde.
-fry_0120	Heger ûnderwiis sil lykop iepenstean foar elk, dy’t dêr de kapasiteiten foarhat.
-fry_0121	2.
-fry_0122	It ûnderwiis sil rjochte wêze op it folút ûntwikkeljen fan ’e minsklikepersoanlikheid en op it fersterkjen fan ’e earbied foar de rjochten fan ’eminske en de fûnemintele frijheden.
-fry_0123	lt sil it begryp, de ferdraachsumens ende freonskip ûnder alle naasjes, rassen of godstsjinstige groepenbefoarderje en it sil it wurk fan ’e Feriene Naasjes foar it hanthavenjen fan
-fry_0124	’e frede stypje.
-fry_0125	3.
-fry_0126	Oan de âlden komt yn it foarste plak it rjocht ta de soarte fan opfieding enûnderwiis te kiezen dy’t harren bern jûn wurde sil.
-fry_0127	Kêst 27
-fry_0128	1.
-fry_0129	Elk hat it rjocht yn alle frijens diel te nimmen oan it kulturele libben fan ’emienskip, te genietsjen fan keunst en diel te hawwen oan wittenskiplikefoarútgong en de fruchten dêrfan.
-fry_0130	2.
-fry_0131	Elk hat rjocht op ’e beskerming fan geastlike en materiële belangen dy’tfuortkomme út in wittenskiplik, letterkundich of artistyk wurk dat erfuortbrocht hat.
-fry_0132	Kêst 28
-fry_0133	Elk hat rjocht op it bestean fan sa’n maatskiplike en ynternasjonale oarder, dat derjochten en frijheden neamd yn dizze ferklearring, dêr folslein yn ferwêzentlikewurde kinne.
-fry_0134	Kêst 29
-fry_0135	1.
-fry_0136	Elk hat plichten foar de mienskip oer;
-fry_0137	allinne dêr is de frije en folsleineûntploaiïng fan syn persoanlikheid yn mooglik.
-fry_0138	2.
-fry_0139	Yn it útoefenjen fan syn rjochten en frijheden sil elk allinne marûnderwurpen wêze oan dy beheinings dy’t by de wet fêststeld binne enwol inkeld en allinne foar de ûnmisbere erkenning en earbiediging fan ’erjochten en frijheden fan oaren en om te foldwaan oan de rjochtfeardigeeasken fan ’e moraliteit, iepenbiere oarder en it algemien wolwêzen yn indemokratyske mienskip.
-fry_0140	3.
-fry_0141	Dy rjochten en frijheden meie yn gjin gefal útoefene wurde yn striid mei dedoelen en begjinsels fan ’e Feriene Naasjes.
-fry_0142	Kêst 30
-fry_0143	Gjin bepaling yn dizze ferklearring sil sa útlein wurde meie, dat hokker steat,groep of persoan dan ek dêr ek mar ien of oar rjocht oan ûntliene kin om eat teûndernimmen of hanlingen fan hokker aard ek te ferrjochtsjen dy’t it ferneatigjenfan ien fan ’e rjochten en frijheden neamd yn dizze ferklearring, ta doel hawwe.
+human_rights_un_fri_sn_64kb_0001	Universele ferklearring fan de rjochten fan de minske
+human_rights_un_fri_sn_64kb_0002	Universele ferklearring fan de rjochten fan de minske, proklamearre op 10desimber 1948 troch de Algemiene Gearkomste fan ’e Feriene Naasjes.
+human_rights_un_fri_sn_64kb_0003	Pree-ambule
+human_rights_un_fri_sn_64kb_0004	Yn betinken nommen dat it erkennen fan de ynherinte weardichheid en fan degelikense en ûnferfrjemdbere rjochten fan alle leden fan de minskemienskipgrûnslach is foar de frijheid, rjochtfeardigens en frede yn ’e wrâld;
+human_rights_un_fri_sn_64kb_0005	Yn betinken nommen dat it oan ’e kant skowen en lytsachtsjen fan ’e rjochten fan
+human_rights_un_fri_sn_64kb_0006	’e minske laat hawwe ta barbaarske dieden, dy’t it gewisse fan it minskdornfaksearre hawwe en dat de komst fan in wrâld dêr’t minsken frijheid fanmieningsutering en leauwe barre mei, en hja frij wêze sille fan eangst en ferlet,ferkundige is as it heechste ideaal fan elk minske;
+human_rights_un_fri_sn_64kb_0007	Yn betinken nommen dat it fan it grutste belang is dat de rjochten fan de minskebeskerme wurde, troch de suppremaasje fan it rjocht, dat de minske net twongenwurde mei om yn lêste ynstânsje syn taflecht te nimmen ta opstân tsjin tyrannyen ûnderdrukking;
+human_rights_un_fri_sn_64kb_0008	Yn betinken nommen dat it fan it grutste belang is de ûntjouwing fan freonskiplikebetrekkings tusken de naasjes fuort te sterkjen;
+human_rights_un_fri_sn_64kb_0009	Yn betinken nommen dat de folken fan ’e Feriene Naasjes yn it Hânfest harbetrouwen yn ’e fûnemintele rjochten fan ’e minske, yn de weardichheid en dewearde fan ’e minske en yn de gelikense rjochten fan manlju en froulju op ’e nijbefestige hawwe, en besletten hawwe sosjale foarútgong en in hegerelibbensstandert yn grutter frijheid te befoarderjen;
+human_rights_un_fri_sn_64kb_0010	Yn betinken nommen dat de steaten, dy’t lid binne fan ’e Feriene Naasjesplechtich tasein hawwe om yn gearwurking mei de organisaasjes fan ’e Feriene
+human_rights_un_fri_sn_64kb_0011	Naasjes, rûnom de earbied foar en it ynachtnimmen fan ’e rjochten fan ’e minskeen de fûnemintele frijheid te befoarderjen;
+human_rights_un_fri_sn_64kb_0012	Yn betinken nommen dat it fan it grutste belang is foar it folslein útfieren fan dyoerienkomst dat elkenien in goed begryp hat fan dy rjochten en frijheden;
+human_rights_un_fri_sn_64kb_0013	Dêrom proklamearret de Algemiene Gearkomste dizze Universele Ferklearringfan de Rjochten fan de Minske as it mienskiplik troch alle folken en naasjes teberikken ideaal, mei it doel dat elk yndividu en elk orgaan fan ’e mienskip meidizze Ferklearring hieltyd foar eagen, der nei stribje sil om troch ûnderwiis enopfieding de earbied foar dy rjochten en frijheden te befoarderjen en trochfoarútstribjende maatregels, nasjonaal en ynternasjonaal, dy rjochten algemienen echt erkenne en tapasse te litten, likegoed ûnder de folken fan steaten dy’t lidfan ’e Feriene Naasjes binne, as ûnder de folken fan gebieten ûnder harjurisdiksje:
+human_rights_un_fri_sn_64kb_0014	Kêst 1
+human_rights_un_fri_sn_64kb_0015	Alle minsken wurde frij en gelyk yn weardigens en rjochten berne.
+human_rights_un_fri_sn_64kb_0016	Hja hawweferstân en gewisse meikrigen en hearre har foar inoar oer yn in geast fanbruorskip te hâlden en te dragen.
+human_rights_un_fri_sn_64kb_0017	Kêst 2
+human_rights_un_fri_sn_64kb_0018	Elk hat oanspraak op alle rjochten en frijheden yn dizze Ferklearring opneamd,sûnder hokker ûnderskie ek mar lykas ras, kleur, slachte, taal, godstsjinst,politike of oare oertsjûging, nasjonaal of maatskiplik komôf, eigendom, berte ofoare status.
+human_rights_un_fri_sn_64kb_0019	Fierder sil gjin ûnderskie makke wurde nei politike, juridyske of ynternasjonalestatus fan it lân of gebiet, dêr’t immen ta heart, likefolle as it om in ûnôfhinklik,trust- of net selsbestjoerend gebiet giet of as der in oare beheining fan ’esûvereiniteit bestiet.
+human_rights_un_fri_sn_64kb_0020	Kêst 3
+human_rights_un_fri_sn_64kb_0021	Elk hat rjocht op libben, frijheid en ûnskeinberens fan syn persoan.
+human_rights_un_fri_sn_64kb_0022	Kêst 4
+human_rights_un_fri_sn_64kb_0023	Nimmen sil yn slavemij of hearrigens hâlden wurde.
+human_rights_un_fri_sn_64kb_0024	Slavernij en slavehannel ynelke foarm binne ferbean.
+human_rights_un_fri_sn_64kb_0025	Kêst 5
+human_rights_un_fri_sn_64kb_0026	Nimmen sil ûnderwurpen wurde oan folteringen, noch oan in wrede, ûnminslikeof ûntearjende behanneling of bestraffing.
+human_rights_un_fri_sn_64kb_0027	Kêst 6
+human_rights_un_fri_sn_64kb_0028	Elk hat, wêr’t er ek is, it rjocht om as persoan erkend te wurden foar de wet.
+human_rights_un_fri_sn_64kb_0029	Kêst 7
+human_rights_un_fri_sn_64kb_0030	Elkenien is gelyk foar de wet en hat sûnder ûnderskied oanspraak op gelikensebeskerming troch de wet.
+human_rights_un_fri_sn_64kb_0031	Elk hat rjocht op gelikense beskerming tsjin elkeefterstelling yn striid mei dizze Ferklearring en tsjin elke oantrún ta sa’nefterstelling.
+human_rights_un_fri_sn_64kb_0032	Kêst 8
+human_rights_un_fri_sn_64kb_0033	Elk hat rjocht op doeltreffende rjochtshelp fan foechhawwende nasjonalerjochtlike ynstânsjes tsjin hanlingen dy’t yn striid binne mei de grûnrjochten himtakend by grûnwet of wet.
+human_rights_un_fri_sn_64kb_0034	Kêst 9
+human_rights_un_fri_sn_64kb_0035	Nimmen sil ûnderwurpen wurde oan eigenwillige arrestaasje, detinsje offerbanning.
+human_rights_un_fri_sn_64kb_0036	Kêst 10
+human_rights_un_fri_sn_64kb_0037	Elk foar oar hat rjocht op in earlike en iepenbiere behanling fan syn saak troch inûnôfhinklike en ûnpartidige rjochtlike ynstânsje by it fêststellen fan syn rjochtenen ferplichtings en by it bepalen fan it grûndearre wêzen fan in tsjin him ynsteldestrafferfolging.
+human_rights_un_fri_sn_64kb_0038	Kêst 11
+human_rights_un_fri_sn_64kb_0039	1.
+human_rights_un_fri_sn_64kb_0040	Elk dy’t foar in strafber feit ferfolge wurdt, hat der rjocht op om foarûnskuldich hâlden te wurden oant syn skuld út krêft fan ’e wet bewiisdwurdt yn in iepenbiere terjochtsitting dêr’t him alle waarboargen, nedichfoar syn ferdigening, by takend binne.
+human_rights_un_fri_sn_64kb_0041	2.
+human_rights_un_fri_sn_64kb_0042	Nimmen sil foar skuldich hâlden wurde oan hokfoar strafrjochtlik fergrypek op grûn fan hokker hanling of fersom ek dat neffens nasjonaal ofynternasjonaal rjocht gjin strafrjochtlik fergryp betsjutte op it stuit dat dyhanling of dat fersom begien waard.
+human_rights_un_fri_sn_64kb_0043	Likemin sil in swierdere straf opleinwurde as de straf dy’t fan tapassing wie op it stuit dat it strafbere feitbegien waard.
+human_rights_un_fri_sn_64kb_0044	Kêst 12
+human_rights_un_fri_sn_64kb_0045	Nimmen sil ûnderwurpen wurde oan oarmans eigenwillich ynmingen yn synpersoanlike oangelegenheden, yn syn húshâlding, syn thús of syn briefwiksel,noch ien of oare oantaasting fan syn eare of goede namme.
+human_rights_un_fri_sn_64kb_0046	Elk hat rjocht opbeskerming troch de wet tsjin sok ymningen of oantaasten.
+human_rights_un_fri_sn_64kb_0047	Kêst 13
+human_rights_un_fri_sn_64kb_0048	1.
+human_rights_un_fri_sn_64kb_0049	Elk hat it rjocht om him frij te ferpleatsen en te ferbliuwen binnen degrinzen fan elke steat.
+human_rights_un_fri_sn_64kb_0050	2.
+human_rights_un_fri_sn_64kb_0051	Elk hat it rjocht om elk lân, syn eigen ynbegrepen, te ferlitten en yn syn lânwerom te kommen.
+human_rights_un_fri_sn_64kb_0052	Kêst 14
+human_rights_un_fri_sn_64kb_0053	1.
+human_rights_un_fri_sn_64kb_0054	Elk hat it rjocht om yn oare lannen asyl te freegjen en te hawwen tsjinferfolging.
+human_rights_un_fri_sn_64kb_0055	2.
+human_rights_un_fri_sn_64kb_0056	Op dat rjocht kin gjin berop dien wurde yn gefal fan strafferfolgingsfanwegen misdriuwen fan net-politike aard of hanlings yn striid mei dedoelen en begjinsels fan ’e Feriene Naasjes.
+human_rights_un_fri_sn_64kb_0057	Kêst 15
+human_rights_un_fri_sn_64kb_0058	1.
+human_rights_un_fri_sn_64kb_0059	Elk hat rjocht op in nasjonaliteit.
+human_rights_un_fri_sn_64kb_0060	2.
+human_rights_un_fri_sn_64kb_0061	Nimmen mei eigenwillich syn nasjonaliteit ûntnommen wurde, noch itrjocht ûntsein wurde fan nasjonaliteit te feroarjen.
+human_rights_un_fri_sn_64kb_0062	Kêst 16
+human_rights_un_fri_sn_64kb_0063	1.
+human_rights_un_fri_sn_64kb_0064	Sûnder ien of oare beheining op grûn fan ras, nasjonaliteit of godstsjinsthawwe manlju en froulju as se de jierren dêrta hawwe it rjocht om tetrouwen en in gesin te stichtsjen.
+human_rights_un_fri_sn_64kb_0065	Hja hawwe gelikense rjochten wattrouwen oanbelanget, yn har trouwen en by de ûntbining dêrfan.
+human_rights_un_fri_sn_64kb_0066	2.
+human_rights_un_fri_sn_64kb_0067	In houlik kin allinne sletten wurde mei de frije en folsleine tastimming fanelk syn oare helte.
+human_rights_un_fri_sn_64kb_0068	3.
+human_rights_un_fri_sn_64kb_0069	lt gesin is de natuerlike en fûnemintele groepsienheid fan ’e maatskippij enhat rjocht op beskerming troch de maatskippij en de steat.
+human_rights_un_fri_sn_64kb_0070	Kêst 17
+human_rights_un_fri_sn_64kb_0071	1.
+human_rights_un_fri_sn_64kb_0072	Elk hat rjocht op eigendom, itsij allinne, itsij yn ’e mande mei oaren.
+human_rights_un_fri_sn_64kb_0073	2.
+human_rights_un_fri_sn_64kb_0074	Nimmen mei samar fan syn eigendom berôve wurde.
+human_rights_un_fri_sn_64kb_0075	Kêst 18
+human_rights_un_fri_sn_64kb_0076	Elk hat rjocht op frijheid fan tinken, gewisse en godstsjinst;
+human_rights_un_fri_sn_64kb_0077	dat rjocht hâldt teffensde frijheid yn om fan godstsjinst of oertsjûging te feroarjen, en de frijheid om òfallinne òf yn ’e mande mei oaren sawol yn it iepenbier as yn it partikuliere libben,foar syn godstsjinst of oertsjûging út te kommen troch dy te ûnderwizen, troch itpraktysk tapassen, troch earetsjinst en it ûnderhâlden fan geboaden enfoarskriften.
+human_rights_un_fri_sn_64kb_0078	Kêst 19
+human_rights_un_fri_sn_64kb_0079	Elk hat rjocht op frijheid fan miening en mieningsutering.
+human_rights_un_fri_sn_64kb_0080	Dat rjocht hâldt defrijheid yn om sûnder ynminging in miening te hawwen en om troch alle middelsen sûnder grinzen acht te slaan, ynljochtings en tinkbylden op te spoaren, teûntfangen en troch te jaan.
+human_rights_un_fri_sn_64kb_0081	Kêst 20
+human_rights_un_fri_sn_64kb_0082	1.
+human_rights_un_fri_sn_64kb_0083	Elk hat rjocht op frijheid fan freedsume feriening en gearkomste.
+human_rights_un_fri_sn_64kb_0084	2.
+human_rights_un_fri_sn_64kb_0085	Nimmen mei twongen wurde om by in feriening te hearren.
+human_rights_un_fri_sn_64kb_0086	Kêst 21
+human_rights_un_fri_sn_64kb_0087	1.
+human_rights_un_fri_sn_64kb_0088	Elk hat it rjocht om diel te nimmen oan it bestjoer fan syn lân, streekrjochtof troch frij keazen fertsjintwurdigers.
+human_rights_un_fri_sn_64kb_0089	2.
+human_rights_un_fri_sn_64kb_0090	Elk hat it rjocht om op foet fan gelikensens talitten te wurden ta deoerheidstsjinsten fan syn lân.
+human_rights_un_fri_sn_64kb_0091	3.
+human_rights_un_fri_sn_64kb_0092	De wil fan it folk sil de grûnslach wêze fan it gesach fan it regear;
+human_rights_un_fri_sn_64kb_0093	dy wil silta utering komme yn periodike en earlike ferkiezings dy’t hâlden wurdesille út krêft fan algemien en lykweardich kiesrjocht en by geheimestimmings of neffens in proseduere dy’t krektlikegoed boarch stiet foar defrijheid fan stimmen.
+human_rights_un_fri_sn_64kb_0094	Kêst 22
+human_rights_un_fri_sn_64kb_0095	Elk hat as lid fan ’e mienskip rjocht op maatskiplike wissigens en hat deroanspraak op dat troch nasjonale ynspanning en ynternasjonale gearwurking, enyn oerienstimming mei de organisaasje en de helpboarnen fan ’eoanbelangjende steat, de ekonomyske, sosjale en kulturele rjochten dy ’tûnmisber binne foar syn weardichheid en foar it frij ûntploaien fan synpersoanlikheid, ferwêzentlike wurde.
+human_rights_un_fri_sn_64kb_0096	Kêst 23
+human_rights_un_fri_sn_64kb_0097	1.
+human_rights_un_fri_sn_64kb_0098	Elk hat rjocht op wurk, op frije kar fan berop, op rjochtrnjittige en geunstigearbeids-betingsten en op beskerming tsjin wurkleazens.
+human_rights_un_fri_sn_64kb_0099	2.
+human_rights_un_fri_sn_64kb_0100	Elk hat, sûnder ien of oare benefterstelling, rjocht op itselde lean foaritselde wurk.
+human_rights_un_fri_sn_64kb_0101	3.
+human_rights_un_fri_sn_64kb_0102	Elk dy’t wurk docht, hat rjocht op in rjochtfeardige en geunstige beleanningdy’t him en syn húshâlding in minskweardich bestean mooglik makket;
+human_rights_un_fri_sn_64kb_0103	dybeleanning sil sa nedich mei oare middels fan sosjale beskerming oanfollewurde.
+human_rights_un_fri_sn_64kb_0104	4.
+human_rights_un_fri_sn_64kb_0105	Elk hat it rjocht om fakferienings op te rjochtsjen en him dêr by oan tesluten om syn belangen te beskermjen.
+human_rights_un_fri_sn_64kb_0106	Kêst 24
+human_rights_un_fri_sn_64kb_0107	Elk hat rjocht op rêst en frije tiid, mei ynbegryp fan in ridlike beheining fan ’earbeidstiid en periodike fakânsjes mei behâld fan lean.
+human_rights_un_fri_sn_64kb_0108	Kêst 25
+human_rights_un_fri_sn_64kb_0109	1.
+human_rights_un_fri_sn_64kb_0110	Elk hat rjocht op in libbensstandert dy’t heech genôch is foar de sûnens enit wolwêzen fan himsels en syn húshâlding, dêrûnder begrepen iten,klean, húsfesting en medyske fersoarging en needsaaklike sosjaletsjinsten en rjocht op foarsjenning yn gefal fan wurkleazens, sykte,ynvaliditeit, ferstjerren fan ’e oare helte, âlderdom of in oar gemis oanbesteansmiddels troch omstannichheden bûten syn wil.
+human_rights_un_fri_sn_64kb_0111	2.
+human_rights_un_fri_sn_64kb_0112	Mern en bern hawwe rjocht op bysûndere soarch en bystân.
+human_rights_un_fri_sn_64kb_0113	Alle bern, alof net wetlik, sille ûnder deselde sosjale beskerming falle.
+human_rights_un_fri_sn_64kb_0114	Kêst 26
+human_rights_un_fri_sn_64kb_0115	1.
+human_rights_un_fri_sn_64kb_0116	Elk hat rjocht op ûnderwiis;
+human_rights_un_fri_sn_64kb_0117	it ûnderwiis sil fergees wêze, teminsten wat itleger en basisûnderwiis oanbelanget.
+human_rights_un_fri_sn_64kb_0118	It leger ûnderwiis sil ferplichte wêze.
+human_rights_un_fri_sn_64kb_0119	Beropsûnderwiis en beropsoplieding sille algemien beskikber steld wurde.
+human_rights_un_fri_sn_64kb_0120	Heger ûnderwiis sil lykop iepenstean foar elk, dy’t dêr de kapasiteiten foarhat.
+human_rights_un_fri_sn_64kb_0121	2.
+human_rights_un_fri_sn_64kb_0122	It ûnderwiis sil rjochte wêze op it folút ûntwikkeljen fan ’e minsklikepersoanlikheid en op it fersterkjen fan ’e earbied foar de rjochten fan ’eminske en de fûnemintele frijheden.
+human_rights_un_fri_sn_64kb_0123	lt sil it begryp, de ferdraachsumens ende freonskip ûnder alle naasjes, rassen of godstsjinstige groepenbefoarderje en it sil it wurk fan ’e Feriene Naasjes foar it hanthavenjen fan
+human_rights_un_fri_sn_64kb_0124	’e frede stypje.
+human_rights_un_fri_sn_64kb_0125	3.
+human_rights_un_fri_sn_64kb_0126	Oan de âlden komt yn it foarste plak it rjocht ta de soarte fan opfieding enûnderwiis te kiezen dy’t harren bern jûn wurde sil.
+human_rights_un_fri_sn_64kb_0127	Kêst 27
+human_rights_un_fri_sn_64kb_0128	1.
+human_rights_un_fri_sn_64kb_0129	Elk hat it rjocht yn alle frijens diel te nimmen oan it kulturele libben fan ’emienskip, te genietsjen fan keunst en diel te hawwen oan wittenskiplikefoarútgong en de fruchten dêrfan.
+human_rights_un_fri_sn_64kb_0130	2.
+human_rights_un_fri_sn_64kb_0131	Elk hat rjocht op ’e beskerming fan geastlike en materiële belangen dy’tfuortkomme út in wittenskiplik, letterkundich of artistyk wurk dat erfuortbrocht hat.
+human_rights_un_fri_sn_64kb_0132	Kêst 28
+human_rights_un_fri_sn_64kb_0133	Elk hat rjocht op it bestean fan sa’n maatskiplike en ynternasjonale oarder, dat derjochten en frijheden neamd yn dizze ferklearring, dêr folslein yn ferwêzentlikewurde kinne.
+human_rights_un_fri_sn_64kb_0134	Kêst 29
+human_rights_un_fri_sn_64kb_0135	1.
+human_rights_un_fri_sn_64kb_0136	Elk hat plichten foar de mienskip oer;
+human_rights_un_fri_sn_64kb_0137	allinne dêr is de frije en folsleineûntploaiïng fan syn persoanlikheid yn mooglik.
+human_rights_un_fri_sn_64kb_0138	2.
+human_rights_un_fri_sn_64kb_0139	Yn it útoefenjen fan syn rjochten en frijheden sil elk allinne marûnderwurpen wêze oan dy beheinings dy’t by de wet fêststeld binne enwol inkeld en allinne foar de ûnmisbere erkenning en earbiediging fan ’erjochten en frijheden fan oaren en om te foldwaan oan de rjochtfeardigeeasken fan ’e moraliteit, iepenbiere oarder en it algemien wolwêzen yn indemokratyske mienskip.
+human_rights_un_fri_sn_64kb_0140	3.
+human_rights_un_fri_sn_64kb_0141	Dy rjochten en frijheden meie yn gjin gefal útoefene wurde yn striid mei dedoelen en begjinsels fan ’e Feriene Naasjes.
+human_rights_un_fri_sn_64kb_0142	Kêst 30
+human_rights_un_fri_sn_64kb_0143	Gjin bepaling yn dizze ferklearring sil sa útlein wurde meie, dat hokker steat,groep of persoan dan ek dêr ek mar ien of oar rjocht oan ûntliene kin om eat teûndernimmen of hanlingen fan hokker aard ek te ferrjochtsjen dy’t it ferneatigjenfan ien fan ’e rjochten en frijheden neamd yn dizze ferklearring, ta doel hawwe.

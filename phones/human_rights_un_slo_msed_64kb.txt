@@ -1,97 +1,97 @@
-slk_0001	
-slk_0002	
-slk_0003	o vɛdomiː ʒɛ uzcaɲie prirodzɛcɛj ɟuostojŋosti a rovciːx a ɲɛodtsudzitɛʎŋiːx praːv tʃlɛnovʎudskɛj roɟiɲi jɛ zaːkʎadom sʎobodi spravoɟlivosti a mieru ca svɛtɛʒɛ ɲɛuzɲacie ʎudskiːx praːv a poɦr̩ːɟacie cimi viedʎo k barbarskiːm tʃicom ktorɛː uraːʒajuːsvɛdomie ʎudstva a ʒɛ vibuɟovaɲie svɛta v ktorom ʎuɟia zbavɛciː straxu a cuːdzɛ sa buduːtɛʃic sloboɟɛ prɛjavu a prɛsvɛɟtʃɛɲia bolo viɦlaːsɛcɛː za cajviʃʃiː tsieʎ ʎudstvaʒɛ jɛ cutcɛː abi sa ʎudskɛː praːva xraːɲili zaːkocom ak cɛmaː bic tʃlovɛk ɟoɲuːtɛɲiː uxiːlic sa aʒkɛɟ vʃɛtko ostatcɛː zʎiɦalo k odboju proti tiracii a uːtlakuʒɛ jɛ cutcɛː podporovac rozvoj priatɛʎskiːx vzcaɦov mɛdzi caːrodmiʒɛ caːrodi rɡacizaːtsie pojɛciːx ɲaːrodov zɟuorazcili v ɦartɛ zcovu svoju vieru v zaːkʎaɟcɛːʎudskɛː praːva v ɟuostojnosc a ɦodcotu ʎudskɛj osobcosti v rovcakɛː praːva muʒov a ʒien ʒɛ sarozɦodʎi podporovac sotsiaːʎci pokrok a vitvoric lɛpʃie ʒivotcɛː podmieŋki vo vɛtʃʃɛj sloboɟɛʒɛ tʃʎɛcskɛː ʃtaːti prɛvzali zaːvɛzok zaistic v spolupraːtsi s rɡacizaːtsiou pojɛciːx caːroɟovvʃɛobɛtsnɛː uzŋaːvacie a zaxovaːvacie ʎudskiːx praːv a zaːkʎaɟciːx slobuod aʒɛ rovcakɛː xaːpaɲie tiːxto praːv a slobuod maː cɛsmierɲi viːzcam prɛ ɟuoslɛɟŋɛː spʎɲɛɲie toɦtozaːvɛzkuviɦlasujɛ
-slk_0004	tuːto ʃɛobɛtscuː ɟɛklaraːtsiu ʎudskiːx praːv ako spolotʃciː tsieʎ prɛ vʃɛtki caːrodi a vʃɛtki ʃtaːtiabi sa kaʒdiː jɛdnotlivɛts a kaʒdiː orɡaːn spoʎotʃcosti majuːts tuːto ɟɛklaraːtsiu staːlɛ ca misli scaʒiʎviutʃovaciːm a viːxovou rozʃiːric uːtstu k tiːmto praːvam a sloboɟaːm a zaistic postupciːmiopatrɛciami vcuːtroʃtaːtcimi i mɛdzinaːroɟɲiːmi ix vʃɛobɛtscɛː a uːtʃicŋɛː uzŋaːvacie azaxovaːvacie ako mɛdzi ʎudom tʃʎɛcskiːx ʃtaːtov samotciːx tak mɛdzi ʎudom uːzɛmiː ktorɛː suːpod ix spraːvou
-slk_0005	laːɲok
-slk_0006	ʃɛttsi ʎuɟia sa roɟia sʎobodɲiː a sɛbɛ rovciː v ix ɟuostojŋosti a praːvax
-slk_0007	uː obdarɛciː rozumoma svɛdomiːm a majuː cavzaːjom kocac v ɟuxu bratstva
-slk_0008	laːɲok
-slk_0009	aʒdiː maː vʃɛtki praːva a vʃɛtki sʎobodi viɦlaːsɛcɛː v tɛjto ɟɛkʎaraːtsii bɛz oɦʎadu ca rasufarbu poɦlavie jazik caːboʒɛcstvo polititskɛː alɛbo icɛː zmiːʃʎacie ɲaːrodŋostciː alɛbo sotsiaːʎcipuovod majɛtok rod alɛbo icɛː postavɛɲie
-slk_0010	iaɟɛn rozɟiel sa ɲɛbuɟɛ robic ca zaːklaɟɛ polititskɛːɦo praːvcɛɦo alɛbo mɛdziŋaːroɟɲɛːɦopostavɛɲia krajici alɛbo uːzɛmia ku ktorɛːmu osoba patriː tʃi jɛ to krajica alɛbo uːzɛmiecɛzaːvislɛː porutʃciːtskɛ cɛsamospraːvɲɛ alɛbo poɟrobɛcɛː akɛːmukoʎvɛk icɛːmu obmɛdzɛŋiusuvɛrɛciti
-slk_0011	laːɲok
-slk_0012	aʒdiː maː praːvo ca ʒivot sʎobodu a osobcuː bɛzpɛtʃcosc
-slk_0013	laːɲok
-slk_0014	ikto cɛsmie bic ɟrʒaɲiː v otrotstvɛ alɛbo v cɛvoʎciːtstvɛ vʃɛtki formi otrotstva a obxodu sotrokmi suː zakaːzacɛː
-slk_0015	laːɲok
-slk_0016	ikto cɛsmie bic mutʃɛciː alɛbo poɟrobɛciː krutɛːmu cɛʎudskɛːmu alɛbo pociʒujuːtsɛmuzaobxaːdzaŋiu alɛbo trɛstu
-slk_0017	laːɲok
-slk_0018	aʒdiː maː praːvo abi bol vʃaɟɛ uzcaːvaciː jɛɦo praːvci status
-slk_0019	laːɲok
-slk_0020	ʃɛttsi suː si prɛd zaːkocom rovciː a majuː praːvo ca rovcakuː zaːkoɲcuː oxraŋu bɛz akɛjkoʎvɛkɟiskrimicaːtsie
-slk_0021	ʃɛttsi majuː praːvo ca rovcakuː oxraŋu proti akɛjkoʎvɛk ɟiskrimiŋaːtsii ktoraːporuʃujɛ tuːto ɟɛklaraːtsiu a proti akɛːmukoʎvɛk podɲɛtsovaciu k takɛj ɟiskrimiŋaːtsii
-slk_0022	laːɲok
-slk_0023	aʒdiː maː praːvo ca uːtʃicŋuː oxraŋu priːsluʃniːmi vcuːtroʃtaːtcimi suːdmi proti tʃicom poruʃujuːtsimzaːkladcɛː praːva ktorɛː mu prizcaːva uːstava alɛbo zaːkon
-slk_0024	laːɲok
-slk_0025	ikto cɛsmie bic svojvoʎcɛ zatkcutiː zaɟrʒaɲiː alɛbo viɦostɛciː
-slk_0026	laːɲok
-slk_0027	aʒdiː maː rovcakɛː praːvo abi bol spravodlivo a vɛrɛjcɛ vipotʃutiː cɛzaːvisliːm a cɛstraŋɲiːmsuːɟom ktoriː rozɦodujɛ o jɛɦo praːvax a poviɲcostiax a o akomkoʎvɛk trɛstcom obviɲɛɲiːvzcɛsɛcom proti cɛmu
-slk_0028	laːɲok
-slk_0029	aʒdiː kto jɛ obvicɛŋiː z trɛstcɛːɦo tʃicu maː praːvo abi bol povaʒovaciː za ɲɛviŋcɛːɦo kiːmcie jɛ zaːkocŋiːm postupom ɟokaːzanaː jɛɦo vica vo vɛrɛjcom protsɛsɛ pri ktorom mal vʃɛtkizaːruki cɛviɦɲutɲɛː ca jɛɦo obɦajobu
-slk_0030	ikto cɛsmie bic uzcaciː viɲciːm zo spaːxaɲia akɛːɦokoʎvɛk trɛstcɛːɦo tʃicu spotʃiːvajuːtsɛɦov konaciː alɛbo opomɛcutiː ktorɛː v tʃasɛ kɛɟ bolo spaːxanɛː cɛbolo trɛstciːm tʃicom poɟʎavnuːtroʃtaːtɲɛɦo alɛbo mɛdzinaːroɟɲɛːɦo praːva
-slk_0031	ovcako cɛsmie bic uloʒɛciː caʒʃiː trɛst ako trɛstktoriː moɦol bic uloʒɛciː v tʃasɛ kɛɟ bol trɛstciː tʃin spaːxaniː
-slk_0032	laːɲok
-slk_0033	ikto cɛsmie bic vistavɛciː svojvoʎcɛːmu zasaɦovaɲiu ɟo suːkromcɛːɦo ʒivota roɟiɲi ɟomovaalɛbo korɛʃpoŋɟɛctsie aci uːtokom ca svoju tʃɛsc a povɛsc
-slk_0034	aʒdiː maː praːvo ca zaːkoɲcuː oxracuproti takiːmto zaːsaɦom alɛbo uːtokom
-slk_0035	laːɲok
-slk_0036	aʒdiː maː praːvo sʎobodɲɛ sa poɦibovac a sʎobodɲɛ si zvolic bidʎisko v kaʒdom ʃtaːtɛ
-slk_0037	aʒdiː maː praːvo opustic ktoruːkoʎvɛk krajicu i svoju vlastcuː a vraːtic sa ɟo svojɛj krajici
-slk_0038	laːɲok
-slk_0039	aʒdiː maː praːvo viɦʎadac a ziːskac v iciːx krajicaːx azil prɛd prɛŋaslɛdovaciːm
-slk_0040	oto praːvo cɛmoʒno uplatɲovac v priːpaɟɛ stiːɦaɲia zatʃatɛːɦo ca zaːklaɟɛ ɲɛpoʎititskiːxtrɛstɲiːx tʃicov alɛbo ca zaːklaɟɛ tʃicov ktorɛː suː v rozporɛ s tsieʎmi a zaːsadami rɡacizaːtsie
-slk_0041	pojɛciːx ɲaːrodov
-slk_0042	laːɲok
-slk_0043	aʒdiː maː praːvo ca ʃtaːtcu priːsluʃnosc
-slk_0044	ikto cɛsmie bic svojvoʎcɛ zbavɛciː svojɛj ʃtaːtcɛj priːsluʃɲosti aci praːva svoju ʃtaːtnupriːsluʃcosc zmɛcic
-slk_0045	laːɲok
-slk_0046	uʒi a ʒɛci ktoriː ɟosiaɦli plnolɛtosc majuː praːvo bɛz obmɛdzɛcia z ɟuovodov rasovɛjcaːroɟcostɲɛj alɛbo ɲaːboʒɛnskɛj priːsluʃɲosti uzavriec manʒɛlstvo a zaloʒic roɟiɲu
-slk_0047	ajuː caːrokca rovcakɛː praːva ca uzavrɛtie manʒɛlstva rovcakɛː praːva potʃas manʒɛlstva aj pri jɛɦo zruʃɛciː
-slk_0048	anʒɛlstvo muoʒɛ bic uzavrɛtɛː lɛn so sloboɟniːm a riaɟcim suːɦlasom castaːvajuːtsixmaŋʒɛʎov
-slk_0049	oɟiɲa jɛ prirodzɛcou a zaːklaɟcou jɛɟcotkou spoʎotʃcosti a maː ɲaːrok ca oxraŋu tak zostraci spoʎotʃcosti ako aj ʃtaːtu
-slk_0050	laːɲok
-slk_0051	aʒdiː maː praːvo vlastɲic majɛtok saːm rovcako ako aj spolu s iciːmi
-slk_0052	ikto cɛsmie bic svojvoʎcɛ zbavɛciː svojɦo majɛtku
-slk_0053	laːɲok
-slk_0054	aʒdiː maː praːvo ca sʎobodu mislɛcia svɛdomia a caːboʒɛcstva
-slk_0055	toto praːvo zaɦr̩ːɲa aj sʎoboɟuzmɛcic svojɛ caːboʒɛcstvo alɛbo vieru ako aj sʎobodu prɛjavovac svojɛ caːboʒɛcstvo suːkromɲɛviutʃovaciːm vikocaːvaciːm ɲaːboʒɛnskiːx uːkocov boɦosluʒbou a zaxovaːvaciːm obradov
-slk_0056	laːɲok
-slk_0057	aʒdiː maː praːvo ca sʎobodu prɛsvɛɟtʃɛɲia a prɛjavu toto praːvo cɛpripuːʃca abi ciekto trpɛlujmu prɛ svojɛ prɛsvɛɟtʃɛɲie a zaɦr̩ːɲa praːvo viɦʎadaːvac prijiːmac a rozʃirovac icformaːtsie amiʃʎieŋki vʃɛtkiːmi prostriedkami a bɛz oɦʎadu ca ɦracitsɛ
-slk_0058	laːɲok
-slk_0059	aʒdɛːmu jɛ zarutʃɛcaː sʎoboda pokojcɛːɦo zɦromaʒɟovaɲia a zɟruʒovaɲia sa
-slk_0060	ikto cɛsmie bic cuːtɛciː abi bol tʃlɛŋom ɲɛjakɛːɦo zdruʒɛɲia
-slk_0061	laːɲok
-slk_0062	aʒdiː maː praːvo abi sa zuːtʃastcil ca spraːvɛ svojɛj krajici buɟ priamo aʎɛboprostrɛdɲiːtstvom sʎobodɲɛ volɛŋiːx zaːstuptsov
-slk_0063	aʒdiː maː praːvo vstuːpic za rovcakiːx poɟmieɲok ɟo vɛrɛjciːx sluʒieb svojɛj krajici
-slk_0064	aːkʎadom vlaːɟcɛj motsi jɛ vuoʎa ʎudu taːto vuoʎa maː bic vijadrɛcaː v praviɟɛʎciːx a riadɲixvoʎbaːx ca zaːklaɟɛ vʃɛobɛtscɛːɦo a rovcɛːɦo ɦlasovatsieɦo praːva tajciːm ɦlasovaciːm alɛbo iɲiːmrovɲotsɛcɲiːm postupom zabɛzpɛtʃujuːtsim sʎobodu ɦʎasovaɲia
-slk_0065	laːɲok
-slk_0066	aʒdiː tʃlovɛk maː ako tʃlɛn spoʎotʃcosti praːvo ca sotsiaːlcɛ zabɛzpɛtʃɛɲie a ɲaːrok ca to abi muboli caːroɟniːm uːsiliːm aj mɛdzinaːrodcou suːtʃiɲcoscou a v suːlaɟɛ s orɡacizaːtsiou a prostriedkamipriːsʎuʃŋɛːɦo ʃtaːtu zarutʃɛcɛː ɦospodaːrskɛ sotsiaːlcɛ a kultuːrɲɛ praːva cɛviɦɲutɲɛː prɛ jɛɦoɟuostojcosc a sʎobodɲiː rozvoj jɛɦo osobcosti
-slk_0067	laːɲok
-slk_0068	aʒdiː maː praːvo ca praːtsu ca sʎobodɲuː voʎbu zamɛstcaɲia ca spravodlivɛː a uspokojivɛːpratsovcɛː podmieŋki a ca oxraŋu prɛd cɛzamɛstnaŋoscou
-slk_0069	aʒdiː maː bɛz akɛjkoʎvɛk ɟiskrimicaːtsie ɲaːrok ca rovcakiː plat za rovcakuː praːtsu
-slk_0070	aʒdiː pratsujuːtsi maː praːvo ca spravodlivuː a primɛracuː odmɛnu ktoraː zabɛzpɛtʃujɛ jɛmusamɛːmu a jɛɦo roɟiɲɛ ʒivobitie zoɟpovɛdajuːtsɛ ʎudskɛj ɟuostojŋosti a ɟoplɲɛɲaː v priːpaɟɛpotrɛbi iciːmi prostriedkami sotsiaːlcɛɦo zabɛzpɛtʃɛɲia
-slk_0071	aʒdiː maː praːvo ca oxraŋu svojix zaːujmov zakʎadac odborovɛː orɡacizaːtsie a pristupovack cim
-slk_0072	laːɲok
-slk_0073	aʒdiː maː praːvo ca oɟpotʃinok a zotavɛcie ca rozumcɛː vimɛdzɛcie pratsovŋiːx ɦoɟiːn apraviɟɛlcɛj platɛɲɛj ɟovolɛŋki
-slk_0074	laːɲok
-slk_0075	aʒdiː maː praːvo ca takuː ʒivotcuː uːrovɛɲ ktoraː muoʒɛ zabɛzpɛtʃic jɛmu i jɛɦo roɟiɲɛ zdraviea blaɦobit vraːtacɛ stravi oʃatɛcia biːvacia lɛkaːrskɛj starostlivosti ako aj potrɛbniːxsotsiaːʎnix sluʒieb maː praːvo ca zabɛzpɛtʃɛɲie v cɛzamɛstnaŋosti v xorobɛ pri pratsovcɛjɲɛspuosobiʎosti pri ovdovɛciː v starobɛ alɛbo v iciːx priːpadox strati zaːrobkoviːx moʒcostiːktorɛː ɲastali za okolcostiː cɛzaːvisliːx od jɛɦo vuolɛ
-slk_0076	atɛrstvo a ɟɛtstvo majuː ɲaːrok ca zvʎaːʃtɲu starostlivosc a pomots
-slk_0077	ʃɛtki ɟɛti tʃi uʒɲaroɟɛŋɛː v manʒɛlstvɛ alɛbo mimo cɛɦo majuː rovcakuː sotsiaːʎcu oxraŋu
-slk_0078	laːɲok
-slk_0079	aʒdiː maː praːvo ca vzɟɛʎaɲie
-slk_0080	zɟɛʎaɲie jɛ bɛzplatcɛː aspoɲ v zatʃiatotʃɲiːx a zaːkʎadniːxstupɲox
-slk_0081	aːkʎadcɛː vzɟɛʎaɲie jɛ povicŋɛː
-slk_0082	ɛxcitskɛː a odborcɛː vzɟɛʎaɲie jɛ vʃɛobɛtsɲɛpriːstupŋɛː a viʃʃie vzɟɛʎaɲie maː bic rovcako priːstupcɛː kaʒdɛːmu podʎa jɛɦo sxopɲostiː
-slk_0083	zɟɛʎaɲie maː smɛrovac k plŋɛːmu rozvoju ʎudskɛj osobcosti a k posiʎɲɛciu uːtsti k ʎudskiːmpraːvam a zaːklaɟciːm sloboɟaːm
-slk_0084	aː capomaːɦac k vzaːjomcɛːmu porozumɛŋiu zcaːʃanlivosti apriatɛʎstvu mɛdzi vʃɛtkiːmi ɲaːrodmi a vʃɛtkiːmi rasoviːmi i ɲaːboʒɛnskiːmi skupicami ako ajrozvoju tʃinŋosti rɡacizaːtsie pojɛciːx ɲaːrodov ca zaxovaɲie mieru
-slk_0085	oɟitʃia majuː prɛdɲostcɛː praːvo vibrac ɟruɦ vzɟɛʎaɲia ktoriː buɟɛ poskitcutiː ix ɟɛcom
-slk_0086	laːɲok
-slk_0087	aʒdiː maː praːvo sʎobodɲɛ sa zuːtʃastɲovac ca kuʎtuːrcom ʒivotɛ spoʎotʃcosti mac potɛʃɛciez umɛcia a zuːtʃastcic sa ca vɛɟɛtskom pokroku a ca jɛɦo viːdobitkox
-slk_0088	aʒdiː maː praːvo ca oxraŋu moraːʎcix a matɛriaːʎnix zaːujmov ktorɛː vipliːvajuː z jɛɦovɛɟɛtskɛj litɛraːrcɛj alɛbo umɛlɛtskɛj tvorbi
-slk_0089	laːɲok
-slk_0090	aʒdiː maː praːvo ca to abi vlaːɟol takiː sotsiaːʎci a mɛdziŋaːroɟɲiː poriaɟok v ktorom bi sa praːvaa sʎobodi viɦlaːsɛcɛː v tɛjto ɟɛkʎaraːtsii uskutotʃɲovali v plcom rozsaɦu
-slk_0091	laːɲok
-slk_0092	aʒdiː maː poviɲcosti votʃi spoʎotʃcosti iba v cɛj muoʒɛ sʎobodɲɛ a pʎɲɛ rozvicuːc svojuosobcosc
-slk_0093	o viːkocɛ svojix praːv a slobuod jɛ kaʒdiː poɟrobɛciː iba takiːm obmɛdzɛciam ktorɛː stacoviːzaːkon a ktorɛː sluːʒia viːɦradcɛ k zabɛzpɛtʃɛciu caːlɛʒitɛːɦo uzŋaːvacia a zaxovaːvacia praːv aslobuod iciːx ako aj k uspokojɛniu spravodʎiviːx poʒiaɟaviek moraːlki vɛrɛjcɛːɦo poriadku avʃɛobɛtscɛːɦo blaɦa v ɟɛmokratitskɛj spoʎotʃcosti
-slk_0094	iːkon tiːxto praːv a slobuod cɛsmie bic v ʒiaɟcom priːpaɟɛ v rozporɛ s tsieʎmi a zaːsadami
-slk_0095	rɡacizaːtsie pojɛciːx ɲaːrodov
-slk_0096	laːɲok
-slk_0097	tɛjto ɟɛkʎaraːtsii sa cɛsmie citʃ vikʎadac tak abi to opraːvɲovalo akiːkoʎvɛk ʃtaːt skupicu alɛboosobu viviːjac tʃicɲosc alɛbo ɟopuːʃcac sa tʃicov ktorɛː bi smɛrovali k potʎatʃɛciu ciektorɛːɦo zpraːv alɛbo slobuod v tɛjto ɟɛkʎaraːtsii viɦʎaːsɛniːx
+human_rights_un_slo_msed_64kb_0001	
+human_rights_un_slo_msed_64kb_0002	
+human_rights_un_slo_msed_64kb_0003	o vɛdomiː ʒɛ uzcaɲie prirodzɛcɛj ɟuostojŋosti a rovciːx a ɲɛodtsudzitɛʎŋiːx praːv tʃlɛnovʎudskɛj roɟiɲi jɛ zaːkʎadom sʎobodi spravoɟlivosti a mieru ca svɛtɛʒɛ ɲɛuzɲacie ʎudskiːx praːv a poɦr̩ːɟacie cimi viedʎo k barbarskiːm tʃicom ktorɛː uraːʒajuːsvɛdomie ʎudstva a ʒɛ vibuɟovaɲie svɛta v ktorom ʎuɟia zbavɛciː straxu a cuːdzɛ sa buduːtɛʃic sloboɟɛ prɛjavu a prɛsvɛɟtʃɛɲia bolo viɦlaːsɛcɛː za cajviʃʃiː tsieʎ ʎudstvaʒɛ jɛ cutcɛː abi sa ʎudskɛː praːva xraːɲili zaːkocom ak cɛmaː bic tʃlovɛk ɟoɲuːtɛɲiː uxiːlic sa aʒkɛɟ vʃɛtko ostatcɛː zʎiɦalo k odboju proti tiracii a uːtlakuʒɛ jɛ cutcɛː podporovac rozvoj priatɛʎskiːx vzcaɦov mɛdzi caːrodmiʒɛ caːrodi rɡacizaːtsie pojɛciːx ɲaːrodov zɟuorazcili v ɦartɛ zcovu svoju vieru v zaːkʎaɟcɛːʎudskɛː praːva v ɟuostojnosc a ɦodcotu ʎudskɛj osobcosti v rovcakɛː praːva muʒov a ʒien ʒɛ sarozɦodʎi podporovac sotsiaːʎci pokrok a vitvoric lɛpʃie ʒivotcɛː podmieŋki vo vɛtʃʃɛj sloboɟɛʒɛ tʃʎɛcskɛː ʃtaːti prɛvzali zaːvɛzok zaistic v spolupraːtsi s rɡacizaːtsiou pojɛciːx caːroɟovvʃɛobɛtsnɛː uzŋaːvacie a zaxovaːvacie ʎudskiːx praːv a zaːkʎaɟciːx slobuod aʒɛ rovcakɛː xaːpaɲie tiːxto praːv a slobuod maː cɛsmierɲi viːzcam prɛ ɟuoslɛɟŋɛː spʎɲɛɲie toɦtozaːvɛzkuviɦlasujɛ
+human_rights_un_slo_msed_64kb_0004	tuːto ʃɛobɛtscuː ɟɛklaraːtsiu ʎudskiːx praːv ako spolotʃciː tsieʎ prɛ vʃɛtki caːrodi a vʃɛtki ʃtaːtiabi sa kaʒdiː jɛdnotlivɛts a kaʒdiː orɡaːn spoʎotʃcosti majuːts tuːto ɟɛklaraːtsiu staːlɛ ca misli scaʒiʎviutʃovaciːm a viːxovou rozʃiːric uːtstu k tiːmto praːvam a sloboɟaːm a zaistic postupciːmiopatrɛciami vcuːtroʃtaːtcimi i mɛdzinaːroɟɲiːmi ix vʃɛobɛtscɛː a uːtʃicŋɛː uzŋaːvacie azaxovaːvacie ako mɛdzi ʎudom tʃʎɛcskiːx ʃtaːtov samotciːx tak mɛdzi ʎudom uːzɛmiː ktorɛː suːpod ix spraːvou
+human_rights_un_slo_msed_64kb_0005	laːɲok
+human_rights_un_slo_msed_64kb_0006	ʃɛttsi ʎuɟia sa roɟia sʎobodɲiː a sɛbɛ rovciː v ix ɟuostojŋosti a praːvax
+human_rights_un_slo_msed_64kb_0007	uː obdarɛciː rozumoma svɛdomiːm a majuː cavzaːjom kocac v ɟuxu bratstva
+human_rights_un_slo_msed_64kb_0008	laːɲok
+human_rights_un_slo_msed_64kb_0009	aʒdiː maː vʃɛtki praːva a vʃɛtki sʎobodi viɦlaːsɛcɛː v tɛjto ɟɛkʎaraːtsii bɛz oɦʎadu ca rasufarbu poɦlavie jazik caːboʒɛcstvo polititskɛː alɛbo icɛː zmiːʃʎacie ɲaːrodŋostciː alɛbo sotsiaːʎcipuovod majɛtok rod alɛbo icɛː postavɛɲie
+human_rights_un_slo_msed_64kb_0010	iaɟɛn rozɟiel sa ɲɛbuɟɛ robic ca zaːklaɟɛ polititskɛːɦo praːvcɛɦo alɛbo mɛdziŋaːroɟɲɛːɦopostavɛɲia krajici alɛbo uːzɛmia ku ktorɛːmu osoba patriː tʃi jɛ to krajica alɛbo uːzɛmiecɛzaːvislɛː porutʃciːtskɛ cɛsamospraːvɲɛ alɛbo poɟrobɛcɛː akɛːmukoʎvɛk icɛːmu obmɛdzɛŋiusuvɛrɛciti
+human_rights_un_slo_msed_64kb_0011	laːɲok
+human_rights_un_slo_msed_64kb_0012	aʒdiː maː praːvo ca ʒivot sʎobodu a osobcuː bɛzpɛtʃcosc
+human_rights_un_slo_msed_64kb_0013	laːɲok
+human_rights_un_slo_msed_64kb_0014	ikto cɛsmie bic ɟrʒaɲiː v otrotstvɛ alɛbo v cɛvoʎciːtstvɛ vʃɛtki formi otrotstva a obxodu sotrokmi suː zakaːzacɛː
+human_rights_un_slo_msed_64kb_0015	laːɲok
+human_rights_un_slo_msed_64kb_0016	ikto cɛsmie bic mutʃɛciː alɛbo poɟrobɛciː krutɛːmu cɛʎudskɛːmu alɛbo pociʒujuːtsɛmuzaobxaːdzaŋiu alɛbo trɛstu
+human_rights_un_slo_msed_64kb_0017	laːɲok
+human_rights_un_slo_msed_64kb_0018	aʒdiː maː praːvo abi bol vʃaɟɛ uzcaːvaciː jɛɦo praːvci status
+human_rights_un_slo_msed_64kb_0019	laːɲok
+human_rights_un_slo_msed_64kb_0020	ʃɛttsi suː si prɛd zaːkocom rovciː a majuː praːvo ca rovcakuː zaːkoɲcuː oxraŋu bɛz akɛjkoʎvɛkɟiskrimicaːtsie
+human_rights_un_slo_msed_64kb_0021	ʃɛttsi majuː praːvo ca rovcakuː oxraŋu proti akɛjkoʎvɛk ɟiskrimiŋaːtsii ktoraːporuʃujɛ tuːto ɟɛklaraːtsiu a proti akɛːmukoʎvɛk podɲɛtsovaciu k takɛj ɟiskrimiŋaːtsii
+human_rights_un_slo_msed_64kb_0022	laːɲok
+human_rights_un_slo_msed_64kb_0023	aʒdiː maː praːvo ca uːtʃicŋuː oxraŋu priːsluʃniːmi vcuːtroʃtaːtcimi suːdmi proti tʃicom poruʃujuːtsimzaːkladcɛː praːva ktorɛː mu prizcaːva uːstava alɛbo zaːkon
+human_rights_un_slo_msed_64kb_0024	laːɲok
+human_rights_un_slo_msed_64kb_0025	ikto cɛsmie bic svojvoʎcɛ zatkcutiː zaɟrʒaɲiː alɛbo viɦostɛciː
+human_rights_un_slo_msed_64kb_0026	laːɲok
+human_rights_un_slo_msed_64kb_0027	aʒdiː maː rovcakɛː praːvo abi bol spravodlivo a vɛrɛjcɛ vipotʃutiː cɛzaːvisliːm a cɛstraŋɲiːmsuːɟom ktoriː rozɦodujɛ o jɛɦo praːvax a poviɲcostiax a o akomkoʎvɛk trɛstcom obviɲɛɲiːvzcɛsɛcom proti cɛmu
+human_rights_un_slo_msed_64kb_0028	laːɲok
+human_rights_un_slo_msed_64kb_0029	aʒdiː kto jɛ obvicɛŋiː z trɛstcɛːɦo tʃicu maː praːvo abi bol povaʒovaciː za ɲɛviŋcɛːɦo kiːmcie jɛ zaːkocŋiːm postupom ɟokaːzanaː jɛɦo vica vo vɛrɛjcom protsɛsɛ pri ktorom mal vʃɛtkizaːruki cɛviɦɲutɲɛː ca jɛɦo obɦajobu
+human_rights_un_slo_msed_64kb_0030	ikto cɛsmie bic uzcaciː viɲciːm zo spaːxaɲia akɛːɦokoʎvɛk trɛstcɛːɦo tʃicu spotʃiːvajuːtsɛɦov konaciː alɛbo opomɛcutiː ktorɛː v tʃasɛ kɛɟ bolo spaːxanɛː cɛbolo trɛstciːm tʃicom poɟʎavnuːtroʃtaːtɲɛɦo alɛbo mɛdzinaːroɟɲɛːɦo praːva
+human_rights_un_slo_msed_64kb_0031	ovcako cɛsmie bic uloʒɛciː caʒʃiː trɛst ako trɛstktoriː moɦol bic uloʒɛciː v tʃasɛ kɛɟ bol trɛstciː tʃin spaːxaniː
+human_rights_un_slo_msed_64kb_0032	laːɲok
+human_rights_un_slo_msed_64kb_0033	ikto cɛsmie bic vistavɛciː svojvoʎcɛːmu zasaɦovaɲiu ɟo suːkromcɛːɦo ʒivota roɟiɲi ɟomovaalɛbo korɛʃpoŋɟɛctsie aci uːtokom ca svoju tʃɛsc a povɛsc
+human_rights_un_slo_msed_64kb_0034	aʒdiː maː praːvo ca zaːkoɲcuː oxracuproti takiːmto zaːsaɦom alɛbo uːtokom
+human_rights_un_slo_msed_64kb_0035	laːɲok
+human_rights_un_slo_msed_64kb_0036	aʒdiː maː praːvo sʎobodɲɛ sa poɦibovac a sʎobodɲɛ si zvolic bidʎisko v kaʒdom ʃtaːtɛ
+human_rights_un_slo_msed_64kb_0037	aʒdiː maː praːvo opustic ktoruːkoʎvɛk krajicu i svoju vlastcuː a vraːtic sa ɟo svojɛj krajici
+human_rights_un_slo_msed_64kb_0038	laːɲok
+human_rights_un_slo_msed_64kb_0039	aʒdiː maː praːvo viɦʎadac a ziːskac v iciːx krajicaːx azil prɛd prɛŋaslɛdovaciːm
+human_rights_un_slo_msed_64kb_0040	oto praːvo cɛmoʒno uplatɲovac v priːpaɟɛ stiːɦaɲia zatʃatɛːɦo ca zaːklaɟɛ ɲɛpoʎititskiːxtrɛstɲiːx tʃicov alɛbo ca zaːklaɟɛ tʃicov ktorɛː suː v rozporɛ s tsieʎmi a zaːsadami rɡacizaːtsie
+human_rights_un_slo_msed_64kb_0041	pojɛciːx ɲaːrodov
+human_rights_un_slo_msed_64kb_0042	laːɲok
+human_rights_un_slo_msed_64kb_0043	aʒdiː maː praːvo ca ʃtaːtcu priːsluʃnosc
+human_rights_un_slo_msed_64kb_0044	ikto cɛsmie bic svojvoʎcɛ zbavɛciː svojɛj ʃtaːtcɛj priːsluʃɲosti aci praːva svoju ʃtaːtnupriːsluʃcosc zmɛcic
+human_rights_un_slo_msed_64kb_0045	laːɲok
+human_rights_un_slo_msed_64kb_0046	uʒi a ʒɛci ktoriː ɟosiaɦli plnolɛtosc majuː praːvo bɛz obmɛdzɛcia z ɟuovodov rasovɛjcaːroɟcostɲɛj alɛbo ɲaːboʒɛnskɛj priːsluʃɲosti uzavriec manʒɛlstvo a zaloʒic roɟiɲu
+human_rights_un_slo_msed_64kb_0047	ajuː caːrokca rovcakɛː praːva ca uzavrɛtie manʒɛlstva rovcakɛː praːva potʃas manʒɛlstva aj pri jɛɦo zruʃɛciː
+human_rights_un_slo_msed_64kb_0048	anʒɛlstvo muoʒɛ bic uzavrɛtɛː lɛn so sloboɟniːm a riaɟcim suːɦlasom castaːvajuːtsixmaŋʒɛʎov
+human_rights_un_slo_msed_64kb_0049	oɟiɲa jɛ prirodzɛcou a zaːklaɟcou jɛɟcotkou spoʎotʃcosti a maː ɲaːrok ca oxraŋu tak zostraci spoʎotʃcosti ako aj ʃtaːtu
+human_rights_un_slo_msed_64kb_0050	laːɲok
+human_rights_un_slo_msed_64kb_0051	aʒdiː maː praːvo vlastɲic majɛtok saːm rovcako ako aj spolu s iciːmi
+human_rights_un_slo_msed_64kb_0052	ikto cɛsmie bic svojvoʎcɛ zbavɛciː svojɦo majɛtku
+human_rights_un_slo_msed_64kb_0053	laːɲok
+human_rights_un_slo_msed_64kb_0054	aʒdiː maː praːvo ca sʎobodu mislɛcia svɛdomia a caːboʒɛcstva
+human_rights_un_slo_msed_64kb_0055	toto praːvo zaɦr̩ːɲa aj sʎoboɟuzmɛcic svojɛ caːboʒɛcstvo alɛbo vieru ako aj sʎobodu prɛjavovac svojɛ caːboʒɛcstvo suːkromɲɛviutʃovaciːm vikocaːvaciːm ɲaːboʒɛnskiːx uːkocov boɦosluʒbou a zaxovaːvaciːm obradov
+human_rights_un_slo_msed_64kb_0056	laːɲok
+human_rights_un_slo_msed_64kb_0057	aʒdiː maː praːvo ca sʎobodu prɛsvɛɟtʃɛɲia a prɛjavu toto praːvo cɛpripuːʃca abi ciekto trpɛlujmu prɛ svojɛ prɛsvɛɟtʃɛɲie a zaɦr̩ːɲa praːvo viɦʎadaːvac prijiːmac a rozʃirovac icformaːtsie amiʃʎieŋki vʃɛtkiːmi prostriedkami a bɛz oɦʎadu ca ɦracitsɛ
+human_rights_un_slo_msed_64kb_0058	laːɲok
+human_rights_un_slo_msed_64kb_0059	aʒdɛːmu jɛ zarutʃɛcaː sʎoboda pokojcɛːɦo zɦromaʒɟovaɲia a zɟruʒovaɲia sa
+human_rights_un_slo_msed_64kb_0060	ikto cɛsmie bic cuːtɛciː abi bol tʃlɛŋom ɲɛjakɛːɦo zdruʒɛɲia
+human_rights_un_slo_msed_64kb_0061	laːɲok
+human_rights_un_slo_msed_64kb_0062	aʒdiː maː praːvo abi sa zuːtʃastcil ca spraːvɛ svojɛj krajici buɟ priamo aʎɛboprostrɛdɲiːtstvom sʎobodɲɛ volɛŋiːx zaːstuptsov
+human_rights_un_slo_msed_64kb_0063	aʒdiː maː praːvo vstuːpic za rovcakiːx poɟmieɲok ɟo vɛrɛjciːx sluʒieb svojɛj krajici
+human_rights_un_slo_msed_64kb_0064	aːkʎadom vlaːɟcɛj motsi jɛ vuoʎa ʎudu taːto vuoʎa maː bic vijadrɛcaː v praviɟɛʎciːx a riadɲixvoʎbaːx ca zaːklaɟɛ vʃɛobɛtscɛːɦo a rovcɛːɦo ɦlasovatsieɦo praːva tajciːm ɦlasovaciːm alɛbo iɲiːmrovɲotsɛcɲiːm postupom zabɛzpɛtʃujuːtsim sʎobodu ɦʎasovaɲia
+human_rights_un_slo_msed_64kb_0065	laːɲok
+human_rights_un_slo_msed_64kb_0066	aʒdiː tʃlovɛk maː ako tʃlɛn spoʎotʃcosti praːvo ca sotsiaːlcɛ zabɛzpɛtʃɛɲie a ɲaːrok ca to abi muboli caːroɟniːm uːsiliːm aj mɛdzinaːrodcou suːtʃiɲcoscou a v suːlaɟɛ s orɡacizaːtsiou a prostriedkamipriːsʎuʃŋɛːɦo ʃtaːtu zarutʃɛcɛː ɦospodaːrskɛ sotsiaːlcɛ a kultuːrɲɛ praːva cɛviɦɲutɲɛː prɛ jɛɦoɟuostojcosc a sʎobodɲiː rozvoj jɛɦo osobcosti
+human_rights_un_slo_msed_64kb_0067	laːɲok
+human_rights_un_slo_msed_64kb_0068	aʒdiː maː praːvo ca praːtsu ca sʎobodɲuː voʎbu zamɛstcaɲia ca spravodlivɛː a uspokojivɛːpratsovcɛː podmieŋki a ca oxraŋu prɛd cɛzamɛstnaŋoscou
+human_rights_un_slo_msed_64kb_0069	aʒdiː maː bɛz akɛjkoʎvɛk ɟiskrimicaːtsie ɲaːrok ca rovcakiː plat za rovcakuː praːtsu
+human_rights_un_slo_msed_64kb_0070	aʒdiː pratsujuːtsi maː praːvo ca spravodlivuː a primɛracuː odmɛnu ktoraː zabɛzpɛtʃujɛ jɛmusamɛːmu a jɛɦo roɟiɲɛ ʒivobitie zoɟpovɛdajuːtsɛ ʎudskɛj ɟuostojŋosti a ɟoplɲɛɲaː v priːpaɟɛpotrɛbi iciːmi prostriedkami sotsiaːlcɛɦo zabɛzpɛtʃɛɲia
+human_rights_un_slo_msed_64kb_0071	aʒdiː maː praːvo ca oxraŋu svojix zaːujmov zakʎadac odborovɛː orɡacizaːtsie a pristupovack cim
+human_rights_un_slo_msed_64kb_0072	laːɲok
+human_rights_un_slo_msed_64kb_0073	aʒdiː maː praːvo ca oɟpotʃinok a zotavɛcie ca rozumcɛː vimɛdzɛcie pratsovŋiːx ɦoɟiːn apraviɟɛlcɛj platɛɲɛj ɟovolɛŋki
+human_rights_un_slo_msed_64kb_0074	laːɲok
+human_rights_un_slo_msed_64kb_0075	aʒdiː maː praːvo ca takuː ʒivotcuː uːrovɛɲ ktoraː muoʒɛ zabɛzpɛtʃic jɛmu i jɛɦo roɟiɲɛ zdraviea blaɦobit vraːtacɛ stravi oʃatɛcia biːvacia lɛkaːrskɛj starostlivosti ako aj potrɛbniːxsotsiaːʎnix sluʒieb maː praːvo ca zabɛzpɛtʃɛɲie v cɛzamɛstnaŋosti v xorobɛ pri pratsovcɛjɲɛspuosobiʎosti pri ovdovɛciː v starobɛ alɛbo v iciːx priːpadox strati zaːrobkoviːx moʒcostiːktorɛː ɲastali za okolcostiː cɛzaːvisliːx od jɛɦo vuolɛ
+human_rights_un_slo_msed_64kb_0076	atɛrstvo a ɟɛtstvo majuː ɲaːrok ca zvʎaːʃtɲu starostlivosc a pomots
+human_rights_un_slo_msed_64kb_0077	ʃɛtki ɟɛti tʃi uʒɲaroɟɛŋɛː v manʒɛlstvɛ alɛbo mimo cɛɦo majuː rovcakuː sotsiaːʎcu oxraŋu
+human_rights_un_slo_msed_64kb_0078	laːɲok
+human_rights_un_slo_msed_64kb_0079	aʒdiː maː praːvo ca vzɟɛʎaɲie
+human_rights_un_slo_msed_64kb_0080	zɟɛʎaɲie jɛ bɛzplatcɛː aspoɲ v zatʃiatotʃɲiːx a zaːkʎadniːxstupɲox
+human_rights_un_slo_msed_64kb_0081	aːkʎadcɛː vzɟɛʎaɲie jɛ povicŋɛː
+human_rights_un_slo_msed_64kb_0082	ɛxcitskɛː a odborcɛː vzɟɛʎaɲie jɛ vʃɛobɛtsɲɛpriːstupŋɛː a viʃʃie vzɟɛʎaɲie maː bic rovcako priːstupcɛː kaʒdɛːmu podʎa jɛɦo sxopɲostiː
+human_rights_un_slo_msed_64kb_0083	zɟɛʎaɲie maː smɛrovac k plŋɛːmu rozvoju ʎudskɛj osobcosti a k posiʎɲɛciu uːtsti k ʎudskiːmpraːvam a zaːklaɟciːm sloboɟaːm
+human_rights_un_slo_msed_64kb_0084	aː capomaːɦac k vzaːjomcɛːmu porozumɛŋiu zcaːʃanlivosti apriatɛʎstvu mɛdzi vʃɛtkiːmi ɲaːrodmi a vʃɛtkiːmi rasoviːmi i ɲaːboʒɛnskiːmi skupicami ako ajrozvoju tʃinŋosti rɡacizaːtsie pojɛciːx ɲaːrodov ca zaxovaɲie mieru
+human_rights_un_slo_msed_64kb_0085	oɟitʃia majuː prɛdɲostcɛː praːvo vibrac ɟruɦ vzɟɛʎaɲia ktoriː buɟɛ poskitcutiː ix ɟɛcom
+human_rights_un_slo_msed_64kb_0086	laːɲok
+human_rights_un_slo_msed_64kb_0087	aʒdiː maː praːvo sʎobodɲɛ sa zuːtʃastɲovac ca kuʎtuːrcom ʒivotɛ spoʎotʃcosti mac potɛʃɛciez umɛcia a zuːtʃastcic sa ca vɛɟɛtskom pokroku a ca jɛɦo viːdobitkox
+human_rights_un_slo_msed_64kb_0088	aʒdiː maː praːvo ca oxraŋu moraːʎcix a matɛriaːʎnix zaːujmov ktorɛː vipliːvajuː z jɛɦovɛɟɛtskɛj litɛraːrcɛj alɛbo umɛlɛtskɛj tvorbi
+human_rights_un_slo_msed_64kb_0089	laːɲok
+human_rights_un_slo_msed_64kb_0090	aʒdiː maː praːvo ca to abi vlaːɟol takiː sotsiaːʎci a mɛdziŋaːroɟɲiː poriaɟok v ktorom bi sa praːvaa sʎobodi viɦlaːsɛcɛː v tɛjto ɟɛkʎaraːtsii uskutotʃɲovali v plcom rozsaɦu
+human_rights_un_slo_msed_64kb_0091	laːɲok
+human_rights_un_slo_msed_64kb_0092	aʒdiː maː poviɲcosti votʃi spoʎotʃcosti iba v cɛj muoʒɛ sʎobodɲɛ a pʎɲɛ rozvicuːc svojuosobcosc
+human_rights_un_slo_msed_64kb_0093	o viːkocɛ svojix praːv a slobuod jɛ kaʒdiː poɟrobɛciː iba takiːm obmɛdzɛciam ktorɛː stacoviːzaːkon a ktorɛː sluːʒia viːɦradcɛ k zabɛzpɛtʃɛciu caːlɛʒitɛːɦo uzŋaːvacia a zaxovaːvacia praːv aslobuod iciːx ako aj k uspokojɛniu spravodʎiviːx poʒiaɟaviek moraːlki vɛrɛjcɛːɦo poriadku avʃɛobɛtscɛːɦo blaɦa v ɟɛmokratitskɛj spoʎotʃcosti
+human_rights_un_slo_msed_64kb_0094	iːkon tiːxto praːv a slobuod cɛsmie bic v ʒiaɟcom priːpaɟɛ v rozporɛ s tsieʎmi a zaːsadami
+human_rights_un_slo_msed_64kb_0095	rɡacizaːtsie pojɛciːx ɲaːrodov
+human_rights_un_slo_msed_64kb_0096	laːɲok
+human_rights_un_slo_msed_64kb_0097	tɛjto ɟɛkʎaraːtsii sa cɛsmie citʃ vikʎadac tak abi to opraːvɲovalo akiːkoʎvɛk ʃtaːt skupicu alɛboosobu viviːjac tʃicɲosc alɛbo ɟopuːʃcac sa tʃicov ktorɛː bi smɛrovali k potʎatʃɛciu ciektorɛːɦo zpraːv alɛbo slobuod v tɛjto ɟɛkʎaraːtsii viɦʎaːsɛniːx
