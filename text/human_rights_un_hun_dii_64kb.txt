@@ -1,0 +1,169 @@
+hun_0001	Az Emberi Jogok Egyetemes Nyilatkozata
+hun_0002	Bevezető
+hun_0003	Tekintettel arra, hogy az emberiség családja minden egyes tagja méltóságának, valamintegyenlő és elidegeníthetetlen jogainak elismerése alkotja a szabadság, az igazság és abéke alapját a világon,
+hun_0004	Tekintettel arra, hogy az emberi jogok el nem ismerése és semmibevevése az emberiséglelkiismeretét fellázító barbár cselekményekhez vezetett, és hogy az ember legfőbb vágyaegy olyan világ eljövetele, amelyben az elnyomástól, valamint a nyomortól megszabadultemberi lények szava és meggyőződése szabad lesz,
+hun_0005	Tekintettel annak fontosságára, hogy az emberi jogokat a jog uralma védelmezze, nehogyaz ember végső szükségében a zsarnokság és az elnyomás elleni lázadásra kényszerüljön,
+hun_0006	Tekintettel arra, hogy igen lényeges a nemzetek közötti baráti kapcsolatok kifejeződésénekelőmozdítása,
+hun_0007	Tekintettel arra, hogy az Alapokmányban az Egyesült Nemzetek népei újból hitet tettek azalapvető emberi jogok, az emberi személyiség méltósága és értéke, a férfiak és nőkegyenjogúsága mellett, valamint kinyilvánították azt az elhatározásukat, hogy elősegítik aszociális haladást és nagyobb szabadság mellett jobb életfeltételeket valósítanak meg,
+hun_0008	Tekintettel arra, hogy a tagállamok kötelezték magukat arra, hogy az Egyesült Nemzetek
+hun_0009	Szervezetével együttműködve biztosítják az emberi jogok és alapvető szabadságokáltalános és tényleges tiszteletbentartását,
+hun_0010	Tekintettel arra, hogy a jogok és szabadságok mibenléte tekintetében közös felfogáskialakításának a legnagyobb jelentősége van az említett kötelezettség maradéktalanteljesítésének szempontjábóla közgyűlés kinyilvánítja  az emberi jogok egyetemleges nyilatkozatátmint azt a közös eszményt, amelynek elérésére minden népnek ésminden nemzetnek törekednie kell abból a célból, hogy minden személyés a társadalom minden szerve, állandóan szem előtt tartva a jelen
+hun_0011	Nyilatkozatot, oktatás és nevelés útján előmozdítsa e jogok ésszabadságok tiszteletbentartásának kifejlesztését, valamint azoknakfokozatosan megvalósuló hazai és nemzetközi jogszabályok útján történőáltalános és tényleges alkalmazását és elismerését mind a tagállamoknépei között, mind pedig a joghatóságuk alatt álló területek népei között.
+hun_0012	1.
+hun_0013	cikk
+hun_0014	Minden.
+hun_0015	emberi lény szabadon születik és egyenlő méltósága és joga van.
+hun_0016	Az emberek,ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogyviseltessenek.
+hun_0017	2.
+hun_0018	cikk
+hun_0019	Mindenki, bármely megkülönböztetésre, nevezetesen fajra, színre, nemre, nyelvre, vallásra,politikai vagy bármely más véleményre, nemzeti vagy társadalmi eredetre, vagyonra,születésre, vagy bármely más körülményre való tekintet nélkül hivatkozhat a jelen
+hun_0020	Nyilatkozatban kinyilvánított összes jogokra és szabadságokra.
+hun_0021	Ezenfelül nem lehet semmiféle megkülönböztetést tenni annak az országnak, vagyterületnek politikai, jogi vagy nemzetközi helyzete alapján sem, amelynek a személyállampolgára, aszerint, hogy az illető ország vagy terület független, gyámság alatt áll, nemautonóm vagy szuverenitása bármely vonatkozásban korlátozott.
+hun_0022	3.
+hun_0023	cikk
+hun_0024	Minden személynek joga van az élethez, a szabadsághoz és a személyi biztonsághoz.
+hun_0025	4.
+hun_0026	cikk
+hun_0027	Senkit sem lehet rabszolgaságban, vagy szolgaságban tartani, a rabszolgaság és arabszolgakereskedés minden alakja tilos.
+hun_0028	5.
+hun_0029	cikk
+hun_0030	Senkit sem lehet kínvallatásnak, avagy kegyetlen, embertelen vagy lealacsonyítóbüntetésnek vagy bánásmódnak alávetni.
+hun_0031	6.
+hun_0032	cikk
+hun_0033	Mindenkinek joga van ahhoz, hogy jogalanyiságát bárhol elismerjék.
+hun_0034	7.
+hun_0035	cikk
+hun_0036	A törvény előtt mindenki egyenlő és minden megkülönböztetés nélkül joga van a törvényegyenlő védelméhez.
+hun_0037	Mindenkinek joga van egyenlő védelemhez a jelen Nyilatkozatot sértőminden megkülönböztetéssel és minden ilyen megkülönböztetésre irányuló felbujtássalszemben.
+hun_0038	8.
+hun_0039	cikk
+hun_0040	Minden személynek joga van az alkotmányban vagy a törvényben részére biztosítottalapvető jogokat sértő eljárások ellen a hazai bíróságokhoz tényleges jogorvoslatértfolyamodni.
+hun_0041	9.
+hun_0042	cikk
+hun_0043	Senkit sem lehet önkényesen letartóztatni, őrizetbe venni vagy száműzni.
+hun_0044	10.
+hun_0045	cikk
+hun_0046	Minden személynek teljesen egyenlő joga van arra, hogy ügyét független és pártatlanbíróság méltányosan és nyilvánosan tárgyalja, s ez határozzon  egyrészt jogai éskőtelezettségei felől, másrészt minden ellene emelt bűnügyi vád megalapozottsága felől.
+hun_0047	11.
+hun_0048	cikk
+hun_0049	1.
+hun_0050	Minden büntetendő cselekménnyel vádolt személyt ártatlannak kell vélelmeznimindaddig, amíg bűnősségét nyilvánosan lefolytatott perben, a védelméhez szükségesvalamennyi biztosíték mellett, törvényesen megállapítják.
+hun_0051	2.
+hun_0052	Senkit sem szabad elítélni oly cselekményért vagy mulasztásért, amely elkövetésepillanatában a hazai jog vagy a nemzetközi jog szerint nem volt büntetendő cselekmény.
+hun_0053	Ugyancsak nem szabad súlyosabb büntetést kiszabni, mint amely a büntetendőcselekmény elkövetése pillanatában volt alkalmazható.
+hun_0054	12.
+hun_0055	cikk
+hun_0056	Senkinek magánéletébe, családi ügyeibe, lakóhelye megválasztásába vagy levelezésébenem szabad önkényesen beavatkozni, sem pedig becsületében vagy jó hírnevébenmegsérteni.
+hun_0057	Minden személynek joga van az ilyen beavatkozásokkal vagy sértésekkelszemben a törvény védelméhez.
+hun_0058	13.
+hun_0059	cikk
+hun_0060	1.
+hun_0061	Az államon belül minden személynek joga van szabadon mozogni és lakóhelyétszabadon megválasztani.
+hun_0062	2.
+hun_0063	Minden személynek joga van minden országot, ideértve saját hazáját is, elhagyni,valamint saját hazájába visszatérni.
+hun_0064	14.
+hun_0065	cikk
+hun_0066	1.
+hun_0067	Minden személynek joga van az üldözés elől más országban menedéket keresni és amás ország nyújtotta menedéket élvezni.
+hun_0068	2.
+hun_0069	Erre a jogra nem lehet hivatkozni közönséges bűncselekmény miatti.
+hun_0070	kellőképpenmegalapozott üldözés, sem pedig az Egyesült Nemzetek céljaival és elveivel ellentétestevékenység esetében.
+hun_0071	15.
+hun_0072	cikk
+hun_0073	1.
+hun_0074	Minden személynek joga van valamely állampolgársághoz.
+hun_0075	2.
+hun_0076	Senkit sem lehet sem állampolgárságától, sem állampolgársága megváltoztatásánakjogától önkényesen megfosztani.
+hun_0077	16.
+hun_0078	cikk
+hun_0079	1.
+hun_0080	Mind a férfinak, mind a nőnek a házasságra érett kor elérésétől kezdve joga van fajon,nemzetiségen vagy valláson alapuló korlátozás nélkül házasságot kötni és családotalapítani.
+hun_0081	A házasság tekintetében a férfinak és a nőnek mind a házasság tartama alatt,mind a házasság felbontása tekintetében egyenlő jogai vannak.
+hun_0082	2.
+hun_0083	Házasságot csak a jövendő házastársak szabad és teljes beleegyezésével lehet kötni.
+hun_0084	3.
+hun_0085	A család a társadalom természetes és alapvető alkotó eleme és joga van a társadalom,valamint az állam védelmére.
+hun_0086	17.
+hun_0087	cikk
+hun_0088	1.
+hun_0089	Minden személynek, mind egyénileg, mind másokkal együttesen joga van a tulajdonhoz.
+hun_0090	2.
+hun_0091	Senkit sem lehet tulajdonától önkényesen megfosztani.
+hun_0092	18.
+hun_0093	cikk
+hun_0094	Minden személynek joga van a gondolat, a lelkiismeret és a vallás szabadságához, ez a jogmagában foglalja a vallás és a meggyőződés megváltoztatásának szabadságát, valamint avallásnak vagy a meggyőződésnek mind egyénileg, mind együttesen, mind a nyilvánosságelőtt, mind a magánéletben oktatás, gyakorlás és szertartások végzése útján valókifejezésre juttatásának jogát.
+hun_0095	19.
+hun_0096	cikk
+hun_0097	Minden személynek joga van a vélemény és a kifejezés szabadságához, amely magábanfoglalja azt a jogot, hogy véleménye miatt ne szenvedjen zaklatást és hogy határokra valótekintet nélkül kutathasson, átvihessen és terjeszthessen híreket és eszméket bármilyenkifejezési módon.
+hun_0098	20.
+hun_0099	cikk
+hun_0100	1.
+hun_0101	Minden személynek joga van békés célú gyülekezési és egyesülési szabadsághoz.
+hun_0102	2.
+hun_0103	Senkit sem lehet valamely egyesületbe való belépésre kőtelezni.
+hun_0104	21.
+hun_0105	cikk
+hun_0106	1.
+hun_0107	Minden személynek joga van a hazája közügyeinek igazgatásában akár közvetlenül, akárszabadon választott képviselői útján való részvételhez.
+hun_0108	2.
+hun_0109	Minden személynek egyenlő feltételek mellett joga van saját hazájában közszolgálatiállásokra való alkalmazásához.
+hun_0110	3.
+hun_0111	A közhatalom tekintélyének alapja a nép akarata;
+hun_0112	ez az akarat egyenlő szavazati jog éstitkos szavazás vagy a szavazás szabadságát ezzel egyenértékűen biztosító eljárás alapjánidőszakonként tartandó tisztességes választáson kell hogy kifejezésre jusson.
+hun_0113	22.
+hun_0114	cikk
+hun_0115	Minden személynek mint a társadalom tagjának joga van a szociális biztonsághoz;
+hun_0116	mindenszemélynek ugyancsak igénye van arra, hogy -az államok erőfeszítései és a nemzetköziegyüttműködés eredményeképpen és számotvetve az egyes országok szervezetével és gazdasági erőforrásaival- a méltóságához ésszemélyiségének szabadon való kifejlődéséhez szükséges gazdasági, szociális éskulturális jogait kielégíthesse.
+hun_0117	23.
+hun_0118	cikk
+hun_0119	1.
+hun_0120	Minden személynek joga van a munkához, a munka szabad megválasztásához, améltányos és kielégítő munkafeltételekhez és a munkanélküliség elleni védelemhez.
+hun_0121	2.
+hun_0122	Az egyenlő munkáért mindenkinek, bármilyen megkülönböztetés nélkül egyenlő bérhezvan joga.
+hun_0123	3.
+hun_0124	Mindenkinek, aki dolgozik, olyan méltányos és kielégítő fizetéshez van joga, amelyszámára és családja számára az emberi méltóságnak megfelelő létet biztosít és amelyetmegfelelő esetben a szociális védelem összes egyéb eszközei egészítenek ki.
+hun_0125	4.
+hun_0126	Minden személynek joga van a pihenéshez, a szabad időhöz, nevezetesen a munkaidőtartamának ésszerű korlátozásához, valamint az időszakonkénti fizetett szabadsághoz.
+hun_0127	24.
+hun_0128	cikk
+hun_0129	Minden személynek joga van a pihenésre és szabadidőre, beleértve a munkaidő ésszerűkorlátozását és az időszakos fizetett szabadságot.
+hun_0130	25.
+hun_0131	cikk
+hun_0132	1.
+hun_0133	Minden személynek joga van saját maga és családja egészségének és jóléténekbiztosítására alkalmas életszínvonalhoz, nevezetesen élelemhez, ruházathoz, lakáshoz,orvosi gondozáshoz, valamint a szükséges szociális szolgáltatásokhoz, joga van amunkanélküliség, betegség, rokkantság, özvegység, öregség esetére szóló, valamintmindazon más esetekre szóló biztosításhoz, amikor létfenntartási eszközeit akaratátólfüggetlen körülmények miatt elveszíti.
+hun_0134	2.
+hun_0135	Az anyaság és a gyermekkor különleges segítséghez és támogatáshoz adnak jogot.
+hun_0136	Minden gyermek, akár házasságból, akár házasságon kívül született, ugyanabban aszociális védelemben részesül.
+hun_0137	26.
+hun_0138	cikk
+hun_0139	1.
+hun_0140	Minden személynek joga van a neveléshez.
+hun_0141	A nevelésnek, legalábbis az elemi ésalapvető oktatást illetően, ingyenesnek kell lennie.
+hun_0142	Az elemi oktatás kötelező.
+hun_0143	A technikai ésszakoktatást általánossá kell tenni;
+hun_0144	a felsőbb tanulmányokra való felvételnek mindenki előtt
+hun_0145	-érdeméhez képest- egyenlő feltételek mellett nyitva kell állnia.
+hun_0146	2.
+hun_0147	A nevelésnek az emberi személyiség teljes kibontakoztatására, valamint az emberi jogokés alapvető szabadságok tiszteletbentartásának megerősítésére kell irányulnia.
+hun_0148	Anevelésnek elő kell segítenie a nemzetek, valamint az összes faji és vallási csoportokközötti megértést, türelmet és barátságot, valamint az Egyesült Nemzetek által a békefenntartásának érdekében kifejtett tevékenység kifejlődését.
+hun_0149	3.
+hun_0150	A szülőket elsőbbségi jog illeti meg a gyermekeiknek adandó nevelés megválasztásában.
+hun_0151	27.
+hun_0152	cikk
+hun_0153	1.
+hun_0154	Minden személynek joga van a közösség kulturális életében való szabad részvételhez, aművészetek élvezéséhez, valamint a tudomány haladásában és az abból származójótéteményekben való részvételhez.
+hun_0155	2.
+hun_0156	Mindenkinek joga van minden általa alkotott tudományos, irodalmi és művészetitermékkel kapcsolatos erkölcsi és anyagi érdekeinek védelméhez.
+hun_0157	28.
+hun_0158	cikk  Minden személynek joga van ahhoz, hogy mind a társadalmi,mind a nemzetközi viszonyok tekintetében olyan rendszer uralkodjék,amelyben a jelen Nyilatkozatban kinyilvánított jogok és szabadságokteljes hatállyal érvényesülhessenek.
+hun_0159	29.
+hun_0160	cikk
+hun_0161	1.
+hun_0162	A személynek kőtelességei vannak a közösséggel szemben, amelynek keretébenegyedül lehetséges a személyiség szabad és teljes kifejlődése.
+hun_0163	2.
+hun_0164	Jogainak gyakorlása és szabadságainak élvezete tekintetében senki sincs alávetve máskorlátozásnak, mint amelyet a törvény kizárólag mások jogai és szabadságai elismerésénekés tiszteletbentartásának biztosítása érdekében, valamint a demokratikus társadalomerkölcse, közrendje és általános jóléte jogos követelményeinek kielégítése érdekébenmegállapít.
+hun_0165	3.
+hun_0166	Ezeket a jogokat és szabadságokat semmi esetre sem lehet az Egyesült Nemzetekcéljaival és elveivel ellentétesen gyakorolni.
+hun_0167	30.
+hun_0168	cikk
+hun_0169	A jelen Nyilatkozat egyetlen rendelkezése sem értelmezhető úgy, hogy az valamely állam,valamely csoport, vagy valamely egyén részére bármilyen jogot adna arra, hogy az ittkinyilvánított jogok és szabadságok megsemmisítésére irányuló tevékenységet fejtsen ki,vagy ilyen cselekményt elkövessen.

@@ -1,0 +1,363 @@
+fin_0001	Yhdistyneiden kansakuntien kolmas yleiskokous hyväksyi ja julkisti ihmisoikeuksien yleismaailmallisen julistuksen joulukuun 10.
+fin_0002	päi-vänä 1948.
+fin_0003	Julistuksen hyväksymisen puolesta äänesti 48 maata.
+fin_0004	Mikään maa ei äänestänytvastaan.
+fin_0005	Kahdeksan maata pidättyi äänestämästä.
+fin_0006	Välittömästi tämän historiallisen tapahtuman jälkeen yleiskokous kehotti kaikkiajäsenmaita julkaisemaan julistuksen tekstin.
+fin_0007	Niitä pyydettiin "levittämään jatekemään sitä tunnetuksi, lukemaan ja selittämään sitä ennen kaikkea kouluissaja muissa oppilaitoksissa eri maiden ja alueiden poliittisista oloista riippumatta".
+fin_0008	Julistuksen virallinen teksti on saatavissa YK:n kuudella virallisella kielellä:arabiaksi, englanniksi, espanjaksi, kiinaksi, ranskaksi ja venäjäksi.
+fin_0009	Myös monet
+fin_0010	YK:n jäsenmaat ovat noudattaneet yleiskokouksen kehotusta ja kääntäneetjulistuksen omalle kielelleen.
+fin_0011	Seuraavilla sivuilla oleva käännös on Suomenhallituksen vahvistama.
+fin_0012	Julistuksen ilmaiskappaleita on saatavana YK:n Kööpenhaminassa sijaitsevastapohjoismaisesta tiedotustoimistosta YK:n virallisilla kielillä, pohjoismaisilla kielilläja rajallinen määrä muilla kielillä.
+fin_0013	IHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS
+fin_0014	IHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS
+fin_0015	IHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS
+fin_0016	IHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS
+fin_0017	JOHDANTO
+fin_0018	JOHDANTO
+fin_0019	JOHDANTO
+fin_0020	JOHDANTO
+fin_0021	Kun ihmiskunnan kaikkien jäsenten luonnollisen arvon ja heidän yhtäläisten jaluovuttamattomien oikeuksiensa tunnustaminen on vapauden,oikeudenmukaisuuden ja rauhan perustana maailmassa,kun ihmisoikeuksia on väheksytty tai ne on jätetty huomiota vaille, on tapahtunutraakalaistekoja, jotka ovat järkyttäneet ihmiskunnan omaatuntoa, ja kun kansojenkorkeimmaksi päämääräksi on julistettu sellaisen maailman luominen, missäihmiset voivat vapaasti nauttia sanan ja uskon vapautta sekä elää vapainapelosta ja puutteesta,kun on välttämätöntä, että ihmisoikeudet turvataan oikeusjärjestyksellä, jottaihmisten ei olisi pakko viimeisenä keinona nousta kapinaan pakkovaltaa ja sortoavastaan,kun on tähdellistä edistää ystävällisten suhteiden kehittymistä kansojen välille,kun Yhdistyneiden Kansakuntien kansat ovat peruskirjassa vahvistaneet uskonsaihmisten perusoikeuksiin, ihmisyksilön arvoon ja merkitykseen sekä miesten janaisten yhtäläisiin oikeuksiin ja kun ne ovat ilmaisseet vakaan tahtonsa edistääsosiaalista kehitystä ja parempien elämisen ehtojen aikaansaamistavapaammissa oloissa,kun jäsenvaltiot ovat sitoutuneet edistämään, yhteistoiminnassa Yhdistyneet
+fin_0022	Kansakunnat -järjestön kanssa, ihmisoikeuksien ja perusvapauksien yleistäkunnioittamista ja noudattamista, ja,kun yhteinen käsitys näiden oikeuksien ja vapauksien sisällöstä on mitä tärkeintämän sitoumuksen täydelliselle toteuttamiselle,
+fin_0023	Niin sen vuoksi
+fin_0024	YLEISKOKOUSantaa TÄMÄN IHMISOIKEUKSIEN YLEISMAAILMALLISEN JULISTUKSENkaikkien kansojen ja kaikkien kansakuntien tavoiteltavaksi yhteiseksi ohjeeksi,jotta kukin yksilö ja kukin yhteiskuntaelin pyrkisi, pitäen alati mielessään tämänjulistuksen, valistamalla ja opettamalla edistämään näiden oikeuksien javapauksien kunnioittamista sekä turvaamaan jatkuvin kansallisin jakansainvälisin toimenpitein niiden yleisen ja tehokkaan tunnustamisen janoudattamisen sekä itse jäsenvaltioiden kansojen että niiden oikeuspiirissäolevien alueiden kansojen keskuudessa.
+fin_0025	1.
+fin_0026	artikla.
+fin_0027	1.
+fin_0028	artikla.
+fin_0029	1.
+fin_0030	artikla.
+fin_0031	1.
+fin_0032	artikla.
+fin_0033	Kaikki ihmiset syntyvät vapaina ja tasavertaisina arvoltaan ja oikeuksiltaan.
+fin_0034	Heilleon annettu järki ja omatunto, ja heidän on toimittava toisiaan kohtaan veljeydenhengessä.
+fin_0035	2.
+fin_0036	artikla.
+fin_0037	2.
+fin_0038	artikla.
+fin_0039	2.
+fin_0040	artikla.
+fin_0041	2.
+fin_0042	artikla.
+fin_0043	Jokainen on oikeutettu kaikkiin tässä julistuksessa esitettyihin oikeuksiin javapauksiin ilman minkäänlaista rotuun, väriin, sukupuoleen, kieleen, uskontoon,poliittiseen tai muuhun mielipiteeseen, kansalliseen tai yhteiskunnalliseenalkuperään, omaisuuteen, syntyperään tai muuhun tekijään perustuvaa erotusta.
+fin_0044	Mitään erotusta ei myöskään pidä tehdä sen maan tai alueen valtiollisen,hallinnollisen tai kansainvälisen aseman perusteella, johon henkilö kuuluu, olipatämä alue itsenäinen, huoltohallinnossa, itsehallintoa vailla taitäysivaltaisuudeltaan minkä tahansa muun rajoituksen alainen.
+fin_0045	3.
+fin_0046	artikla.
+fin_0047	3.
+fin_0048	artikla.
+fin_0049	3.
+fin_0050	artikla.
+fin_0051	3.
+fin_0052	artikla.
+fin_0053	Kullakin yksilöllä on oikeus elämään, vapauteen ja henkilökohtaiseenturvallisuuteen.
+fin_0054	4.
+fin_0055	artikla.
+fin_0056	4.
+fin_0057	artikla.
+fin_0058	4.
+fin_0059	artikla.
+fin_0060	4.
+fin_0061	artikla.
+fin_0062	Ketään ei saa pitää orjana tai orjuutettuna, kaikki orjuuden ja orjakaupan muodoton kiellettävä.
+fin_0063	5.
+fin_0064	artikla.
+fin_0065	5.
+fin_0066	artikla.
+fin_0067	5.
+fin_0068	artikla.
+fin_0069	5.
+fin_0070	artikla.
+fin_0071	Ketään ei saa kiduttaa eikä kohdella tai rangaista julmasti, epäinhimillisesti taialentavasti.
+fin_0072	6.
+fin_0073	artikla.
+fin_0074	6.
+fin_0075	artikla.
+fin_0076	6.
+fin_0077	artik
+fin_0078	6.
+fin_0079	artikla.
+fin_0080	la.
+fin_0081	Jokaisella ihmisellä on kaikkialla oikeus siihen, että hänet henkilönä tunnustetaanlain edessä.
+fin_0082	7.
+fin_0083	artikla.
+fin_0084	7.
+fin_0085	artikla.
+fin_0086	7.
+fin_0087	artikla.
+fin_0088	7.
+fin_0089	artikla.
+fin_0090	Kaikki ovat tasavertaisia lain edessä ja oikeutetut erotuksetta yhtäläiseen lainsuojaan.
+fin_0091	Kaikilla on oikeus tasavertaiseen suojaan tätä julistusta loukkaavaasyrjintää vastaan sekä kaikkea sellaiseen syrjintään tähtäävää yllytystä vastaan.
+fin_0092	8.
+fin_0093	artikla.
+fin_0094	8.
+fin_0095	artikla.
+fin_0096	8.
+fin_0097	artikla.
+fin_0098	8.
+fin_0099	artikla.
+fin_0100	Jokaisella on oikeus tehokkaaseen hyvitykseen asianomaisessa kansallisessatuomioistuimessa häneen kohdistuneista teoista, jotka loukkaavat hänellevaltiosäännöllä tai lailla turvattuja perusoikeuksia.
+fin_0101	9.
+fin_0102	artikla.
+fin_0103	9.
+fin_0104	artikla.
+fin_0105	9.
+fin_0106	artikla.
+fin_0107	9.
+fin_0108	artikla.
+fin_0109	Ketään ei saa mielivaltaisesti pidättää, vangita tai ajaa maanpakoon.
+fin_0110	10.
+fin_0111	artikla.
+fin_0112	10.
+fin_0113	artikla.
+fin_0114	10.
+fin_0115	artikla.
+fin_0116	10.
+fin_0117	artikla.
+fin_0118	Jokaisella on täysin tasa-arvoisesti oikeus siihen, että häntä oikeudenmukaisestija julkisesti kuullaan riippumattomassa ja puolueettomassa tuomioistuimessahänen oikeuksiaan ja velvollisuuksiaan määrättäessä tai häntä vastaan nostettuarikossyytettä selvitettäessä.
+fin_0119	11.
+fin_0120	artikla.
+fin_0121	11.
+fin_0122	artikla.
+fin_0123	11.
+fin_0124	artikla.
+fin_0125	11.
+fin_0126	artikla.
+fin_0127	1.
+fin_0128	Jokaisen rikollisesta teosta syytteessä olevan henkilön edellytetäänolevan syytön siihen asti kunnes hänen syyllisyytensä on laillisestitodistettu julkisessa oikeudenkäynnissä, jossa hänelle turvataan kaikkihänen puolustustaan varten tarpeelliset takeet.
+fin_0129	2.
+fin_0130	Ketään ei pidä tuomita rangaistavaksi teoista tai laiminlyönneistä, jotkaeivät kansallisen tai kansainvälisen oikeuden mukaan olleet rikollisiatekohetkellä.
+fin_0131	Myöskään ei pidä tuomita ankarampaan rangaistukseen,kuin mikä oli sovellettavissa rangaistavan teon suoritushetkellä.
+fin_0132	12.
+fin_0133	artikla.
+fin_0134	12.
+fin_0135	artikla.
+fin_0136	12.
+fin_0137	artikla.
+fin_0138	12.
+fin_0139	artikla.
+fin_0140	Älköön mielivaltaisesti puututtako kenenkään yksityiselämään, perheeseen, kotiintai kirjeenvaihtoon älköönkä loukattako kenenkään kunniaa ja mainetta.
+fin_0141	Jokaisella on oikeus lain suojaan sellaista puuttumista tai loukkausta vastaan.
+fin_0142	13.
+fin_0143	artikla.
+fin_0144	13.
+fin_0145	artikla.
+fin_0146	13.
+fin_0147	artikla.
+fin_0148	13.
+fin_0149	artikla.
+fin_0150	1.
+fin_0151	Jokaisella on oikeus liikkua vapaasti ja valita asuinpaikkansa kunkinvaltion sisällä.
+fin_0152	2.
+fin_0153	Jokaisella on oikeus lähteä maasta, myös omasta maastaan, ja palatamaahansa.
+fin_0154	14.
+fin_0155	artikla.
+fin_0156	14.
+fin_0157	artikla.
+fin_0158	14.
+fin_0159	artikla.
+fin_0160	14.
+fin_0161	artikla.
+fin_0162	1.
+fin_0163	Jokaisella vainon kohteeksi joutuneella on oikeus hakea ja nauttiaturvapaikkaa muissa maissa.
+fin_0164	2.
+fin_0165	Tähän oikeuteen ei voida vedota, kun on kysymys tosi epäpoliittisistarikoksista johtuvista syytteistä tai teoista, jotka ovat vastoin Yhdistyneiden
+fin_0166	Kansakuntien periaatteita ja päämääriä.
+fin_0167	15.
+fin_0168	artikla.
+fin_0169	15.
+fin_0170	artikla.
+fin_0171	15.
+fin_0172	artikla.
+fin_0173	15.
+fin_0174	artikla.
+fin_0175	1.
+fin_0176	Jokaisella on oikeus kansalaisuuteen.
+fin_0177	2.
+fin_0178	Keltään ei saa mielivaltaisesti riistää kansalaisuutta eikä evätä oikeuttakansalaisuuden vaihtamiseen.
+fin_0179	16.
+fin_0180	artikla.
+fin_0181	16.
+fin_0182	artikla.
+fin_0183	16.
+fin_0184	artikla.
+fin_0185	16.
+fin_0186	artikla.
+fin_0187	1.
+fin_0188	Täysi-ikäisillä miehillä ja naisilla on oikeus solmia avioliitto ja perustaaperhe ilman minkäänlaisia rodusta, kansalaisuudesta tai uskonnostajohtuvia rajoituksia.
+fin_0189	Heillä on yhtäläiset oikeudet avioliittoon, avioliitonaikana ja sen purkamisen jälkeen.
+fin_0190	2.
+fin_0191	Avioliiton solmiminen tapahtukoon vain tulevien aviopuolisoiden vapaastaja täydestä suostumuksesta.
+fin_0192	3.
+fin_0193	Perhe on yhteiskunnan luonnollinen ja perustava ydinosa ja sillä on oikeusyhteiskunnan ja valtion suojaan.
+fin_0194	17.
+fin_0195	artikla.
+fin_0196	17.
+fin_0197	artikla.
+fin_0198	17.
+fin_0199	artikla.
+fin_0200	17.
+fin_0201	artikla.
+fin_0202	1.
+fin_0203	Jokaisella on oikeus omistaa omaisuutta yksin tai yhdessä toisten kanssa.
+fin_0204	2.
+fin_0205	Keltään älköön mielivaltaisesti riistettäkö hänen omaisuuttaan.
+fin_0206	18.
+fin_0207	artikla.
+fin_0208	18.
+fin_0209	artikla.
+fin_0210	18.
+fin_0211	artikla.
+fin_0212	18.
+fin_0213	artikla.
+fin_0214	Jokaisella ihmisellä on ajatuksen, omantunnon ja uskonnon vapaus;
+fin_0215	tämä oikeussisältää vapauden uskonnon tai vakaumuksen vaihtamiseen sekä uskonnon taivakaumuksen julistamiseen yksin tai yhdessä toisten kanssa, sekä julkisesti ettäyksityisesti, opettamalla sekä harjoittamalla hartautta ja uskonnollisia menoja.
+fin_0216	19.
+fin_0217	artikla.
+fin_0218	19.
+fin_0219	artikla.
+fin_0220	19.
+fin_0221	artikla.
+fin_0222	19.
+fin_0223	artikla.
+fin_0224	Jokaisella on oikeus mielipiteen- ja sananvapauteen;
+fin_0225	tähän sisältyy oikeushäiritsemättä pitää mielipiteensä sekä oikeus rajoista riippumatta hankkia,vastaanottaa ja levittää tietoja kaikkien tiedotusvälineiden kautta.
+fin_0226	20.
+fin_0227	artikla.
+fin_0228	20.
+fin_0229	artikla.
+fin_0230	20.
+fin_0231	artikla.
+fin_0232	20.
+fin_0233	artikla.
+fin_0234	1.
+fin_0235	Kaikilla on oikeus rauhanomaiseen kokoontumis- ja yhdistymisvapauteen.
+fin_0236	2.
+fin_0237	Ketään ei saa pakottaa liittymään mihinkään yhdistykseen.
+fin_0238	21.
+fin_0239	artikla
+fin_0240	21.
+fin_0241	artikla....
+fin_0242	21.
+fin_0243	artikla
+fin_0244	21.
+fin_0245	artikla
+fin_0246	1.
+fin_0247	Jokaisella on oikeus osallistua maansa hallitsemiseen joko välittömästi taivapaasti valittujen edustajien välityksellä.
+fin_0248	2.
+fin_0249	Jokaisella on yhtäläinen oikeus päästä maansa julkisiin toimiin.
+fin_0250	3.
+fin_0251	Kansan tahto on hallitusvallan perusta;
+fin_0252	tämä tahto on ilmaistavamääräaikaisilla ja aidoilla vaaleilla, joissa kaikilla on yleinen ja yhtäläinenäänioikeus ja joissa äänestys on salainen tai muuta vaalivapaudenturvaavaa menettelyä noudattava.
+fin_0253	22.
+fin_0254	artikla.
+fin_0255	22.
+fin_0256	artikla.
+fin_0257	22.
+fin_0258	artikla.
+fin_0259	22.
+fin_0260	artikla.
+fin_0261	Jokaisella on yhteiskunnan jäsenenä oikeus sosiaaliturvaan sekä oikeuskansallisten toimenpiteiden ja kansainvälisen yhteistyön kautta kunkin maanjärjestelmä ja voimavarat huomioonottaen, nauttia hänen ihmisarvolleen ja hänenyksilöllisen olemuksensa vapaalle kehittymiselle välttämättömiä taloudellisia,sosiaalisia ja sivistyksellisiä oikeuksia.
+fin_0262	23.
+fin_0263	artikla.
+fin_0264	23.
+fin_0265	artikla.
+fin_0266	23.
+fin_0267	artikla.
+fin_0268	23.
+fin_0269	artikla.
+fin_0270	1.
+fin_0271	Jokaisella on oikeus työhön, työpaikan vapaaseen valintaan,oikeudenmukaisiin ja tyydyttäviin työehtoihin sekä suojaan työttömyyttävastaan.
+fin_0272	2.
+fin_0273	Jokaisella on oikeus ilman minkäänlaista syrjintää samaan palkkaansamasta työstä.
+fin_0274	3.
+fin_0275	Jokaisella työtä tekevällä on oikeus kohtuulliseen ja riittävään palkkaan,joka turvaa hänelle ja hänen perheelleen ihmisarvon mukaisentoimeentulon ja jota tarpeen vaatiessa täydentävät muut sosiaalisensuojelun keinot.
+fin_0276	4.
+fin_0277	Jokaisella on oikeus perustaa ammattiyhdistyksiä ja liittyä niihin etujensapuolustamiseksi.
+fin_0278	24.
+fin_0279	artikla.
+fin_0280	24.
+fin_0281	artikla.
+fin_0282	24.
+fin_0283	artikla.
+fin_0284	24.
+fin_0285	artikla.
+fin_0286	Jokaisella on oikeus lepoon ja vapaa-aikaan, työajan järkevään rajoittamiseensekä määräaikaisiin palkallisiin lomiin.
+fin_0287	22225.
+fin_0288	artikla.
+fin_0289	5.
+fin_0290	artikla.
+fin_0291	5.
+fin_0292	artikla.
+fin_0293	5.
+fin_0294	artikla.
+fin_0295	1.
+fin_0296	Jokaisella on oikeus elintasoon, joka on riittävä turvaamaan hänen jahänen perheensä terveyden ja hyvinvoinnin ravinnon, vaatetuksen,asunnon, lääkintähuollon ja välttämättömän yhteiskunnallisen huollonosalta.
+fin_0297	Jokaisella on myös oikeus turvaan työttömyyden, sairauden,tapaturman, leskeyden tai vanhuuden sekä muun hänen tahdostaanriippumatta tapahtuneen toimeentulon menetyksen varalta.
+fin_0298	2.
+fin_0299	Äideillä ja lapsilla on oikeus erityiseen huoltoon ja apuun.
+fin_0300	Kaikkien lasten,riippumatta siitä, ovatko he syntyneet avioliitossa tai sen ulkopuolella,tulee nauttia samaa yhteiskunnan suojaa.
+fin_0301	26.
+fin_0302	artikla.
+fin_0303	26.
+fin_0304	artikla.
+fin_0305	26.
+fin_0306	artikla.
+fin_0307	26.
+fin_0308	artikla.
+fin_0309	1.
+fin_0310	Jokaisella on oikeus saada opetusta.
+fin_0311	Opetuksen on oltava ainakin alkeis-ja perusopetuksen osalta maksutonta.
+fin_0312	Alkeisopetuksen on oltavapakollinen.
+fin_0313	Teknistä ja ammattiopetusta on oltava yleisesti saatavilla, jakorkeamman opetuksen on oltava avoinna yhtäläisesti kaikille heidänkykyjensä mukaan.
+fin_0314	2.
+fin_0315	Opetuksen on pyrittävä ihmisen persoonallisuuden täyteen kehittämiseensekä ihmisoikeuksien ja perusvapauksien kunnioittamisenvahvistamiseen.
+fin_0316	Sen tulee edistää ymmärtämystä, suvaitsevaisuutta jaystävyyttä kaikkien kansakuntien ja kaikkien rotu- ja uskontoryhmienkesken sekä pyrkiä edistämään Yhdistyneiden Kansakuntien toimintaarauhan ylläpitämiseksi.
+fin_0317	3.
+fin_0318	Vanhemmilla on ensisijainen oikeus valita heidän lapsilleen annettavanopetuksen laatu.
+fin_0319	27.
+fin_0320	artikla.
+fin_0321	27.
+fin_0322	artikla.
+fin_0323	27.
+fin_0324	artikla.
+fin_0325	27.
+fin_0326	artikla.
+fin_0327	1.
+fin_0328	Jokaisella on oikeus vapaasti osallistua yhteiskunnan sivistyselämään,nauttia taiteista sekä päästä osalliseksi tieteen edistyksen mukanaantuomista eduista.
+fin_0329	2.
+fin_0330	Jokaisella on oikeus niiden henkisten ja aineellisten etujen suojaamiseen,jotka johtuvat hänen luomastaan tieteellisestä, kirjallisesta tai taiteellisestatuotannosta.
+fin_0331	28.
+fin_0332	artikla.
+fin_0333	28.
+fin_0334	artikla.
+fin_0335	28.
+fin_0336	artikla.
+fin_0337	28.
+fin_0338	artikla.
+fin_0339	Jokaisella on oikeus sellaiseen yhteiskunnalliseen ja kansainväliseenjärjestykseen, jonka puitteissa tässä julistuksessa esitetyt oikeudet javelvollisuudet voivat täysin toteutua.
+fin_0340	29.
+fin_0341	artikla.
+fin_0342	29.
+fin_0343	artikla.
+fin_0344	29.
+fin_0345	artikla.
+fin_0346	29.
+fin_0347	artikla.
+fin_0348	1.
+fin_0349	Jokaisella ihmisellä on velvollisuuksia yhteiskuntaa kohtaan, koska vainsen puitteissa hänen yksilöllisen olemuksensa vapaa ja täysi kehitys onmahdollinen.
+fin_0350	2.
+fin_0351	Käyttäessään oikeuksiaan ja nauttiessaan vapauksiaan kukaan ei olemuiden kuin sellaisten lailla säädettyjen rajoitusten alainen, joidenyksinomaisena tarkoituksena on turvata toisten oikeuksien ja vapauksientunnustaminen ja kunnioittaminen sekä moraalin, julkisen järjestyksen jayleisen hyvinvoinnin oikeutetut vaatimukset kansanvaltaisessayhteiskunnassa.
+fin_0352	3.
+fin_0353	Näitä oikeuksia ja vapauksia ei missään tapauksessa saa käyttää vastoin
+fin_0354	Yhdistyneiden Kansakuntien päämääriä ja periaatteita.
+fin_0355	30.
+fin_0356	artikla.
+fin_0357	30.
+fin_0358	artikla.
+fin_0359	30.
+fin_0360	artikla.
+fin_0361	30.
+fin_0362	artikla.
+fin_0363	Mitään tässä julistuksessa ei saa tulkita niin, että valtio, ryhmä tai yksityinenhenkilö voi sen perusteella katsoa oikeudekseen tehdä sellaista, mikä voisihävittää tässä määriteltyjä oikeuksia ja vapauksia.

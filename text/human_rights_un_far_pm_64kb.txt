@@ -1,0 +1,168 @@
+fao_0001	HEIMSYVIRLÝSING UM MANNARÆTTINDI
+fao_0002	INNGANGUR
+fao_0003	Tað verður at viðurkenna, at menniskjuni er virðing íborin, og at allir limirmannaættarinnar eiga somu ómissiligu rættindi, og hetta er støðið undir frælsi,rættvísi og friði í heiminum.
+fao_0004	Har sum mannarættindini hava verið fyri vanbýti og vanvirðing, hevur tað havt viðsær ræðuligar gerðir, sum hava skakað samvitsku mannaættarinnar, og einheimskipan, har sum fólk nýtur talu- og trúarfrælsi og frælsi frá ótta og neyð,hevur verið boðað sum menniskjunar hægsta mið og mál.
+fao_0005	Tað varðar almikið um, mannarættindi verða vard við lógum, um fólk ikki skalverða noytt til sum evstu ráð at taka til uppreistur móti harðræði og kúgan.
+fao_0006	Tað varðar almikið um at elva og stimbra vinalag tióðanna millum.
+fao_0007	Í sáttmáala sínum hava Sameindu Tjóðirnar av nýggjum váttað trúgv sína áundirstøðulig mannarættindi, á sóma menniskjans og virði, og á javnrættindi fyrikvinnur og menn, og tær hava rátt av at fremja framburð í almannamálum ogbøta um lívskor manna í alt meiri frælsi.
+fao_0008	Limaríkini hava skyldubundið seg til, í samvinnu við Sameindu Tjóðirnar, at virkafyri at fáa framt, at mannarættindini og undirstøðilig frælsisrættindi verða almentvird og hildin.
+fao_0009	Tað at allir partar skilja hesi rættindi og frælsi er fremsta treytin fyri, at hendaskylda verður framd út í æsur.
+fao_0010	Tess vegna bjóðar
+fao_0011	AÐALFUNDURIN
+fao_0012	Hesa heimsyvirlýsing um mannarættindi sum felags mið fyri øll fólk og allar tjóðirvið tí endamáli, at hvør einstakur og hvør samfelagsstovnur alsamt við hesiyvirlýsing í huga skal stremba fyri við frálæru og uppaling at fremja virðing fyrihesum rættindum og frælsismálum og við framsøknum atgerðum innanlands ogmillumlanda at tryggja, at tey verða viðurkend og hildin allastðni á munagóðanhátt, bæði í fólkinum í limaríkjunum og í fólkinum í teimum londum, sum eruinnan løgdømi teirra.
+fao_0013	1.
+fao_0014	grein
+fao_0015	Øll menniskju eru fødd fræls og jøvn til virðingar og mannarættindi.
+fao_0016	Tey hava skilog samvitsku og eiga at fara hvørt um annað í bróðuranda.
+fao_0017	2.
+fao_0018	grein
+fao_0019	Øll hava krav um rættindi og frælsi, sum eru nevdn í hesi yvirlýsing, uttan mun tilættarslag (rasu), húðarlit, kyn, mál, átrúnað, politiska ella aðra sannføring,tjóðskaparligan ella samfelagsligan uppruna, ognarviðurskifti, føðing ella aðrastøðu.
+fao_0020	Somuleiðis skal eingin mismunur vera orsakað av politiskari, rættarligari ellamillumtjóða støðu hjá tí landi, sum ein persónur hoyrir til, sama um landið ersjálvstøðugt, undir tilsjónarvaldi, ella fullveldi tess á annan hátt er skert.
+fao_0021	3.
+fao_0022	grein
+fao_0023	Ein og hvør hevur rætt til lív, frælsi og persónliga trygd.
+fao_0024	4.
+fao_0025	grein
+fao_0026	Eingin skal liva í trældómi ella trælkan;
+fao_0027	trældómur og trælahandil av øllum slagskulu verða bannað.
+fao_0028	5.
+fao_0029	grein
+fao_0030	Eingin skal verða píndur ella harðliga, ómenniskjaliga ella vanæruliga viðfarin ellarevsaður.
+fao_0031	6.
+fao_0032	grein
+fao_0033	Øll hava rætt til, hvar tey ery stødd, at verða viðurkend sum persænar fyri lægini.
+fao_0034	7.
+fao_0035	grein
+fao_0036	Øll eru jøvn fyri lægini hava rætt til somu rættarvernd uttan mismun.
+fao_0037	Øll havasama rætt at verða vard fyri mismuni, sum er brot mæti hesi samtykt, og at verðavard fyri allari áeggjan til at skapa tílíkan mismun.
+fao_0038	8.
+fao_0039	grein
+fao_0040	Um onkur fær viðferð, sum er tvørtur ’mæti teimum grundrættindum, sum honumeru tryggjað sambært grundlæg og øðrum landslægum, skal hann hava rætt til atfáa fullar sømdir afturfyri við dæmstælar landsins.
+fao_0041	9.
+fao_0042	grein
+fao_0043	Eingin skal verða tilvildarliga handtikin, settur í varðhald ella gjørdur útlagin.
+fao_0044	10.
+fao_0045	grein
+fao_0046	Øll hava sannan javnrætt till rættvísa og almenna rættarviðgerð fyri æheftum ogævildigum dæmstæli, sum skal tka avgerð um rættindi teirra og skyldur, og umøll revsimál, ið verða reist.
+fao_0047	11.
+fao_0048	grein
+fao_0049	1.
+fao_0050	Hvør, sum verður ákærdur fyri revsiverda ferð, eigur rætt til al verðamettur æsekur, inntil hann er dømdur sekur við almenna rættargongd, harsum hann hevur fingið fulla trygd fyri verju.
+fao_0051	2.
+fao_0052	Eingin skal verða funnin sekur í revsimáli av nøkrum slag, uttan so at gerðella ábyrgdarloysi, sum hann var ákærdur fyri, et at rokna sum brotsgerðsambært landslægum ella lægum, tá ið gerðin varð framd.
+fao_0053	Ei heldur skalstrangari revsing verða ásett enn hon, ið var galdandi, tá ið tannrevsiverda gerðin varð framd.
+fao_0054	12.
+fao_0055	grein
+fao_0056	Eingin eigur at vera fyri tilvildarligari uppílegging í persænlig viðurskifti, heimalívella brævaskifti, ei heldur fyri æruskemd ella útspilling.
+fao_0057	Øll eiga rætt tillægarvernd fyri slíkari uppílegging ella ágangi.
+fao_0058	13.
+fao_0059	grein
+fao_0060	1.
+fao_0061	Øll hava rætt til frítt at fara og búsetast innan fyri landamark í hvørjum ríkisær.
+fao_0062	2.
+fao_0063	Øll hava rætt til at fara av landinum, hvørjum sum er, eisini sínum egna ogat fara heim aftur til sítt land.
+fao_0064	14.
+fao_0065	grein
+fao_0066	1.
+fao_0067	Øll hava rætt at søkja um og fáa friðskjæl í øðrum londum fyrimeinsæknum.
+fao_0068	2.
+fao_0069	Slíkan rætt ber ikki til at skjæta seg undir, tá ið ákæran av røttum er fyriæpolitiskar brotsgerðir ella gerðir, sum eru ímæti endamálum oggrundreglum Sameindu Tjæðanna.
+fao_0070	15.
+fao_0071	grein
+fao_0072	1.
+fao_0073	Øll hava tjæðskaparrætt.
+fao_0074	2.
+fao_0075	Eingin skal tilvildarliga missa sín tjæðskap, og ongum skal verða sýtt fyriat skifta tjæðskap.
+fao_0076	16.
+fao_0077	grein
+fao_0078	1.
+fao_0079	Menn og kvinnur, sum eru komin til lægaldur, skulu uttan mun til ættarslag
+fao_0080	(rasu), tjæðskap ella átrúnað hava rætt at giftast og setast í búgv.
+fao_0081	Teyhava krav um javnrættindi at giftast, í hjúnalagnum og til hjúnaskilnað.
+fao_0082	2.
+fao_0083	Hjúnaband kann ikki verða bundið, uttan báðir partar samtykkja í tí avfríum vilja.
+fao_0084	3.
+fao_0085	Húskið er tann natúrliga frumeindin í samfelagnum og hevur rætt til verndav samfelag og landi.
+fao_0086	17.
+fao_0087	grein
+fao_0088	1.
+fao_0089	Øll hava rætt til at eiga ogn, annaðhvørt einsamøll ella ’ felag við onnur.
+fao_0090	2.
+fao_0091	Eingin skal hissini vera fyri ongartøku.
+fao_0092	18.
+fao_0093	grein
+fao_0094	Øll hava rætt til hugsanar-, samvitsku- og trúarfrælsi.
+fao_0095	Hesi rættur fatar eisini umfrælsi at skifta átrúnað ella trúgv, og frælsi til annaðhvørt einsamallur ella í felagvið onnur og alment ella einskilt at inna trúgv sína í frálæru, tilbiðing,gudstænastu og halgihaldi.
+fao_0096	19.
+fao_0097	grein
+fao_0098	Øll skulu vera fræls at hava sínar áskoðanir og bera tær fram uttan forðan, og atsøkja sær og breiða út vitan og hugsanir ígjøgnum hvønn boðmiðil, sum veraskal, og æheft av landamarki.
+fao_0099	20.
+fao_0100	grein
+fao_0101	1.
+fao_0102	Øll hava rætt til frítt og á friðarligan hátt at koma saman og taka segsaman í felagsskapir.
+fao_0103	2.
+fao_0104	Eingin kann verða noyddur at vera limur í felag.
+fao_0105	21.
+fao_0106	grein
+fao_0107	1.
+fao_0108	Øll hava rætt til at taka lut í stjærn lands síns, annaðhvørt beinleiðis ellagjøgnum frítt vald umboð.
+fao_0109	2.
+fao_0110	Øll hava rætt til somu atgongd at embætum og almennum størvum í landisínum.
+fao_0111	3.
+fao_0112	Fælksins vilji skal vera støði undir stjærnarinnar valdi;
+fao_0113	hesin vilji skal verðaborin fram við ávísum millumbilum og rættiligum valum við almennum ogjøvnum valrætti, og skulu verða framd við loyniligari atkvøðing ellasamsvarandi frælsum valháttum.
+fao_0114	22.
+fao_0115	grein
+fao_0116	Øll hava sum samfelagsborgarar rætt til felagsliga trygd og kunnu krevja, at teybúskaparligu, felagsligu og mentanarligu rættindi, sum eru neyðug fyri teirravirðing og fría menning av persænleikanum, verða framd við tiltøkum innanlandsog í altjæða samstarvi og í samsvari við skipan og tilfeingi í hvørjum landi.
+fao_0117	23.
+fao_0118	grein
+fao_0119	1.
+fao_0120	Øll eiga rætt til arbeiði, til frítt at velja starv, til rættvís og hæskandiarbeiðslíkindi og til vernd fyri arbeiðsloysi.
+fao_0121	2.
+fao_0122	Øll hava uttan mismun rætt til somu løn fyri sama arebeiði.
+fao_0123	3.
+fao_0124	Ein og hvør, sum arebeiðir, hevur rætt til rættvísa og hæskandisamsýning, ið tryggjar honum og hansara eina mannsømiliga tilveru, ogharumframt um neyðugt aðra almenna vernd.
+fao_0125	4.
+fao_0126	Ein og hvør hevur rætt til at stovna og gerast limur í yrkisfelag til at verjasíni áhugamál.
+fao_0127	24.
+fao_0128	grein
+fao_0129	Øll hava rætt til hvíld og frítíð, har uppi í rímiliga avmarking av arbeiðstíðini ogfrítíð við løn ávísum millumbilum.
+fao_0130	25.
+fao_0131	grein
+fao_0132	1.
+fao_0133	Ein og hvør hevur rætt til lívsumsøður, ið tryggja honum og hansara heilsuog vælveru, har uppi í mat, klæði, bústað og heilsurøkt og almennartænastur og rætt til trygd við møguligum arbeiðsloysi, sjúku, æarbeiðsføri,missi av maka, aldri ella aðrari skerjing av vinnumøguleikum orsakað avum støðum, sum hann ikki hevur ræði á.
+fao_0134	2.
+fao_0135	Møður og børn hava krav um serliga umsorgan og hjálp.
+fao_0136	Øll børn,annaðhvørt tey eru fødd í hjúnalagi ella uttan, njæta somu almannavernd.
+fao_0137	26.
+fao_0138	grein
+fao_0139	1.
+fao_0140	Øll hava rætt til útbúgving.
+fao_0141	Útbúgving skal vera ækeypis, íhvussu er ábyrjanarstigi skal vera skyldubundin.
+fao_0142	Tøknilig og yrkislig útbúgving skalstanda øllum í boði, og øll skulu eftir førimuni hava somu atgongd a hægriundirvísing.
+fao_0143	2.
+fao_0144	Undirvísing skal miða ímæti at fullmenna persænleika einstaklingsins ogat stimbra virðingina fyri mannarættindum og frælsi.
+fao_0145	Hon skal fremja fatan,tolsemi og vinalag millum tjæðir, fælkasløg og trúarbælkar, og skal fremjavirki Sameindu Tjæðanna fyri at varðveita friðin.
+fao_0146	3.
+fao_0147	Foreldur hava fyrsta rætt at velja, hvat slag av undirvísing skal verða givinbørnum teirra.
+fao_0148	27.
+fao_0149	grein
+fao_0150	1.
+fao_0151	Øll hava rætt til frítt at taka lut í mentanarlívi í samfelagnum, at njæta listog eiga lut í framburði vísinda og ágæðum teirra.
+fao_0152	2.
+fao_0153	Øll hava rætt til vernd av andaligum og evnisligum áhugamálum ísambandi vidð eitt og hvørt vísindaligt, bækmentaligt ella listarligt verk,sum avvarðandi hevur greitt úr hondum.
+fao_0154	28.
+fao_0155	grein
+fao_0156	Øll hava rætt til samfelags- og altjæða skipan, har tey rættindi og frælsi, ið nevnderu í hesi yvirlýsing, kunnu verða framd út í æsir.
+fao_0157	29.
+fao_0158	grein
+fao_0159	1.
+fao_0160	Øll hava skyldur fyri samfelagnum;
+fao_0161	í tí einans er full og fræls menningpersænleikans gjørlig.
+fao_0162	2.
+fao_0163	Samfelagsborgarar skulu viðvíkjandi rættindum og frælsi einans verðabundnir av avmarkanum, sum eru settar í lægum við tí í hyggju at tryggjaviðurkenning av og virðing fyri frælsi og rættindum hjá øðrum og til tess atlúka rættvís krøv um siðalag, alment skil og vælferð almenningsins ífælkaræðissamfelag.
+fao_0164	3.
+fao_0165	Hesi rættindi og frælsi mega í ongum føri verða int í mætstøðu viðendamál og grundreglur Sameindu Tjæðanna.
+fao_0166	30.
+fao_0167	grein
+fao_0168	Einki í hesi yvirlýsing eigur at verða tulkað tann veg, at nøkrum ríki, bælki ellaeinsaklingi verður loyvt at gera nakað, ið miðar ímæti at beina fyri nøkrum avteimun mannarættindum, sum her eru tald.

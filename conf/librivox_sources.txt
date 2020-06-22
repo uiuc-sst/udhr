@@ -1,0 +1,5 @@
+# This file lists the librivox source files, and the current URL of each.
+#
+universal_declaration_librivox_64kb_mp3.zip	http://www.archive.org/download/universal_declaration_librivox/universal_declaration_librivox_64kb_mp3.zip
+human_rights_02_0908_librivox_64kb_mp3.zip	http://www.archive.org/download/human_rights_02_0908_librivox/human_rights_02_0908_librivox_64kb_mp3.zip
+human_rights_3_librivox_64kb_mp3.zip		http://www.archive.org/download/human_rights_3_librivox/human_rights_3_librivox_64kb_mp3.zip

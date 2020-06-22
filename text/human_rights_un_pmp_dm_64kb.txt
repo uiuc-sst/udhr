@@ -1,0 +1,149 @@
+pam_0001	Ding Pang Universung Karapatang Pantau A Miproklama Para Ipakilala
+pam_0002	Yang Lalung Simple
+pam_0003	Uling ing pamangilala king likas a karangalan at king pante at ding e alingad akarapatan ding sablang lahi ding tau iyang pundasyun na ning kalayaan,hustisiya at kapayapan king yatu.
+pam_0004	Dapat aintingdian ding sablang bibilug karing sablang pamilya king atin la namankarapatan kalupa ra ding aliwang tau.
+pam_0005	Anggang iti e tamu aintindian, e miral ingkalayan, hustisiya at kapayapan.
+pam_0006	Uling e tamu pa maie ulaga at pamanamak karing karapatang pantaumamungang pamaglapastangan labag king konsensiya da ring sablang tau, atdasan mu rin king yatu king atamasa ring tau ing kalayan king pamagsalita atpamaniwala at kalayan king pamagnasa, pamikakunu at kasakitan a iyangpapakilala nang pekamatas a kapagnasan ning karaniwang tau.
+pam_0007	Lebagan do ring karapatang pantau ding dakal a tau.
+pam_0008	Ding gera at aliwa pangkararaptanan ilang bibie pasakit karing tau agpang king istorya at king mabilug ayatu.
+pam_0009	Ing yatu a nung nokaring ding tau atamasa ra ing karapatang magsalitananu man ing a isip da, mamili king sarili rang kapaniwalan, at mangabiyayangalang takut at alang pamikakunu king nanu mang kaburian yang dapat mag-ingpeka maulaga king keka tamung kapagnasan.
+pam_0010	Uling tune maulaga, bang ing tau e mapilitang gumerang lumaban king kalupitanat pamanapi, a ding karapatang pantau dapat proteksyunan la kapamilatan ningbatas.
+pam_0011	Ding karapatang pantau dapat proteksyunan no ning batas.
+pam_0012	Uling tune maulagang paunlakan ing pami ugnaugnayan da ring bansa.
+pam_0013	Ding sablang bansa kailangan lang dinang ayudang mikakalapit la.
+pam_0014	Uling ding maemalen da ring Mesasanmetung a Bansa menalakaran la kingkarelang sariling karta king karelang kapanaligan karing karapatang pantau, kingdangal a kaulagan na ning pangatau at king pante rang karapatan ning lalaki’tbabi at pinilmi neng teguyud ing pamanasensung pang lipunan at ing mayap akabilyan a bie a ating malawak a karapatan.
+pam_0015	Kapamilatan na ning kartang iti, ding makaanib karing Mesasanmetung a Bansapasiwala da ing karelang kapaniwalan karing karapatang pantau, king kaulagan,at ulaga ning balang tau at king pante karapatan ning lalaki’t babai.
+pam_0016	Mikasundu larin pasikapan dang atamasa ing kaunlarang pang lipunan at ing mayap a pamibie-bie.
+pam_0017	Uling ding kaanib a bansa mengaku la kinng makisaupan la karing
+pam_0018	Misasanmetung a Bansa, a sikapan dang kamtan ing pamitaguyud kingpamangalang at pamanupad ding sabla karing karapatang pantau at karingmaulagang kalayan.
+pam_0019	Ding bansang kabilang karing Bansang Misasanmetung megaku lang misaup-saupan la king nanu mang paralan bang in karapatan at kalayan ding sablangtau keting yatu proteksyunan da at igalang.
+pam_0020	Uling maulagang abalu ra ding sabla ding karapatan at kalayang iti bang pilmingmatupad ing pangakung iti.
+pam_0021	At muna kaulagang aintindian da ring sablang bansa nung nanu la ringkarapatan at kalayan a reti bang atuparan la ding pangaku.
+pam_0022	Pauli na niti, papasiwala na ning pangalaganap a kapulungan ing pamisiwalamabilug a yatu ding karapatang pantau anting metung a pangalaganap adalerayan ning tagumpe para karing sablang tau at ding sabla nang parting panglipunan ding memalen, a palagi rang isipan ing pamipasiwalang iti, masikap laking kapamilatan na ning pamanuru at pamagaral at aguyud da ingpamanggalang karing karapatan at kalayan a iti at kapamilatan da ringmasasanting a dalerayan, pambansa at pangyatu man, tiyakan ing panglaganapat mabisang pamipaalaga at pamanupad kareti, karing memalen ding musmungkaanib a Estado at karing memalen ding teritoryung sasakupan da.
+pam_0023	Pepasiwala na ning Panglaganap a Kapulungan ding Mesasanmetung a Bansaiting pangyatung pangalaganap a dalerayan ning tagumpe para karing sablangtau at karing sablang bansa.
+pam_0024	Aduan da karing sablang tau at karing angganggrupu ding lipunan a isundung pagsikapang akamtan ding kapakayan a retikapamilatan ning pamanuru king pamangglalang karing karapatang pantau atkalayan at king kapamilatan ning pamipatibe ding batas a bibie migit a masantinga proteksyun karing karapatang kalayang iti.
+pam_0025	Artikulo 1
+pam_0026	Ding sablang tau mibait lang malaya at pante-pante king karangalan atkarapatan.
+pam_0027	Ila mipagkaluban lang katuliran at konsensiya ay dapat misaupanking diwang pamikapatiran.
+pam_0028	Artikulo 2
+pam_0029	Ing balang metung atin iyang karapatan karing anggang karapatan at kalayangtikda na ning Proklamasyun a iti, king alang lalon ninu mang lahi, kule, pangatau,salita, reliyun, kapaniwalan king pulitika o aliwa pang pamaniwala penibatangbansa o lipunan, pibandian, kepaitan o aliwa pang kabilyan.
+pam_0030	Maliban pa kareta, ing pamialiwang paglalawe tungkul king pulitika e dapatmagawa agpang king kabilyang pulitikal, sakup o pangyatu ning bansa o teritoryua nung nokarin iya ing tau magsasarili iya man iti, mamasa, e magsarili o kinglalam ning aliwang mitakdang pamaggobierno.
+pam_0031	Artikulo 3
+pam_0032	Ding balang metung atin lang karapatang mie kalayan at kaligtasan antimongtau.
+pam_0033	Artikulo 4
+pam_0034	Alang ninu man ing dapat gawan alipan o busabus;
+pam_0035	makabawal la ding sablangbage pamanalipa at pamangalakal alipan.
+pam_0036	Artikulo 5
+pam_0037	Alang ninu man ing mipailalam ya king labis a pamipasakit o pamagmalupit, a emakatau mababang pamanuring o pamamarusa.
+pam_0038	Artikulo 6
+pam_0039	Ing balang metung atin iyang karapatang kilalanan, nokarin man, anting metunga tau king arap ning batas.
+pam_0040	Artikulo 7
+pam_0041	Ding sabla pante-pante la king arap ning atas at atin lang karapatan king pante-pante proteksyun ning batas a alang pipilinan.
+pam_0042	Ding sabla atin lang karapatanking pante-pante laban king nanu mang pamimili a labag king Proklamasyun a itiat laban king nanu mang pamanulsul king mesabing pamamili.
+pam_0043	Artikulo 8
+pam_0044	Ing balang metung atin iyang karapatan king mabisang atul ning karapat-dapat apambansang huwes agpang karing lalabag karing panimulang karapatan aipagkalub na kaya ning konstitusyun o ning batas.
+pam_0045	Artikulo 9
+pam_0046	Alang ninu man ing mipailalam ya king e makaturlirang pangarakap,pamipakulung o pamipaugse.
+pam_0047	Artikulo 10
+pam_0048	Balang metung atin lang lubus a pante-panteng karapatan king makatuliran atlantad a pamaglitis ning metung a malaya at alang kikilingang usgadu kingpamaniguru na karing kayang karapatan at pakibatan at nanu mang dimandangkriminal laban kaya.
+pam_0049	Artikulo 11
+pam_0050	1.
+pam_0051	Ing balang metung a akusadu king kasalanan a miparusan at ingkarapatan ning ninu mang taung mi akusang linabag karing batas atiniyang karapatang ituring inosenti o alang sala anggang e mipatunayangmikasala agpang king batas king makalantad a pamaglitis atilu kaya dingsablang grantiyang kailangan king kayang dispensa.
+pam_0052	2.
+pam_0053	Alang ninu mang miyatulang mikasala a nanu man pamikasalamipaparusan pauli na ning nanu mang gewa o pamangulung a e tuturingpamikasalang mipaparusan, agpang king batas a pambansa o pangyatu,inyanga awan da ita.
+pam_0054	At e dapat miparatangang mas mabayat a parusakesa kanitang bibie na ning batas iniyang megawa ing pamikasalangmipaparusan.
+pam_0055	Artikulo 12
+pam_0056	Alang ninu man ing mipailalam ya keng e makatulirang pamakialam da kingkayang sarili, pamilya, bale o karing sulat o pamanamak king kayang dangal atlagyu.
+pam_0057	Ing balang metung ating iyang karapatan king proteksyun ning batas labanking makanyan a pamakialam o pamanamak.
+pam_0058	Artikulo 13
+pam_0059	1.
+pam_0060	Atin iyang karapatang lumipat ing balang metung at manuknangan kilubning sasakupan naning balang Estado.
+pam_0061	2.
+pam_0062	Atin iyang karapatang mako ing balang metung karing sanu mang bansa,maging king sariling bansa, at mibalik king kayang bansa.
+pam_0063	Artikulo 14
+pam_0064	1.
+pam_0065	Ing balang metung atin iyang karapatan a maniawad at tanggap asaylumking aliwang bansa nung iti pasakitan de.
+pam_0066	2.
+pam_0067	Ing karapatan a iti eya magamit nung ing pamipasakit sadya lang bungading pamikasalang e pulitikal o pemangawang salungat karing kapakayanat tuntunan da ding Misasanmetung a Bansa.
+pam_0068	Artikulo 15
+pam_0069	1.
+pam_0070	Ing balang metung atin iyang karapatan anting memalen.
+pam_0071	2.
+pam_0072	Alang ninu mang e makatulirang lako ra ing kayang papangamemalen opagkaitang karapatang mamalit king kayang pangamemalen.
+pam_0073	Artikulo 16
+pam_0074	1.
+pam_0075	Ding lalaki’t babai a atiyu na king ustung idad, a alang mitakdang lahipangamemalen o reliyun, ating iyang karapatang maki-asawa at mika-atiniyang pamilya.
+pam_0076	Iia ating lang pante karapatan king kasal kabang miasawala at king pamipalako nang bisa niti.
+pam_0077	2.
+pam_0078	Ing kasal magawa mu king malaya at lubus dang kaburian ding ikakasal.
+pam_0079	3.
+pam_0080	Ing Pamilya likas iyang batayan parti ning lipunan at ating karapatan kingproteksyun ning lipinan at estado.
+pam_0081	Artikulo 17
+pam_0082	1.
+pam_0083	Ing balang metung atin iyang karapatang mika-bandi pibandian a magsa-sarili at kayabe ding aliwa.
+pam_0084	2.
+pam_0085	Alang ninu mang makatuliran para ilako ra ing kayang pibandian.
+pam_0086	Artikulo 18
+pam_0087	Ing balang metung ating iyang karapatan king pami-isip, konsensiya at reliyun;
+pam_0088	kayabe king karapatang iti ing kalayan a mamalit king kayang reliyun okapaniwalan, ing kalayan a mag dili-dili man o kayabe ding aliwa at king publikuo pribabdo, a pamalinawan king aral, gawa pamanyamba at pamagdiwang.
+pam_0089	Artikulo 19
+pam_0090	Ing balang metung atin yang karapatan at kalayan at mamye at magsiwalat aopinyun, kayabe ding karapatang deni atin tamung kalayan a alang maialam opamintuan man, tanggap at mamie impormasyun o kaisipan keng nanumangklasing paralan a e makatarungan kareng limitasyun da reng kalayan a reti.
+pam_0091	Artikulo 20
+pam_0092	1.
+pam_0093	Ding balang tau atin lang karapatan at kalayan at makiaguman at maki-alu-bilu.
+pam_0094	2.
+pam_0095	Ita mu era kata apilit makiabe king nanu pa mang grupo o pami-abe-abe alabag king kekang kaburian.
+pam_0096	Artikulo 21
+pam_0097	1.
+pam_0098	Ing balang metung atin iyang karapatang ganap parti king gobiernu naning kayang bansa, diretsuan o king kapamilatan ning kalayang pamilikaring maging peka katawan.
+pam_0099	2.
+pam_0100	Ing balang metung atin iyang karapatan king pareung pamagserbisyungpambalen king kayang bansa.
+pam_0101	3.
+pam_0102	Ing kaburian ding memalen iya dapat maging batayan ning upaya ninggobiernu;
+pam_0103	ing kaburiang iti dapat ipabalu ya king pana-panaun at tunenghalalan king kapamilatan ning panglaganap at pante-panteng pamagbotua magawa iya king sikretung paralan a pamagbotu o king kapamilatanning katumbas a malayang pamiparalang pamagbotu.
+pam_0104	Artikulo 22
+pam_0105	Ing balang metung anting parti na ning lipunan atin yang katuliran kingkapayapan na ning lipunan at ating karapatan king katuparan, king kapamilatanna ning pamagsikap na ning bansa at king pami saup-saup pang kabilugangbansa at makanayun iya king kaayusan at pibandian ding balang Estado, dingkarapatang pangkabiayayan, pang masa, at pang kulturang karapatan at tunekailangan ne ning kayang dangal at ning malayang pangabuu na ning kayangpangatau.
+pam_0106	Artikulo 23
+pam_0107	1.
+pam_0108	Ing balang metung atin iyang karapatang magobra, malayang mamilingobra, makatuliran at masanting a kabilyan king pamagobra at proteksyunlaban king obra.
+pam_0109	2.
+pam_0110	Ing balang metung, a alang tatangian, ating iyang katuliran kingsuweldung katumbas ning kayang pipagalan.
+pam_0111	3.
+pam_0112	Ing balang metung a magobra atin iyang karapatan king makatuliran atsapat a bayad a titiyakan na king kayang sarili at king kayang pamilya ingpamangabiyayan a marangal, dagdagan pa nung kailangan, ing aliwapang paralan ning prteksyung paniupunan.
+pam_0113	4.
+pam_0114	Ing balang metung atin iyang karapatan mitatag at maki-abe karing unyunking pamangawa para protektahan ing kayang kapakanan.
+pam_0115	Artikulo 24
+pam_0116	Ing balang metung atin iyan karapatang magpaynawa at maglibang kabilang ingmakatuliran oras ning pamaobra at ding pana-panaung piestang opisyal a atingbayad.
+pam_0117	Artikulo 25
+pam_0118	1.
+pam_0119	Ing balang metung atin iyang karapatan king antas ning pamangabiyayansapat para king masikan a pamikakatawan at ikasanting na ning kayangsarili at ing kayang pamilya kayabe ing pamangan baru, pambale at ingpamanesang medikal at ding kailangang pangserbisyung panlipunan, atating karapatan king sekyuridad nuna milako iva obra, mikasakit, mabalu,tumwa o mawala ka bie o nung datang la ding maliaring e dapat asaan.
+pam_0120	2.
+pam_0121	Ding inda at anak atin lang karapatan king pamanese at kasaupan.
+pam_0122	Dinganggang anak, kasal la man ding pengari o ali, magtamasa lang pare-pareung proteksyung panlipunan.
+pam_0123	Artikulo 26
+pam_0124	1.
+pam_0125	Ing balang metungatin lang karapatan king pamag-aral.
+pam_0126	Ing pamag-araldapat iyang libri, anggang king elementarya mu man at pamag-umpisangantas.
+pam_0127	Ing pamag-aral king primera dapat sapilitan iya.
+pam_0128	Ing edukasyungteknikal at propesyunal dapat makatagulaling karing sabla at ating matasa edukasyun atamasa ding sabla agpang king meritu.
+pam_0129	2.
+pam_0130	Ing pamag-aral dapat idirekta iya king ganap nang pamgabuu ning ketaunat king pamipatibe ning pamanggalang karing karapatang pantau at karingkalayan pang konstitusyun.
+pam_0131	Itaguyud na niti ing pamikamtindi ing midinanat pamikaluguran karing sablang bansa, ding grupu agpang king lahi oreliyun, at paunlaran la ding obraan da ding Mesasanmetung a Bansabang papanatilyna ing kapayapan.
+pam_0132	3.
+pam_0133	Peka mumuna rang karapatan ding pengari ing pamamili king klasi ningpamag-aral a ipaglalub karing karelang anak.
+pam_0134	Artikulo 27
+pam_0135	1.
+pam_0136	Ing balang metung atin iyang karapatang malayang makiabe king biepang kultura ning komunidad, bang atamasa ing arti at munie kaganapanking pamipaunlad king siyensa at karing makinabang na niti.
+pam_0137	2.
+pam_0138	Ing balang metung atin iyang karapatan king proteksyun king kapakanangmoral at materyal a ibat king siyentipiku, panliterature o artistiko a iya ingginawa.
+pam_0139	Artikulo 28
+pam_0140	Ing balang metung atin iyang karapatan king kaayusang pangkapaligiran atpangyatu a ding karapatan a kalayang makatakda king pamisiwalat a iti lubusaniyang akamtan.
+pam_0141	Artikulo 29
+pam_0142	1.
+pam_0143	Ing balang metung atin lang tungkulan a dapat gampanan king komunidadat iya kabud ing bibie laya at lubus a kaganapan king panga tau na.
+pam_0144	2.
+pam_0145	King pamanupad na king kayang karapatan at kalayan ing balang metungmipailalam iya karing limitasyung sasaglawayan na ning batas parabangkanita akamtan ing karapad-dapat pamangilala at paggalang karingkarapatan at kalayan ding aliwa at apakibatan ing makatulirangpamangailangan ning moralidad, kaayusang pambalen at panlaganap akapakanan king metung a demokratikung lipunan.
+pam_0146	3.
+pam_0147	Ding karapatan at kalayan a iti, ela kapilan man magamit a makasalungatkaring kapagnasan at tuntunan ding Misasanmetung a Bansa.
+pam_0148	Artikulo 30
+pam_0149	Alang nanu mang parti king Proklamasyung iti a tuturing mangabaldugan kingsanu mang Estado, grupo o tau, ing karapatang makiabe kingnanu manggagawan o kimut o bibie paralan para siran na ing sanu mang karapatan atkalayan mitakda keni.

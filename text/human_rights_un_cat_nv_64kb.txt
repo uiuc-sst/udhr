@@ -1,0 +1,141 @@
+cat_0001	Adoptada i proclamada per l'Assemblea General de les Nacions Unides, resolució 217 A (III), de
+cat_0002	10 de desembre de 1948
+cat_0003	Declaració Universal de Drets Humans
+cat_0004	PREÀMBUL
+cat_0005	Considerant que el reconeixement de la dignitat inherent i dels drets iguals i inalienables de totsels membres de la família humana és el fonament de la llibertat, la justícia i la pau en el món,
+cat_0006	Considerant que el desconeixement i el menyspreu dels drets humans han originat actes debarbàrie que han ultratjat la consciència de la humanitat;
+cat_0007	i que s'ha proclamat com l'aspiració méselevada de tothom l'adveniment d'un món on els éssers humans, deslliurats del temor i la misèria,puguin gaudir de llibertat d'expressió i de creença,
+cat_0008	Considerant que és essencial que els drets humans siguin protegits per un règim de dret per talque les persones no es vegin forçades, com a últim recurs, a la rebel_lió contra la tirania il'opressió,
+cat_0009	Considerant també que és essencial de promoure el desenvolupament de relacions amistosesentre les nacions,
+cat_0010	Considerant que els pobles de les Nacions Unides han ratificat en la Carta llur fe en els dretshumans fonamentals, en la dignitat i el valor de la persona humana i en la igualtat de dretd'homes i dones;
+cat_0011	i que han decidit de promoure el progrés social i millorar el nivell de vida dinsd'una llibertat més àmplia,
+cat_0012	Considerant que els Estats membres s'han compromès a assegurar, en cooperació ambl'Organització de les Nacions Unides, el respecte universal i efectiu dels drets humans i lesllibertats fonamentals,
+cat_0013	Considerant que una concepció comuna d'aquests drets i llibertats és de la més gran importànciaper al ple compliment d'aquest compromís,
+cat_0014	L'Assemblea General
+cat_0015	Proclama aquesta Declaració Universal de Drets Humans com l'ideal comú a assolir per a tots elspobles i nacions amb el fi que cada persona i cada institució, inspirant-se constantment enaquesta Declaració, promoguin, mitjançant I'ensenyament i l'educació, el respecte a aquests dretsi llibertats i assegurin, amb mesures progressives nacionals i internacionals, el seu reconeixementi aplicació universals i efectius, tant entre els pobles dels Estats membres com entre els delsterritoris sota llur jurisdicció.
+cat_0016	Article 1
+cat_0017	Tots els éssers humans neixen lliures i iguals en dignitat i en drets.
+cat_0018	Són dotats de raó i deconsciència, i han de comportar-se fraternalment els uns amb els altres.
+cat_0019	Article 2
+cat_0020	Tothom té tots els drets i llibertats proclamats en aquesta Declaració, sense cap distinció de raça,color, sexe, llengua, religió, opinió política o de qualsevol altra mena, origen nacional o social,fortuna, naixement o altra condició.
+cat_0021	A més, no es farà cap distinció basada en l'estatut polític, jurídic o internacional del país o delterritori al qual pertanyi una persona, tant si és independent com si està sota administraciófiduciària, si no és autònom, o està sota qualsevol altra limitació de sobirania.
+cat_0022	Article 3
+cat_0023	Tota persona té dret a la vida, a la llibertat i a la seva seguretat.
+cat_0024	Article 4
+cat_0025	Ningú no serà sotmès a esclavitud o servitud: I'esclavitud i el tràfic d'esclaus són prohibits entotes llurs formes.
+cat_0026	Article 5
+cat_0027	Ningú no serà sotmès a tortures ni a penes o tractes cruels, inhumans o degradants.
+cat_0028	Article 6
+cat_0029	Tota persona té el dret arreu al reconeixement de la seva personalitat jurídica.
+cat_0030	Article 7
+cat_0031	Tots són iguals davant la llei i tenen dret, sense cap distinció, a igual protecció per la llei.
+cat_0032	Totstenen dret a igual protecció contra qualsevol discriminació que violi aquesta Declaració i contraqualsevol incitació a una tal discriminació.
+cat_0033	Article 8
+cat_0034	Tota persona té dret a un recurs efectiu prop dels tribunals nacionals competents que l'emparicontra actes que violin els seus drets fonamentals reconeguts per la constitució o per la llei.
+cat_0035	Article 9
+cat_0036	Ningú no serà detingut, pres o desterrat arbitràriament.
+cat_0037	Article 10
+cat_0038	Tota persona té dret, en condicions de plena igualtat, a ser escoltada públicament i amb justíciaper un tribunal independent i imparcial, per a la determinacio dels seus drets i obligacions o per al'examen de qualsevol acusació contra ella en matèria penal.
+cat_0039	Article 11
+cat_0040	1.
+cat_0041	Tots els acusats d'un delicte tenen el dret que hom presumeixi la seva innocència fins queno es provi la seva culpabilitat segons la llei en un judici públic, en què hom li hagiassegurat totes les garanties necessàries per a la seva defensa.
+cat_0042	2.
+cat_0043	Ningú no serà condemnat per actes o omissions que en el moment que varen éssercomesos no eren delictius segons el dret nacional o internacional.
+cat_0044	Tampoc no s'imposaràcap pena superior a l'aplicable en el moment de cometre el delicte.
+cat_0045	Article 12
+cat_0046	Ningú no serà objecte d'intromissions arbitràries en la seva vida privada, la seva família, el seudomicili o la seva correspondència, ni d'atacs al seu honor i reputació.
+cat_0047	Tothom té dret a laprotecció de la llei contra tals intromissions o atacs.
+cat_0048	Article 13
+cat_0049	1.
+cat_0050	Tota persona té dret a circular lliurement i a triar la seva residència dins les fronteres decada Estat.
+cat_0051	2.
+cat_0052	Tota persona té dret o sortir de qualsevol país, àdhuc el propi, i a retornar-hi.
+cat_0053	Article 14
+cat_0054	1.
+cat_0055	En cas de persecució, tota persona té dret a cercar asil en altres països i a beneficiar-se'n.
+cat_0056	2.
+cat_0057	Aquest dret no podrà ser invocat contra una persecució veritablement originada perdelictes comuns o per actes oposats als objectius i principis de les Nacions Unides.
+cat_0058	Article 15
+cat_0059	1.
+cat_0060	Tota persona té dret a una nacionalitat.
+cat_0061	2.
+cat_0062	Ningú no serà privat arbitràriament de la seva nacionalitat, ni del dret de canviar denacionalitat.
+cat_0063	Article 16
+cat_0064	1.
+cat_0065	Els homes i les dones, a partir de l'edat núbil, tenen dret, sense cap restricció per motiusde raça, nacionalitat o religió, a casar-se i a fundar una família.
+cat_0066	Gaudiran de drets igualspel que fa al casament, durant el matrimoni i en la seva dissolució.
+cat_0067	2.
+cat_0068	Nomes es realitzarà el casament amb el lliure i ple consentiment dels futurs esposos.
+cat_0069	3.
+cat_0070	La família és l'element natural i fonamental de la societat i té dret a la protecció de lasocietat i de l'Estat.
+cat_0071	Article 17
+cat_0072	1.
+cat_0073	Tota persona té dret a la propietat, individualment i col_lectiva.
+cat_0074	2.
+cat_0075	Ningú no serà privat arbitràriament de la seva propietat.
+cat_0076	Article 18
+cat_0077	Tota persona té dret a la llibertat de pensament, de consciència i de religió;
+cat_0078	aquest dret inclou lallibertat de canviar de religió o de creença, i la llibertat, individualment o col lectivament, enpúblic o en privat, de manifestar la seva religió o creença per mitjà de l'ensenyament, la pràctica,el culte i l'observança.
+cat_0079	Article 19
+cat_0080	Tota persona té dret a la llibertat d'opinió i d'expressió;
+cat_0081	aquest dret inclou el de no ser molestat acausa de les pròpies opinions i el de cercar, rebre i difondre les informacions i les idees perqualsevol mitjà i sense límit de fronteres.
+cat_0082	Article 20
+cat_0083	1.
+cat_0084	Tota persona té dret a la llibertat de reunió i d'associació pacífiques.
+cat_0085	2.
+cat_0086	Ningú no pot ser obligat a pertànyer a una associació.
+cat_0087	Article 21
+cat_0088	1.
+cat_0089	Tota persona té dret a participar en el govern del seu país, directament o per mitjà derepresentants lliurement elegits.
+cat_0090	2.
+cat_0091	Tota persona té dret, en condicions d'igualtat, a accedir a les funcions públiques del seupaís.
+cat_0092	3.
+cat_0093	La voluntat del poble és el fonament de l'autoritat de l'Estat;
+cat_0094	aquesta voluntat had'expressar-se mitjançant eleccions autèntiques, que hauran de fer-se periòdicament persufragi universal i igual i per vot secret o per altre procediment equivalent que garanteixila llibertat del vot.
+cat_0095	Article 22
+cat_0096	Tota persona, com a membre de la societat, té dret a la seguretat social i a obtenir, mitjançantl'esforç nacional i la cooperació internacional, segons l'organització i els recursos de cada país, lasatisfacció dels drets econòmics, socials i culturals indispensables per a la seva dignitat i el lliuredesenvolupament de la seva personalitat.
+cat_0097	Article 23
+cat_0098	1.
+cat_0099	Tota persona té dret al treball, a la lliure elecció de la seva ocupació, a condicionsequitatives i satisfactòries de treball, i a la protecció contra l'atur.
+cat_0100	2.
+cat_0101	Tota persona, sense cap discriminació, té dret a salari igual per igual treball.
+cat_0102	3.
+cat_0103	Tothom que treballa té dret a una remuneració equitativa i satisfactòria que asseguri per aell i la seva família una existència conforme a la dignitat humana, completada, si cal, ambaltres mitjans de protecció social.
+cat_0104	4.
+cat_0105	Tothom té dret a constituir sindicats per a la defensa dels seus interessos i a afiliar-s'hi.
+cat_0106	Article 24
+cat_0107	Tota persona té dret al descans i al lleure i, particularment, a una limitació raonable de la jornadade treball i a vacances periòdiques pagades.
+cat_0108	Article 25
+cat_0109	1.
+cat_0110	Tota persona té dret a un nivell de vida que asseguri, per a ell i la seva família, la salut iel benestar, especialment quant a alimentació, vestir, habitatge, assistència mèdica i alsserveis socials necessaris;
+cat_0111	també té dret a la seguretat en cas d'atur, malaltia, incapacitat,viduïtat, vellesa o altra manca de mitjans de subsistència independent de la seva voluntat.
+cat_0112	2.
+cat_0113	La maternitat i la infantesa tenen dret a una cura i a una assistència especials.
+cat_0114	Tots elsinfants, nascuts d'un matrimoni o fora d'un matrimoni, gaudeixen d'igual protecció social.
+cat_0115	Article 26
+cat_0116	1.
+cat_0117	Tota persona té dret a l'educació.
+cat_0118	L'educació serà gratuïta, si més no, en la instruccióelemental i fonamental.
+cat_0119	La instrucció elemental serà obligatòria.
+cat_0120	L'ensenyament tècnic iprofessional es posarà a l'abast de tothom, i l'accés a l'ensenyament superior serà igual pera tots en funció dels mèrits respectius.
+cat_0121	2.
+cat_0122	L'educació tendirà al ple desenvolupament de la personalitat humana i a l'enfortiment delrespecte als drets humans i a les llibertats fonamentals;
+cat_0123	promourà la comprensió, latolerància i l'amistat entre totes les nacions i grups ètnics o religiosos, i fomentarà lesactivitats de les Nacions Unides per al manteniment de la pau.
+cat_0124	3.
+cat_0125	El pare i la mare tenen dret preferent d'escollir la mena d'educació que serà donada alsseus fills.
+cat_0126	Article 27
+cat_0127	1.
+cat_0128	Tota persona té dret a participar lliurement en la vida cultural de la comunitat, a gaudir deles arts i a participar i beneficiar-se del progrés científic.
+cat_0129	2.
+cat_0130	Tota persona té dret a la protecció dels interessos morals i materials derivats de lesproduccions científiques, literàries o artístiques de què sigui autor.
+cat_0131	Article 28
+cat_0132	Tota persona té dret a un ordre social i internacional en què els drets i llibertats proclamats enaquesta Declaració puguin ser plenament efectius.
+cat_0133	Article 29
+cat_0134	1.
+cat_0135	Tota persona té deures envers la comunitat, ja que només en aquesta li és possible ellliure i ple desenvolupament de la seva personalitat.
+cat_0136	2.
+cat_0137	En l'exercici dels drets i les llibertats, tothom estarà sotmès només a les limitacionsestablertes per la llei i únicament amb la finalitat d'assegurar el reconeixement i elrespecte deguts als drets i llibertats dels altres i de complir les justes exigències de lamoral, de l'ordre públic i del benestar general en una societat democràtica.
+cat_0138	3.
+cat_0139	Aquests drets i llibertats mai no podran ser exercits en oposició als objectius i principisde les Nacions Unides.
+cat_0140	Article 30
+cat_0141	Res en aquesta Declaració no podrà interpretar-se en el sentit que doni cap dret a un Estat, a ungrup o a una persona a emprendre activitats o a realitzar actes que tendeixin a la supressió dequalsevol dels drets i llibertats que s'hi enuncien.

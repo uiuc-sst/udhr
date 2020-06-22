@@ -1,0 +1,140 @@
+fra_0001	Déclaration universelle des droits de l'homme 
+fra_0002	Préambule
+fra_0003	Considérant que la reconnaissance de la dignité inhérente à tous les membres de lafamille humaine et de leurs droits égaux et inaliénables constitue le fondement de laliberté, de la justice et de la paix dans le monde,
+fra_0004	Considérant que la méconnaissance et le mépris des droits de l'homme ont conduità des actes de barbarie qui révoltent la conscience de l'humanité et que l'avènementd'un monde où les êtres humains seront libres de parler et de croire, libérés de laterreur et de la misère, a été proclamé comme la plus haute aspiration de l'homme,
+fra_0005	Considérant qu'il est essentiel que les droits de l'homme soient protégés par unrégime de droit pour que l'homme ne soit pas contraint, en suprême recours, à larévolte contre la tyrannie et l'oppression,
+fra_0006	Considérant qu'il est essentiel d'encourager le développement de relations amicalesentre nations,
+fra_0007	Considérant que dans la Charte les peuples des Nations Unies ont proclamé ànouveau leur foi dans les droits fondamentaux de l'homme, dans la dignité et lavaleur de la personne humaine, dans l'égalité des droits des hommes et desfemmes, et qu'ils se sont déclarés résolus à favoriser le progrès social et à instaurerde meilleures conditions de vie dans une liberté plus grande,
+fra_0008	Considérant que les Etats Membres se sont engagés à assurer, en coopération avecl'Organisation des Nations Unies, le respect universel et effectif des droits del'homme et des libertés fondamentales,
+fra_0009	Considérant qu'une conception commune de ces droits et libertés est de la plushaute importance pour remplir pleinement cet engagement,
+fra_0010	L'Assemblée générale
+fra_0011	Proclame la présente Déclaration universelle des droits de l'homme comme l'idéalcommun à atteindre par tous les peuples et toutes les nations afin que tous lesindividus et tous les organes de la société, ayant cette Déclaration constamment àl'esprit, s'efforcent, par l'enseignement et l'éducation, de développer le respect deces droits et libertés et d'en assurer, par des mesures progressives d'ordre nationalet international, la reconnaissance et l'application universelles et effectives, tantparmi les populations des Etats Membres eux-mêmes que parmi celles desterritoires placés sous leur juridiction.
+fra_0012	Article premier
+fra_0013	Tous les êtres humains naissent libres et égaux en dignité et en droits.
+fra_0014	Ils sontdoués de raison et de conscience et doivent agir les uns envers les autres dans unesprit de fraternité.
+fra_0015	Article 2
+fra_0016	Chacun peut se prévaloir de tous les droits et de toutes les libertés proclamés dansla présente Déclaration, sans distinction aucune, notamment de race, de couleur, desexe, de langue, de religion, d'opinion politique ou de toute autre opinion, d'originenationale ou sociale, de fortune, de naissance ou de toute autre situation.
+fra_0017	De plus, il ne sera fait aucune distinction fondée sur le statut politique, juridique ouinternational du pays ou du territoire dont une personne est ressortissante, que cepays ou territoire soit indépendant, sous tutelle, non autonome ou soumis à unelimitation quelconque de souveraineté.
+fra_0018	Article 3
+fra_0019	Tout individu a droit à la vie, à la liberté et à la sûreté de sa personne.
+fra_0020	Article 4
+fra_0021	Nul ne sera tenu en esclavage ni en servitude;
+fra_0022	l'esclavage et la traite des esclavessont interdits sous toutes leurs formes.
+fra_0023	Article 5
+fra_0024	Nul ne sera soumis à la torture, ni à des peines ou traitements cruels, inhumains oudégradants.
+fra_0025	Article 6
+fra_0026	Chacun a le droit à la reconnaissance en tous lieux de sa personnalité juridique.
+fra_0027	Article 7
+fra_0028	Tous sont égaux devant la loi et ont droit sans distinction à une égale protection dela loi.
+fra_0029	Tous ont droit à une protection égale contre toute discrimination qui violerait laprésente Déclaration et contre toute provocation à une telle discrimination.
+fra_0030	Article 8
+fra_0031	Toute personne a droit à un recours effectif devant les juridictions nationalescompétentes contre les actes violant les droits fondamentaux qui lui sont reconnuspar la constitution ou par la loi.
+fra_0032	Article 9
+fra_0033	Nul ne peut être arbitrairement arrêté, détenu ni exilé.
+fra_0034	Article 10
+fra_0035	Toute personne a droit, en pleine égalité, à ce que sa cause soit entendueéquitablement et publiquement par un tribunal indépendant et impartial, qui décidera,soit de ses droits et obligations, soit du bien-fondé de toute accusation en matièrepénale dirigée contre elle.
+fra_0036	Article 11
+fra_0037	1.
+fra_0038	Toute personne accusée d'un acte délictueux est présumée innocente jusqu'à ceque sa culpabilité ait été légalement établie au cours d'un procès public où toutes lesgaranties nécessaires à sa défense lui auront été assurées.
+fra_0039	2.
+fra_0040	Nul ne sera condamné pour des actions ou omissions qui, au moment où elles ontété commises, ne constituaient pas un acte délictueux d'après le droit national ouinternational.
+fra_0041	De même, il ne sera infligé aucune peine plus forte que celle qui étaitapplicable au moment où l'acte délictueux a été commis.
+fra_0042	Article 12
+fra_0043	Nul ne sera l'objet d'immixtions arbitraires dans sa vie privée, sa famille, sondomicile ou sa correspondance, ni d'atteintes à son honneur et à sa réputation.
+fra_0044	Toute personne a droit à la protection de la loi contre de telles immixtions ou detelles atteintes.
+fra_0045	Article 13
+fra_0046	1.
+fra_0047	Toute personne a le droit de circuler librement et de choisir sa résidence àl'intérieur d'un Etat.
+fra_0048	2.
+fra_0049	Toute personne a le droit de quitter tout pays, y compris le sien, et de revenir dansson pays.
+fra_0050	Article 14
+fra_0051	1.
+fra_0052	Devant la persécution, toute personne a le droit de chercher asile et de bénéficierde l'asile en d'autres pays.
+fra_0053	2.
+fra_0054	Ce droit ne peut être invoqué dans le cas de poursuites réellement fondées sur uncrime de droit commun ou sur des agissements contraires aux buts et aux principesdes Nations Unies.
+fra_0055	Article 15
+fra_0056	1.
+fra_0057	Tout individu a droit à une nationalité.
+fra_0058	2.
+fra_0059	Nul ne peut être arbitrairement privé de sa nationalité, ni du droit de changer denationalité.
+fra_0060	Article 16
+fra_0061	1.
+fra_0062	A partir de l'âge nubile, l'homme et la femme, sans aucune restriction quant à larace, la nationalité ou la religion, ont le droit de se marier et de fonder une famille.
+fra_0063	Ilsont des droits égaux au regard du mariage, durant le mariage et lors de sadissolution.
+fra_0064	2.
+fra_0065	Le mariage ne peut être conclu qu'avec le libre et plein consentement des futursépoux.
+fra_0066	3.
+fra_0067	La famille est l'élément naturel et fondamental de la société et a droit à laprotection de la société et de l'Etat.
+fra_0068	Article 17
+fra_0069	1.
+fra_0070	Toute personne, aussi bien seule qu'en collectivité, a droit à la propriété.
+fra_0071	2.
+fra_0072	Nul ne peut être arbitrairement privé de sa propriété
+fra_0073	Article 18
+fra_0074	Toute personne a droit à la liberté de pensée, de conscience et de religion;
+fra_0075	ce droitimplique la liberté de changer de religion ou de conviction ainsi que la liberté demanifester sa religion ou sa conviction, seule ou en commun, tant en public qu'enprivé, par l'enseignement, les pratiques, le culte et l'accomplissement des rites.
+fra_0076	Article 19
+fra_0077	Tout individu a droit à la liberté d'opinion et d'expression, ce qui implique le droit dene pas être inquiété pour ses opinions et celui de chercher, de recevoir et derépandre, sans considérations de frontières, les informations et les idées parquelque moyen d'expression que ce soit.
+fra_0078	Article 20
+fra_0079	1.
+fra_0080	Toute personne a droit à la liberté de réunion et d'association pacifiques.
+fra_0081	2.
+fra_0082	Nul ne peut être obligé de faire partie d'une association.
+fra_0083	Article 21
+fra_0084	1.
+fra_0085	Toute personne a le droit de prendre part à la direction des affaires publiques deson pays, soit directement, soit par l'intermédiaire de représentants librementchoisis.
+fra_0086	2.
+fra_0087	Toute personne a droit à accéder, dans des conditions d'égalité, aux fonctionspubliques de son pays.
+fra_0088	3.
+fra_0089	La volonté du peuple est le fondement de l'autorité des pouvoirs publics;
+fra_0090	cettevolonté doit s'exprimer par des élections honnêtes qui doivent avoir lieupériodiquement, au suffrage universel égal et au vote secret ou suivant uneprocédure équivalente assurant la liberté du vote.
+fra_0091	Article 22
+fra_0092	Toute personne, en tant que membre de la société, a droit à la sécurité sociale;
+fra_0093	elleest fondée à obtenir la satisfaction des droits économiques, sociaux et culturelsindispensables à sa dignité et au libre développement de sa personnalité, grâce àl'effort national et à la coopération internationale, compte tenu de l'organisation etdes ressources de chaque pays.
+fra_0094	Article 23
+fra_0095	1.
+fra_0096	Toute personne a droit au travail, au libre choix de son travail, à des conditionséquitables et satisfaisantes de travail et à la protection contre le chômage.
+fra_0097	2.
+fra_0098	Tous ont droit, sans aucune discrimination, à un salaire égal pour un travail égal
+fra_0099	3.
+fra_0100	Quiconque travaille a droit à une rémunération équitable et satisfaisante luiassurant ainsi qu'à sa famille une existence conforme à la dignité humaine etcomplétée, s'il y a lieu, par tous autres moyens de protection sociale.
+fra_0101	4.
+fra_0102	Toute personne a le droit de fonder avec d'autres des syndicats et de s'affilier àdes syndicats pour la défense de ses intérêts.
+fra_0103	Article 24
+fra_0104	Toute personne a droit au repos et aux loisirs et notamment à une limitationraisonnable de la durée du travail et à des congés payés périodiques.
+fra_0105	Article 25
+fra_0106	1.
+fra_0107	Toute personne a droit à un niveau de vie suffisant pour assurer sa santé, sonbien-être et ceux de sa famille, notamment pour l'alimentation, l'habillement, lelogement, les soins médicaux ainsi que pour les services sociaux nécessaires;
+fra_0108	elle adroit à la sécurité en cas de chômage, de maladie, d'invalidité, de veuvage, devieillesse ou dans les autres cas de perte de ses moyens de subsistance par suitede circonstances indépendantes de sa volonté.
+fra_0109	2.
+fra_0110	La maternité et l'enfance ont droit à une aide et à une assistance spéciales.
+fra_0111	Tousles enfants, qu'ils soient nés dans le mariage ou hors mariage, jouissent de la mêmeprotection sociale.
+fra_0112	Article 26
+fra_0113	1.
+fra_0114	Toute personne a droit à l'éducation.
+fra_0115	L'éducation doit être gratuite, au moins en cequi concerne l'enseignement élémentaire et fondamental.
+fra_0116	L'enseignementélémentaire est obligatoire.
+fra_0117	L'enseignement technique et professionnel doit êtregénéralisé;
+fra_0118	l'accès aux études supérieures doit être ouvert en pleine égalité à tousen fonction de leur mérite.
+fra_0119	2.
+fra_0120	L'éducation doit viser au plein épanouissement de la personnalité humaine et aurenforcement du respect des droits de l'homme et des libertés fondamentales.
+fra_0121	Elledoit favoriser la compréhension, la tolérance et l'amitié entre toutes les nations ettous les groupes raciaux ou religieux, ainsi que le développement des activités des
+fra_0122	Nations Unies pour le maintien de la paix.
+fra_0123	3.
+fra_0124	Les parents ont, par priorité, le droit de choisir le genre d'éducation à donner àleurs enfants.
+fra_0125	Article 27
+fra_0126	1.
+fra_0127	Toute personne a le droit de prendre part librement à la vie culturelle de lacommunauté, de jouir des arts et de participer au progrès scientifique et auxbienfaits qui en résultent
+fra_0128	2.
+fra_0129	Chacun a droit à la protection des intérêts moraux et matériels découlant de touteproduction scientifique, littéraire ou artistique dont il est l'auteur.
+fra_0130	Article 28
+fra_0131	Toute personne a droit à ce que règne, sur le plan social et sur le plan international,un ordre tel que les droits et libertés énoncés dans la présente Déclaration puissenty trouver plein effet.
+fra_0132	Article 29
+fra_0133	1.
+fra_0134	L'individu a des devoirs envers la communauté dans laquelle seule le libre et pleindéveloppement de sa personnalité est possible.
+fra_0135	2.
+fra_0136	Dans l'exercice de ses droits et dans la jouissance de ses libertés, chacun n'estsoumis qu'aux limitations établies par la loi exclusivement en vue d'assurer lareconnaissance et le respect des droits et libertés d'autrui et afin de satisfaire auxjustes exigences de la morale, de l'ordre public et du bien-être général dans unesociété démocratique.
+fra_0137	3.
+fra_0138	Ces droits et libertés ne pourront, en aucun cas, s'exercer contrairement aux butset aux principes des Nations Unies.
+fra_0139	Article 30
+fra_0140	Aucune disposition de la présente Déclaration ne peut être interprétée commeimpliquant, pour un Etat, un groupement ou un individu, un droit quelconque de selivrer à une activité ou d'accomplir un acte visant à la destruction des droits etlibertés qui y sont énoncés.

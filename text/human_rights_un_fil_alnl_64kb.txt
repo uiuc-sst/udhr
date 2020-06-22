@@ -1,0 +1,157 @@
+fil_0001	Noong Disyembre 10, 1948, ang Pangkalahatang Kapulungan ng mga Bansang
+fil_0002	Nagkakaisa ay nagsagawa at nagpahayag ng Pandaigdig na Pahayag ng mga
+fil_0003	Karapatan ng Tao.
+fil_0004	Ang buong nilalaman noon ay mababasa sa mga susunod napahina.
+fil_0005	Kasunod ng makasaysayang gawaing ito, ang Kapulungan aynanawagan sa lahat ng mga kagawad ng bansa upang ilathala ang nilalaman ng
+fil_0006	Pahayag at "upang ito’y palaganapin, itanghal, basahin, at talakayin lalung-lalona sa mga paaralan at iba pang institusyong edukasyonal, nang walangpagtatangi batay sa kalagayang pulitikal ng mga bansa o mga teritoryo.
+fil_0007	"
+fil_0008	Pangwakas na Textong May Pahintulot na salin sa Pilipino ng Katipunan ng
+fil_0009	Bagong Pilipina.
+fil_0010	Ipinaabot ng Punong Pangkaalaman ng mga Bansang
+fil_0011	Nagkakaisa para sa Pilipinas ang taus-pusong pasasalamat sa Law Center ng
+fil_0012	Pamantasan ng Pilipinas na unang naglimbag ng pahayag na ito na salin sa
+fil_0013	Pilipino.
+fil_0014	Ipinalimbag ng Punong Pangkaalaman ng mga Bansang Nagkakaisapara sa Pilipinas at ng Kagawaran ng Kabatirang Pangmadla ng mga Bansang
+fil_0015	Nagkakaisa.
+fil_0016	PANDAIGDIG NA PAGPAPAHAYAG NG MGA KARAPATAN NG TAO
+fil_0017	PANIMULA
+fil_0018	Sapagkat ang pagkilala sa katutubong karangalan at sa pantay at di-maikakaitna mga karapatan ng lahat ng nabibilang sa angkan ng tao ay siyang saligan ngkalayaan, katarungan at kapayapaan sa daigdig.
+fil_0019	Sapagkat ang pagwawalang-bahala at paglalapastangan sa mga karapatan ngtao ay nagbunga ng mga gawang di-makatao na humamak sa budhi ngsangkatauhan, at ang pagdatal ng isang daigdig na ang mga tao aymagtatamasa ng kalayaan sa pagsasalita at ng kaligtasan sa pangamba atpagdaralita ay ipinahayag na pinakamataas na mithiin ng mga karaniwang tao.
+fil_0020	Sapagkat mahalaga, kung ang tao ay di-pipiliting manghawakan bilang hulingmagagawa, sa paghihimagsik laban sa paniniil at pang-aapi, na ang mgakarapatan ng tao’y mapangalagaan sa pamamagitan ng paghahari ng batas.
+fil_0021	Sapagkat mahalagang itaguyod ang pagpapaunlad ng mabuting pagsasamahanng mga bansa.
+fil_0022	Sapagkat ang mga mamamayan ng Mga Bansang Nagkakaisa ay nagpatibay sa
+fil_0023	Karta ng kanilang pananalig sa mga Saligang karapatan ng tao, sa karangalan atkahalagahan ng pagkatao at sa pantay na mga karapatan ng mga lalaki at babaeat nagpapasiyang itaguyod ang kaunlarang panlipunan at lalong mabubutingpamantayan ng buhay sa lalong malaking kalayaan.
+fil_0024	Sapagkat ang mga Kasaping Estado ay nangako sa kanilang sarili na tamuhin sapakikipagtulungan sa mga Bansang Nagkakaisa, ang pagtataguyod ngpandaigdig na paggalang at pagtalima sa mga karapatan ng tao at mga saligangkalayaan.
+fil_0025	Sapagkat lubhang mahalaga ang pagkakaunawa ng lahat sa mga karapatan atkalayaang ito at lubhang mahalaga sa ganap na pagsasakatuparan ng mgapangakong ito.
+fil_0026	Ngayon, Samakatuwid,
+fil_0027	Ang Pangkalahatang Kapulunganay nagpapahayag ng
+fil_0028	Pandaigdig na Pagpapahayag na itong mga Karapatan ng Taobilang pangkalahatang pamantayang maisasagawa para sa lahat ng tao atbansa, sa layuning ang bawat tao at bawat galamay ng lipunan, na laging nasaisip ang Pahayag na ito, ay magsikap sa pamamagitan ng pagtuturo atedukasyon na maitaguyod ang paggalang sa mga karapatan at kalayaang ito atsa pamamagitan ng mga hakbang na pagsulong na pambansa at pandaigdig, aymakamtan ang pangkalahatan at mabisang pagkilala at pagtalima sa mga ito,maging ng mga mamamayan ng mga Kasaping Estado at ng mga mamamayanng mga teritoryo na nasa ilalim ng kanilang nasasakupan.
+fil_0029	Artikulo 1
+fil_0030	Ang lahat ng tao’y isinilang na malaya at pantay-pantay sa karangalan at mgakarapatan.
+fil_0031	Sila’y pinagkalooban ng katwiran at budhi at dapat magpalagayanang isa’t isa sa diwa ng pagkakapatiran.
+fil_0032	Artikulo 2
+fil_0033	Ang bawat tao’y karapat-dapat sa lahat ng karapatan at kalayaang nakalahad sa
+fil_0034	Pahayag na ito, nang walang ano mang uri ng pagtatangi, gaya ng lahi, kulay,kasarian, wika, relihiyon, kuro-kurong pampulitika o iba pa, pinagmulang bansa olipunan, ari-arian, kapanganakan o iba pang katayuan.
+fil_0035	Bukod dito, walang pagtatanging gagawin batay sa katayuang pampulitika,hurisdiksiyunal o pandaigdig na kalagayan ng bansa o teritoryong kinabibilanganng isang tao, maging ito ay nagsasarili, itinitiwala, di-nakapamamahala sa sarili onasa ilalim ng ano mang katakdaan ng soberanya.
+fil_0036	Artikulo 3
+fil_0037	Ang bawat tao’y may karapatan sa buhay, kalayaan at kapanatagan ng sarili.
+fil_0038	Artikulo 4
+fil_0039	Walang sino mang aalipinin o bubusabusin;
+fil_0040	ipagbabawal ang ano mang anyo ngpang-aalipin at ang pangangalakal ng alipin.
+fil_0041	Artikulo 5
+fil_0042	Walang sino mang pahihirapan o lalapatan ng malupit,di-makatao o nakalalait napakikitungo sa parusa.
+fil_0043	Artikulo 6
+fil_0044	Ang bawat tao’y may karapatang kilalanin saan mang dako bilang isang tao saharap ng batas.
+fil_0045	Artikulo 7
+fil_0046	Ang lahat ay pantay-pantay sa harap ng batas at may karapatan sa walangpagtatangi ng pangangalaga ng batas.
+fil_0047	Ang lahat ay may karapatan sa pantay napangangalaga laban sa ano mang pagtatangi-tanging nalalabag sa Pahayag naito at laban sa ano mang pagbubuyo sa gayong pagtatangi-tangi.
+fil_0048	Artikulo 8
+fil_0049	Ang bawat tao’y may karapatan sa mabisang lunas ng karampatang mgahukumang pambansa tungkol sa mga gawang lumalabag sa pangunahing mgakarapatan na ipinagkaloob sa kanya ng saligang batas o ng batas.
+fil_0050	Artikulo 9
+fil_0051	Walang sino mang ipaiilalim sa di-makatwirang pagdakip, pagpigil opagpapatapon.
+fil_0052	Artikulo 10
+fil_0053	Ang bawat tao’y may karapatan sa ganap na pagkakapantay-pantay, sa isangmakatarungan at hayag na paglilitis ng isang hukumang malaya at walangkinikilingan, sa pagpapasiya ng kanyang mga karapatan at panangutan at sa anomang paratang na kriminal laban sa kanya.
+fil_0054	Artikulo 11
+fil_0055	1.
+fil_0056	Ang bawat taong pinararatangan ng pagkakasalang pinarurusahan aymay karapatang ituring na walang-sala hanggang di-napatutunayangnagkasala alinsunod sa batas sa isang hayag na paglilitis na ipinagkaroonniya ng lahat ng garantiyang kailangan sa kanyang pagtatanggol.
+fil_0057	2.
+fil_0058	Walang taong ituturing na nagkasala ng pagkakasalang pinarurusahandahil sa ano mang gawa o pagkukulang na hindi isang pagkakasalangpinarurusahan, sa ilalim ng batas pambansa o pandaigdig, noongpanahong ginawa iyon.
+fil_0059	Hindi rin ipapataw ang parusang lalong mabigatkaysa nararapat nang panahong magawa ang pagkakasalangpinarurusahan.
+fil_0060	Artikulo 12
+fil_0061	Walang taong isasailalim sa di-makatwirang panghihimasok sa kanyangpananhimik, pamilya, tahanan o pakikipagsulatang ni sa tuligsa sa kanyangkarangalan at mabuting pangalan.
+fil_0062	Ang bawat tao’y may karapatan sapangangalaga ng batas laban sa gayong mga panghihimasok o tuligsa.
+fil_0063	Artikulo 13
+fil_0064	1.
+fil_0065	Ang bawat tao’y may karapatan sa kalayaan ng pagkilos at paninirahan saloob ng mga hanggahan ng bawat estado.
+fil_0066	2.
+fil_0067	Ang bawat tao’y may karapatang umalis sa alin mang bansa, pati na sakanyang sarili, at bumalik sa kanyang bansa.
+fil_0068	Artikulo 14
+fil_0069	1.
+fil_0070	Ang bawat tao’y may karapatang humanap at magtamasa sa ibang bansang pagpapakupkop laban sa pag-uusig.
+fil_0071	2.
+fil_0072	Ang karapatang ito’y hindi mahihingi sa mga pag-uusig na tunay nanagbubuhat sa mga pagkakasalang di-pampulitika o sa mga gawangnasasalungat sa mga layunin at simulain ng mga Bansang Nagkakaisa.
+fil_0073	Artikulo 15
+fil_0074	1.
+fil_0075	Ang bawat tao’y may karapatan sa isang pagkamamamayan.
+fil_0076	2.
+fil_0077	Walang sino mang aalisan ng kanyang pagkamamamayan ng walangkatwiran ni pagkakaitan ng karapatang magpalit ng kanyangpagkamamamayan.
+fil_0078	Artikulo 16
+fil_0079	1.
+fil_0080	Ang mga lalaki’t babaeng may sapat na gulang ay may karapatang mag-asawa at magpamilya nang walang ano mang pagtatakda dahil sa lahi,bansang kinabibilangan o relihiyon.
+fil_0081	Nararapat sila sa pantay-pantay nakarapatan sa pag-aasawa, sa panahong may asawa at pagpapawalangbisa nito.
+fil_0082	2.
+fil_0083	Ang pag-aasawa’y papasukan lamang sa pamamagitan ng malaya atlubos na pagsang-ayon ng mga nagbabalak magkapangasawahan.
+fil_0084	3.
+fil_0085	Ang pamilya ay likas at pangunahing pangkat sa sangay ng lipunan atkarapat-dapat sa pangangalaga ng lipunan at ng Estado.
+fil_0086	Artikulo 17
+fil_0087	1.
+fil_0088	Ang bawat tao’y may karapatang mag-angkin ng ari-arian nang mag-isagayon din na kasama ng iba.
+fil_0089	2.
+fil_0090	Walang sino mang aalisan ng kanyang ari-arian nang walang katwiran.
+fil_0091	Artikulo 18
+fil_0092	Ang bawat tao’y may karapatan sa kalayaan ng pag-iisip, budhi at relihiyon;
+fil_0093	kasama sa karapatang ito ang kalayaang magpalit ng kanyang relihiyon opaniniwala maging nag-iisa o kasama ang iba sa pamayanan upang ipakilala angkanyang relihiyon o paniniwala sa pagtuturo, pagsasagawa,pagsamba atpagtalima.
+fil_0094	Artikulo 19
+fil_0095	Ang bawat tao’y may karapatan sa kalayaan ng pagkukuro at pagpapahayag;
+fil_0096	kasama ng karapatang ito ang kalayaan at kuru-kuro nang walangpanghihimasok at humanap, tumanggap at magbigay ng impormasyon atkaisipan sa pamamagitan ng alin mang paraan ng pagkakalat at walangpagsasaalang-alang ng mga hanggahan.
+fil_0097	Artikulo 20
+fil_0098	1.
+fil_0099	Ang bawat tao’y may karapatan sa kalayaan sa mapayapangpagpupulong at pagsasamahan.
+fil_0100	2.
+fil_0101	Walang sino mang pipiliting sumapi sa isang kapisanan.
+fil_0102	Artikulo 21
+fil_0103	1.
+fil_0104	Ang bawat tao’y may karapatang makilahok sa pamahalaan ng kanyangbansa, sa tuwiran o sa pamamagitan ng mga kinatawang malayang pinili.
+fil_0105	2.
+fil_0106	Ang bawat tao’y may karapatan sa pantay na pagpasok sa paglilingkodpambayan ng kanyang bansa.
+fil_0107	3.
+fil_0108	Ang kalooban ng bayan ang magiging saligan ng kapangyarihan ngpamahalaan;
+fil_0109	ang kaloobang ito’y ipahahayag sa tunay na mga halalan sapana-panahon sa pamamagitan ng pangkalahatan at pantay-pantay napaghahalal at idaraos sa pamamagitan ng lihim na balota o sa katumbasna pamamaraan ng malayang pagboto.
+fil_0110	Artikulo 22
+fil_0111	Ang bawat tao, bilang kasapi ng lipunan, ay may karapatan sa kapanatagangpanlipunan at nararapat na makinabang sa pamamagitan ng pambansangpagsisikap at pakikipagtulungang pandaigdig at alinsunod sa pagkakabuo at mgamapagkukunan ng bawat Estado, sa mga karapatang pangkabuhayan,panlipunan at pangkalinangan na lubhang kailangan para sa kanyangkarangalan at sa malayang pagpapaunlad ng kanyang pagkatao.
+fil_0112	Artikulo 23
+fil_0113	1.
+fil_0114	Ang bawat tao’y may karapatan sa paggawa, sa malayang pagpili ngmapapasukang hanapbuhay, sa makatarungan at kanais-nais na mgakalagayan sa paggawa at sa pangangalaga laban sa kawalangmapapasukang hanap-buhay.
+fil_0115	2.
+fil_0116	Ang bawat tao’y may karapatan sa kapantay na bayad ng kapantay nagawain, nang walang ano mang pagtatangi.
+fil_0117	3.
+fil_0118	Ang bawat taong gumagawa ay may karapatan sa makatarungan atnababatay sa kabayarang tumitiyak sa kanyang sarili at sa kanyangpamilya ng kabuhayang karapat-dapat sa karangalan ng isang tao, atpupunan, kung kailangan, ng iba pang paraan ng pangangalangangpanlipunan.
+fil_0119	4.
+fil_0120	Ang bawat tao’y may karapatang magtatag at umanib sa mga unyon ngmanggagawa para sa pangangalaga ng kanyang mga kapakanan.
+fil_0121	Artikulo 24
+fil_0122	Ang bawat tao’y may karapatan sa pamamahinga at paglilibang, kasama angmga makatwirang pagtatakda ng mga oras ng paggawa at may sahod sa mgapana-panahong pista opisyal.
+fil_0123	Artikulo 25
+fil_0124	1.
+fil_0125	Ang bawat tao’y may karapatan sa isang pamantayan ng pamumuhay nasapat para sa kalusugan at kagalingan ng kanyang sarili at ng kanyangpamilya, kasama na ang pagkain, pananamit, paninirahan atpagpapagamot at kinakailangang mga paglilingkod panlipunan, at ngkarapatan sa kapanatagan sa panahong walang gawain, pagkakasakit,pagkabalda, pagkabalo, katandaan at iba pang kakapusan sa ikabubuhaysa mga di-maiiwasang pangyayari.
+fil_0126	2.
+fil_0127	Ang pagkaina at pagkabata ay nararapat sa tanging kalinga at tulong.
+fil_0128	Anglahat ng bata, maging anak na lehitimo o di-lehitimo, ay magtatamasa nggayon ding pangangalagang panlipunan.
+fil_0129	Artikulo 26
+fil_0130	1.
+fil_0131	Ang bawat tao’y may karapatan sa edukasyon.
+fil_0132	Ang edukasyon ay walangbayad, doon man lamang sa elementarya at pangunahing antas.
+fil_0133	Angedukasyong elementarya ay magiging sapilitan.
+fil_0134	Ang edukasyong teknikalat propesyonal ay gagawing maabot ng lahat at ang lalong mataas naedukasyon ay ipagkakaloob nang pantay-pantay sa lahat batay sapagiging karapat-dapat.
+fil_0135	2.
+fil_0136	Ang edukasyon ay itutungo sa ganap na pagpapaunlad ng pagkatao at sapagpapalakas ng paggalang sa mga karapatan ng tao at mgapangunahing kalayaan.
+fil_0137	Itataguyod nito ang pagkakaunawaan,pagbibigayan, at pagkakaibigan ng lahat ng bansa, mga pangkat napanlahi o panrelihiyon, at palawakin ang mga gawain ng mga Bansang
+fil_0138	Nagkakaisa sa ikapapanatili ng kapayapaan.
+fil_0139	3.
+fil_0140	Ang mga magulang ay may pangunahing karapatang pumili ng uri ngedukasyong ipagkaloob sa kanilang mga anak.
+fil_0141	Artikulo 27
+fil_0142	1.
+fil_0143	Ang bawat tao’y may karapatang makilahok nang malaya sa buhaypangkalinangan ng pamayanan, upang tamasahin ang mga sining atmakihati sa mga kaunlaran sa siyensiya at sa mga pakinabang dito.
+fil_0144	2.
+fil_0145	Ang bawat tao’y may karapatan sa pangangalaga ng mga kapakanangmoral at materyal bunga ng alin mang produksiyong pang-agham,pampanitikan o pansining na siya ang may-akda.
+fil_0146	Artikulo 28
+fil_0147	Ang bawat tao’y may karapatan sa kaayusang panlipunan at pandaigdig na angmga karapatan at mga kalayaang itinakda sa Pahayag na ito ay ganap namaisasakatuparan.
+fil_0148	Artikulo 29
+fil_0149	1.
+fil_0150	Ang bawat tao’y may mga tungkulin sa pamayanan sa ikaaari lamang ngmalaya at ganap na pagkaunlad ng kanyang pagkatao.
+fil_0151	2.
+fil_0152	Sa paggamit ng kanyang mga karapatan at mga kalayaan, ang bawattao’y masasaklaw lamang ng mga katakdaan gaya ng ipinapasya ng batasng tanging sa layunin lamang ng pagtatamo ng kaukulang pagkilala atpaggalang sa mga karapatan at mga kalayaan ng iba at sa pagtugon samakatarungang kahilingan ng moralidad, kaayusang pambayan at ngpangkalahatang kagalingan sa isang demokratikong lipunan.
+fil_0153	3.
+fil_0154	Ang mga karapatan at kalayaang ito ay hindi magagamit sa ano mangpangyayari nang nasasalungat sa mga layunin at mga simulain ng Mga
+fil_0155	Bansang Nagkakaisa.
+fil_0156	Artikulo 30
+fil_0157	Walang bagay sa Pahayag na ito na mapapakahulugan ang nagbibigay sa alinmang Estado, pangkat o tao ng ano mang karapatang gumawa ng ano mangkilusan o magsagawa ng ano mang hakbang na naglalayong sirain angnakalahad dito.

@@ -1,0 +1,143 @@
+dan_0001	Den 10.
+dan_0002	december 1948 vedtog og offentliggjorde FNs tredie generalforsamling
+dan_0003	Verdenserklæringen om Menneskerettighederne.
+dan_0004	Erklæringen blev vedtaget med
+dan_0005	48 landes ja-stemmer Ingen lande stemte imod.
+dan_0006	8 lande afstod.
+dan_0007	Umiddelbart efter denne historiske begivenhed henstillede generalforsamlingentil alle medlemslande, at de offentliggjorde erklæringens fulde tekst.
+dan_0008	De skulledesuden "foranstalte, at den bliver omdelt, fremlagt, læst og forklaret isærdeleshed i skoler og andre undervisningsinstitutioner, uden hensyn til deforskellige landes og områders politiske forhold".
+dan_0009	Erklæringens officielle tekst findes på FNs seks officielle sprog: arabisk, engelsk,fransk, kinesisk, russisk og spansk.
+dan_0010	Endvidere har en lang række af FNsmedlemslande fulgt generalforsamlingens opfordring og oversat erklæringen tildet nationale sprog.
+dan_0011	Den danske oversættelse på de følgende sider er udarbejdetaf udenrigsministeriet.
+dan_0012	Ved henvendelse til FNs nordiske informationskontor i København kan mangratis rekvirere eksemplarer af erklæringen på henholdsvis FNs officielle sprog,de øvrige nordiske sprog samt et begrænset antal andre sprog.
+dan_0013	VERDENSERKLÆRINGEN OM MENNESKERETTIGHEDERNE
+dan_0014	INDLEDNING
+dan_0015	Da anerkendelse af den mennesket iboende værdighed og af de lige ogufortabelige rettigheder for alle medlemmer af den menneskelige familie ergrundlaget for frihed, retfærdighed og fred i verden,da tilsidesættelse af og foragt for menneskerettighederne har ført til barbariskehandlinger, der har oprørt menneskehedens samvittighed, og da skabelsen af enverden, hvor menneskene nyder tale- og trosfrihed og frihed for frygt og nød, erblevet forkyndt som folkenes højeste mål,da det er af afgørende betydning, at menneskerettighederne beskyttes af loven,hvis ikke mennesket som en sidste udvej skal tvinges til at gøre oprør modtyranni og undertrykkelse,da det er af afgørende betydning at fremme udviklingen af venskabelige forholdmellem nationerne,da De forenede Nationers folk i pagten påny har bekræftet deres tro påfundamentale menneskerettigheder, på menneskets værdighed og værd og pålige rettigheder for mænd og kvinder, og har besluttet at fremme socialefremskridt og højne levevilkårene under større frihed,da medlemsstaterne har forpligtet sig til i samarbejde med De forenede Nationerat arbejde for fremme af almindelig respekt fur og overholdelse afmenneskerettigheder og fundamentale frihedsrettigheder,da en fælles forståelse af disse rettigheder og friheder er af den størstebetydning for den fulde virkeliggørelse af denne forpligtelse,proklamerer
+dan_0016	PLENARFORSAMLINGENderfor nu denne VERDENSERKLÆRING OM MENNESKERETTIGHEDERNEsom et fælles mål for alle folk og alle nationer med det formål, at ethvertmenneske og ethvert samfundsorgan stedse med denne erklæring for øje skalstræbe efter gennem undervisning og opdragelse at fremme respekt for disserettigheder og friheder og gennem fremadskridende nationale og internationaleforanstaltninger at sikre, at de anerkendes og overholdes overalt og effektivt,både blandt befolkningerne i medlemsstaterne og blandt befolkningerne i deområder, der befinder sig under deres styre.
+dan_0017	Artikel 1.
+dan_0018	Alle mennesker er født frie og lige i værdighed og rettigheder.
+dan_0019	De er udstyret medfornuft og samvittighed, og de bør handle mod hverandre i en broderskabets ånd.
+dan_0020	Artikel 2.
+dan_0021	Enhver har krav på alle de rettigheder og friheder, som nævnes i denneerklæring, uden forskelsbehandling af nogen art, f.
+dan_0022	eks.
+dan_0023	på grund af race, farve,køn, sprog, religion, politisk eller anden anskuelse, national eller socialoprindelse, formueforhold, fødsel eller anden samfundsmæssig stilling.
+dan_0024	Der skal heller ikke gøres nogen forskel på grund af det lands eller områdesjurisdiktionsforhold eller politiske eller internationale stilling, til hvilket en personhører, hvadenten dette område er uafhængigt, under formynderskab eller er etikke selvstyrende område, eller dets suverænitet på anden måde er begrænset.
+dan_0025	Artikel 3.
+dan_0026	Enhver har ret til liv, frihed og personlig sikkerhed.
+dan_0027	Artikel 4.
+dan_0028	Ingen må holdes i slaveri eller trældom;
+dan_0029	slaveri og slavehandel under alle formerskal være forbudt.
+dan_0030	Artikel 5.
+dan_0031	Ingen må underkastes tortur eller grusom, umenneskelig eller vanærendebehandling eller straf.
+dan_0032	Artikel 6.
+dan_0033	Ethvert menneske har overalt i verden ret til at blive anerkendt som retssubjekt.
+dan_0034	Artikel 7.
+dan_0035	Alle er lige for loven og har uden forskelsbehandling af nogen art lige ret tillovens beskyttelse.
+dan_0036	Alle har ret til lige beskyttelse mod enhver forskelsbehandlingi strid mod denne erklæring og mod enhver tilskyndelse til en sådanforskelsbehandling.
+dan_0037	Artikel 8.
+dan_0038	Enhver har ret til en fyldestgørende oprejsning ved de kompetente nationaledomstole for handlinger, der krænker de fundamentale rettigheder, somforfatningen eller loven giver vedkommende.
+dan_0039	Artikel 9.
+dan_0040	Ingen må underkastes vilkårlig anholdelse, tilbageholdelse eller landsforvisning.
+dan_0041	Artikel 10.
+dan_0042	Enhver har under fuld ligeberettigelse krav på en retfærdig og offentligbehandling ved en uafhængig og upartisk domstol, når der skal træffes enafgørelse med hensyn til hans rettigheder og forpligtelser og med hensyn til enhvilken som helst mod ham rettet strafferetslig anklage.
+dan_0043	Artikel 11.
+dan_0044	1.
+dan_0045	Enhver, der anklages for et strafbart forhold, har ret til at blive anset foruskyldig, indtil hans skyld er godtgjort i henhold til lov ved en offentligretshandling, hvorunder han har fået alle de garantier, der er fornødne forhans forsvar.
+dan_0046	2.
+dan_0047	Ingen må anses for skyldig i noget strafbart forhold på grund af nogenhandling eller undladelse, der ikke i henhold til national eller internationalret var strafbar på det tidspunkt, da den blev begået.
+dan_0048	Der skal heller ikkekunne idømmes strengere straf end fastsat på den tid, da det strafbareforhold blev begået.
+dan_0049	Artikel 12.
+dan_0050	Ingen må være genstand for vilkårlig indblanding i private forhold, familie, hjemeller korrespondance, ej heller for angreb på ære og omdømme.
+dan_0051	Enhver har rettil lovens beskyttelse mod sådan indblanding eller angreb.
+dan_0052	Artikel 13.
+dan_0053	1.
+dan_0054	Enhver har ret til at bevæge sig frit og til frit at vælge opholdssted indenforhver stats grænser.
+dan_0055	2.
+dan_0056	Enhver har ret til at forlade et hvilket som helst land, herunder sig eget, ogtil at vende tilbage til sit eget land.
+dan_0057	Artikel 14.
+dan_0058	1.
+dan_0059	Enhver har ret til i andre lande at søge og få tilstået asyl mod forfølgelse.
+dan_0060	2.
+dan_0061	Denne ret må ikke påberåbes ved anklager, der virkelig hidrører fra ikke-politiske forbrydelser eller fra handlinger i strid med De forenede Nationersformål og principper.
+dan_0062	Artikel 15.
+dan_0063	1.
+dan_0064	Enhver har ret til en nationalitet.
+dan_0065	2.
+dan_0066	Ingen må vilkårligt berøves sin nationalitet eller nægtes ret til at skiftenationalitet.
+dan_0067	Artikel 16.
+dan_0068	1.
+dan_0069	Uden begrænsninger af racemæssige, nationalitetsmæssige eller religiøsegrunde har mænd og kvinder, der har nået myndighedsalderen, ret til atgifte sig og stifte familie.
+dan_0070	De har krav på lige rettigheder med hensyn tilindgåelse af ægteskab, under ægteskabet og ved dettes opløsning.
+dan_0071	2.
+dan_0072	Ægteskab skal kun kunne indgås med begge parters frie og fuldesamtykke.
+dan_0073	3.
+dan_0074	Familien er samfundets naturlige og fundamentale enhedsgruppe og harkrav på samfundets og statens beskyttelse.
+dan_0075	Artikel 17.
+dan_0076	1.
+dan_0077	Enhver har ret til at eje ejendom såvel alene som i fællig med andre.
+dan_0078	2.
+dan_0079	Ingen må vilkårligt berøves sin ejendom.
+dan_0080	Artikel 18.
+dan_0081	Enhver har ret til tanke-, samvittigheds- og religionsfrihed: denne ret omfatterfrihed til at skifte religion eller tro og frihed til enten alene eller i fællesskab medandre, offentligt eller privat, at give udtryk for sin religion eller tro gennemundervisning, udøvelse, gudsdyrkelse og overholdelse af religiøse forskrifter.
+dan_0082	Artikel 19.
+dan_0083	Enhver har ret til menings- og ytringsfrihed;
+dan_0084	denne ret omfatter frihed til at hævdesin opfattelse uden indblanding og til at søge, modtage og meddele oplysning ogtanker ved et hvilket som helst meddelelsesmiddel og uanset landegrænser.
+dan_0085	Artikel 20.
+dan_0086	1.
+dan_0087	Alle har ret til under fredelige former frit at forsamles og danne foreninger.
+dan_0088	2.
+dan_0089	Ingen kan tvinges til at være medlem af en forening.
+dan_0090	Artikel 21.
+dan_0091	1.
+dan_0092	Enhver har ret til at deltage i sit lands styre enten direkte eller gennem fritvalgte repræsentanter.
+dan_0093	2.
+dan_0094	Enhver har ret til lige adgang til offentlige embeder og hverv i sit land.
+dan_0095	3.
+dan_0096	Folkets vilje skal være grundlaget for regeringens myndighed;
+dan_0097	denne viljeskal tilkendegives gennem periodiske og virkelige valg med almindelig oglige valgret og skal udøves gennem hemmelig afstemning eller tilsvarendefrie afstemningsmåder.
+dan_0098	Artikel 22.
+dan_0099	Enhver har som medlem af samfundet ret til social tryghed og har krav på, at deøkonomiske, sociale og kulturelle rettigheder, der er uundværlige for hansværdighed og hans personligheds frie udvikling, gennemføres ved nationaleforanstaltninger og internationalt samarbejde og i overensstemmelse med hverstats organisation og hjælpekilder.
+dan_0100	Artikel 23.
+dan_0101	1.
+dan_0102	Enhver har ret til arbejde, til frit valg af beskæftigelse, til retfærdige oggunstige arbejdsvilkår og til beskyttelse mod arbejdsløshed.
+dan_0103	2.
+dan_0104	Enhver har uden forskel ret til lige løn for lige arbejde.
+dan_0105	3.
+dan_0106	Enhver, der arbejder, har ret til et retfærdigt og gunstigt vederlag, dersikrer ham selv og hans familie en menneskeværdig tilværelse, og omfornødent tillige til andre sociale beskyttelsesforanstaltninger.
+dan_0107	4.
+dan_0108	Enhver har ret til at danne og indtræde i fagforeninger til beskyttelse afsine interesser.
+dan_0109	Artikel 24.
+dan_0110	Enhver har ret til hvile og fritid, herunder en rimelig begrænsning af arbejdstiden,og til periodisk ferie med løn.
+dan_0111	Artikel 25.
+dan_0112	1.
+dan_0113	Enhver har ret til en sådan levefod, som er tilstrækkelig til hans og hansfamilies sundhed og velvære, herunder til føde, klæder, bolig oglægehjælp og de nødvendige sociale goder og ret til tryghed i tilfælde afarbejdsløshed, sygdom, uarbejdsdygtighed, enkestand, alderdom ellerandet tab af fortjenstmulighed under omstændigheder, der ikke erselvforskyldt.
+dan_0114	2.
+dan_0115	Mødre og børn har krav på særlig omsorg og hjælp.
+dan_0116	Alle børn skal,hvadenten de er født i eller udenfor ægteskab, have den samme socialebeskyttelse.
+dan_0117	Artikel 26.
+dan_0118	1.
+dan_0119	Enhver har ret til undervisning.
+dan_0120	Undervisningen skal være gratis, i detmindste på de elementære og grundlæggende trin.
+dan_0121	Elementærundervisning skal være obligatorisk.
+dan_0122	Teknisk og faglig uddannelse skalgøres almindelig tilgængelig for alle, og på grundlag af evner skal dervære lige adgang for alle til højere undervisning.
+dan_0123	2.
+dan_0124	Undervisningen skal tage sigte på den menneskelige personligheds fuldeudvikling og på at styrke respekten for menneskerettigheder oggrundlæggende friheder.
+dan_0125	Den skal fremme forståelse, tolerance ogvenskab mellem alle nationer og racemæssige og religiøse grupper, ogden skal fremme De forenede Nationers arbejde til fredens bevarelse.
+dan_0126	3.
+dan_0127	Forældre har førsteret til at vælge den form for undervisning, som deresbørn skal have.
+dan_0128	Artikel 27.
+dan_0129	1.
+dan_0130	Enhver har ret til frit at deltage i samfundets kulturelle liv, til kunstnydelseog til at blive delagtiggjort i videnskabens fremskridt og dens goder.
+dan_0131	2.
+dan_0132	Enhver har ret til beskyttelse af de moralske og materielle interesser, derhidrører fra en hvilken som helst videnskabelig, litterær eller kunstneriskfrembringelse, som vedkommende har skabt.
+dan_0133	Artikel 28.
+dan_0134	Enhver har krav på en social og international orden, i hvilken de i denneerklæring nævnte rettigheder og friheder fuldtud kan virkeliggøres.
+dan_0135	Artikel 29.
+dan_0136	1.
+dan_0137	Enhver har pligter overfor samfundet, der alene muliggør personlighedensfrie og fulde udvikling.
+dan_0138	2.
+dan_0139	Under udøvelsen af sine rettigheder og friheder er enhver kun underkastetde begrænsninger, der er fastsat i loven alene med det formål at sikreskyldig anerkendelse af og hensyntagen til andres rettigheder og frihederog med det formål at opfylde de retfærdige krav, som moralen, denoffentlige orden og det almene vel stiller i et demokratisk samfund.
+dan_0140	3.
+dan_0141	Disse rettigheder og friheder må i intet tilfælde udøves i strid med Deforenede Nationers formål og principper.
+dan_0142	Artikel 30.
+dan_0143	Intet i denne erklæring må fortolkes som givende nogen stat, gruppe ellerenkeltperson hjemmel til at indlade sig på nogen virksomhed eller foretage nogenhandling, der tilsigter at nedbryde nogen af de heri opregnede rettigheder ogfriheder.

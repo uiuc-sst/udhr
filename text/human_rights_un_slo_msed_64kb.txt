@@ -1,0 +1,97 @@
+slk_0001	VŠEOBECNÁ DEKLARÁCIA ĽUDSKÝCH PRÁV 
+slk_0002	PREAMBULA
+slk_0003	Vo  vedomí,  že  uznanie  prirodzenej  dôstojnosti  a  rovných  a  neodcudziteľných  práv  členovľudskej rodiny je základom slobody, spravodlivosti a mieru na svete,že  neuznanie  ľudských  práv  a  pohŕdanie  nimi  viedlo  k  barbarským  činom,  ktoré  urážajúsvedomie ľudstva, a že  vybudovanie sveta, v ktorom ľudia zbavení  strachu a núdze sa  budútešiť slobode prejavu a presvedčenia, bolo vyhlásené za najvyšší cieľ ľudstva,že je nutné, aby sa ľudské práva chránili zákonom, ak nemá byť človek donútený uchýliť sa, ažkeď všetko ostatné zlyhalo, k odboju proti tyranii a útlaku,že je nutné podporovať rozvoj priateľských vzťahov medzi národmi,že národy Organizácie Spojených národov zdôraznili v Charte znovu svoju vieru v základnéľudské práva, v dôstojnosť a hodnotu ľudskej osobnosti, v rovnaké práva mužov a žien, že sarozhodli podporovať sociálny pokrok a vytvoriť lepšie životné podmienky vo väčšej slobode,že  členské  štáty  prevzali  záväzok  zaistiť  v  spolupráci  s  Organizáciou  Spojených  národovvšeobecné uznávanie a zachovávanie ľudských práv a základných slobôd aže rovnaké chápanie týchto práv a slobôd má nesmierny význam pre dôsledné splnenie tohtozáväzku,vyhlasuje
+slk_0004	VALNÉ ZHROMAŽDENIEtúto Všeobecnú deklaráciu ľudských práv ako spoločný cieľ pre všetky národy a všetky štáty,aby sa každý jednotlivec a každý orgán spoločnosti, majúc túto deklaráciu stále na mysli, snažilvyučovaním  a  výchovou  rozšíriť  úctu  k  týmto  právam  a  slobodám  a  zaistiť  postupnýmiopatreniami  vnútroštátnymi  i  medzinárodnými  ich  všeobecné  a  účinné  uznávanie  azachovávanie ako medzi ľudom členských štátov samotných, tak medzi ľudom území, ktoré súpod ich správou.
+slk_0005	Článok 1
+slk_0006	Všetci ľudia sa rodia slobodní a sebe rovní, v ich dôstojnosti a právach.
+slk_0007	Sú obdarení rozumoma svedomím a majú navzájom konať v duchu bratstva.
+slk_0008	Článok 2
+slk_0009	Každý  má  všetky  práva  a  všetky  slobody,  vyhlásené  v  tejto  deklarácii,  bez  ohľadu  na  rasu,farbu, pohlavie, jazyk, náboženstvo, politické alebo iné zmýšľanie, národnostný alebo sociálnypôvod, majetok, rod alebo iné postavenie.
+slk_0010	Žiaden  rozdiel  sa  nebude  robiť  na  základe  politického,  právneho  alebo  medzinárodnéhopostavenia  krajiny  alebo  územia,  ku  ktorému  osoba  patrí,  či  je  to  krajina  alebo  územienezávislé,  poručnícke,  nesamosprávne  alebo  podrobené  akémukoľvek  inému  obmedzeniusuverenity.
+slk_0011	Článok 3
+slk_0012	Každý má právo na život, slobodu a osobnú bezpečnosť.
+slk_0013	Článok 4
+slk_0014	Nikto nesmie byť držaný v otroctve alebo v nevoľníctve, všetky formy otroctva a obchodu sotrokmi sú zakázané.
+slk_0015	Článok 5
+slk_0016	Nikto  nesmie  byť  mučený  alebo  podrobený  krutému,  neľudskému  alebo  ponižujúcemuzaobchádzaniu alebo trestu.
+slk_0017	Článok 6
+slk_0018	Každý má právo, aby bol všade uznávaný jeho právny status.
+slk_0019	Článok 7
+slk_0020	Všetci sú si pred zákonom rovní a majú právo na rovnakú  zákonnú ochranu bez akejkoľvekdiskriminácie.
+slk_0021	Všetci  majú  právo  na  rovnakú  ochranu  proti  akejkoľvek  diskriminácii,  ktoráporušuje túto deklaráciu, a proti akémukoľvek podnecovaniu k takej diskriminácii.
+slk_0022	Článok 8
+slk_0023	Každý má právo na účinnú ochranu príslušnými vnútroštátnymi súdmi proti činom porušujúcimzákladné práva, ktoré mu priznáva ústava alebo zákon.
+slk_0024	Článok 9
+slk_0025	Nikto nesmie byť svojvoľne zatknutý, zadržaný alebo vyhostený.
+slk_0026	Článok 10
+slk_0027	Každý má rovnaké právo, aby bol spravodlivo a verejne vypočutý nezávislým a nestrannýmsúdom, ktorý rozhoduje o jeho právach  a povinnostiach a o  akomkoľvek  trestnom obvinení,vznesenom proti nemu.
+slk_0028	Článok 11
+slk_0029	(1) Každý, kto je obvinený z trestného činu, má právo, aby bol považovaný za nevinného, kýmnie je zákonným postupom dokázaná jeho vina vo verejnom  procese, pri ktorom mal všetkyzáruky nevyhnutné na jeho obhajobu.
+slk_0030	(2) Nikto nesmie byť uznaný vinným zo spáchania akéhokoľvek trestného činu spočívajúcehov konaní  alebo  opomenutí,  ktoré  v  čase,  keď  bolo  spáchané,  nebolo  trestným  činom  podľavnútroštátneho alebo medzinárodného práva.
+slk_0031	Rovnako nesmie byť uložený ťažší trest ako trest,ktorý mohol byť uložený v čase, keď bol trestný čin spáchaný.
+slk_0032	Článok 12
+slk_0033	Nikto nesmie byť vystavený svojvoľnému zasahovaniu do súkromného života, rodiny, domovaalebo korešpondencie, ani útokom na svoju česť a povesť.
+slk_0034	Každý má právo na zákonnú ochranuproti takýmto zásahom alebo útokom.
+slk_0035	Článok 13
+slk_0036	(1) Každý má právo slobodne sa pohybovať a slobodne si zvoliť bydlisko v každom štáte.
+slk_0037	(2) Každý má právo opustiť ktorúkoľvek krajinu, i svoju vlastnú, a vrátiť sa do svojej krajiny.
+slk_0038	Článok 14
+slk_0039	(1) Každý má právo vyhľadať a získať v iných krajinách azyl pred prenasledovaním.
+slk_0040	(2)  Toto  právo  nemožno  uplatňovať  v  prípade  stíhania  začatého  na  základe  nepolitickýchtrestných činov  alebo na základe činov, ktoré sú  v rozpore s cieľmi  a zásadami  Organizácie
+slk_0041	Spojených národov.
+slk_0042	Článok 15
+slk_0043	(1) Každý má právo na štátnu príslušnosť.
+slk_0044	(2)  Nikto  nesmie  byť  svojvoľne  zbavený  svojej  štátnej  príslušnosti,  ani  práva  svoju  štátnupríslušnosť zmeniť.
+slk_0045	Článok 16
+slk_0046	(1)  Muži  a  ženy,  ktorí  dosiahli  plnoletosť,  majú  právo  bez  obmedzenia  z  dôvodov  rasovej,národnostnej alebo náboženskej príslušnosti, uzavrieť manželstvo a založiť rodinu.
+slk_0047	Majú nárokna rovnaké práva na uzavretie manželstva, rovnaké práva počas manželstva aj pri jeho zrušení.
+slk_0048	(2)  Manželstvo  môže  byť  uzavreté  len  so  slobodným  a  riadnym  súhlasom  nastávajúcichmanželov.
+slk_0049	(3) Rodina je prirodzenou a základnou jednotkou  spoločnosti  a má nárok  na ochranu  tak  zostrany spoločnosti, ako aj štátu.
+slk_0050	Článok 17
+slk_0051	(1) Každý má právo vlastniť majetok sám, rovnako ako aj spolu s inými.
+slk_0052	(2) Nikto nesmie byť svojvoľne zbavený svojho majetku.
+slk_0053	Článok 18
+slk_0054	Každý má právo na slobodu myslenia, svedomia a náboženstva;
+slk_0055	toto právo zahŕňa aj sloboduzmeniť svoje náboženstvo alebo vieru, ako aj slobodu prejavovať svoje náboženstvo súkromne,vyučovaním, vykonávaním náboženských úkonov, bohoslužbou a zachovávaním obradov.
+slk_0056	Článok 19
+slk_0057	Každý  má  právo  na  slobodu  presvedčenia  a prejavu,  toto  právo  nepripúšťa,  aby  niekto  trpelujmu  pre  svoje  presvedčenie  a  zahŕňa  právo  vyhľadávať,  prijímať  a  rozširovať  informácie  amyšlienky všetkými prostriedkami a bez ohľadu na hranice.
+slk_0058	Článok 20
+slk_0059	(1) Každému je zaručená sloboda pokojného zhromažďovania a združovania sa.
+slk_0060	(2) Nikto nesmie byť nútený, aby bol členom nejakého združenia.
+slk_0061	Článok 21
+slk_0062	(1)  Každý  má  právo,  aby  sa  zúčastnil  na  správe  svojej  krajiny,  buď  priamo  aleboprostredníctvom slobodne volených zástupcov.
+slk_0063	(2) Každý má právo vstúpiť za rovnakých podmienok do verejných služieb svojej krajiny.
+slk_0064	(3) Základom vládnej moci je vôľa ľudu, táto vôľa má byť vyjadrená v pravidelných a riadnychvoľbách, na základe všeobecného a rovného hlasovacieho práva tajným hlasovaním alebo inýmrovnocenným postupom zabezpečujúcim slobodu hlasovania.
+slk_0065	Článok 22
+slk_0066	Každý človek má ako člen spoločnosti právo na sociálne zabezpečenie a nárok na to, aby muboli národným úsilím aj medzinárodnou súčinnosťou a v súlade s organizáciou a prostriedkamipríslušného  štátu  zaručené  hospodárske,  sociálne  a  kultúrne  práva,  nevyhnutné  pre  jehodôstojnosť a slobodný rozvoj jeho osobnosti.
+slk_0067	Článok 23
+slk_0068	(1) Každý má právo na  prácu, na slobodnú voľbu zamestnania, na spravodlivé a uspokojivépracovné podmienky a na ochranu pred nezamestnanosťou.
+slk_0069	(2) Každý má bez akejkoľvek diskriminácie nárok na rovnaký plat za rovnakú prácu.
+slk_0070	(3)  Každý  pracujúci  má  právo  na  spravodlivú  a  primeranú  odmenu,  ktorá  zabezpečuje  jemusamému  a  jeho  rodine  živobytie  zodpovedajúce  ľudskej  dôstojnosti,  a  doplnená,  v  prípadepotreby, inými prostriedkami sociálneho zabezpečenia.
+slk_0071	(4) Každý má právo na ochranu svojich záujmov zakladať odborové organizácie a pristupovaťk nim.
+slk_0072	Článok 24
+slk_0073	Každý  má  právo  na  odpočinok  a  zotavenie,  na  rozumné  vymedzenie  pracovných  hodín  apravidelnej platenej dovolenky.
+slk_0074	Článok 25
+slk_0075	(1) Každý má právo na takú životnú úroveň, ktorá môže zabezpečiť jemu i jeho rodine zdraviea blahobyt,  vrátane  stravy,  ošatenia,  bývania,  lekárskej  starostlivosti,  ako  aj  potrebnýchsociálnych  služieb,  má  právo  na  zabezpečenie  v  nezamestnanosti,  v  chorobe,  pri  pracovnejnespôsobilosti, pri ovdovení, v starobe alebo v iných prípadoch straty zárobkových možností,ktoré nastali za okolností nezávislých od jeho vôle.
+slk_0076	(2)  Materstvo  a  detstvo  majú  nárok  na  zvláštnu  starostlivosť  a  pomoc.
+slk_0077	Všetky  deti,  či  užnarodené v manželstve alebo mimo neho, majú rovnakú sociálnu ochranu.
+slk_0078	Článok 26
+slk_0079	(1) Každý má právo na vzdelanie.
+slk_0080	Vzdelanie je bezplatné, aspoň v začiatočných a základnýchstupňoch.
+slk_0081	Základné  vzdelanie  je  povinné.
+slk_0082	Technické  a  odborné  vzdelanie  je  všeobecneprístupné a vyššie vzdelanie má byť rovnako prístupné každému podľa jeho schopností.
+slk_0083	(2) Vzdelanie má smerovať k plnému rozvoju ľudskej osobnosti a k posilneniu úcty k ľudskýmprávam a základným slobodám.
+slk_0084	Má napomáhať k vzájomnému porozumeniu, znášanlivosti apriateľstvu medzi všetkými národmi a všetkými rasovými i náboženskými skupinami,  ako ajrozvoju činnosti Organizácie Spojených národov na zachovanie mieru.
+slk_0085	(3) Rodičia majú prednostné právo vybrať druh vzdelania, ktorý bude poskytnutý ich deťom.
+slk_0086	Článok 27
+slk_0087	(1) Každý má právo slobodne sa zúčastňovať na kultúrnom živote spoločnosti, mať potešeniez umenia a zúčastniť sa na vedeckom pokroku a na jeho výdobytkoch.
+slk_0088	(2)  Každý  má  právo  na  ochranu  morálnych  a  materiálnych  záujmov,  ktoré  vyplývajú  z  jehovedeckej, literárnej alebo umeleckej tvorby.
+slk_0089	Článok 28
+slk_0090	Každý má právo na to, aby vládol taký sociálny a medzinárodný poriadok, v ktorom by sa právaa slobody vyhlásené v tejto deklarácii uskutočňovali v plnom rozsahu.
+slk_0091	Článok 29
+slk_0092	(1)  Každý  má  povinnosti  voči  spoločnosti,  iba  v  nej  môže  slobodne  a  plne  rozvinúť  svojuosobnosť.
+slk_0093	(2) Vo výkone svojich práv a slobôd je každý podrobený iba takým obmedzeniam, ktoré stanovízákon  a  ktoré  slúžia  výhradne  k  zabezpečeniu  náležitého  uznávania  a  zachovávania  práv  aslobôd iných, ako aj k uspokojeniu spravodlivých požiadaviek morálky, verejného poriadku avšeobecného blaha v demokratickej spoločnosti.
+slk_0094	(3) Výkon týchto práv a slobôd nesmie byť v žiadnom prípade v rozpore s cieľmi a zásadami
+slk_0095	Organizácie Spojených národov.
+slk_0096	Článok 30
+slk_0097	V tejto deklarácii sa nesmie nič vykladať tak, aby to oprávňovalo akýkoľvek štát, skupinu aleboosobu vyvíjať činnosť alebo dopúšťať sa činov, ktoré by smerovali k potlačeniu niektorého zpráv alebo slobôd v tejto deklarácii vyhlásených.

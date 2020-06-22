@@ -1,0 +1,229 @@
+jpn_0001	
+jpn_0002	
+jpn_0003	
+jpn_0004	
+jpn_0005	
+jpn_0006	nosɯbɛtɛnononotodɛɾɯkotonodɛkjnaitoo
+jpn_0007	sɯɾɯkotohanjokɛɾɯbinodɛaɾɯnodɛ
+jpn_0008	nobiɡanoomjnjdʒitaomotaɾaʃi
+jpn_0009	binoɡakɛɾaɾɛbinonainoɡanono
+jpn_0010	notoʃtɛsaɾɛtanodɛ
+jpn_0011	ɡatotonisɯɾɯnotoʃtɛnjɛɾɯkotoɡanaijoɯnjsɯ
+jpn_0012	ɾɯtamɛnjhanonijotɛosɯɾɯkotoɡadɛaɾɯnodɛ
+jpn_0013	nonoosɯɾɯkotoɡadɛaɾɯnodɛ
+jpn_0014	nohanjoitɛnobibi
+jpn_0015	ninonitsɯitɛnooʃkatsɯkinanoɯt̠ʃdɛ
+jpn_0016	tonotoosɯɾɯkotooʃtanodɛ
+jpn_0017	hatoʃtɛbinonabino
+jpn_0018	osɯɾɯkotooʃtanodɛ
+jpn_0019	koɾɛɾanobinisɯɾɯnohakonoonisɯɾɯtamɛnjmo
+jpn_0020	tomodɛaɾɯnodɛ
+jpn_0021	jotɛkokonjha
+jpn_0022	nobiɡakonooninikjnaɡaɾa
+jpn_0023	nononjmomatanoniaɾɯnononimokoɾɛɾa
+jpn_0024	nototonoobinijotɛsɯɾɯkotobinjsoɾɛɾano
+jpn_0025	nijotɛsɯɾɯkotonisɯɾɯjoɯnisɯbɛtɛnotosɯbɛtɛnotoɡa
+jpn_0026	sɯbɛkjnotoʃitɛkonoosɯɾɯ
+jpn_0027	
+jpn_0028	sɯbɛtɛnohamaɾɛnaɡaɾanjʃitɛdɛaɾikatsɯtoto
+jpn_0029	nitsɯitɛdɛaɾɯ
+jpn_0030	hatotookɛɾaɾɛtɛoɾiini
+jpn_0031	noomotɛʃnakɛɾɛbanaɾanai
+jpn_0032	
+jpn_0033	sɯbɛtɛhanosonono
+jpn_0034	moʃkɯhasononohakoɾɛnisɯɾɯi
+jpn_0035	kanaɾɯnijoɾɯomokɛɾɯkotonakɯkononjɡɛɾɯsɯbɛtɛno
+jpn_0036	totoosɯɾɯkotoɡadɛkjɾɯ
+jpn_0037	saɾanjnosɯɾɯhaɡadɛaɾɯtodɛ
+jpn_0038	aɾɯtodɛaɾɯtohanonaɾakanononjaɾɯto
+jpn_0039	owazɯsonohanohanonjzɯkɯi
+jpn_0040	kanaɾɯmoʃtɛhanaɾanai
+jpn_0041	
+jpn_0042	sɯbɛtɛnohabinonjsɯɾɯosɯɾɯ
+jpn_0043	
+jpn_0044	monjsaɾɛhanisɯɾɯkotohanai
+jpn_0045	bi
+jpn_0046	haikanaɾɯnjoitɛmosɯɾɯ
+jpn_0047	
+jpn_0048	mohananamoʃikɯhanamoʃkɯha
+jpn_0049	okɛɾɯkotohanai
+jpn_0050	
+jpn_0051	sɯbɛtɛnohaikanaɾɯnjoitɛmononioitɛtoʃtɛ
+jpn_0052	mɛɾaɾɛɾɯosɯɾɯ
+jpn_0053	
+jpn_0054	sɯbɛtɛnohanonioitɛdɛaɾimataikanaɾɯmonaʃi
+jpn_0055	ninonaokɛɾɯosɯɾɯ
+jpn_0056	sɯbɛtɛnohakononi
+jpn_0057	sɯɾɯikanaɾɯniʃtɛmomatasonojoɯnaososonokasɯikana
+jpn_0058	ɾɯniʃtɛmonaokɛɾɯosɯɾɯ
+jpn_0059	
+jpn_0060	sɯbɛtɛnohahanjjotɛɛɾaɾɛtaosɯɾɯ
+jpn_0061	niʃiosɯɾɯnjjoɾɯnaokɛɾɯo
+jpn_0062	sɯɾɯ
+jpn_0063	
+jpn_0064	mohoʃimamanihasaɾɛɾɯkotohanai
+jpn_0065	
+jpn_0066	sɯbɛtɛnohanobibininjsɯɾɯɡa
+jpn_0067	saɾɛɾɯnjtatɛnonanijoɾɯnanookɛ
+jpn_0068	ɾɯkotonjtsɯitɛninoosɯɾɯ
+jpn_0069	
+jpn_0070	
+jpn_0071	nookɛtahasɯbɛtɛnonjnasɯbɛtɛno
+jpn_0072	oɛɾaɾɛtanonioitɛnjtɛnoɡaaɾɯmadɛha
+jpn_0073	
+jpn_0074	tosaɾɛɾɯosɯɾɯ
+jpn_0075	
+jpn_0076	mononihanjjoɾioʃinakata
+jpn_0077	hanotamɛnjtosaɾɛɾɯkotohanai
+jpn_0078	mataɡawaɾɛta
+jpn_0079	nisaɾɛɾɯjoɾiihasɛɾaɾɛnai
+jpn_0080	
+jpn_0081	monomoʃikɯhanjʃtɛhoʃiimama
+jpn_0082	nisaɾɛhabiniʃitɛokɛɾɯkotohanai
+jpn_0083	hasɯ
+jpn_0084	bɛtɛkonojoɯnahaniʃtɛnookɛɾɯosɯɾɯ
+jpn_0085	
+jpn_0086	
+jpn_0087	sɯbɛtɛhanonioitɛnjbisɯɾɯo
+jpn_0088	sɯɾɯ
+jpn_0089	
+jpn_0090	sɯbɛtɛhasonoizɯɾɛnoomot̠ʃiɾjbinjɾɯ
+jpn_0091	osɯɾɯ
+jpn_0092	
+jpn_0093	
+jpn_0094	sɯbɛtɛhakaɾanoonjmɛkatsɯkoɾɛodɛ
+jpn_0095	sɯɾɯosɯɾɯ
+jpn_0096	
+jpn_0097	konohahanobinjsɯɾɯo
+jpn_0098	mopaɾatosɯɾɯnonihasɯɾɯkotohadɛkjnai
+jpn_0099	
+jpn_0100	
+jpn_0101	sɯbɛtɛhaomotsɯosɯɾɯ
+jpn_0102	
+jpn_0103	mohoʃimamanisonoowaɾɛhasonoosɯɾɯ
+jpn_0104	osaɾɛɾɯkotohanai
+jpn_0105	
+jpn_0106	
+jpn_0107	nohahanjjoɾɯikanaɾɯomokɛɾɯ
+jpn_0108	kotonakɯʃkatsɯotsɯkɯɾɯosɯɾɯ
+jpn_0109	noha
+jpn_0110	bisononjʃiniʃinoosɯɾɯ
+jpn_0111	
+jpn_0112	hanoosɯɾɯnokatsɯnanjjotɛ
+jpn_0113	nomisɯɾɯ
+jpn_0114	
+jpn_0115	hanokatsɯnadɛatɛbino
+jpn_0116	okɛɾɯosɯɾɯ
+jpn_0117	
+jpn_0118	
+jpn_0119	sɯbɛtɛnohadɛhanotoʃtɛosɯɾɯo
+jpn_0120	sɯɾɯ
+jpn_0121	
+jpn_0122	mohoʃimamaninoowaɾɛɾɯkotohanai
+jpn_0123	
+jpn_0124	sɯbɛtɛhabinoosɯɾɯosɯɾɯ
+jpn_0125	ko
+jpn_0126	nohahaosɯɾɯbinjdɛhanotoʃi
+jpn_0127	tɛnihanjbinijotɛha
+jpn_0128	osɯɾɯomɯ
+jpn_0129	
+jpn_0130	sɯbɛtɛhabinoosɯɾɯosɯɾɯ
+jpn_0131	kono
+jpn_0132	haokɛɾɯkotonakɯnoomotsɯbiniaɾajɯɾɯnjjo
+jpn_0133	ɾimataoɛɾɯtotonikakawaɾjnakɯbiomɛ
+jpn_0134	kɛbiɛɾɯomɯ
+jpn_0135	
+jpn_0136	
+jpn_0137	sɯbɛtɛhanabinoosɯɾɯosɯɾɯ
+jpn_0138	
+jpn_0139	monjsɯɾɯkotoosaɾɛnai
+jpn_0140	
+jpn_0141	
+jpn_0142	sɯbɛtɛhanjhanisaɾɛtaodʒitɛno
+jpn_0143	nisɯɾɯosɯɾɯ
+jpn_0144	
+jpn_0145	sɯbɛtɛhanjoitɛhitoʃikɯnjtsɯkɯosɯɾɯ
+jpn_0146	
+jpn_0147	nohanonotonaɾanakɛɾɛbanaɾanai
+jpn_0148	kono
+jpn_0149	hanokatsɯnanjjotɛsaɾɛnakɛɾɛbanaɾanai
+jpn_0150	kono
+jpn_0151	hanonjjoɾɯmonodɛnakɛɾɛbanaɾazɯmatahako
+jpn_0152	ɾɛtonoɡasaɾɛɾɯnjjotɛwaɾɛnakɛɾɛbanaɾanai
+jpn_0153	
+jpn_0154	sɯbɛtɛhanotoʃitɛokɛɾɯoʃkatsɯ
+jpn_0155	binijoɾimatanobinjdʒitɛ
+jpn_0156	notonononatonikɯkotonodɛkjnai
+jpn_0157	binonjsɯɾɯosɯɾɯ
+jpn_0158	
+jpn_0159	
+jpn_0160	sɯbɛtɛhaʃioniʃkatsɯna
+jpn_0161	oʃibinjsɯɾɯokɛɾɯosɯɾɯ
+jpn_0162	
+jpn_0163	sɯbɛtɛhaikanaɾɯomokɛɾɯkotonakɯnonjʃi
+jpn_0164	nookɛɾɯosɯɾɯ
+jpn_0165	
+jpn_0166	sɯɾɯhasɯbɛtɛbinjʃitɛnonjhɯsawaʃi
+jpn_0167	iosɯɾɯkatsɯnaokɛkatsɯnanjha
+jpn_0168	nonjjotɛokɛɾɯkotoɡadɛkiɾɯ
+jpn_0169	
+jpn_0170	sɯbɛtɛhanoosɯɾɯtamɛnioʃbiko
+jpn_0171	ɾɛnjsɯɾɯosɯɾɯ
+jpn_0172	
+jpn_0173	sɯbɛtɛhanonabinaomɯ
+jpn_0174	biomotsɯosɯɾɯ
+jpn_0175	
+jpn_0176	
+jpn_0177	sɯbɛtɛhabinanjjoɾi
+jpn_0178	binobinjnaosɯɾɯbini
+jpn_0179	
+jpn_0180	nosononjjoɾɯnoha
+jpn_0181	okɛɾɯosɯɾɯ
+jpn_0182	
+jpn_0183	totohanobiokɛɾɯosɯɾɯ
+jpn_0184	sɯbɛtɛno
+jpn_0185	hadɛaɾɯtotoowazɯdʒiosɯɾɯ
+jpn_0186	
+jpn_0187	
+jpn_0188	sɯbɛtɛhaokɛɾɯosɯɾɯ
+jpn_0189	hanakɯtomo
+jpn_0190	nobinonjoitɛhadɛnakɛɾɛbanaɾanai
+jpn_0191	ha
+jpn_0192	dɛnakɛɾɛbanaɾanai
+jpn_0193	bihanidɛkjɾɯ
+jpn_0194	modɛnakɛɾɛbanaɾazɯmatahanjdʒisɯbɛtɛnonihjto
+jpn_0195	ʃikɯsaɾɛtɛinakɛɾɛbanaɾanai
+jpn_0196	
+jpn_0197	hanonabinjbinonoo
+jpn_0198	toʃnakɛɾɛbanaɾanai
+jpn_0199	hasɯbɛtɛnohamoʃkɯha
+jpn_0200	nonobioʃkatsɯnono
+jpn_0201	tamɛnoosɯɾɯmonodɛnakɛɾɛbanaɾanai
+jpn_0202	
+jpn_0203	hanjɛɾɯnoosɯɾɯosɯɾɯ
+jpn_0204	
+jpn_0205	
+jpn_0206	sɯbɛtɛhaninonjʃoʃbi
+jpn_0207	notosonotonjazɯkaɾɯosɯɾɯ
+jpn_0208	
+jpn_0209	sɯbɛtɛhasonoʃtahakaɾazɯɾɯ
+jpn_0210	biosaɾɛɾɯosɯɾɯ
+jpn_0211	
+jpn_0212	sɯbɛtɛhakononiɡɛɾɯbiɡanjsaɾɛɾɯ
+jpn_0213	binjsɯɾɯosɯɾɯ
+jpn_0214	
+jpn_0215	
+jpn_0216	sɯbɛtɛhasononokatsɯnaɡasononjatsɯtɛnomi
+jpn_0217	dɛaɾɯniʃtɛoɯ
+jpn_0218	
+jpn_0219	sɯbɛtɛhanobiosɯɾɯnjtatsɯtɛhano
+jpn_0220	binonabiosɯɾɯkotobininjokɛ
+jpn_0221	ɾɯnobinononaotasɯkotoomopaɾa
+jpn_0222	toʃitɛnijotɛmɛɾaɾɛtaninomisɯɾɯ
+jpn_0223	
+jpn_0224	koɾɛɾanobihaikanaɾɯnjmonobi
+jpn_0225	niʃtɛʃitɛhanaɾanai
+jpn_0226	
+jpn_0227	kononoikanaɾɯmoizɯɾɛkanohaniʃtɛ
+jpn_0228	kononjɡɛɾɯbinootosɯɾɯnjʃhaso
+jpn_0229	nojoɯnaosɯɾɯoɯomɛɾɯmonotoʃtɛhanaɾanai

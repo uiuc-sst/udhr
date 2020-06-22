@@ -1,0 +1,58 @@
+# This file lists source files for texts of the Universal Declaration of Human Rights,
+# and the current URL for each.
+#
+# Filenames (first column) need to match ISO codes in long2iso.txt.
+#
+ace.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/atj.pdf
+afr.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/afk.pdf
+arz.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/arz.pdf
+ban.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/bzc.pdf
+bug.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/bpr.pdf
+bul.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/blg.pdf
+cat.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/cln.pdf
+ces.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/czc.pdf
+cmn.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/chn.pdf
+dan.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/dns.pdf
+deu.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ger.pdf
+ell.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/grk.pdf
+eng-AU.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
+eng-GB.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
+eng-US.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
+epo.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/1115.pdf
+fao.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/fae.pdf
+fil.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/tgl.pdf
+fin.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/fin.pdf
+fra.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/frn.pdf
+fry.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/fri.pdf
+heb.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/hbr.pdf
+hin.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/hnd.pdf
+hun.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/hng.pdf
+ind.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/hng.pdf
+ita.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/itn.pdf
+jav.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/jan.pdf
+jpn.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/jpn.pdf
+kor.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/kkn.pdf
+lat-v1.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ltn.pdf
+lat-v2.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ltn1.pdf
+lav.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/lat.pdf
+ltz.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/lux.pdf
+min.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/mpu.pdf
+nld.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/dut.pdf
+nno.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/nrn.pdf
+oci.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/prv1.pdf
+ori.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ory.pdf
+pam.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/pmp.pdf
+pol.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/pql.pdf
+por-PT.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/por.pdf
+ron.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/rum.pdf
+rus.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/rus.pdf
+slk.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/slo.pdf
+spa.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/spn.pdf
+sun.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/suo.pdf
+swe.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/swd.pdf
+tam.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/tcv.pdf
+ukr.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ukr.pdf
+urd.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/urd.pdf
+wln.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/frn1.pdf
+yid.pdf		https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ydd.pdf
+zlm.pdf	https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/mli.pdf

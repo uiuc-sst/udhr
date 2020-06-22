@@ -1,0 +1,134 @@
+nno_0001	DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE
+nno_0002	INNLEIING
+nno_0003	Då det å godkjenne det naturlege menneskeverdet med like og umissande rettarfor alle menneske på jorda er grunnlaget for fridom, rettferd og fred i verda,og då hån og vørdsløyse mot menneskerettane har ført til barbariske handlingarsom har skaka samvitet til menneskeretta, er framvoksteren i den verda dermenneska skal ha talefridom og trusfridom og vere løyste frå otte og naud,kunngjord som det høgste målet for kvart menneske,og då det er nødvendig at menneskerettane blir verna om av lover slik atmenneska ikkje blir tvinga til å finne den siste utvegen i å gjere opprør mottyranni og trælekår,og då det er nødvendig å arbeide for betre tilhøve mellom nasjonane,og då folka i Dei Sameinte Nasjonane har stadfest trua si i denne pakta, pågrunnleggjande menneskerettar, på menneskeverd og på same rett for mann ogkvinne, og har vedteke å arbeide for sosiale framsteg og betre levevilkår i størrefridom,og då medlemsstatane har bunde seg til å fremje allmenn vørdnad for pakta oghalde seg etter menneskerettane og den grunnleggjande fridomen i samarbeidmed Dei Sameinte Nasjonane,og då denne retten og fridomen må bli godkjend av alle dersom pakta skal blirøyndom,
+nno_0004	KUNNGJER
+nno_0005	GENERALFORSAMLINGA
+nno_0006	DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE, som skalpeike mot eit sams mål for alle folk og nasjonar.
+nno_0007	Fråsegna må alltid vere itankane til den einskilde og dei styrande og få dei til å styrkje vørdnaden for rettog fridom gjennom undervisning og oppseding.
+nno_0008	Dei skal syte for at fråsegna blirallment kjend og etterlevd både i medlemslanda og i tilsynsområda, og arbeidetrufast med dette både på nasjonalt og internasjonalt grunnlag.
+nno_0009	Artikkel 1.
+nno_0010	Alle menneske er fødde til fridom og med same menneskeverd ogmenneskerettar.
+nno_0011	Dei har fått fornuft og samvit og skal leve med kvarandre sombrør.
+nno_0012	Artikkel 2.
+nno_0013	Kvar einskild har krav på all den rett og fridom som fråsegna nemner, utanskilnad av noko slag på grunn av rase, farge, kjønn, språk, religion, politisk syneller anna meining, nasjonalt eller sosialt opphav, eigedom, fødsel eller andretilhøve.
+nno_0014	Den politiske stoda, lovverket eller dei internasjonale påboda eit land lever under,kan ikkje vere påskott til at det blir gjort skilnad på nokon i det landet ellerområdet han høyrer til, anten landet har sjølvstende, står under tilsyn, er ikkje-sjølvstyrt eller sjølvstyret er avgrensa på nokon annan måte.
+nno_0015	Artikkel 3.
+nno_0016	Alle har rett til liv, fridom og personleg tryggleik.
+nno_0017	Artikkel 4.
+nno_0018	Ingen skal haldast i slaveri eller trældom.
+nno_0019	Slaveri og slavehandel av alle slag erforbode.
+nno_0020	Artikkel 5.
+nno_0021	Ingen må torturerast, pinast eller straffast på umenneskeleg eller nedsetjandevis.
+nno_0022	Artikkel 6.
+nno_0023	Alle menneske har krav på at domstolane alle stader godtek dei somrettssubjekt.
+nno_0024	Artikkel 7.
+nno_0025	Alle er like for lova og har krav på same rettsvern, utan skilnad av noko slag.
+nno_0026	Allehar krav på same vern mot at det blir gjort skilnad på folk i strid med dennefråsegna, og vern mot tiltak som ber i seg ein slik fare.
+nno_0027	Artikkel 8.
+nno_0028	Alle har rett til å få fullgod hjelp frå dei lovlege nasjonale domstolane når det gjeldhandlingar som krenkjer den retten den einskilde har fått i grunnlova ellerlovverket elles.
+nno_0029	Artikkel 9.
+nno_0030	Ingan må utan lov og rett arresterast, setjast i fengsel eller visast ut or landet.
+nno_0031	Artikkel 10.
+nno_0032	Alle har same rett til å få saka si rettferdig og offentleg granska av einsjølvstendig og upartisk domstol, både når det er pliktene og retten til deneinskilde som skal fastsetjast, og når det er reist klagemål mot han.
+nno_0033	Artikkel 11.
+nno_0034	1.
+nno_0035	Den som er klaga for ei straffbar handling, har rett til å bli rekna somskuldlaus til ein offentleg domstol, der han har fått full trygd for retten til åforsvare seg, har prova at han er skuldig etter lova.
+nno_0036	2.
+nno_0037	Ingen skal kjennast skuldig i ei straffbar handling når det han har gjort ellerforsømt ikkje streid mot nasjonal lov eller folkeretten på den tida dethende.
+nno_0038	Han må heller ikkje dømast hardare enn det lova gav høve til dåden straffbare handlinga vart utførd.
+nno_0039	Artikkel 12.
+nno_0040	Ingen skal lide under vilkårleg innblanding frå andre, anten det gjeld hans eigenperson, familie, heim, brevskifte, eller åtak på ære og omdøme.
+nno_0041	Alle har krav påat lova vernar dei mot slik innblanding eller slike åtak.
+nno_0042	Artikkel 13.
+nno_0043	1.
+nno_0044	Alle menneske har rett til å ferdast fritt og til å velje bustad innaforgrensene i sitt eige land.
+nno_0045	2.
+nno_0046	Det skal også vere full rett til å reise ut or det landet ein bur i, same kvaland det er, og til å vende attende til sitt eige land.
+nno_0047	Artikkel 14.
+nno_0048	1.
+nno_0049	Alle som blir forfølgde har rett til å søkje og ta imot asyl i eit anna land.
+nno_0050	2.
+nno_0051	Denne retten gjeld ikkje i rettssakar som har røynleg grunnlag i upolitiskebrotsverk eller handlingar som strir mot formålet og prinsippet til Dei
+nno_0052	Sameinte Nasjonane.
+nno_0053	Artikkel 15.
+nno_0054	1.
+nno_0055	Alle har rett til eit statsborgarskap.
+nno_0056	2.
+nno_0057	Ingen skal misse statsborgarskapet sitt vilkårleg, eller bli nekta retten til åendre det.
+nno_0058	Artikkel 16.
+nno_0059	1.
+nno_0060	Vaksne menn og kvinner har rett til å gifte seg og skipe familie utanavgrensing av noko slag på grunn av rase, nasjonalitet eller religion.
+nno_0061	Deihar krav på dei same rettane når det gjeld ekteskapet, både så lengeekteskapet varer og medan det blir løyst opp.
+nno_0062	2.
+nno_0063	Ekteskapet må berre kome i stand etter fritt og fullt samtykke frå beggepartar.
+nno_0064	3.
+nno_0065	Familien er den naturlege og grunnleggjande eininga i samfunnet og harkrav på at staten og samfunnet vernar om det.
+nno_0066	Artikkel 17.
+nno_0067	1.
+nno_0068	Alle har rett til å ha eigedom åleine og saman med andre.
+nno_0069	2.
+nno_0070	Ingen skal vilkårleg bli fråteken eigedomen sin.
+nno_0071	Artikkel 18.
+nno_0072	Alle har rett til tankefridom, samvitsfridom og religionfridom.
+nno_0073	Denne retten gjeldfridom til å endre religion eller tru, og fridom til å målbere sin eigen religion eller sieiga truslære i gjerning og framferd, anten åleine eller saman med andre,offentleg eller privat.
+nno_0074	Artikkel 19.
+nno_0075	Alle skal ha meinings- og ytringsfridom.
+nno_0076	Denne retten gjeld fridom til å hameiningar utan innblanding, til å søkje, ta imot og gjere kjent opplysningar ogidear gjennom alle dei informasjonskanalar som finst, og på tvers av alle grenser.
+nno_0077	Artikkel 20.
+nno_0078	1.
+nno_0079	Alle har rett til fritt å vere med på møte og i organisasjonar med fredelegeformål.
+nno_0080	2.
+nno_0081	Ingen kan tvingast inn i ein organisasjon.
+nno_0082	Artikkel 21.
+nno_0083	1.
+nno_0084	Alle skal ha rett til å vere med på å styre landet sitt, beinveges ellergjennom talsmenn som er peika ut i frie val.
+nno_0085	2.
+nno_0086	Alle skal ha same retten til å gjere teneste i offentlege ombod i landet sitt.
+nno_0087	3.
+nno_0088	Folkeviljen skal vere grunnlaget for den makta som er lagd tilstyremaktene.
+nno_0089	Folkeviljen skal kome til syne gjennom regelfaste ogrøynlege val, som er grunna på allmenn og lik røysterett i løynlege valeller på annan jamgod røystemåte.
+nno_0090	Artikkel 22.
+nno_0091	Kvar einskild medlem i samfunnet har rett til sosial tryggleik, og har krav på at deiøkonomiske, sosiale og kulturelle godane, som han ikkje kan vere utan om hanskal ha vørdnad for seg sjølv og styrke den personlege karakteren sin, blir løystegjennom nasjonale tiltak og internasjonalt samarbeid i samsvar med det kvar statmaktar.
+nno_0092	Artikkel 23.
+nno_0093	1.
+nno_0094	Alle har rett til arbeid, til fritt å velje yrke, til rettferdige og godearbeidstilhøve og vern mot arbeidsløyse.
+nno_0095	2.
+nno_0096	Alle har same rett til å få lik betaling for likt arbeid, utan skilnad av nokoslag.
+nno_0097	3.
+nno_0098	Den som arbeider har krav på rettferdig og god betaling, så han kan sytefor familien sin og seg sjølv på ein menneskeverdig måte, og om dettrengst, få hjelp gjennom andre og utfyllande sosiale midlar.
+nno_0099	4.
+nno_0100	Alle har rett til å skipe og melde seg inn i fagforeningar for å verneinteressene sine.
+nno_0101	Artikkel 24.
+nno_0102	Alle har rett til kvile og fritid, og dermed til ei rimeleg avgrensa arbeidstid, og tilferie med løn.
+nno_0103	Artikkel 25.
+nno_0104	1.
+nno_0105	Alle har rett til ein levestandard som kan tryggje helsa og velværet tilforsytaren og familien hans, og gje dei mat, klede, hus, helsestell ognødvendige sosiale trygder ved arbeidsløyse, uføre, dødsfall, alderdomeller andre tilhøve som skiplar livskåra, og som forsytaren ikkje er herreover.
+nno_0106	2.
+nno_0107	Mor og barn har rett til særskild omsorg og hjelp.
+nno_0108	Alle barn skal ha samesosiale vern, anten dei er fødde i eller utafor ekteskapet.
+nno_0109	Artikkel 26.
+nno_0110	1.
+nno_0111	Alle har rett til undervisning.
+nno_0112	Opplæringa skal vere kostnadsfri, i det minstei den allmenne grunnskulen.
+nno_0113	Den elementære undervisninga skal verepliktig for alle.
+nno_0114	Alle skal ha høve til å få fagopplæring, og det skal vere likevilkår for alle til å få høgre utdaning, alt etter dei evnene dei har.
+nno_0115	2.
+nno_0116	Undervisninga skal ha til mål å styrkje den menneskelegepersonlegdomen og auke vørdnaden for menneskerettane og dengrunnleggjande fridomen, fremje skjønsemd, toleranse og venskapmellom alle nasjonar, folkeslag og religiøse grupper og stø fredsarbeidettil Dei Sameinte Nasjonane.
+nno_0117	3.
+nno_0118	Foreldra har førsteretten til å velje kva slag opplæring barna deira skal få.
+nno_0119	Artikkel 27.
+nno_0120	1.
+nno_0121	Alle har rett til fritt å vere med i det kulturelle livet i samfunnet, til å nytekunst og til å få sin part av dei vitskaplege nyvinningane og godane somfølgjer med dei.
+nno_0122	2.
+nno_0123	Kvar einskild har rett til å få verna dei moralske og materielle interessenesom han har skapt seg gjennom vitskapleg, litterært eller kunstnarlegarbeid.
+nno_0124	Artikkel 28.
+nno_0125	Alle har krav på å få leve under slike sosiale kår og internasjonale tilhøve at deifullt ut kan gjere til røyndom retten og fridomen i denne fråsegna.
+nno_0126	Artikkel 29.
+nno_0127	1.
+nno_0128	Alle har plikter andsynes samfunnet, då personlegdomen til den einskildeeinast der kan få frie og fullgode voksterkår.
+nno_0129	2.
+nno_0130	Retten og fridomen til den einskilde skal ikkje vere avgrensa av anna enndet lova tydeleg slår fast for å tryggje den vørdnaden alle andre har kravpå når det gjeld rett og fridom, og dei krav som eit demokratisk samfunnmed rette kan setje til moral, offentleg orden og allmenn velferd.
+nno_0131	3.
+nno_0132	Denne retten og fridomen kan ikkje i noko høve nyttast i strid med formåletog prinsippet til Dei Sameinte Nasjonane.
+nno_0133	Artikkel 30.
+nno_0134	Ikkje noko i denne fråsegna må tolkast slik at det gjev stat, grupper ellereinskildmenneske rett til å vere med på tiltak eller handlingar av noko slag somhar til mål å øydeleggje den retten og fridomen som denne fråsegna stadfester.

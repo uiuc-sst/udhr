@@ -1,0 +1,151 @@
+ukr_0001	
+ukr_0002	
+ukr_0003	
+ukr_0004	
+ukr_0005	
+ukr_0006	
+ukr_0007	
+ukr_0008	
+ukr_0009	
+ukr_0010	
+ukr_0011	ɛnʲɛrɑlʲnʲɑ sʲɑmblɛɑ prɪjnʲɑlʲɑ ɑɦɑlʲnʲu dʲɛklɑrʲɑtsʲiu prʲɑv lʲudʲɪnʲɪ rʲɛzʲɔlʲutsʲiɛu vid ɦrʲudʲnʲɑ
+ukr_0012	rʲɔku
+ukr_0013	
+ukr_0014	ɛrʲuʈʂɪ dʲɔ uvɑɦɪ ʂʈʂɔ vɪzʲnʲɑnʲnʲɑ ɦidʲnʲɔstʲi ɑkɑvlɑstʲɪvɑ vsʲim ʈʂlʲɛnʲɑm lʲudsʲkɔji sʲimji i rʲivnɪxtɑ nʲɛvidʲɛmnɪx jix prʲɑv ɛ ɔsnʲɔvɔu sʲvɔbɔdɪsprɑvɛdlʲɪvɔsti tʲɑ zʲɑɦɑlʲnʲɔɦɔ mɪrubɛruʈʂɪ dʲɔ uvɑɦɪ ʂʈʂɔ zʲnʲɛvɑʐɑnʲnʲɑ i nʲɛxtʲuvɑnʲnʲɑ prɑvɑmɪ lʲudʲɪnʲɪ prʲɪzʲvɛlɪ dʲɔ vɑrvɑrsʲkɪx ɑktʲiv ɑki ɔburʲuutʲ sʲɔvisʲtʲ lʲudʲsʲtvɑi ʂʈʂɔ sʲtʲvɔrʲɛnʲnɑ tʲɑkɔɦɔ sʲvitʲu v ɑkɔmu lʲudʲɪbudutʲ mɑtʲɪ sʲvɔbɔdʲu sʲlʲɔvɑ i pɛrɛkɔnʲɑnʲ ibudʲutʲ vilʲnʲi vid sʲtʲrʲɑxu i nʲuʐdʲɪ prɔɦɔlɔʂɛnʲɔ ɑk vɪsʲɔkɛ prʲɑɦnʲɛnʲnʲɑ lʲudʲɛj
+ukr_0015	bɛrʲuʈʂɪ dʲɔ uvɑɦɪ ʂʈʂɔ nʲɛɔbxidʲnɔ ʂʈʂɔb prʲɑvɑ lʲudʲɪnʲɪ ɔxɔrɔnʲɑlɪsɑ sʲɪlɔu zʲɑkɔnʲu zʲmɛtɔu zʲɑbɛzʲpɛʈʂɛnʲnʲɑ tʲɔɦɔ ʂʈʂɔb lʲudʲɪnʲɑ nʲɛbulʲɑ zʲmuʂɛnʲɑ vdʲɑvɑtʲɪsʲɑ ɑk dʲɔ ɔsʲtʲɑnʲnʲɔɦɔzʲɑsʲɔbu dʲɔ pɔvstʲɑnʲnʲɑ prɔtʲɪ tʲɪrɑnʲiji i ɦnʲɔblʲɛnʲnʲɑ
+ukr_0016	bɛrʲuʈʂɪ dʲɔ uvɑɦɪ ʂʈʂɔ nʲɛɔbxidʲnɔ sʲprʲɪɑtʲɪ rʲɔzʲvɪtʲkɔvi dʲruʐnʲix vidʲnɔsʲɪn miʐ nʲɑrʲɔdʲɑmɪ
+ukr_0017	bɛrʲuʈʂɪ dʲɔ uvɑɦɪ ʂʈʂɔ nʲɑrɔdɪ bɛdʲnɑnʲɪx ɑtsʲij pidʲtvɛrdʲɪlɪ v tʲɑtʲutʲi sʲvɔu virʲu v ɔsnɔvnʲi prʲɑvɑ lʲudʲɪnʲɪ v ɦidnʲisʲtʲ i tsʲinnʲisʲtʲ lʲudsʲkɔji ɔsʲɔbɪ i v rʲivnɔprʲɑvnʲisʲtʲ ʈʂɔlʲɔvikiv iʐinʲɔk tʲɑ vɪriʂɪlɪ sʲprʲɪɑtʲɪ sʲɔtsiɑlʲnʲɔmuprɔɦrʲɛsʲɔvi i pɔlipʂɛnnu umɔv ʐɪttʲɑ prɪbilʲʂij sʲvɔbɔdʲi
+ukr_0018	bɛrʲuʈʂɪ dʲɔ uvɑɦɪ ʂʈʂɔ dʲɛrʐɑvɪʈʂlɛnɪ zʲɔbɔvɑzɑlɪsʲ sʲprʲɪɑtʲɪ u sʲpivrɔbitnʲɪtsʲtvi zʲ rʲɦɑnʲizʲɑtsʲiɛu bɛdʲnɑnʲɪx ɑtsʲij zʲɑɦɑlʲnij pɔvɑzʲi i dʲɔdʲɛrʲʐɑnnʲu prʲɑv lʲudʲɪnʲɪ i ɔsʲnɔvnʲɪxsvɔbɔd
+ukr_0019	bɛrʲuʈʂɪ dʲɔ uvɑɦɪ ʂʈʂɔ zʲɑɦɑlʲnʲɛ rʲɔzʲuminnʲɑxɑrɑktɛru tsʲɪx prʲɑv i sʲvɔbɔd mɑɛ vɛlɪʈʂɛzʲnɛ zʲnʲɑʈʂɛnnɑ dʲlʲɑ pɔvnɔɦɔ vɪkɔnʲɑnnʲɑ tsʲɔɦɔzʲɔbɔvɑzɑnnʲɑ
+ukr_0020	ɛnʲɛrɑlʲnʲɑ sʲɑmblɛɑ prɔɦɔlɔʂuɛ tsʲu ɑɦɑlʲnʲu dʲɛklɑrʲɑtsʲiu prʲɑv lʲudʲɪnʲɪ ɑk zʲɑvdʲɑnnʲɑ dʲɔvɪkɔnʲɑnʲnʲɑ ɑkɔɦɔ pɔvɪnnʲi prʲɑɦnʲutɪ vsʲi nʲɑrɔdɪ i vsʲi dʲɛrʲʐɑvɪ zʲ tʲɪm ʂʈʂɔb kɔʐnɑ lʲudʲɪnʲɑ ikɔʐnɪj ɔrʲɦɑn sʲuspilʲsʲtʲvɑ zʲɑvʐdʲɪ mɑuʈʂɪ nʲɑuvɑzʲi tsʲu ɛklʲɑrɑtsʲiu prʲɑɦnʲulɪ ʂlɑxɔm ɔsʲvitʲɪsʲprʲɪɑtʲɪ pɔvɑʐɑnʲnʲu tsʲɪx prʲɑv i sʲvɔbɔd i zʲɑbɛzʲpɛʈʂɛnʲnʲu ʂlɑxɔm nʲɑtsʲiɔnɑlʲnʲɪx i miʐnɑrɔdʲnɪx prʲɔɦrʲɛsɪvnʲɪx zʲɑxɔdʲiv zʲɑɦɑlʲnʲɔɦɔiɛfɛktʲɪvnɔɦɔ vɪzʲnʲɑnʲnʲɑ i zʲdʲijsnɛnʲnʲɑ jix ɑk sʲɛrʲɛd nʲɑrɔdʲiv dʲɛrʲʐɑvʈʂlɛnʲiv rʲɦɑnʲizʲɑtsʲiji tʲɑk isʲɛrʲɛdʲ nʲɑrɔdʲiv tʲɛrʲɪtʲɔrʲij ʂʈʂɔ pɛrʲɛbuvɑutʲ pidʲjix urɪsʲdɪktsʲiɛu
+ukr_0021	tʲɑttʲɑ
+ukr_0022	sʲi lʲudɪ nʲɑrɔdʐuutʲsʲɑ vilʲnɪmɪ i rʲivnʲɪmɪu sʲvɔjij ɦidʲnʲɔstʲi tʲɑ prʲɑvɑx
+ukr_0023	ɔnʲɪ nʲɑdilɛni rʲɔzʲumɔm i sʲɔvisʲtʲu i pɔvɪnnʲi dʲiɑtʲɪ u vidʲnɔʂɛnʲnʲiɔdɪnʲ dʲɔ ɔdʲnɔɦɔ v dʲusʲi brɑtʲɛrʲsʲtʲvɑ
+ukr_0024	tʲɑttʲɑ
+ukr_0025	ɔʐnʲɑ lʲudʲɪnʲɑ pɔvɪnnɑ mɑtʲɪ vsʲi prʲɑvɑ i vsʲisʲvɔbɔdɪ prʲɔɦɔlɔʂɛnʲi tsʲiɛu ɛklʲɑrʲɑtsiɛu nʲɛzʲɑlʲɛʐnɔ vid rʲɑsʲɪ kɔlʲɔru ʂkirʲɪ sʲtʲɑtʲi mɔvɪrɛlʲiɦiji pɔlitɪʈʂnɪx ɑbɔ inʲʂɪx pɛrɛkɔnʲɑnʲnɑtsʲiɔnɑlʲnʲɔɦɔ ʈʂɪ sʲɔtsiɑlʲnɔɦɔ pɔxɔdʐɛnʲnɑmɑjnʲɔvɔɦɔ sʲtʲɑnʲɔvɔɦɔ ɑbɔ inʲʂɔɦɔ sʲtʲɑnʲɔvɪʂʈʂɑ
+ukr_0026	rʲim tʲɔɦɔ nʲɛ pɔvɪnnɔ prʲɔvɔdʲɪtɪsʲɑ nʲiɑkɔɦɔrɔzrʲizʲnɛnʲnʲɑ nʲɑ ɔsʲnɔvi pɔlʲitɪʈʂnʲɔɦɔ prʲɑvɔvɔɦɔ ɑbɔ miʐnɑrɔdnɔɦɔ sʲtʲɑtʲusʲu krʲɑjinʲɪ ɑbɔ tʲɛrɪtʲɔrʲiji dʲɔ ɑkɔji lʲudʲɪnʲɑ nʲɑlʲɛʐɪtʲ nʲɛzʲɑlʲɛʐnʲɔvid tʲɔɦɔ ʈʂɪ ɛ tsʲɑ tʲɛrɪtʲɔrʲiɑ nʲɛzʲɑlɛʐnʲɔu pidɔpiʈʂnɔu nʲɛsʲɑmɔvrɑdɔvɑnɔu ɑbɔ ɑknʲɛbudʲinʲɑkʂɛ ɔbmɛʐɛnʲɔu u sʲvɔɛmu sʲuvɛrʲɛnʲitʲɛti
+ukr_0027	tʲɑttʲɑ
+ukr_0028	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ ʐɪttʲɑ nʲɑ sʲvɔbɔdʲu i nʲɑ ɔsʲɔbɪsʲtu nʲɛdʲɔtɔrkɑnʲnʲistʲ
+ukr_0029	tʲɑttʲɑ
+ukr_0030	ixtʲɔ nʲɛ pɔvɪnʲɛn butʲɪ v rʲɑbsʲtʲvi ɑbɔ u pidʲnɛvilʲnʲɔmu sʲtʲɑnʲi
+ukr_0031	rʲɑbsʲtvɔ i rʲɑbɔtɔrɦivlɑ zʲɑbɔrɔnʲɑutʲsʲɑ v usʲix jix vɪdɑx
+ukr_0032	tʲɑttʲɑ
+ukr_0033	ixtʲɔ nʲɛpɔvɪnʲɛn zʲɑznɑvɑtɪ tʲɔrʲtʲur ɑbɔ ʐɔrʲstʲɔkɔɦɔ nʲɛlʲudʲsʲkɔɦɔ ɑbɔ tʲɑkɔɦɔ ʂʈʂɔ prɪnɪʐuɛ jɔɦɔ ɦidnʲisʲtʲ pɔvɔdʲʐɛnʲnʲɑ i pɔkɑrʲɑnnʲɑ
+ukr_0034	tʲɑttʲɑ
+ukr_0035	ɔʐnʲɑ lʲudʲɪnʲɑ dʲɛ b vɔnʲɑ nʲɛ pɛrɛbuvɑlʲɑ mɑɛprɑvɔ nʲɑ vɪzʲnʲɑnʲnʲɑ jiji prɑvɔsubɛktʲnʲɔstʲi
+ukr_0036	tʲɑttʲɑ
+ukr_0037	sʲi lʲudɪ rʲivnʲi pɛrʲɛd zʲɑkɔnʲɔm i mɑutʲ prʲɑvɔbɛzʲ budʲɑkɔji rʲizʲnʲɪtsʲi nʲɑ rʲivnɪj jix zʲɑxɪsʲt zʲɑkɔnʲɔm
+ukr_0038	sʲi lʲudɪ mɑutʲ prʲɑvɔ nʲɑ rʲivnɪj zʲɑxɪsʲt vid ɑkɔji b tʲɔ nʲɛ bulʲɔ dʲɪskrʲɪminʲɑtsʲiji ʂʈʂɔpɔrʲuʂuɛ tsʲu ɛklʲɑrɑtsʲiu i vid ɑkɔɦɔ b tʲɔ nʲɛbulʲɔ pidburʲuvɑnnɑ dʲɔ tʲɑkɔji dʲɪskrʲɪminʲɑtsʲiji
+ukr_0039	tʲɑttʲɑ
+ukr_0040	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ ɛfɛktʲɪvnʲɛ pɔnɔvlɛnʲnʲɑ u prʲɑvɑx kɔmpɛtʲɛnʲtnɪmɪ nʲɑtsʲiɔnɑlʲnʲɪmɪ sʲudʲɑmɪ v rʲɑzʲi pɔruʂɛnnɑ jiji ɔsʲnʲɔvnɪx prʲɑv nʲɑdɑnɪxjij kɔnsʲtʲɪtutsiɛu ɑbɔzɑkɔnɔm
+ukr_0041	tʲɑttʲɑ
+ukr_0042	ixtʲɔ nʲɛ mɔʐɛ zʲɑznɑvɑtɪ bɛzpidʲstʲɑvnʲɔɦɔ ɑrʲɛʂtʲu zʲɑtrʲɪmɑnnʲɑ ɑbɔ vɪɦnʲɑnʲnʲɑ
+ukr_0043	tʲɑttʲɑ
+ukr_0044	ɔʐnʲɑ lʲudʲɪnʲɑ dʲlʲɑ vɪzʲnʲɑʈʂɛnʲnʲɑ jiji prʲɑv i ɔbɔvɑzʲkiv i dʲlʲɑ vsʲtʲɑnʲɔvlɛnnʲɑ ɔbɦrʲunʲtʲɔ vɑnɔsʲtiprʲɛdɑvlɛnʲɔɦɔ jij krʲɪminɑlʲnɔɦɔ ɔbvɪnuvɑʈʂɛnʲnʲɑ mɑɛ prʲɑvɔ nʲɑ ɔsʲnɔvi pɔvnɔji rʲivnʲɔsʲtʲinɑ tʲɛ ʂʈʂɔb jiji sʲprʲɑvɑ bulʲɑ rʲɔzɦlʲɑnutʲɑ prʲɪlʲudnʲɔ i zʲ dʲɔdɛrʲʐɑnnɑm usʲix vɪmɔɦ sʲprɑvɛdlʲɪvɔsʲtʲi nʲɛzɑlʲɛʐnɪm i bɛzstʲɔrʲɔnʲnʲim sʲudʲɔm
+ukr_0045	tʲɑttʲɑ
+ukr_0046	
+ukr_0047	ɔʐnʲɑ lʲudʲɪnʲɑ ɔbvɪnuvɑʈʂɛnʲɑ u vʈʂɪnɛnʲnʲizlɔʈʂɪnu mɑɛ prʲɑvɔ vvɑʐɑtʲɪsʲɑ nʲɛvɪnʲnʲɔudɔtɪ pɔkɪ jiji vɪnnistʲ nʲɛ budʲɛ vstʲɑnɔvlɛnʲɑv zʲɑkɔnʲnɔmu pɔrɑdʲku ʂlɑxɔm prɪludnɔɦɔsʲudɔvɔɦɔ rʲɔzɦlʲɑdʲu prʲɪ ɑkɔmu jij zʲɑbɛzʲpɛʈʂuutʲ usʲi mɔʐlʲɪvɔstʲi dʲlʲɑ zʲɑxɪsʲtu
+ukr_0048	
+ukr_0049	ixtʲɔ nʲɛ mɔʐɛ butʲɪ zʲɑsudʲʐɛnɪj zʲɑ zʲlɔʈʂɪnnʲɑ pidʲstɑvi vʈʂɪnʲɛnʲnʲɑ budʲɑkɔɦɔ dʲiɑnʲnʲɑ ɑbɔzɑ bɛzdʲiɑlʲnistʲ ɑki pid ʈʂɑs jix vʈʂɪnʲɛnʲnʲɑ nʲɛsʲtʲɑnɔvɪlʲɪ zʲlɔʈʂɪnʲu zʲɑ nʲɑtsʲiɔnɑlʲnʲɪmɪ zʲɑkɔnʲɑmɪ ɑbɔ zʲɑ miʐnɑrɔdʲnɪm prʲɑvɔm
+ukr_0050	ɛmɔʐɛ tʲɑkɔʐ nʲɑklʲɑdɑtʲɪsʲ pɔkɑrʲɑnnʲɑ tʲɑʐʈʂɛvid tʲɔɦɔ ɑkɛ mɔɦlɔ butʲɪ zʲɑsʲtʲɔsɔvɑnʲɛ nʲɑ ʈʂɑsʲvʈʂɪnɛnnʲɑ zʲlɔʈʂɪnʲu
+ukr_0051	tʲɑttʲɑ
+ukr_0052	ixtʲɔ nʲɛ mɔʐɛ zʲɑznɑvɑtɪ bɛzpidʲstʲɑvnʲɔɦɔ vtrʲuʈʂɑnʲnʲɑ u jɔɦɔ ɔsʲɔbɪsʲtɛ i sʲimɛjnɛ ʐɪttʲɑ bɛzpidʲstʲɑvnʲɔɦɔ pɔsʲɑɦɑnʲnʲɑnɑ nʲɛdʲɔtɔrʲkɑnnʲisʲtʲjɔɦɔ ʐɪtlɑ tʲɑjnʲu jɔɦɔ kɔrʲɛspɔnʲdɛntsʲiji ɑbɔnɑ jɔɦɔ ʈʂɛsʲtʲ i rʲɛputɑtsiu
+ukr_0053	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛprɑvɔ nʲɑ zʲɑxɪsʲt zʲɑkɔnʲu vid tʲɑkɔɦɔ vtruʈʂɑnnʲɑɑbɔ tʲɑkɪx pɔsɑɦɑnʲ
+ukr_0054	tʲɑttʲɑ
+ukr_0055	
+ukr_0056	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ vilʲnɔ pɛrʲɛsuvɑtɪsʲɑ i ɔbɪrɑtɪ sʲɔbi misʲtsɛ prɔʐɪvɑnʲnɑ umɛʐɑx kɔʐnɔji dʲɛrʲʐɑvɪ
+ukr_0057	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ pɔkɪnʲutɪ budʲɑku krʲɑjinʲu vklʲuʈʂɑuʈʂɪ j sʲvɔu vlʲɑsʲnu i pɔvɛrtʲɑtʲɪsʲɑ u sʲvɔu krʲɑjinʲu
+ukr_0058	
+ukr_0059	tʲɑttʲɑ
+ukr_0060	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ ʂukɑtɪ prɪtulʲkuvid pɛrɛslʲidʲuvɑnʲ v inʲʂɪx krɑjinʲɑx i kɔrɪstʲuvɑtɪsʲɑ tsʲɪm prɪtʲulkɔm
+ukr_0061	ɛ prʲɑvɔ nʲɛ mɔʐɛ butʲɪ vɪkɔrɪsʲtʲɑnɛ v rʲɑzʲipɛrʲɛsʲlʲidʲuvɑnʲnʲɑ ɑkɛ v dʲijsʲnʲɔstʲi ɦrunʲtʲuɛtʲsʲɑnʲɑ vʈʂɪnʲɛnnʲi nʲɛpɔlʲitʲɪʈʂnʲɔɦɔ zʲlɔʈʂɪnʲu ɑbɔ dʲiɑnʲnʲɑ ʂʈʂɔ sʲupɛrʲɛʈʂɪtʲ tsʲilʲɑm i prɪntsʲɪpɑm rʲɦɑnʲizʲɑtsʲiji bɛdʲnɑnʲɪx ɑtsʲij
+ukr_0062	tʲɑttʲɑ
+ukr_0063	
+ukr_0064	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ ɦrɔmɑdʲɑnʲsʲtvɔ
+ukr_0065	ixtʲɔ nʲɛ mɔʐɛ butʲɪ bɛzpidʲstɑvnʲɔ pɔzʲbɑvlʲɛnʲɪj ɦrɔmɑdʲɑnʲsʲtvɑ ɑbɔ prʲɑvɑ zʲminʲɪtɪsʲvɔɛ ɦrɔmɑdʲɑnʲsʲtvɔ
+ukr_0066	
+ukr_0067	tʲɑttʲɑ
+ukr_0068	
+ukr_0069	ɔlʲɔvikɪ i ʐinʲkɪ ɑki dʲɔsʲɑɦlʲɪ pɔvnɔlʲittʲɑmɑutʲ prʲɑvɔ bɛz budʲɑkɪx ɔbmɛʐɛnʲ zʲɑɔznɑkɔu rʲɑsʲɪ nʲɑtsiɔnʲɑlʲnʲɔstʲi ɑbɔ rʲɛliɦijiɔdʲruʐuvɑtɪsɑ i zʲɑsʲnɔvuvɑtʲɪ sʲimu
+ukr_0070	ɔnɪkɔrʲɪstuutʲsʲɑ ɔdʲnʲɑkɔvɪmɪ prɑvɑmɪ ʂʈʂɔdʲɔɔdruʐɛnnʲɑ pid ʈʂɑs ʂlʲubu tʲɑ pid ʈʂɑs jɔɦɔrʲɔzʲirvɑnʲnɑ
+ukr_0071	lʲub mɔʐɛ uklʲɑdʲɑtɪsʲɑ tʲilʲkɪ prʲɪ vilʲnʲij ipɔvnʲij zʲɦɔdʲi sʲtʲɔrʲin ʂʈʂɔ ɔdruʐuutʲsʲɑ
+ukr_0072	imɑ ɛ prʲɪrɔdʲnɪm i ɔsʲnʲɔvnɪm ɔsʲɛrɛdkɔmsʲusʲpilʲsʲtvɑ i mɑɛ prʲɑvɔ nʲɑ zʲɑxɪsʲt zʲ bɔkususʲpilʲsʲtʲvɑ tʲɑ dʲɛrʲʐɑvɪ
+ukr_0073	
+ukr_0074	
+ukr_0075	tʲɑttʲɑ
+ukr_0076	
+ukr_0077	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ vɔlɔdʲitʲɪ mɑjnɔm ɑk ɔdʲnɔɔsʲɔbɔvɔ tʲɑk i rʲɑzʲɔm zʲ inʲʂɪmɪ
+ukr_0078	ixtʲɔ nʲɛ mɔʐɛ butʲɪ bɛzpidʲstɑvnʲɔ pɔzʲbɑvlʲɛnʲɪj sʲvɔɦɔ mɑjnɑ
+ukr_0079	
+ukr_0080	tʲɑttʲɑ
+ukr_0081	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ sʲvɔbɔdʲu dʲumkɪsʲɔvistʲi i rʲɛlʲiɦiji
+ukr_0082	tsʲɛ prʲɑvɔ vklʲuʈʂɑɛ sʲvɔbɔduzʲminʲuvɑtʲɪ sʲvɔu rʲɛliɦiu ɑbɔ pɛrʲɛkɔnɑnnʲɑ isvɔbɔdu sʲpɔvidʲuvɑtɪ sʲvɔu rʲɛliɦiu ɑbɔ pɛrʲɛkɔnɑnnʲɑ ɑk ɔdʲnɔɔsʲɔbɔvɔ tʲɑk i rʲɑzʲɔm zʲ inʲʂɪmɪ prʲɪlʲudnʲɪm ɑbɔ prɪvɑtnʲɪm pɔrɑdʲkɔm vuʈʂɛnnʲi bɔɦɔsʲluʐinʲnʲi i vɪkɔnɑnʲnʲi rʲɛliɦijnʲɪxtʲɑ rʲɪtuɑlʲnʲɪx ɔbrʲɑdiv
+ukr_0083	tʲɑttʲɑ
+ukr_0084	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ sʲvɔbɔdʲu pɛrɛkɔnʲɑnʲ i nʲɑ vilʲnɛ jix vɪɑvlɛnʲnɑ
+ukr_0085	tsʲɛ prʲɑvɔ vklʲuʈʂɑɛ sʲvɔbɔdʲu bɛzʲpɛrʲɛʂkɔdʲnɔ dʲɔtrɪmuvɑtʲɪsʲɑsvɔjix pɛrɛkɔnʲɑnʲ tʲɑ sʲvɔbɔdʲu ʂukɑtɪ ɔdʲɛrʐuvɑtɪ i pɔʂɪruvɑtɪ infɔrmɑtsʲiu tʲɑ idɛji budʲɑkɪmɪ zʲɑsʲɔbɑmɪ i nʲɛzʲɑlʲɛʐnɔ vid dʲɛrʲʐɑvnɪxkɔrʲdʲɔniv
+ukr_0086	tʲɑttʲɑ
+ukr_0087	
+ukr_0088	ɔʐnʲɑlʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ sʲvɔbɔdʲu mɪrnɪx zʲbɔrʲiv i ɑsɔtsʲiɑtsʲij
+ukr_0089	ixtʲɔ nʲɛ mɔʐɛ butʲɪ prʲɪmuʂɛnɪj vsʲtʲupɑtɪdʲɔ budʲɑkɔji ɑsɔtsʲiɑtsʲiji
+ukr_0090	
+ukr_0091	tʲɑttʲɑ
+ukr_0092	
+ukr_0093	
+ukr_0094	
+ukr_0095	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ brɑtʲɪ uʈʂɑsʲtʲ vuprʲɑvlʲinʲnʲi sʲvɔɛu krɑjinɔu bɛzʲpɔsɛrɛdʲnʲɔɑbɔ ʈʂɛrʲɛz vilʲnɔ ɔbrɑnɪx prʲɛdʲsʲtʲɑvnɪkiv
+ukr_0096	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ rʲivnɔɦɔ dʲɔstupudɔ dʲɛrʲʐɑvnʲɔji sʲlʲuʐbɪ v sʲvɔjij krɑjinʲi
+ukr_0097	ɔlʲɑ nʲɑrɔdu pɔvɪnnɑ butʲɪ ɔsnʲɔvɔu vlɑdʲɪurʲɑdu
+ukr_0098	tsʲɑ vɔlʲɑ pɔvɪnnɑ vɪɑvlʲɑtʲɪsʲɑ u pɛriɔdʲɪʈʂnʲɪx i nʲɛfɑlʲsɪfikɔvɑnʲɪx vɪbɔrɑx ɑkipɔvɪnni prɔvɑdɪtʲɪsʲ prʲɪ zʲɑɦɑlʲnʲɔmu i rʲivnɔmu vɪbɔrʲʈʂɔmu prɑvi ʂlɑxɔm tʲɑɛmnʲɔɦɔɦɔlɔsuvɑnʲnʲɑ ɑbɔ ʐ ʈʂɛrʲɛz inʂi rʲivnʲɔzʲnɑʈʂnʲifɔrʲmɪ ʂʈʂɔ zʲɑbɛzʲpɛʈʂuutʲ sʲvɔbɔdʲu ɦɔlʲɔsuvɑnnʲɑ
+ukr_0099	tʲɑttʲɑ
+ukr_0100	ɔʐnʲɑ lʲudʲɪnʲɑ ɑk ʈʂlʲɛnʲ sʲuspilʲsʲtʲvɑ mɑɛ prʲɑvɔ nʲɑ sʲɔtsʲiɑlʲnɛ zʲɑbɛzpɛʈʂɛnʲnʲɑi nʲɑ zʲdʲijsnɛnʲnʲɑnʲɛɔbxidʲnʲɪx dʲlʲɑ pidʲtrʲɪmɑnnʲɑ jiji ɦidʲnʲɔstʲi i dʲlɑvilʲnʲɔɦɔ rʲɔzvɪtʲku jiji ɔsʲɔbɪ prʲɑv u ɛkɔnʲɔmiʈʂnʲij sʲɔtsiɑlʲnʲij i kulʲtʲurʲnij ɦɑluzʲɑx zʲɑ dʲɔpɔmɔɦɔu nʲɑtsʲiɔnɑlʲnʲɪx zʲusʲɪlʲ i miʐnɑrɔdʲnʲɔɦɔsʲpivrʲɔbitʲnʲɪtsʲtvɑ tʲɑ vidʲpɔvidnʲɔ dʲɔ sʲtʲrʲuktʲurɪ irɛsʲursiv kɔʐnɔji dʲɛrʲʐɑvɪ
+ukr_0101	tʲɑttʲɑ
+ukr_0102	
+ukr_0103	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ prʲɑtsu nʲɑvilʲnʲɪj vɪbir rʲɔbɔtʲɪ nʲɑ sʲprɑvɛdʲlɪvi isʲprɪɑtlɪvi umɔvɪ prɑtsʲi tʲɑ nʲɑ zʲɑxɪstvidbɛzrɔbitʲtʲɑ
+ukr_0104	ɔʐnʲɑ lʲudʲɪnʲɑ bɛz budʲɑkɔji dʲɪskrʲɪminʲɑtsʲiji mɑɛ prʲɑvɔ nʲɑ rʲivnu ɔplɑtu zʲɑ rʲivnʲuprʲɑtsu
+ukr_0105	ɔʐnɪj prɑtsʲuuʈʂɪj mɑɛ prʲɑvɔ nʲɑ sʲprʲɑvɛdlʲɪvu i zʲɑdɔvilʲnu vɪnɑɦɔrɔdu ɑkɑ zʲɑbɛzpɛʈʂuɛ ɦidʲnɛ lʲudʲɪnʲɪ isnuvɑnʲnʲɑ jiji sʲɑmɔjitʲɑ jiji sʲimji i ɑkɑ v rʲɑzʲi nʲɛɔbxidnɔstʲi dʲɔpɔvnʲuɛtʲsʲɑ inʲʂɪmɪ zʲɑsʲɔbɑmɪ sʲɔtsiɑlʲnɔɦɔ zʲɑbɛzʲpɛʈʂɛnʲnʲɑ
+ukr_0106	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ sʲtvɔrʲuvɑtʲɪ prʲɔfɛsʲijni sʲpilʲkɪ i vxɔdɪtɪ dʲɔ prɔfɛsʲijnʲɪxspilʲɔk dʲlʲɑ zʲɑxɪsʲtu sʲvɔjix intʲɛrɛsʲiv
+ukr_0107	
+ukr_0108	
+ukr_0109	
+ukr_0110	tʲɑttʲɑ
+ukr_0111	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ vidpɔʈʂɪnɔk idɔzvillʲɑ vklʲuʈʂɑuʈʂɪ prʲɑvɔ nʲɑ rʲɔzumnɛ ɔbmɛʐɛnʲnʲɑ rʲɔbɔʈʂɔɦɔ dʲnʲɑ tʲɑnʲɑɔplɑʈʂuvɑnʲu pɛriɔdʲɪʈʂnʲu vidʲpusʲtʲku
+ukr_0112	tʲɑttʲɑ
+ukr_0113	
+ukr_0114	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ tʲɑkɪj ʐɪttʲɛvɪj rʲivɛnʲ vklʲuʈʂɑuʈʂɪ jiʐu ɔdɑɦ ʐɪtʲlʲɔmɛdʲɪʈʂnɪj dʲɔɦlɑd tʲɑ nʲɛɔbxidʲnɛ sʲɔtsiɑlʲnɛɔbsʲluɦɔvuvɑnʲnʲɑ ɑkɪj ɛ nʲɛɔbxidnʲɪm dʲlʲɑpidtrʲɪmɑnnʲɑ zʲdɔrɔvɑ i dʲɔbrɔbutu jiji sʲɑmɔjitʲɑ jiji sʲimji i prʲɑvɔ nʲɑ zʲɑbɛzʲpɛʈʂɛnʲnʲɑ v rʲɑzʲibɛzrʲɔbittʲɑ xvɔrʲɔbɪinʲvɑlʲidnʲɔsti vdʲivsʲtvɑ sʲtɑrʲɔsʲti ʈʂɪ inʲʂɔɦɔ vɪpɑdku vtʲrʲɑtɪ
+ukr_0115	
+ukr_0116	zʲɑsʲɔbiv dʲɔ isnuvɑnʲnʲɑ ʈʂɛrʲɛz nʲɛzɑlʲɛʐni vidʲnɛji ɔbstʲɑvɪnʲɪ
+ukr_0117	ɑtɛrʲɪnʲsʲtʲvɔ i dʲɪtɪnsʲtʲvɔ dʲɑutʲ prʲɑvɔ nʲɑɔsɔblɪvɛ piklʲuvɑnʲnʲɑ i dʲɔpɔmɔɦu
+ukr_0118	sʲi dʲitʲɪnʲɑrʲɔdʐɛnʲi u ʂlubi ɑbɔ pɔzʲɑ ʂlubɔm pɔvɪnnʲi kɔrɪstʲuvɑtɪsʲɑ ɔdʲnʲɑkɔvɪm sʲɔtsʲiɑlʲnɪm zʲɑxɪsʲtɔm
+ukr_0119	tʲɑttʲɑ
+ukr_0120	
+ukr_0121	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ ɔsʲvitʲu
+ukr_0122	sʲvitɑpɔvɪnʲnʲɑ butʲɪ bɛzplɑtnʲɔu xɔʈʂɑ b pɔʈʂɑtʲkɔvɑ i zʲɑɦɑlʲnʲɑ
+ukr_0123	ɔʈʂɑtkɔvɑ ɔsʲvitʲɑ pɔvɪnʲnɑbutʲɪ ɔbɔvɑzkɔvɔu
+ukr_0124	ɛxnʲiʈʂnʲɑ i prʲɔfɛsʲijnɑɔsvitʲɑ pɔvɪnnɑ butʲɪ zʲɑɦɑlʲnʲɔdʲɔsʲtʲupnʲɔuɑ vɪʂʈʂɑ ɔsʲvitʲɑ pɔvɪnnɑ butʲɪ ɔdʲnɑkɔvɔ dʲɔstʲupnʲɔu dʲlʲɑ vsʲix nʲɑ ɔsʲnɔvi zʲdibnʲɔsʲtɛjkɔʐnʲɔɦɔ
+ukr_0125	sʲvitʲɑ pɔvɪnnɑ butʲɪ sʲprʲɑmɔvɑnɑ nʲɑ pɔvnɪj rʲɔzvɪtʲɔk lʲudsʲkɔji ɔsʲɔbɪ i zʲbilʲʂɛnʲnʲɑ pɔvɑɦɪ dʲɔ prʲɑv lʲudʲɪnʲɪ i ɔsʲnɔvnʲɪxsvɔbɔd
+ukr_0126	sʲvitʲɑ pɔvɪnnɑ sʲprʲɪɑtʲɪ vzʲɑɛmɔrʲɔzʲuminʲnʲu tʲɛrpɪmɔsti i dʲruʐbi miʐ usimɑnɑrɔdɑmɪ rʲɑsʲɔvɪmɪ ɑbɔ rʲɛlʲiɦijnɪmɪ ɦrupɑmɪ i pɔvɪnnɑ sʲprʲɪɑtʲɪ dʲiɑlʲnʲɔsʲti rʲɦɑnʲizʲɑtsʲiji bɛdʲnɑnʲɪx ɑtsʲij pɔ pidtrɪmɑnnʲumɪrʲu
+ukr_0127	ɑtʲkɪ mɑutʲ prʲɑvɔ prʲiɔrʲɪtʲɛtʲu u vɪbɔrivɪdu ɔsʲvitʲɪ dʲlʲɑ sʲvɔjix mɑlɔlʲitnix dʲitʲɛj
+ukr_0128	
+ukr_0129	
+ukr_0130	
+ukr_0131	tʲɑttʲɑ
+ukr_0132	
+ukr_0133	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ vilʲnɔ brɑtʲɪ uʈʂɑsʲtʲ u kulʲtʲurnɔmu ʐɪttʲi sʲuspilʲsʲtʲvɑ vtʲiʂɑtʲɪsʲɑ mɪstʲɛtstvɔm brɑtʲɪ uʈʂɑsʲtʲ u nʲɑukɔvɔmu prʲɔɦrʲɛsʲi i kɔrɪstʲuvɑtɪsʲɑ jɔɦɔ blɑɦɑmɪ
+ukr_0134	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ zʲɑxɪsʲtʲjijimɔrʲɑlʲnʲɪxi mɑtɛrʲiɑlʲnɪx intʲɛrɛsʲiv ʂʈʂɔ ɛ rʲɛzʲulʲtɑtʲɔm nʲɑukɔvɪx lʲitʲɛrɑtʲurʲnɪx ɑbɔ xudɔʐnix prʲɑtsʲ ɑvtɔrɔm ɑkɪx vɔnʲɑ ɛ
+ukr_0135	tʲɑttʲɑ
+ukr_0136	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ prʲɑvɔ nʲɑ sʲɔtsʲiɑlʲnɪj i miʐnɑrɔdʲnɪj pɔrɑdʲɔk prʲɪ ɑkɔmu prʲɑvɑ i sʲvɔbɔdʲɪ vɪklɑdʲɛni v tsʲij ɛklɑrɑtsʲiji mɔʐutʲ butʲɪpɔvnʲisʲtʲu zʲdʲijsnɛnʲi
+ukr_0137	tʲɑttʲɑ
+ukr_0138	
+ukr_0139	ɔʐnʲɑ lʲudʲɪnʲɑ mɑɛ ɔbɔvɑzʲkɪ pɛrʲɛd sʲusʲpilʲsʲtʲvɔm u ɑkɔmu tʲilʲkɪ j mɔʐlɪvɪj vilʲnɪj i pɔvnɪj rʲɔzvɪtʲɔk jiji ɔsʲɔbɪ
+ukr_0140	rʲɪ zʲdijsnʲɛnʲnʲi sʲvɔjix prʲɑv i sʲvɔbɔd kɔʐnʲɑlʲudʲɪnɑ pɔvɪnnɑ zʲɑznɑvɑtɪ tʲilʲkɪ tʲɑkɪxɔbmɛʐɛnʲ ɑki vsʲtʲɑnʲɔvlɛnʲi zʲɑkɔnʲɔm vɪklʲuʈʂnʲɔ zʲ mɛtʲɔu zʲɑbɛzʲpɛʈʂɛnʲnʲɑ nʲɑlʲɛʐnɔɦɔvɪzʲnʲɑnʲnʲɑ i pɔvɑɦɪ prʲɑv i sʲvɔbɔd inʲʂɪx tʲɑzɑbɛzpɛʈʂɛnnɑ sʲprɑvɛdlʲɪvɪx vɪmɔɦ mɔrʲɑlʲiɦrʲɔmɑdsʲkɔɦɔ pɔrɑdʲku i zʲɑɦɑlʲnʲɔɦɔ dʲɔbrɔbutu v dʲɛmɔkrɑtɪʈʂnʲɔmu sʲusʲpilʲsʲtvi
+ukr_0141	dʲijsʲnʲɛnnɑ tsʲɪx prʲɑv i sʲvɔbɔd nʲi v ɑkɔmurɑzi nʲɛ pɔvɪnnɔ sʲupɛrɛʈʂɪtʲɪ tsʲilʲɑm i prɪntsʲɪpɑm rʲɦɑnʲizʲɑtsʲiji bɛdʲnɑnʲɪx ɑtsʲij
+ukr_0142	
+ukr_0143	
+ukr_0144	tʲɑttʲɑ
+ukr_0145	iʂʈʂɔ u tsʲij ɛklɑrɑtsʲiji nʲɛ mɔʐɛ butʲɪ vɪtlʲumɑʈʂɛnɔ ɑk nʲɑdɑnnʲɑ budʲɑkij dʲɛrʐɑvi ɦrupi ɔsʲibɑbɔ ɔkrɛmɪm ɔsʲɔbɑm prʲɑvɑ zʲɑjmɑtʲɪsʲɑ budʲɑkɔu dʲiɑlʲnʲistʲu ɑbɔ vʈʂɪnɑtʲɪ dʲiji sʲprʲɑmɔvɑninʲɑ zʲnʲɪʂʈʂɛnnɑ prʲɑv i sʲvɔbɔd vɪklʲɑdɛnɪx u tsʲij
+ukr_0146	ɛklɑrɑtsʲiji
+ukr_0147	rʲɛdsʲtʲɑvnɪtstʲvɔ rʲɦɑnʲizʲɑtsʲiji bɛdnʲɑnʲɪx ɑtsʲij v krɑjinʲi
+ukr_0148	lʲɔvsʲkɪj zʲviz ɪjiv krʲɑjinʲɑ
+ukr_0149	
+ukr_0150	
+ukr_0151	

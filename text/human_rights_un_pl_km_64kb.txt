@@ -1,0 +1,149 @@
+pol_0001	POWSZECHNA DEKLARACJA PRAW CZŁOWIEKA
+pol_0002	[Preamble]
+pol_0003	Trzecia Sesja Ogólnego Zgromadzenia ONZ, obradująca w Paryżu, uchwaliła 10grudnia 1948 roku jednomyślnie Powszechną Deklarację Praw Człowieka.
+pol_0004	Dokument ten stanowi niewątpliwie jedno z największych i najtrwalszychosiągnięć ONZ.
+pol_0005	Przetłumaczona na większość języków świata Powszechna
+pol_0006	Deklaracja Praw Człowieka zbiera oraz porządkuje osiągnięcia i postulatyczłowieka, który od wielu setek lat toczy nie skończoną jeszcze walkę o swojąwolność i swoją godność.
+pol_0007	ZWAŻYWSZY, że uznanie przyrodzonej godności oraz równych i niezbywalnychpraw wszystkich członków wspólnoty ludzkiej jest podstawą wolności,sprawiedliwości i pokoju świata,
+pol_0008	ZWAŻYWSZY, że nieposzanowanie i nieprzestrzeganie praw człowiekadoprowadziło do aktów barbarzyństwa, które wstrząsnęły sumieniem ludzkości, iże ogłoszono uroczyście jako najwznioślejszy cel ludzkości dążenie dozbudowania takiego świata, w którym ludzie korzystać będą z wolności słowa iprzekonań oraz z wolności od strachu i nędzy,
+pol_0009	ZWAŻYWSZY, że konieczne jest zawarowanie praw człowieka przepisamiprawa, aby nie musiał - doprowadzony do ostateczności - uciekać się do buntuprzeciw tyranii i uciskowi,
+pol_0010	ZWAŻYWSZY, że konieczne jest popieranie rozwoju przyjaznych stosunkówmiędzy narodami,
+pol_0011	ZWAŻYWSZY, że Narody Zjednoczone przywróciły swą wiarę w podstawoweprawa człowieka, godność i wartość jednostki oraz w równouprawnieniemężczyzn i kobiet, oraz wyraziły swe zdecydowanie popierania postępuspołecznego i poprawy warunków życia w większej wolności,
+pol_0012	ZWAŻYWSZY, że Państwa Członkowskie podjęły się we współpracy z
+pol_0013	Organizacją Narodów Zjednoczonych zapewnić powszechne poszanowanie iprzestrzeganie praw człowieka i podstawowych wolności,
+pol_0014	ZWAŻYWSZY, że jednakowe rozumienie tych praw i wolności ma olbrzymieznaczenie dla ich pełnej realizacji,
+pol_0015	PRZETO ZGROMADZENIE OGÓLNE
+pol_0016	Ogłasza Uroczyście niniejszą Powszechną Deklarację Praw Człowieka jakowspólny najwyższy cel wszystkich ludów i wszystkich narodów, aby wszyscyludzie i wszystkie organy społeczeństwa - mając stale w pamięci niniejszą
+pol_0017	Deklarację - dążyły w drodze nauczania i wychowywania do rozwijaniaposzanowania tych praw i wolności i aby zapewniły za pomocą postępowychśrodków o zasięgu krajowym i międzynarodowym powszechne i skuteczneuznanie i stosowanie tej Deklaracji zarówno wśród narodów Państw
+pol_0018	Członkowskich, jak i wśród narodów zamieszkujących obszary podległe ichwładzy.
+pol_0019	Artykuł 1
+pol_0020	Wszyscy ludzie rodzą się wolni i równi pod względem swej godności i swychpraw.
+pol_0021	Są oni obdarzeni rozumem i sumieniem i powinni postępować wobecinnych w duchu braterstwa.
+pol_0022	Artykuł 2
+pol_0023	Każdy człowiek posiada wszystkie prawa i wolności zawarte w niniejszej
+pol_0024	Deklaracji bez względu na jakiekolwiek różnice rasy, koloru, płci, języka,wyznania, poglądów politycznych i innych, narodowości, pochodzeniaspołecznego, majątku, urodzenia lub jakiegokolwiek innego stanu.
+pol_0025	Nie wolno ponadto czynić żadnej różnicy w zależności od sytuacji politycznej,prawnej lub międzynarodowej kraju lub obszaru, do którego dana osobaprzynależy, bez względu na to, czy dany kraj lub obszar jest niepodległy, czy teżpodlega systemowi powiernictwa, nie rządzi się samodzielnie lub jest wjakikolwiek sposób ograniczony w swej niepodległości.
+pol_0026	Artykuł 3
+pol_0027	Każdy człowiek ma prawo do życia, wolności i bezpieczeństwa swej osoby.
+pol_0028	Artykuł 4
+pol_0029	Nie wolno nikogo czynić niewolnikiem ani nakładać na nikogo służebności;
+pol_0030	niewolnictwo i handel niewolnikami są zakazane we wszystkich swychpostaciach.
+pol_0031	Artykuł 5
+pol_0032	Nie wolno nikogo torturować ani karać lub traktować w sposób okrutny, nieludzkilub poniżający.
+pol_0033	Artykuł 6
+pol_0034	Każdy człowiek ma prawo do uznawania wszędzie jego osobowości prawnej.
+pol_0035	Artykuł 7
+pol_0036	Wszyscy są równi wobec prawa i mają prawo, bez jakiejkolwiek różnicy, dojednakowej ochrony prawnej.
+pol_0037	Wszyscy mają prawo do jednakowej ochrony przedjakąkolwiek dyskryminacją, będącą pogwałceniem niniejszej Deklaracji, i przedjakimkolwiek narażeniem na taką dyskryminację.
+pol_0038	Artykuł 8
+pol_0039	Każdy człowiek ma prawo do skutecznego odwoływania się do kompetentnychsądów krajowych przeciw czynom stanowiącym pogwałcenie podstawowychpraw przyznanych mu przez konstytucję lub przez prawo.
+pol_0040	Artykuł 9
+pol_0041	Nikogo nie wolno samowolnie aresztować, zatrzymać lub wygnać z kraju.
+pol_0042	Artykuł 10
+pol_0043	Każdy człowiek ma na warunkach całkowitej równości prawo, aby przyrozstrzyganiu o jego prawach i zobowiązaniach lub o zasadności wysuwanegoprzeciw niemu oskarżenia o popełnienie przestępstwa być słuchanymsprawiedliwie i publicznie przez niezależny i bezstronny sąd.
+pol_0044	Artykuł 11
+pol_0045	1.
+pol_0046	Każdy człowiek oskarżony o popełnienie przestjpstwa ma prawo, abyuznawano go za niewinnego dopóty, dopóki nie udowodni mu się winyzgodnie z prawem podczas publicznego procesu, w którym zapewnionomu wszystkie konieczne środki obrony.
+pol_0047	2.
+pol_0048	Nikt nie może być skazany za przestępstwo z powodu działania lubzaniechania nie stanowiącego w chwili jego dokonania przestępstwawedług prawa krajowego lub międzynarodowego.
+pol_0049	Nie wolno takżewymierzać kary wyższej niż ta, która była przewidziana w chwilipopełnienia przestępstwa.
+pol_0050	Artykuł 12
+pol_0051	Nie wolno ingerować samowolnie w czyjekolwiek życie prywatne, rodzinne,domowe, ani w jego korespondencję, ani też uwłaczać jego honorowi lubdobremu imieniu.
+pol_0052	Każdy człowiek ma prawo do ochrony prawnej przeciwko takiejingerencji lub uwłaczaniu.
+pol_0053	Artykuł 13
+pol_0054	1.
+pol_0055	Każdy człowiek ma prawo swobodnego poruszania się i wyboru miejscazamieszkania w granicach każdego Państwa.
+pol_0056	2.
+pol_0057	Każdy człowiek ma prawo opuścić jakikolwiek kraj, włączając w to swójwłasny, i powrócić do swego kraju.
+pol_0058	Artykuł 14
+pol_0059	1.
+pol_0060	Każdy człowiek ma prawo ubiegać się o azyl i korzystać z niego w innymkraju w razie prześladowania.
+pol_0061	2.
+pol_0062	Nie można powoływać się na to prawo w przypadku ścigania wszczętegorzeczywiście z powodu popełnienia przestępstwa pospolitego lub czynusprzecznego z celami i zasadami Organizacji Narodów Zjednoczonych.
+pol_0063	Artykuł 15
+pol_0064	1.
+pol_0065	Każdy człowiek ma prawo do posiadania obywatelstwa.
+pol_0066	2.
+pol_0067	Nie wolno nikogo pozbawiać samowolnie obywatelstwa ani nikomuodmawiać prawa do zmiany obywatelstwa.
+pol_0068	Artykuł 16
+pol_0069	1.
+pol_0070	Mężczyźni i kobiety bez względu na jakiekolwiek różnice rasy,narodowości lub wyznania mają prawo po osiągnięciu pełnoletności dozawarcia małżeństwa i założenia rodziny.
+pol_0071	Mają oni równe prawa wodniesieniu do zawierania małżeństwa, podczas jego trwania i po jegoustaniu.
+pol_0072	2.
+pol_0073	Małżeństwo może być zawarte jedynie za swobodnie wyrażoną pełnązgodą przyszłych małżonków.
+pol_0074	3.
+pol_0075	Rodzina jest naturalną i podstawową komórką społeczeństwa i ma prawodo ochrony ze strony społeczeŃstwa i Państwa.
+pol_0076	Artykuł 17
+pol_0077	1.
+pol_0078	Każdy człowiek, zarówno sam jak i wespół z innymi, ma prawo doposiadania własności.
+pol_0079	2.
+pol_0080	Nie wolno nikogo samowolnie pozbawiać jego własności.
+pol_0081	Artykuł 18
+pol_0082	Każdy człowiek ma prawo wolności myśli, sumienia i wyznania;
+pol_0083	prawo toobejmuje swobodę zmiany wyznania lub wiary oraz swobodę głoszenia swegowyznania lub wiary bądź indywidualnie, bądź wespół z innymi ludźmi, publicznie iprywatnie, poprzez nauczanie, praktykowanie, uprawianie kultu i przestrzeganieobyczajów.
+pol_0084	Artykuł 19
+pol_0085	Każdy człowiek ma prawo wolności opinii i wyrażania jej;
+pol_0086	prawo to obejmujeswobodę posiadania niezależnej opinii, poszukiwania, otrzymywania irozpowszechniania informacji i poglądów wszelkimi środkami, bez względu nagranice.
+pol_0087	Artykuł 20
+pol_0088	1.
+pol_0089	Każdy człowiek ma prawo spokojnego zgromadzania i stowarzyszania się.
+pol_0090	2.
+pol_0091	Nikogo nie można zmuszać do należenia do jakiegoś stowarzyszenia.
+pol_0092	Artykuł 21
+pol_0093	1.
+pol_0094	Każdy człowiek ma prawo do uczestniczenia w rządzeniu swym krajembezpośrednio lub poprzez swobodnie wybranych przedstawicieli.
+pol_0095	2.
+pol_0096	Każdy człowiek ma prawo równego dostępu do służby publicznej w swymkraju.
+pol_0097	3.
+pol_0098	Wola ludu jest podstawą władzy rządu;
+pol_0099	wola ta wyraża się wprzeprowadzanych okresowo rzetelnych wyborach, opartych na zasadziepowszechności, równości i tajności, lub na innej równorzędnej procedurze,zapewniającej wolność wyborów.
+pol_0100	Artykuł 22
+pol_0101	Każdy człowiek ma jako członek społeczeństwa prawo do ubezpieczeńspołecznych;
+pol_0102	ma również prawo do urzeczywistniania - poprzez wysiłeknarodowy i współpracę międzynarodową oraz zgodnie z organizacją i zasobamikażdego Państwa - swych praw gospodarczych, społecznych i kulturalnych,niezbędnych dla jego godności i swobodnego rozwoju jego osobowości.
+pol_0103	Artykuł 23
+pol_0104	1.
+pol_0105	Każdy człowiek ma prawo do pracy, do swobodnego wyboru pracy, doodpowiednich i zadowalających warunków pracy oraz do ochrony przedbezrobociem.
+pol_0106	2.
+pol_0107	Każdy człowiek, bez względu na jakiekolwiek różnice, ma prawo dorównej płacy za równą pracj.
+pol_0108	3.
+pol_0109	Każdy pracujący ma prawo do odpowiedniego i zadowalającegowynagrodzenia, zapewniającego jemu i jego rodzinie egzystencjęodpowiadającą godności ludzkiej i uzupełnianego w razie potrzeby innymiśrodkami pomocy społecznej.
+pol_0110	4.
+pol_0111	Każdy człowiek ma prawo do tworzenia związków zawodowych i doprzystępowania do związków zawodowych dla ochrony swych interesów.
+pol_0112	Artykuł 24
+pol_0113	Każdy człowiek ma prawo do urlopu i wypoczynku, włączając w to rozsądneograniczenie godzin pracy i okresowe płatne urlopy.
+pol_0114	Artykuł 25
+pol_0115	1.
+pol_0116	Każdy człowiek ma prawo do stopy życiowej zapewniającej zdrowie idobrobyt jego i jego rodziny, włączając w to wyżywienie, odzież,mieszkanie, opiekj lekarską i konieczne świadczenia socjalne, oraz prawodo ubezpieczenia na wypadek bezrobocia, choroby, niezdolności dopracy, wdowieństwa, starości lub utraty środków do życia w inny sposóbod niego niezależny.
+pol_0117	2.
+pol_0118	Matka i dziecko mają prawo do specjalnej opieki i pomocy.
+pol_0119	Wszystkiedzieci, zarówno małżeńskie jak i pozamałżeńskie, korzystają z jednakowejochrony społecznej.
+pol_0120	Artykuł 26
+pol_0121	1.
+pol_0122	Każdy człowiek ma prawo do nauki.
+pol_0123	Nauka jest bezpłatna, przynajmniejna stopniu podstawowym.
+pol_0124	Nauka podstawowa jest obowiązkowa.
+pol_0125	Oświatatechniczna i zawodowa jest powszechnie dostępna, a studia wyższe sądostępne dla wszystkich na zasadzie równości w zależności od zaletosobistych.
+pol_0126	2.
+pol_0127	Celem nauczania jest pełny rozwój osobowości ludzkiej i ugruntowanieposzanowania praw człowieka i podstawowych wolności.
+pol_0128	Krzewi onozrozumienie, tolerancję i przyjaźń między wszystkimi narodami, grupamirasowymi lub religijnymi;
+pol_0129	popiera działalność Organizacji Narodów
+pol_0130	Zjednoczonych zmierzającą do utrzymania pokoju.
+pol_0131	3.
+pol_0132	Rodzice mają prawo pierwszeństwa w wvborze nauczania, które ma byćdane ich dzieciom.
+pol_0133	Artykuł 27
+pol_0134	1.
+pol_0135	Każdy człowiek ma prawo do swobodnego uczestniczenia w życiukulturalnym społeczeństwa, do korzystania ze sztuki, do uczestniczenia wpostępie nauki i korzystania z jego dobrodziejstw.
+pol_0136	2.
+pol_0137	Każdy człowiek ma prawo do ochrony moralnych i materialnych korzyściwynikających z jakiejkolwiek jego działalności naukowej, literackiej lubartystycznej.
+pol_0138	Artykuł 28
+pol_0139	Każdy człowiek ma prawo do takiego porządku społecznego imiędzynarodowego, w którym prawa i wolności zawarte w niniejszej Deklaracjibyłyby w pełni realizowane.
+pol_0140	Artykuł 29
+pol_0141	1.
+pol_0142	Każdy człowiek ma obowiązki wobec społeczeństwa, bez któregoniemożliwy jest swobodny i pełny rozwój jego osobowości.
+pol_0143	2.
+pol_0144	W korzystaniu ze swych praw i wolności każdy człowiek podlega jedynietakim ograniczeniom, które są ustalone przez prawo wyłącznie w celuzapewnienia odpowiedniego uznania i poszanowania praw i wolnościinnych i w celu uczynienia zadość słusznym wymogom moralności,porządku publicznego i powszechnego dobrobytu demokratycznegospołeczeństwa.
+pol_0145	3.
+pol_0146	Z niniejszych praw i wolności nie wolno w żadnym przypadku korzystać wsposób sprzeczny z celami i zasadami Organizacji Narodów
+pol_0147	Zjednoczonych.
+pol_0148	Artykuł 30
+pol_0149	Żadnego z postanowień niniejszej Deklaracji nie można rozumieć jakoudzielającego jakiemukolwiek Państwu, grupie lub osobie jakiegokolwiek prawado podejmowania działalności lub wydawania aktów zmierzających do obaleniaktóregokolwiek z praw i wolności zawartych w niniejszej Deklaracji.

@@ -1,0 +1,139 @@
+bul_0001	fspʃt dɡlrtsa z prvd n tʃvk
+bul_0002	prmpjol
+bul_0003	kadɔ vzɛ prɛtvid tʃɛ priznɐfanɛto nɐ tozdɔjnztvodɔ prizɤʃto nɐ vzitʃki tʃlɛnɔvɛ nɐ tʃofɛʃɡijarɔd nɐ tɛxnitɛ rɐvni i nɛɔdmɛnimi prɐva prɛdsdafljafɐ oznɔfa nɐ zvopodatɐ zprɐfɛdlivɔzttɐ imirɐ v zfɛta
+bul_0004	kadɔ vzɛ prɛtvid tʃɛ prɛnɛbrɛɡfanɛdo i nɛuvɐʒɐfanɛtɔ nɐ pravada nɐ tʃɔvɛkɐ dɔfɛdɔxa tofɐrfɐrski tɛanija ɡoito potrɛzɔxa zɤfɛztdɐ nɐ tʃɔvɛtʃɛstvɔto i tʃɛ zɤstafɐnɛdɔ nɐ ɛtin svɐt fkojto xɔrata ʃtɛ sɛ rɐtfad nɐ svɔbotɐ nɐ sɫɔfotɔ i opɛʃtɛniatɐ si i ʃtɛ bɐdat zvopɔdni ɔd strɐx iliʃɛniɐ bɛ provɐsɡɫasɛnɔ za nɐjsɐkrofɛnija strɛmɛʃ nɐ tʃɔvɛkɐ
+bul_0005	kadɔ vzɛ prɛtvid tʃɛ ɛ nɛobxotimɔ pravada nɐ tʃɔvɛkɐ ta bɐdat sɐɡrilɐni ɔd zakɔna dakɐ tʃɛ tʃɔfɛkda nɛ bɐtɛ prinoʒtavɐn ta pribakvɐ ɡɤm pund zrɛʃto tirɐnijadɐ i podiznitʃɛsdvodɔ kadɔ pozlɛtɛnisxɔd
+bul_0006	kadɔ vzɛ prɛtvid tʃɛ ɛ nɛobxotimɔ ta sɛ natsɐrtʃɐvɐ rasfidiɛtɔ nɐ prijadɛɫzɡi ɔdnoʃɛnia mɛʒtunarotitɛ
+bul_0007	kadɔ vzɛ prɛtvid tʃɛ narotitɛ nɐ pɛtinɛnidɛ nɐtsii potfɐrdixɐ v uzdava sfɔɐdɐ vɐra voznofnidɛ prɐva nɐ tʃɔvɛkɐ v tozdɔjnztvodɔ i zdɔjnɔsdta nɐ tʃovɛʃɡɐta ɫitʃnozd v rɐfnɔpraviɛtɔna mɤʃɛdɛ i ʒɛnitɛ i ɔbavixɐ sfɔɐdɐ rɛʃimosd ta nasɐrtʃɐvad ɔbʃtɛsdfɛnia nɐprɛdɤk i potobrɔʃisnɛnɔ rɐfniʃtɛ pri poɡoɫjɐmɐ svɔbotɐ
+bul_0008	kadɔ vzɛ prɛtvid tʃɛ dɐrʃɐvidɛtʃɫɛnɡi sɛ zɐtɤlʃixa ta pɔzdiɡnad v zɐtrudnitʃɛsdvo z
+bul_0009	rkɐnisɐtsijɐda nɐ pɛtinɛnidɛ nɐtsii vsɛɔpʃtɔ ofɐʒɛniɛ i satʃidɐnɛ nɐ pravada nɐ tʃɔvɛkɐ inɛkɔvidɛ ɔznɔfni sfopodi
+bul_0010	kadɔ vzɛ prɛtvid tʃɛ opʃtɔdo rɐzpirɐnɛ nɐ tɛzi prɐva i sfopodi ɛ ɔd nɐjkolɐmo znɐtʃɛniɛ zɐpɤɫnodo ɔsɤʃtɛzdvɐvanɛ nɐ dozi ɔpɛt
+bul_0011	pʃtt ɐprnprovɐzklasɐfa dazi vsɛɔpʃtɐ tɛklarɐtsia za pravada nɐ tʃɔvɛkɐ kadɔ ɔpʃtɐ mjɐrka ɡɤm poztikɐnɛto naɡojatɔ drabvɐ ta sɛ strɛmɐt vzitʃki nɐrɔti i dɤrʒafi dakɐ tʃɛ fzɛɡi tʃofɛk i fzɛɡi orɡan naopʃtɛzdfoto imɐjki pɔsdoɐnno prɛtvid dazi tɛklarɐtsia ta sɛ strɛmɐt tʃrɛz prɔzvɛta iobrɐzofɐniɛ ta zɐtɛjzdfɐd za satʃidɐnɛ nɐ tɛzi prɐva i sfopodi i tʃrɛz pɔsɫɛtɔvatɛlni natsiɔnɐɫnii mɛʒtunarɔtni mɛrɡi ta ɔzikorat daxnɔtɔ vsɛɔpʃtɔ i ɛfɛkdifnɔ priznɐfɐnɛ i zpazfɐnɛ ɡɐɡtosrɛd narotitɛ i dɐrʃɐvidɛtʃɫɛnɡi nɐ rkɐnisɐtsijɐda dakɐ i srɛt narotitɛ ɔd dɛridoriidɛnamiraʃti sɛ pɔd daxnɐ juristiktsiɐ
+bul_0012	tʃɫɛn
+bul_0013	sitʃɡi xɔra sɛ rɐʒdad zvopɔdni i rɐvni pɔ tostɔjnzdfɔ i prɐva
+bul_0014	ɛ za natɐrɛni z razom i sɐfɛzdi sɫɛtfa ta sɛ odnɐzjad pomɛʃdu si v tux nɐ pradztvɔ
+bul_0015	tʃɫɛn
+bul_0016	zɛɡi tʃofɛk ima prɐvo nɐ vzitʃki prɐva i sfopodi prɔfɐzɡlɐsɛni v dazi tɛklarɐtsia pɛz niɡakvirɐslitʃija osnɔfɐni nɐ rasɐ tsvat nɐ koʃɐda pɔl ɛzik rɛɫiɡija pɔɫiditʃɛzki iɫi droki vɐsɡlɛdinɐtsionɐɫɛn iɫi sotsiaɫɛn prɔizxɔt matɛriɐlnɔ ɔpʃtɛzdvɛnɔ iɫi drokɔ pɔɫɔʒɛniɛ
+bul_0017	zvɛn dofɐ namɐ ta sɛ dopuskɐt niɡɐkfi razlitʃia osnɔfɐni nɐ pɔliditʃɛzkijɐ pravnija iɫimɛʃtunɐrodniɐ zdɐdod nɐ dɐrʒɐvɐta iɫi tɛridɔrijada ɡɤm kojato tʃofɛk prinatlɛʃi pɛz ɔklɛt nɐtofa daɫi dazi ztrɐnɐ iɫi dɛritorija ɛ nɛsafisimɐ pɔd pɔpɛtʃitɛɫztfɔ nɛsɐmowprɐvljɐfɐʃta sɛ ilipotloʒɛnɐ nɐ kɐɡfotɔ i ta ɛ drokɔ ɔɡranitʃɛniɛ nɐ zovɛrɛnidɛta
+bul_0018	tʃɫɛn
+bul_0019	zɛɡi ima prɐvo nɐ ʃifɔd svɔbotɐ i litʃnɐ siɡurnɔzt
+bul_0020	tʃɫɛn
+bul_0021	iɡoj nɛ drabvɐ ta bɐtɛ tɤrʒan v rɔpstvo iɫi krɛposdnitʃɛsdvo rɔpztfɔto i tɤrkoviɐda z rɔbi zɐsabranɛni fɐv fsitʃkitɛ im fɔrmi
+bul_0022	tʃɫɛn
+bul_0023	iɡoj nɛ drabvɐ ta bɐtɛ potɫɐɡɐn nɐ istɛsɐnijɐ iɫi nɐ ʒɛztɔɡo nɛtʃɔvɛʃko iɫi unisidɛɫnɔdrɛdiranɛ iɫi nakazɐniɛ
+bul_0024	tʃɫɛn
+bul_0025	zɛɡi tʃofɛk kɐdɛto i ta sɛ nɐmirɐ ima prɐvo nɐ priznɐfɐnɛ nɐ nɛɡofɐdɐ prɐvɔsobɛɡdnost
+bul_0026	tʃɫɛn
+bul_0027	sitʃɡi xɔra za rɐvni prɛt zakɔna i imɐd prɐvo pɛz kɐɡfatɔ i ta ɛ disɡriminɐtsija nɐ ɛdnɐkfɐsaɡrilɐ ɔd zakɔna
+bul_0028	sitʃɡi xɔra imɐd prɐvo nɐ ɛdnaɡfa sɐʃtitɐ zrɛʃto kɐɡfatɔ i ta ɛdizkriminatsiɐ naruʃɐfɐʃtɐ dazi tɛklarɐtsia kakdɔ i zrɛʃto fsjaɡo pɔdpoʒtɐnɛ ɡɤmdizkriminatsija
+bul_0029	tʃɫɛn
+bul_0030	zɛɡi tʃofɛk ima prɐvo nɐ ɛfɛkdifnɔ vɐzsdɐnɔfɐfɐnɛ nɐ pravada si ɔd ɡompɛtɛndnidɛ nɐtsionɐɫnijuriztiɡtsii za tɛjzdvia narwʃafaʃti nɛkovi ɔznɔfni prɐva prisnati mw ɔd konstidutsijɐdɐ ilisɐɡona
+bul_0031	tʃɫɛn
+bul_0032	nikoj nɛ drabvɐ ta bɐtɛ potɫɐɡɐn nɐ proisfolɛn ɐrɛzd sɐtɐrʒɐnɛ iɫi izɡnaniɛ
+bul_0033	tʃɫɛn
+bul_0034	fzɛɡi tʃofɛk ima prɐvo pri pɐlno ravɛnztvo nɐ spravɛtlifo i publitʃnɔ rasɡɫɛʒtanɛ nɐ nɛɡɔvɔtɔdɛɫo ɔd nɛsɐvisim i bɛzprizdrɐztɛn sɐt za wsdanɔvafɐnɛ nɐ nɛɡɔvitɛ prɐva i zatɐlʒɛniɐ kakdɔ iza rasɡɫɛʒtanɛ nɐ kɐɡfotɔ i ta ɛ nɐkɐzɐdɛɫno ɔpfinɛniɛ prɛtjafɛno zrɛʃto nɛɡo
+bul_0035	tʃɫɛn
+bul_0036	
+bul_0037	zɛɡi tʃofɛk ɡojto ɛ obvinɛn v prɛztɤpɫɛniɛ ima prɐvo ta bɐtɛ ztʃidɐn za nɛfinɛn dodoɡasfɐnɛ nɐ nɛɡofɐdɐ finɐ v sɐodvɛtzdviɛ sɐz zakɔna v pubɫitʃɛn prɔtsɛs pɔ vrɛmɛ nɐkɔjto za mw piɫi osiɡorɛni vzitʃki nɛopxɔtimi ɡɐrɐntsii za nɛɡofɐdɐ sɐʃtitɐ
+bul_0038	
+bul_0039	iɡoj nɛ drabvɐ ta bɐtɛ osɐtɛn za tɛjstviɛ iɫi pɛztɛjstfiɛ ɡoɛto v mɔmɛnta naisfɤrʃvɐnɛdɔ mw nɛ ɛ zɐztɐvlɐfɐlɔ prɛztɤpɫɛniɛ pɔ natsionɐɫnodɔ iɫi mɛʒtonarɔdnɔtopravɔ
+bul_0040	ɛ mɔʃɛ zɤʃtɔ dakɐ ta bɐtɛ nɐlaɡanɔ nakazɐniɛ pɔdɛʃko ɔd onova ɡoɛto ɛ biɫoprɛdvitɛno za zɤɔtfɛdnoto prɛztɤpɫɛniɛ pɔ frɛmɛdo kokɐdo dofɐ prɛztɤpɫɛniɛ ɛ pilɔisvɐrʃɛno
+bul_0041	tʃɫɛn
+bul_0042	iɡoj nɛ drabvɐ dɛ bɐtɛ potɫɐɡɐn nɐ proisfɔɫnɐ namɛzɐ v ɫitʃnia mw ʃifɔd zɛmɛjztfodɔʃiliʃtɛdo i kɔrɛzpontɛntsijɐta nito nɐ pɔzɛkɐdɛlzdfa vɤrx nɛɡofɐdɐ tʃɛzd i tobrɔ imɛ
+bul_0043	sɛkitʃɔfɛk ima prɐvo nɐ zaɡriɫa ɔd zakɔna zrɛʃto pɔdopna namɛzɐ iɫi pɔzɛkɐdɛlzdfa
+bul_0044	tʃɫɛn
+bul_0045	
+bul_0046	zɛɡi tʃofɛk ima prɐvo zfobotno ta sɛ pritfiʒfa i ta izpira sfoɛto mɛsdɔʃitɛɫztvo vprɛtɛɫitɛ nɐ fsjaɡa dɤrʒava
+bul_0047	
+bul_0048	fzɛɡi tʃofɛk ima prɐvo ta napwznɛ fsjaɡa ztrɐnɐ vɡljotʃidɛlnɔ i sfɔɐdɐ i ta sɛ frɐʃtɐ fsdrɐnata si
+bul_0049	tʃɫɛn
+bul_0050	
+bul_0051	zɛɡi tʃofɛk ima prɐvo ta dɤrzi i ta pɔlwtʃi wbɛʃiʃtɛ v droki ztrɐni kokɐdo ɛ prɛsɫɛtfan
+bul_0052	
+bul_0053	ofɐ prɐvo nɛ mɔʃɛ ta bɐtɛ pɔlsvanɔ kokɐdo tɛjstvitɛlnodɔ oznɔvɐniɛ za prɛslɛdfanɛ ɛnɛpoliditʃɛzko prɛztɤpɫɛniɛ iɫi tɛaniɛ ɡoɛto protivɔrɛtʃi nɐ tsɛɫidɛ i printsipidɛ nɐ
+bul_0054	rkɐnisɐtsijɐda nɐ pɛtinɛnidɛ nɐtsii
+bul_0055	tʃɫɛn
+bul_0056	
+bul_0057	zɛɡi tʃofɛk ima prɐvo nɐ krɐʃdɐnzdfɔ
+bul_0058	
+bul_0059	iɡoj nɛ mɔʃɛ ta bɐtɛ proisfɔɫnɔ ɫiʃɛn ɔd sfoɛto krɐʃdɐnzdfɔ nito ta mw bɤtɛɔdkasɐnɔ pravodo ta zmɛni krɐʒdɐnstfɔdo si
+bul_0060	tʃɫɛn
+bul_0061	
+bul_0062	ɐʒɛtɛ i ʒɛnitɛ nɐvɤrʃiɫi pɐɫnɔlɛtiɛ pɛz ɡakvito i ta za ɔɡrɐnitʃɛnijɐ osnɔfɐni nɐraza natsionɐɫnost iɫi rɛɫiɡija imɐd prɐvo ta zkɫjutʃad braɡ i ta obrazuvad zɛmɛjstfɔ
+bul_0063	ɛzɛ poɫzofad z rɐvni prɐva pri zɡlotʃfɐnɛ nɐ braɡa pɔ vrɛmɛ nɐ braɡa i pri nɛkovodɔraztrokfanɛ
+bul_0064	
+bul_0065	prakɐd drabvɐ ta sɛ zkɫjutʃfa zɐmɔ z doprovɔlnotɔ i pɐlno zɤkɫɐsiɛ nɐ bɐtɛʃtidɛ sɤprosi
+bul_0066	
+bul_0067	ɛmɛjstvodo ɛ ɛsdɛstvɛnɐ i ɔsnɔvnɐ kɫɛtka nɐ ɔbʃtɛsdfoto i ima prɐvo nɐ zaɡriɫa otɔbʃtɛstfotɔ i ɔd dɐrʒɐvɐta
+bul_0068	tʃɫɛn
+bul_0069	
+bul_0070	zɛɡi tʃofɛk ima prɐvo nɐ zɔpzdfɛnɔzt intivitwalnɔ iɫi sɐfmɛstno z droki litsɐ
+bul_0071	
+bul_0072	iɡoj nɛ drabvɐ ta bɐtɛ proisfɔɫnɔ ɫiʃɛn ɔd sfɔɐdɐ zɔpzdfɛnɔzt
+bul_0073	tʃɫɛn
+bul_0074	zɛɡi tʃofɛk ima prɐvo nɐ svɔbotɐ nɐ misɤlda zɤfɛztdɐ i rɛɫiɡiadɐ
+bul_0075	dofɐ prɐvo vkɫjutʃfa pravotɔta zmɛni rɛɫiɡiadɐ iɫi opɛʃtɛniatɐ si kakdɔ i zvopodatɐ ta ispofjatfa rɛɫiɡiadɐ iliupɛʒdɛniadɐ si intivitwalnɔ iɫi ɡɔlɛɡdifno publitʃnɔ iɫi tʃɐstno tʃrɛz obwtʃɛniɛ obrɛtiboɡoslwʃɛniɛ i riduɐɫi
+bul_0076	tʃɫɛn
+bul_0077	zɛɡi tʃofɛk ima prɐvo nɐ svɔbotɐ nɐ ubɛʒtɛniɛ i nɐ isrɐsɐvanɛtɔ mw
+bul_0078	dazi svɔbotɐ fkɫjotʃfaprɐvodo bɛzprɛpjatztfɛno ta sɛ pridɐrʒɐ ɡɤm sfɔidɛ opɛʒdɛniɐ kakdɔ i pravodo ta dɤrzi dapɔlotʃɐfɐ i ta razproztrɐnɐvɐ infɔrmɐtsijɐ i itɛi tʃrɛz vzitʃki zrɛdzdfɐ i pɛz ɔklɛt nɐ dɐrʒavnidɛɡranitsi
+bul_0079	tʃɫɛn
+bul_0080	
+bul_0081	zɛɡi tʃofɛk ima prɐvo nɐ svɔbotɐ nɐ mirni sɐprɐnijɐ i ztroʒɛnia
+bul_0082	
+bul_0083	iɡoj nɛ drabvɐ ta bɐtɛ prinoʒtavɐn ta otʃɐztfɐ v datɛnɔ sdruʒɛniɛ
+bul_0084	tʃɫɛn
+bul_0085	
+bul_0086	zɛɡi tʃofɛk ima prɐvo ta otʃɐztfɐ v upravɫɛniɛtɔ nɐ sfɔɐdɐ dɤrʒava praɡo iɫi tʃrɛzzvobɔdnɔ izbrani prɛdstɐvitɛli
+bul_0087	
+bul_0088	zɛɡi tʃofɛk ima prɐvo nɐ tɔztɤp pri rɐvni ozlɔvija to ɔbʃtɛztfɛnitɛ i dɐrʒavni sloʒpina sfɔɐdɐ ztrɐnɐ
+bul_0089	
+bul_0090	oljata nɐ nɐrota drabvɐ ta bɐtɛ ɔsnofɐtɐ nɐ fɫɐsdtɐ nɐ prɐvidɛɫstfoto
+bul_0091	ɐzi fɔla drjɐpfatɐ sɛ isrɐzjavɐ tʃrɛz pɛrioditʃni i tɛjzdvidɛlni isbɔri pri vsɛɔpʃtɔ rafno i dajnɔkɫazufanɛ iɫi tʃrɛz ravnɔztɔjna protsɛturɐ ɔzikwrjɐfaʃta svɔbotɐ nɐ ɡlɐzwfanɛdo
+bul_0092	tʃɫɛn
+bul_0093	zɛɡi tʃofɛk kadɔ tʃɫɛn nɐ ɔbʃtɛsdfoto ima prɐvo nɐ zɔtsialna siɡurnɔzt i nɐ ɔsɤʃtɛzdvɐvanɛ tʃrɛznatsiɔnalni osilia i mɛʃtonɐrotno zɐtrudnitʃɛsdvo i v sɐodvɛtzdviɛ z uzdrojstfodɔ i rɛsurzitɛnɐ zɤɔtfɛdnata dɤrʒava nɐ ikɔnɔmitʃɛskitɛ zɔtsialnidɛ i ɡoɫturni prɐva nɛopxɔtimi zanɛkofoto tostɔjnzdfɔ i za svɔpodnɔto rɐzvitiɛ nɐ nɛɡofɐdɐ ɫitʃnozd
+bul_0094	tʃɫɛn
+bul_0095	
+bul_0096	zɛɡi tʃofɛk ima prɐvo nɐ trwd nɐ zvopɔdɛn ispɔr nɐ rɐpoda nɐ zprafɛdlivi ibɫaɡɔpriɐdni ozlɔvija nɐ drodɐ kakdɔ i nɐ zaɡriɫa zrɛʃto pɛzrɐpotitsa
+bul_0097	
+bul_0098	zɛɡi tʃofɛk pɛz kɐɡfatɔ i ta ɛ disɡriminɐtsija ima prɐvo nɐ rafno fɤznɐkrɐʃtɛniɛ zɐrɐfɛn trwd
+bul_0099	
+bul_0100	zɛɡi tʃofɛk ɡojto sɛ drodi ima prɐvo nɐ spravɛtlifo i sadofɔlitɛɫno fɐznɐɡrɐʃdɛniɛɡoɛdo ta ozikwri nɐ nɛɡo i nɛɡofɔdɔ zɛmɛjstfɔ sɐʃtɛzdfofaniɛ zɤodvɛdsdfwfɐʃto nɐtʃofɛʃkoto tostɔjnzdfɔ i tɔpɤlnɛnɔ akɔ dofɐ ɛ nɛobxotimɔ z droki zrɛdzdfɐ za zotsaɫnɐsɐʃtida
+bul_0101	
+bul_0102	zɛɡi tʃofɛk ima prɐvo ta utʃrɛdjavɐ i ta tʃlɛnwfɐ v profɛsionɐɫni sɐjuzi za sɐʃtitɐ nɐsfɔidɛ intɛrɛzi
+bul_0103	tʃɫɛn
+bul_0104	zɛɡi tʃofɛk ima prɐvo nɐ pɔtʃivɡa i ɔdtix vɡljotʃidɛlnɔ nɐ rɐsumno ɔkranitʃafɐnɛ nɐ rɐpɔdnɔdovrɛmɛ i nɐ pɛrioditʃɛn platɛn odpusɡ
+bul_0105	tʃɫɛn
+bul_0106	
+bul_0107	zɛɡi tʃofɛk ima prɐvo nɐ ʒiznɛnɔ rɐfniʃtɛ vɡljotʃidɛlnɔ prɛxrana ɔplɛklɔ ʃiɫiʃtɛmɛtitsinzkɔ ɔbzloʃvanɛ i nɛɔbxodimitɛ sotsiaɫni kriʒi ɡoɛto ɛ nɛobxotimɔ zɐpɔttɐrʃanɛ nɐ nɛɡofɔdɔ i nɐ zɛmɛjzdfɔto mw ztrɐfɛ i pɫakosɐsdoɐniɛ
+bul_0108	oj ima prɐvo naɔziɡwrjɐvɐnɛ v slwtʃaj nɐ pɛzrɐpotitsa bolɛzd invalidnɔsd ɔvtɔvjɐvanɛ ztarost iɫi druɡislotʃai nɐ ɫiʃavɐnɛ ɔd zrɛdzdfɐ za sɐʃtɛzdfuvɐnɛ pɔ nɛsɐvizɛʃti ɔd nɛɡo pritʃini
+bul_0109	
+bul_0110	ɐjkidɛ i tɛtsata sɛ pɔɫsvɐd z osopɛni kriʒi i pɔdpɔmakanɛ
+bul_0111	sitʃɡi dɛtsɐ rɔdɛni v prakɐili isvɤn braɡa sɛ poɫzofad z ɛdnaɡfa zɔtsialna sɐʃtitɐ
+bul_0112	tʃɫɛn
+bul_0113	
+bul_0114	zɛɡi tʃofɛk ima prɐvo nɐ oprasɔvɐniɛ
+bul_0115	brɐsɔvaniɛdɔ drabvɐ ta bɐtɛ pɛspladnɔ pɔnɛ ʃtɔsɛ ɔdnɐsjɐ to nɐtʃalnɔdo i ɔznɔvnodo oprasɔvɐniɛ
+bul_0116	ɐtʃɐɫnodo oprasɔvɐniɛ drabvɐ ta bɐdɛsɐdɤɫʒidɛlno
+bul_0117	ɛxnitʃɛzɡodo i profɛziɔnɐlnɔdo oprasɔvɐniɛ drabvɐ ta pɤdɐtɔbʃtodɔztɤpni ɐ fizʃɛto oprasɔvɐniɛ drabvɐ ta bɐtɛ ɛdnaɡfo dostɤpno za vzitʃki nɐoznɔvada nɐ tɛxnitɛ zpɔzɔpnosti
+bul_0118	
+bul_0119	brɐsɔvaniɛdɔ drabvɐ ta bɐtɛ nasɔtʃɛnɔ ɡɤm tsalɔztno rɐzvitiɛ nɐ tʃovɛʃɡɐta ɫitʃnozd izɐiɫfɐnɛ nɐ ofɐʃɛniɛto ɡɤm pravada nɐ tʃɔvɛkɐ i oznɔvnitɛ sfopodi
+bul_0120	ɔ drabvɐ tasɤtɛjzdfɐ za rɐsbirɐtɛlstfɔdo dɤprimɔstta i priɐdɛɫzdvodɔ mɛʃtu vzitʃki nɐrɔti rasoviiɫi rɛɫikiɔsni ɡrupi kakdɔ i za ɔsɤʃtɛzdvɐvanɛ dɛjnɔzdda nɐ rkɐnisɐtsijɐda nɐ
+bul_0121	pɛtinɛnidɛ nɐtsii za pɔdtɐrʃanɛ nɐ mirɐ
+bul_0122	
+bul_0123	ɔditɛɫidɛ imɐd prɐvo z priɔritɛt ta izbirɐd fidɐ oprasɔvɐniɛ ɡoɛto ta polotʃatdɛxnidɛ dɛtsɐ
+bul_0124	tʃɫɛn
+bul_0125	
+bul_0126	zɛɡi tʃofɛk ima prɐvo zfobotno ta otʃɐztfɐ v ɡoɫdornija ʃifɔd nɐ ɔbʃtɛsdfoto ta sɛnazɫaʃdɐfa nɐ iskusdfɐtɐ ta otʃɐztfɐ v naotʃnia nɐprɛdɤk i ta sɛ pɔɫsfa ɔd nɛkɔfidɛtoztiʒɛnijɐ
+bul_0127	
+bul_0128	zɛɡi tʃofɛk ima prɐvo nɐ zaɡriɫa nɐ mɔraɫnidɛ i matɛriɐlnidɛ si intɛrɛzi ɡoito sarɛzuɫtɐt ɔd kɐɡfotɔ i ta ɛ nautʃno ɫidɛrɐtwrno iɫi xodɔʃɛsdfɛnɔ prɔizfɛtɛniɛ nɐ kɔɛdɔdoj ɛ ɐvdɔr
+bul_0129	tʃɫɛn
+bul_0130	zɛɡi tʃofɛk ima prɐvo nɐ sotsiaɫɛn i mɛʒtunarɔtɛn rɛd pri ɡojto pravada i svɔpɔtidɛprɔfɐskɫɐzɛni v dazi tɛklarɐtsia moɡad ta bɐdat nɐpɤlno ɔzɐʃtɛsdvɛni
+bul_0131	tʃɫɛn
+bul_0132	
+bul_0133	zɛɡi tʃofɛk ima zatɐlʒɛniɐ ɡɤm ɔbʃtɛsdfoto v ɡoɛto ɛdinsdvɛno ɛ fɤsmoʒno zfɔbɔtnɔtoi tsalɔztno rɐzvitiɛ nɐ nɛɡofɐdɐ ɫitʃnozd
+bul_0134	
+bul_0135	zɛɡi tʃofɛk pri oprɐʒnafanɛdo nɐ sfɔidɛ prɐva i sfopodi ɛ podtʃinɛn zɐmɔ nɐ dɐɡifaɔɡrɐnitʃɛnijɐ wzdanɔvɛni sɐz zɐkɔn iskɫjotʃitɛlnɔ z tsɛl ta sɛ ozikwri nɛobxɔtimotɔpriznavanɛ i satʃidɐnɛ pravada i zvobodidɛ nɐ drwkidɛ i za udofɫɛdfɔrjɐfanɛ nɐsprɐfɛdlifitɛ izizkvaniɐ nɐ mɔraɫa ɔbʃtɛsdfɛnia rɛd i opʃtɔdo pɫɐɡɔtɛnstviɛ v ɛtnɔdɛmɔɡrɐtitʃnɔ opʃtɛzdfɔ
+bul_0136	
+bul_0137	ɛzi prɐva i sfopodi pri niɡɐkfi ɔpstoɐdɛlztva nɛ moɡad ta bɐdat oprɐʃnjɐfɐni vprodifɔrɛtʃiɛ z tsɛɫidɛ i printsipidɛ nɐ rkɐnisɐtsijɐda nɐ pɛtinɛnidɛ nɐtsii
+bul_0138	tʃɫɛn
+bul_0139	iʃto v dazi tɛklarɐtsia nɛ mɔʃɛ ta bɐtɛ tɤlɡuvanɔ kadɔ prɛtɔsdɐvjaʃtɔ prɐvo nɐ datɛnɐ dɤrʒɐvɐkrwpɐ iɫi ɫitsɛ ta sɛ sanimɐvad z kɐɡfatɔ i ta ɛ tɛjnozd iɫi ta isvɐrʃfad tɛjzdvia nazɔtʃɛni kɤmuniʃtɔʒafanɛ nɐ pravada i zvobodidɛ prɔfɐzɡlɐsɛni v nɛjɐ

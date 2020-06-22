@@ -1,0 +1,149 @@
+pol_0001	w
+pol_0002	rɛambl
+pol_0003	ʐɛtɕa ɛsja ɡulnɛɡɔ ɡrɔmadzɛɲa ɔbradujɔ̃ɲtsa v arɨʐu uxˈɨvaliwa ɡruɲa rɔku jˈɛn̪ɔmˈɨɕlɲɛ̝ ɔˈɨvʂɛxn̪ɔ̃ɲ ɛklˈat̪ratsjɛ̃ rav zwɔvʲjˈɛ̝ka
+pol_0004	ɔkumɛn̪t tɛn saɲɔvʲ ɲɛ̝ˈɨvɔ̃ɲtplivʲjˈɛ̝ jˈɛn̪ɔ z najvʲɛ̃kʂɨx i najtʂˈɨvalʂɨxɔɕˈɔ̃ŋɡɲɛ̃tɕ
+pol_0005	ʐɛtwumatʂɔn̪a na vʲˈɛ̃nkʂɔɕtɕ jˈɛ̃nʂɛɨkˈu ɕvʲˈat̪a ɔvʂɛxɲa
+pol_0006	ɛklˈat̪ratsja rav zwɔvʲjˈɛ̝ka zbɛ̝ra ɔraz pɔʐɔ̃ɲˈidʑkujɛ ɔɕʲˈɔ̃ŋɡɲɛ̃tɕa i pɔstulˈat̪tɨtʂwɔvʲjˈɛ̝ka kturɨ ɔd vʲjˈɛ̝lu sɛtɛk lˈat̪t tɔtʂɨ ɲɛ̝ skɲtʂɔn̪ɔ̃ɲ jɛʂtʂɛ ˈɨvalkɛ̃ ɔ sˈɨvɔjɔ̃ɲvɔlnɔˈɨɕtɕ i svɔjɔ̃ɲ ɡɔpxn̪n̪ɔˈɨɕtɕ
+pol_0007	ʐ ˈɛʐɛ uznaɲɛ̝ pʐɨrɔdʑɔn̪ɛj ɡɔˈidʑnɔɕtɕ ɔraz rˈun̪ɨx i ɲɛ̝w̃z̪bɨˈɨvalnɨxprav vʂɨstkʲx tʂwɔn̪kˈu vs̪ːpulɲɔtɨ ludzkʲɛj jɛst pɔpxn̪savɔ̃ɲ vɔlɲɔɕtɕis̪pravʲˈɛliˈɨvɔɕtɕ i pɔkju ɕvʲˈat̪a
+pol_0008	ʐ ˈɛʐɛ ɲɛ̝pɔʂan̪ɔˈɨvaɲɛ̝ i ɲɛ̝pʐɛstʐɛɲtɕn̪ˈɔʐɲɛ̝ prav tʂwɔvʲjˈɛ̝kapxn̪ɔprɔˈɨvadʑwɔ dɔ aktˈu barbaʐɨɲstˈɨva kturɛ vstʐɔ̃ɲsnɛ̃w sumɛ̝ɲɛ̝m ludzkɕtɕ iˈɛʐɛ ɔɡwɔʂɔˈɨ̃n̪ɔ urɔtʂɨɕtɕɛ jak najˈɨvʂɨ̃ɲɔˈɨɕlɛjʂɨ tsɛl ludzkɕtɕ dɔ̃ɲˈɛʐɛɲɛ̝ dɔʂɛˈabʲuɔˈɨvaɲa akʲɛɡɔ ɕvʲˈat̪a v kturm ludʑɛ̝ kʐɨstatɕ bˈɛ̃ndɔ̃ɲ z vɔlnɔɕtɕ swɔˈɨva ipʐɛkˈɨ̃n̪aɲ ɔraz z vɔlnɔɕtɕ ɔd stʂaxu i nˈɛ̃ndzɨ
+pol_0009	ʐ ˈɛʐɛ kɲɛ̝tʂɲɛ jɛst z̪ˈɨvarɔˈɨvaɲɛ̝ prav tʂwɔvʲjˈɛ̝ka pʐɛpʲamipraˈɨva abɨ ɲɛ̝ muɕʲaw pxn̪ɔprɔˈɨvadzɔˈɨ̃n̪ɨ dɔ ɔsatɛtʂɲɔɕtɕ utɕɛkatɕ ɕɛ̃ dɔ buɲtupʐɛtɕv tɨraɲi i utɕis̪kvʲ
+pol_0010	ʐ ˈɛʐɛ kɲɛ̝tʂɲɛ jɛst pɔpʲɛraɲɛ̝ rɔzvɔju pʐɨjazn̪ɨx stɔs̪ːunkˈumiɛ̃dzɨ narɔdami
+pol_0011	ʐ ˈɛʐɛ arɔdɨ jˈɛɲɔtʂɔnɛ pʐɨvrutɕw svɔ̃ɲ vʲarɛ̃ v pɔpxn̪s̪ːavɔˈɨvɛpraˈɨva tʂwɔvʲjˈɛ̝ka ɡɔpxn̪n̪ɔˈɨɕtɕ i ˈɨvartɔɕtɕ jˈɛnɔstkʲ ɔraz v rˈuˈɨ̃n̪ɔupravɲɛ̝ɲɛ̝mɛ̃ˈɛʐtʂɨʂɨ̃n i kbɛ̝t ɔraz vɨradʑw svɛ zdɛtsɨdɔˈɨvaɲɛ̝ pɔpʲɛraɲa pɔstɛ̃puis̪pɔwɛtʂɲɛɡɔ i pɔpravɨ ˈɨvarunkˈu ʐɨtɕa v vʲɛ̃kʂɛj vɔlnɔɕtɕ
+pol_0012	ʐ ˈɛʐɛ aɲstˈɨva zwɔnkvis̪kɛ̝ pɔˈidʑjɛ̃w ɕɛ̃ vɛ vspuwpratsɨ z
+pol_0013	rɲtɕn̪ˈɔʐɲz̪tsjɔ̃ɲ arɔdˈu jˈɛn̪ɔtʂɔn̪ɨx z̪pɛvɲtɕ pɔˈɨvʂɛxnɛ pɔʂaɲɔˈɨvaɲɛ̝ ipʐɛstʐɛɲtɕn̪ˈɔʐɲɛ̝ prav tʂwɔvʲjˈɛ̝ka i pɔdsaˈɨvɔvɨx vɔlnɔɕtɕ
+pol_0014	ʐ ˈɛʐɛ jˈɛˈɨ̃n̪akvɛ rɔʂɛumɛ̝ɲɛ̝ tɨx prav i vɔlnɔɕtɕ ma ɔlˈabʲʐmɛ̝w̃z̪n̪atʂɛɲɛ̝ dlˈat̪ ix pɛwɲɛj rɛaliz̪tsji
+pol_0015	u
+pol_0016	ɡwaʂa rɔtʂɨɕtɕɛ ɲɲɛ̝jʂɔ̃ɲ ɔˈɨvʂɛxn̪ɔ̃ɲ ɛklˈat̪ratsjɛ̃ rav zwɔvʲjˈɛ̝ka jakvspuln̪ɨ najˈɨvɨˈɛʐʂɨ tsɛl vʂɨstkʲx luˈu i vʂɨstkʲx narɔpxn̪ˈu abɨ vʂɨstsɨludʑɛ̝ i vʂɨstkʲɛ ɔrɲtɕn̪ˈɔʐnɨ spɔwɛtʂɛɲstˈɨva majɔ̃ɲts sal v pamiɛ̃tɕ ɲɲɛ̝jʂɔ̃ɲ
+pol_0017	ɛklˈat̪ratsjɛ̃ dɔ̃ɲʐɨw v d̪ɔdzɛ nautʂaɲa i vɨxɔvɨˈɨvaɲa dɔ rɔw̃z̪vʲjaɲrˈapɔʂaˈɨ̃n̪ɔˈɨvaɲa tɨx prav i vɔlnɔɕtɕ i abɨ z̪pɛvɲw z̪ pɔmɔtsɔ̃ɲ pɔstɛ̃pɔˈɨvɨxˈɨɕrɔpxn̪kˈu ɔ z̪ɕʲɛ̃ɡu krajɔvm i miɛ̃dzɨˈɨ̃n̪arɔdɔvm pɔˈɨvʂɛxnɛ i is̪kutɛtʂɲɛuʂɛˈɨ̃n̪aɲɛ̝ i stɔis̪ɔˈɨvaɲɛ̝ tɛj ɛklˈat̪ratsji z̪rˈun̪ɔ vɕrud narɔpxn̪ˈu aɲstv
+pol_0018	zwɔɲkˈɨvis̪kʲx jak i vɕrud narɔpxn̪ˈu z̪mɛ̝ʂkujɔ̃ɲtsɨx ɔbʂarɨ pɔdlɡwɛ ixˈɨvwadzɨ
+pol_0019	rtɨkuw
+pol_0020	ʂɨstsɨ ludʑɛ̝ rɔdzɔ̃ɲ ɕɛ̃ vɔlɲ i rˈuɲ pɔd vʂɨ̃ɡlɛ̃ˈidʑɛm svɛj ɡɔˈidʑnɔɕtɕ i svɨxprav
+pol_0021	ɔ̃ ɔɲ ɔˈabʲpxn̪aʐɛɲ rɔzumɛm i sumɛ̝ɲɛ̝m i pɔvʲɲɲ pɔstɛ̃pɔˈɨvatɕ vɔˈabʲɛtɕˈɨ̃n̪nɨx v duxu bratɛrstˈɨva
+pol_0022	rtɨkuw
+pol_0023	aʐdɨ tʂwɔvʲjˈɛ̝k pɔɕʲaˈidʑa vʂɨstkʲɛ praˈɨva i vɔlnɔɕtɕ z̪ˈɨvartɛ v ɲɲɛ̝jʂɛj
+pol_0024	ɛklˈat̪ratsji bɛz vʂɨ̃ɡlɛ̃pxn̪u na jakʲɛklvʲjˈɛ̝k ruʐɲtsɛ rasɨ klɔru pwtɕ jˈɛ̃nzɨkavɨw̃z̪n̪aɲa pɔɡlɔ̃ɲdˈu pɔlitɨtʂɲɨx i iˈɨ̃n̪ˈɨ̃n̪ɨx narɔˈidʑɔvɔɕtɕ pɔxɔdʑɛɲais̪pɔwɛtʂɲɛɡɔ majɔ̃ɲtku urɔdzɛɲa lub jakʲɛɡɔklvʲjˈɛ̝k iɲnɛɡɔ san̪u
+pol_0025	ɛ̝ vɔlˈɨ̃n̪ɔ pɔn̪apxn̪tɔ tʂɨɲtɕ ʐapxn̪nɛj ruʐɲtsɨ v z̪lˈɛʐˈɨ̃n̪ɔɕtɕ ɔd sɨtuatsji pɔlitɨtʂɲɛjpravɲɛj lub miɛ̃dzɨnarɔˈidʑɔˈɨvɛj kraju lub ɔbʂaru dɔ kturɛɡɔ daɲa ɔs̪ːɔˈabʲrˈapʐɨɲalˈɛʐɨ bɛz vʂɨ̃ɡlɛ̃pxn̪u na tɔ tʂɨ daɲɨ kraj lub ɔbʂar jɛst ɲɛ̝pɔˈidʑlɡw tʂɨ tɛʐpɔdlɲtɕn̪ˈɔʐ sɨstɛmɔvʲ pɔvʲjˈɛ̝rɲtstˈɨva ɲɛ̝ ʐɔ̃ɲdʑ ɕɛ̃ amɔdʑɛ̝lɲɛ̝ lub jɛst vjakʲklvʲjˈɛ̝k spɔs̪ːub ɔɡraɲtʂɔˈɨ̃n̪ɨ v svɛj ɲɛ̝pɔpxn̪lɡwɔɕtɕ
+pol_0026	rtɨkuw
+pol_0027	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ ʐɨtɕa vɔlnɔɕtɕ i bɛw̃z̪pʲɛtʂɛɲstˈɨva svɛj ɔs̪ːɔbɨ
+pol_0028	rtɨkuw
+pol_0029	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ tʂɨɲtɕ ɲɛ̝vɔlɲkʲɛm aɲ nakwapxn̪atɕ na ɲkɡɔ swuˈɛʐɛˈabʲn̪ɔɕtɕ
+pol_0030	ɲɛ̝vɔlɲtstvɔ i xanˈidʑɛl ɲɛ̝vɔlɲkami sɔ̃ɲ z̪kaz̪ˈɨ̃n̪ɛ vɛ vʂɨstkʲx sˈɨvɨxpɔsatɕax
+pol_0031	rtɨkuw
+pol_0032	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ tɔrturɔˈɨvatɕ aɲ karatɕ lub tʂaktɔˈɨvatɕ v spɔs̪ːub ɔkrutn̪ɨ ɲɛ̝ludzkʲlub pɔɲʐajɔ̃ɲtsɨ
+pol_0033	rtɨkuw
+pol_0034	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ uw̃z̪n̪aˈɨvaɲa vʂɛ̃dʑɛ̝ jɛɡɔ ɔis̪ɔˈabʲɔˈɨvɔɕtɕ praˈɨvˈɨ̃n̪ɛj
+pol_0035	rtɨkuw
+pol_0036	ʂɨstsɨ sɔ̃ɲ rˈuɲ vɔbɛts praˈɨva i majɔ̃ɲ pravɔ bɛz jakʲɛjklvʲjˈɛ̝k ruʐɲtsɨ pxn̪ɔjˈɛn̪akˈɨvɛj ɔxrɔɲɨ praˈɨvˈɨ̃n̪ɛj
+pol_0037	ʂɨstsɨ majɔ̃ɲ pravɔ dɔ jˈɛɲakˈɨvɛj ɔxrɔɲɨ pʐˈɛjakɔ̃ɲklvʲjˈɛ̝k dɨis̪krmvʲiɲatsjɔ̃ɲ bˈɛ̃nˈidʑɔ̃ɲtsɔ̃ɲ pɔɡˈɨvawtsɛɲɛ̝m ɲɲɛ̝jʂɛj ɛklˈat̪ratsji i pʐˈɛjakʲmklvʲjˈɛ̝k naraˈɛʐɛɲɛ̝m na akɔ̃ɲ dɨis̪krmiɲatsjɛ̃
+pol_0038	rtɨkuw
+pol_0039	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ is̪kutɛtʂɲɛɡɔ ɔpxn̪ˈɨvɔwˈɨvaɲa ɕɛ̃ dɔ kmpɛtɛˈɨ̃n̪tnɨxsɔ̃ɲpxn̪ˈu krajɔvɨx pʐɛtɕv tʂɨˈɨ̃n̪ɔm san̪ɔvʲjˈɔ̃tsm pɔɡˈɨvawtsɛɲɛ̝ pɔˈidʑs̪ːavɔˈɨvɨxprav pʐɨʂɨ̃naˈɨ̃n̪ɨx mu pʐɛz kɲstɨtutsjɛ̃ lub pʐɛz pravɔ
+pol_0040	rtɨkuw
+pol_0041	ikɡɔ ɲɛ̝ vɔlˈɨ̃n̪ɔ amɔvɔlɲɛ̝ arɛʂtɔˈɨvatɕ z̪tʂʂɨ̃matɕ lub vɨɡn̪atɕ z kraju
+pol_0042	rtɨkuw
+pol_0043	aʐdɨ tʂwɔvʲjˈɛ̝k ma na ˈɨvarun̪kax tsawkvʲtɛj rˈuˈɨ̃n̪ɔɕtɕ pravɔ abɨ pʐɨrɔzstʐɨɲtɕn̪ˈɔʐɲu ɔ jɛɡɔ praˈɨvax i zɔbɔvʲjˈɔ̃w̃z̪aɲax lub ɔ z̪apxn̪n̪ɔɕtɕ vɨsuˈɨvaɲɛɡɔpʐɛtɕv ɲɛ̝mu ɔis̪karˈɛʐɛɲa ɔ pɔpɛwɲɛ̝ɲɛ̝ pʐɛstɛ̃pstˈɨva bɨtɕ swuxanmspravʲˈɛlivʲjˈɛ̝ i publvʲitʂɲɛ̝ pʐɛz ɲɛ̝z̪lˈɛʐn̪ɨ i bɛzstʂɔˈɨ̃n̪ˈɨ̃n̪ɨ sɔ̃ɲd
+pol_0044	rtɨkuw
+pol_0045	
+pol_0046	aʐdɨ tʂwɔvʲjˈɛ̝k ɔis̪karʐɔˈɨ̃n̪ɨ ɔ pɔpɛwɲɛ̝ɲɛ̝ pʐɛstjpstˈɨva ma pravɔ aˈabʲɨuʂɛˈɨ̃n̪aˈɨvanɔ ɡɔ z̪ ɲɛ̝vʲnn̪ɛɡɔ dɔputɨ dɔpukʲ ɲɛ̝ uɔvɔdɲ mu ɕɛ̃ vʲnɨʂɛɡɔpxn̪ɲɛ̝ z pravɛm pɔdtʂas publitʂɲɛɡɔ prɔtsɛs̪ːu v kturm z̪pɛvɲɔnɔmu vʂɨstkʲɛ kɲɛ̝tʂɲɛ ɕrɔdkʲ ɔbrɔn̪ɨ
+pol_0047	
+pol_0048	ikt ɲɛ̝ mɔˈɛʐɛ bɨtɕ is̪kaz̪n̪ɨ z̪ pʐɛstɛ̃pstˈɨvɔ z pɔvɔpxn̪u dʑawaɲa lubz̪ɲɛ̝xaɲa ɲɛ̝ san̪ɔvʲjˈɔ̃tsɛɡɔ v xvʲli jɛɡɔ pxn̪ɔknaɲa pʐɛstˈɛ̃npstˈɨvaˈɨvˈɛwuɡ praˈɨva krajɔvɛɡɔ lub mvʲiˈɛ̃ndʑɨɲarɔdɔvɛɡɔ
+pol_0049	ɛ̝ vɔlˈɨ̃n̪ɔ akˈɛʐɛvmɛ̝ʐatɕ karɨ vɨʐʂɛj ɲʐ a ktura bɨwa pʐɛvʲˈidʑɛ̝ana v xvʲlipɔpɛwɲɛ̝ɲa pʐɛstɛ̃pstˈɨva
+pol_0050	rtɨkuw
+pol_0051	ɛ̝ vɔlˈɨ̃n̪ɔ in̪ɡɛrɔˈɨvatɕ amɔvɔlɲɛ̝ v tʂɨjɛklvʲjˈɛ̝k ʐɨtɕɛ prɨˈɨvatˈɨ̃n̪ɛ rɔdʑn̪n̪ˈɛɔmɔˈɨvɛ aɲ v jɛɡɔ krɛspɔˈɨ̃n̪ˈidʑɛˈɨ̃n̪tsjɛ̃ aɲ tɛʐ uvwatʂatɕ jɛɡɔ xɔˈɨ̃n̪ɔrɔvʲ luˈabʲˈidʑɔbrɛmu imɛ̝ɲu
+pol_0052	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ ɔxrɔɲɨ praˈɨvˈɨ̃n̪ɛj pʐɛtɕvk akʲɛjvʲiˈɨ̃n̪ɡɛrɛɲtsji lub uvwatʂaɲu
+pol_0053	rtɨkuw
+pol_0054	
+pol_0055	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ svɔˈabʲɔdˈɨ̃n̪ɛɡɔ pɔruʂaɲa ɕɛ̃ i vɨbɔru mɛ̝jstsaz̪mɛ̝ʂkaɲa v ɡraɲtsax kaˈɛʐˈidʑɛɡɔ aɲstˈɨva
+pol_0056	
+pol_0057	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ ɔpuɕtɕtɕ jakʲklvʲjˈɛ̝k kraj vwɔ̃ɲtʂajɔ̃ɲts v tɔ sˈɨvujvwasˈɨ̃n̪ɨ i pɔvrutɕtɕ dɔ svɛɡɔ kraju
+pol_0058	rtɨkuw
+pol_0059	
+pol_0060	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ ubɛ̝ɡatɕ ɕɛ̃ ɔ aʂɨ̃ɨl i kʐɨstatɕ z ɲɛ̝ɡɔ v iˈɨ̃n̪n̪mkraju v radʑɛ pʐɛˈɨɕlˈat̪pxn̪ɔˈɨvaɲa
+pol_0061	
+pol_0062	ɛ̝ mɔʐɲa pɔvɔwˈɨvatɕ ɕɛ̃ na tɔ pravɔ v pʐɨˈɔpadku ɕtɕɲtɕn̪ˈɔʐɲa vʂtʂɛ̃tɛɡɔʐɛtʂɨvʲɕtɕɛ z pɔvɔpxn̪u pɔpɛwɲɛ̝ɲa pʐɛstɛ̃pstˈɨva pɔspɔlitɛɡɔ lub tʂɨnuis̪pʐɛtʂɲɛɡɔ z tsɛlˈat̪mi i z̪apxn̪ami rɲtɕn̪ˈɔʐɲz̪tsji arɔdˈu jˈɛn̪ɔtʂɔn̪ɨx
+pol_0063	rtɨkuw
+pol_0064	
+pol_0065	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ pɔɕʲaˈidʑaɲa ɔbɨˈɨvatɛlstˈɨva
+pol_0066	
+pol_0067	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ pɔzbavʲatɕ amɔvɔlɲɛ̝ ɔbɨˈɨvatɛlstˈɨva aɲ ɲkmuɔdmavʲatɕ praˈɨva dɔ zmianɨ ɔbɨˈɨvatɛlstˈɨva
+pol_0068	rtɨkuw
+pol_0069	
+pol_0070	ɛ̃ʐtʂɨʑɲ i kbɛ̝tɨ bɛz vʂɨ̃ɡlɛ̃pxn̪u na jakʲɛklvʲjˈɛ̝k ruʐɲtsɛ rasɨnarɔpxn̪ɔˈɨvɔɕtɕ lub vɨw̃z̪ɲaɲa majɔ̃ɲ pravɔ pɔ ɔɕʲˈɔ̃ŋɡɲɛ̃tɕu pɛwɲɔltˈɨ̃n̪ɔɕtɕ dɔz̪ˈɨvartɕa mawˈɛʐɛɲstˈɨva i z̪wɔˈɛʐɛɲa rɔdʑɲɨ
+pol_0071	ajɔ̃ɲ ɔɲ rˈuɲɛ praˈɨva vɔdɲɛ̝ɕɛɲu dɔ z̪vʲjˈɛ̝raɲa mawˈɛʐɛɲstˈɨva pɔdtʂas jɛɡɔ tʂˈɨvaɲa i pɔ jɛɡɔuis̪aɲu
+pol_0072	
+pol_0073	awˈɛʐɛɲstvɔ mɔˈɛʐɛ bɨtɕ z̪ˈɨvartɛ jˈɛɨɲɛ̝ z̪ svɔbɔˈidʑɲɛ̝ vɨraʐɔˈɨ̃n̪ɔ̃ɲ pɛwˈɨ̃n̪ɔ̃ɲʂɛɡɔˈidʑɔ̃ɲ pʐɨʂwx mawʐɔn̪kˈu
+pol_0074	
+pol_0075	ɔdʑɲa jɛst naturaln̪ɔ̃ɲ i pɔpxn̪savɔvɔ̃ɲ kmurkɔ̃ɲ spɔwɛtʂɛɲstˈɨva i ma pravɔpxn̪ɔ ɔxrɔɲɨ zɛ stʂɔn̪ɨ spɔwɛtʂɛɲstˈɨva i aɲstˈɨva
+pol_0076	rtɨkuw
+pol_0077	
+pol_0078	aʐdɨ tʂwɔvʲjˈɛ̝k z̪rˈun̪ɔ am jak i vɛis̪puw z iˈɨ̃n̪ˈɨ̃n̪mi ma pravɔ dɔpɔɕʲadaɲa vwasˈɨ̃n̪ɔɕtɕ
+pol_0079	
+pol_0080	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ amɔvɔlɲɛ̝ pɔzbavʲatɕ jɛɡɔ vwasˈɨ̃n̪ɔɕtɕ
+pol_0081	rtɨkuw
+pol_0082	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ vɔlnɔɕtɕ mˈɨɕli sumɛ̝ɲa i vɨw̃z̪ɲaɲa
+pol_0083	pravɔ tɔɔbɛjmujɛ svɔbɔdɛ̃ zmianɨ vɨw̃z̪ɲaɲa lub vʲarɨ ɔraz svɔbɔdɛ̃ ɡwɔʂɛɲa svɛɡɔˈɨvɨzɲaɲa lub vʲarɨ bɔ̃ɲdʑ indɨvʲˈidʑualɲɛ̝ bɔ̃ɲdʑ vɛis̪puw z iˈɨ̃n̪ˈɨ̃n̪mi ludʑmi publvʲitʂɲɛ̝ iprɨˈɨvatɲɛ̝ pɔpʐɛz nautʂaɲɛ̝ praktɨkˈɨvaɲɛ̝ upravʲaɲɛ̝ kultu i pʐɛstʐɛɲtɕn̪ˈɔʐɲɛ̝ɔbɨtʂajˈu
+pol_0084	rtɨkuw
+pol_0085	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ vɔlnɔɕtɕ ɔpʲɲi i vɨraʐaɲa jɛj
+pol_0086	pravɔ tɔ ɔˈabʲɛjmujɛs̪ːvɔbɔpxn̪ɛ̃ pɔɕʲaˈidʑaɲa ɲɛ̝z̪lˈɛʐɲɛj ɔpʲɲi pɔʂukʲˈɨvaɲa ɔtʂʂɨ̃mɨˈɨvaɲa irɔʂɨ̃pɔvʂɛxɲaɲa iˈɨ̃n̪fɔrmatsji i pɔɡlɔ̃ɲdˈu vʂɛlkʲmi ɕrɔdkami bɛz vʂɨ̃ɡlɛ̃pxn̪u naɡraɲtsɛ
+pol_0087	rtɨkuw
+pol_0088	
+pol_0089	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ spɔkjn̪ɛɡɔ zɡrɔmadzaɲa i stɔˈɨvaʐɨʂaɲa ɕɛ̃
+pol_0090	
+pol_0091	ikɡɔ ɲɛ̝ mɔʐɲa zmuʂatɕ dɔ nalˈɛʐɛɲa dɔ jakʲɛɡɔɕ stɔˈɨvaʐɨʂɛɲa
+pol_0092	rtɨkuw
+pol_0093	
+pol_0094	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ utʂɛstɲtʂɛɲa v ʐɔ̃ɲdzɛɲu svm krajɛmˈabʲɛzpɔˈɨɕrˈɛɲɔ lub pɔpʐɛz svɔbɔˈidʑɲɛ̝ vɨbranɨx pʐˈɛis̪avʲtɕɛli
+pol_0095	
+pol_0096	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ rˈunɛɡɔ dɔstɛ̃pu dɔ swuˈɛʐˈabʲɨ puˈabʲlitʂɲɛj v svmkraju
+pol_0097	
+pol_0098	ɔlˈat̪ luu jɛst pɔpxn̪savɔ̃ɲ vwadzɨ ʐɔ̃ɲˈidʑu
+pol_0099	vɔlˈat̪ a vɨraʐa ɕɛ̃ vpʐɛprɔˈɨvadzaɲɨx ɔkrɛis̪ɔvɔ ʐɛtɛlnɨx vɨbɔrax ɔˈɔpartɨx na z̪adʑɛ̝pɔˈɨvʂɛxnɔɕtɕ rˈuˈɨ̃n̪ɔɕtɕ i ajnɔɕtɕ lub na iˈɨ̃n̪ɲɛj rˈun̪ɔʐɛ̃pxn̪ɲɛj prɔtsˈɛuʐɛz̪pɛvɲajɔ̃ɲtsɛj vɔlˈɨ̃n̪ɔɕtɕ vɨbɔrˈu
+pol_0100	rtɨkuw
+pol_0101	aʐdɨ tʂwɔvʲjˈɛ̝k ma jak tʂwɔn̪ɛk spɔwɛtʂɛɲstˈɨva pravɔ dɔ ubɛʂɨ̃pʲɛtʂɛɲis̪pɔwɛtʂɲɨx
+pol_0102	ma rˈuɲɛ̝ʐ pravɔ dɔ uʐɛtʂɨvʲstɲaɲa pɔpʐɛz vɨɕʲwɛknarɔdɔˈɨvɨ i vspuwpratsɛ̃ miɛ̃dʑɨˈɨ̃n̪arɔˈidʑɔˈɨvɔ̃ɲ ɔraz zɡɔdɲɛ̝ z ɔrɲtɕn̪ˈɔʐɲz̪tsjɔ̃ɲ i z̪is̪ɔbamikaʐdɛɡɔ aɲstˈɨva svɨx prav ɡɔis̪pɔˈidʑartʂɨx spɔwɛtʂɲɨx i kulturalˈɨ̃n̪ɨxɲɛ̝ʂɛbɛ̃ˈidʑɲɨx dlˈat̪ jɛɡɔ ɡɔˈidʑnɔɕtɕ i svɔˈabʲɔdˈɨ̃n̪ɛɡɔ rɔzvɔju jɛɡɔ ɔis̪ɔˈabʲɔˈɨvɔɕtɕ
+pol_0103	rtɨkuw
+pol_0104	
+pol_0105	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ pratsɨ dɔ svɔˈabʲɔdˈɨ̃n̪ɛɡɔ vɨbɔru pratsɨ dɔɔˈidʑpɔvʲˈɛɲx i z̪ˈidʑɔˈɨvalˈat̪jɔ̃ɲtsɨx ˈɨvarunkˈu pratsɨ ɔraz dɔ ɔxrɔɲɨ pʐˈɛˈabʲɛw̃z̪rɔˈabʲɔtɕɛm
+pol_0106	
+pol_0107	aʐdɨ tʂwɔvʲjˈɛ̝k bɛz vʂɨ̃ɡlɛ̃pxn̪u na jakʲɛklvʲjˈɛ̝k ruʐɲtsɛ ma pravɔ pxn̪ɔrˈunɛj pwatsɨ z̪ rˈun̪ɔ̃ɲ pratsj
+pol_0108	
+pol_0109	aʐdɨ pratsujɔ̃ɲtsɨ ma pravɔ dɔ ɔpxn̪pɔvʲˈɛɲɛ̝ɡɔ i z̪dɔˈɨvalˈat̪jɔ̃ɲtsɛɡɔvɨn̪aɡrɔdʑɛɲa z̪pɛvɲajɔ̃ɲtsɛɡɔ jɛmu i jɛɡɔ rɔdʑɲɛ̝ ɛɡzɨstɛn̪tsjˈɛ̃nɔdpɔvʲapxn̪ajɔ̃ɲtsɔ̃ɲ ɡɔˈidʑnɔɕtɕ ludzkʲɛj i uw̃z̪upɛwɲan̪ɛɡɔ v radʑɛ pɔtʂʂɛɛˈabʲɨ iˈɨ̃n̪n̪mvʲiˈɨɕrɔˈidʑkami pɔmɔtsɨ spɔwɛtʂɲɛj
+pol_0110	
+pol_0111	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ tvɔʐɛɲa zvʲjˈɔ̃w̃z̪kˈu z̪ˈɨvɔˈidʑɔˈɨvɨx i dɔpʐɨstɛ̃pɔˈɨvaɲa dɔ zvʲjˈɔ̃w̃z̪kˈu z̪ˈɨvɔˈidʑɔˈɨvɨx dlˈat̪ ɔxrɔɲɨ svɨx in̪tɛrɛsˈu
+pol_0112	rtɨkuw
+pol_0113	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ urlɔpu i vɨpɔtʂɨˈɨ̃n̪ku vwɔ̃ɲtʂajɔ̃ɲts v tɔ rɔw̃z̪sɔ̃ɲˈidʑˈɨ̃n̪ɛɔɡraɲtʂɛɲɛ̝ ɡɔdʑn pratsɨ i ɔkrɛis̪ɔvɛ pwatnɛ urlɔpɨ
+pol_0114	rtɨkuw
+pol_0115	
+pol_0116	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ stɔpɨ ʐɨtɕɔvɛj z̪pɛvɲajɔ̃ɲtsɛj zd̪ɔvʲjˈɛ̝ ipxn̪ɔbrɔbɨt jɛɡɔ i jɛɡɔ rɔdʑɲɨ vwɔ̃ɲtʂajɔ̃ɲts v tɔ vɨʐɨvʲjˈɛ̝ɲɛ̝ ɔdʑɛ̝ʐmɛ̝ʂkaɲɛ̝ ɔpʲɛkj lkaris̪kɔ̃ɲ i kɲɛ̝tʂɲɛ ɕvʲapxn̪tʂɛɲa sɔtsjalɲɛ ɔraz pravɔpxn̪ɔ ubɛʂɛpʲɛtʂɛɲa na vɨˈɔpadɛk bɛʂɛrɔbɔtɕa xɔrɔbɨ ɲɛ̝zdɔln̪ɔɕtɕ dɔpratsɨ vdɔvʲjˈɛ̝ɲstˈɨva sarɔɕtɕ lub utʂatɨ ɕrɔdkˈu dɔ ʐɨtɕa v inn̪ɨ spɔis̪uˈabʲɔd ɲɛ̝ɡɔ ɲɛ̝z̪lˈɛʐn̪ɨ
+pol_0117	
+pol_0118	atka i dʑɛ̝tsk majɔ̃ɲ pravɔ dɔ spɛtsjaln̪ɛj ɔpʲɛkʲ i pɔmɔtsɨ
+pol_0119	ʂɨstkʲˈɛdʑɛtɕ z̪rˈun̪ɔ mawˈɛʐɛɲis̪kɛ̝ jak i pɔz̪mawˈɛʐɛɲis̪kɛ̝ kʐɨs̪ːajɔ̃ɲ z jˈɛˈɨ̃n̪akˈɨvɛjɔxrɔn̪ɨ spɔwɛtʂɲɛj
+pol_0120	rtɨkuw
+pol_0121	
+pol_0122	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ naukʲ
+pol_0123	auka jɛst bɛw̃z̪pwatn̪a pʐɨnajmɲɛ̝jn̪a stɔpɲu pɔpxn̪s̪ːaˈɨvɔvm
+pol_0124	auka pɔˈidʑs̪ːavɔˈɨva jɛst ɔbɔvʲjˈɔ̃w̃z̪kˈɨva
+pol_0125	ɕvʲˈat̪atɛxɲtʂɲa i z̪vɔdɔˈɨva jɛst pɔvʂɛxɲɛ̝ dɔstˈɛ̃npna a stuia vɨʐʂɛ sɔ̃ɲˈidʑɔstɛ̃pnɛ dlˈat̪ vʂɨstkʲx na z̪adʑɛ̝ rˈuˈɨ̃n̪ɔɕtɕ v z̪lˈɛʐˈɨ̃n̪ɔɕtɕ ɔd z̪ltɔs̪ːɔˈabʲvʲistɨx
+pol_0126	
+pol_0127	ɛlm nautʂaɲa jɛst pɛwn̪ɨ rɔzvuj ɔis̪ɔˈabʲɔˈɨvɔɕtɕ ludzkʲɛj i uɡruntɔˈɨvaɲɛ̝pɔʂaˈɨ̃n̪ɔˈɨvaɲa prav tʂwɔvʲjˈɛ̝ka i pɔdsaˈɨvɔvɨx vɔlnɔɕtɕ
+pol_0128	ʐɛvʲ ɔn̪ɔw̃z̪rɔʂɛumɛ̝ɲɛ̝ tɔlrantsjɛ̃ i pʐɨjaɔ̃ɲ mvʲiˈɛ̃ndʑɨ vʂɨstkʲmi narɔdami ɡruˈɔpamirais̪ɔvmi lub rɛliɡiˈɨ̃n̪mi
+pol_0129	pɔpʲɛra dʑawaln̪ɔɕtɕ rɲtɕn̪ˈɔʐɲz̪tsji arɔdˈu
+pol_0130	jˈɛn̪ɔtʂɔn̪ɨx zmɛ̝ʐajɔ̃ɲtsɔ̃ɲ dɔ utʂʂɨ̃maɲa pɔkju
+pol_0131	
+pol_0132	ɔdʑtsɛ majɔ̃ɲ pravɔ pɛ̝rvʂɛɲstˈɨva v vbɔʐɛ nautʂaɲa kturɛ ma bɨtɕˈidʑaˈɨ̃n̪ɛ ix dʑɛ̝tɕɔm
+pol_0133	rtɨkuw
+pol_0134	
+pol_0135	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ svɔˈabʲɔdˈɨ̃n̪ɛɡɔ utʂɛstɲtʂɛɲa v ʐɨtɕukulturalɲm spɔwɛtʂɛɲstˈɨva dɔ kʐɨsaɲa zɛ ʂtukʲ dɔ utʂɛstɲtʂɛɲa vpɔstɛ̃pʲɛ naukʲ i kʐɨsaɲa z jɛɡɔ dɔbrɔdʑɛ̝jstv
+pol_0136	
+pol_0137	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ ɔxrɔɲɨ mɔraln̪ɨx i matɛrialn̪ɨx kʐɨɕtɕvɨɲkajɔ̃ɲtsɨx z jakʲɛjklvʲjˈɛ̝k jɛɡɔ dʑawaln̪ɔɕtɕ naukvɛj litɛratskʲɛj lubartɨstɨtʂɲɛj
+pol_0138	rtɨkuw
+pol_0139	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ akʲɛɡɔ pɔʐɔ̃ɲdku spɔwɛtʂɲɛɡɔ imiɛ̃dzɨˈɨ̃n̪arɔˈidʑɔvɛɡɔ v kturm praˈɨva i vɔlnɔɕtɕ z̪ˈɨvartɛ v ɲɲɛ̝jʂɛj ɛklˈat̪ratsjiˈabʲɨwbɨ v pɛwɲ rɛaliʂɛɔˈɨvaˈɨ̃n̪ɛ
+pol_0140	rtɨkuw
+pol_0141	
+pol_0142	aʐdɨ tʂwɔvʲjˈɛ̝k ma ɔbɔvʲjˈɔ̃w̃z̪kʲ vɔbɛts spɔwɛtʂɛɲstˈɨva bɛz kturɛɡɔɲɛ̝mɔˈɛʐlvʲiˈɨvɨ jɛst sˈɨvɔbɔˈidʑnɨ i pɛwn̪ɨ rɔzvuj jɛɡɔ ɔis̪ɔˈabʲɔˈɨvɔɕtɕ
+pol_0143	
+pol_0144	kʐɨs̪ːaɲu zɛ svɨx prav i vɔlnɔɕtɕ kaˈɛʐdɨ tʂwɔvʲjˈɛ̝k pɔdlɲtɕn̪ˈɔʐ jˈɛɨɲɛ̝akʲm ɔɡraɲtʂɛɲɔm kturɛ sɔ̃ɲ usalɔˈɨ̃n̪ɛ pʐɛz pravɔ vɨwɔ̃ɲtʂɲɛ̝ v tsɛluz̪pɛvɲɛ̝ɲa ɔpxn̪pɔvʲˈɛɲɛ̝ɡɔ uʂɨ̃naɲa i pɔʂaɲɔˈɨvaɲa prav i vɔln̪ɔɕtɕvʲinɲɨx i v tsɛlu utʂɨɲɛ̝ɲa z̪pxn̪ɔˈɨɕtɕ swuʂn̪m vmɔɡɔm mɔralˈɨ̃n̪ɔɕtɕpɔʐɔ̃ɲpxn̪ku publitʂɲɛɡɔ i pɔˈɨvʂɛxnɛɡɔ dɔbrɔbɨtu dɛmɔkratɨtʂɲɛɡɔspɔwɛtʂɛɲstˈɨva
+pol_0145	
+pol_0146	ɲɲɛ̝jʂɨx prav i vɔlnɔɕtɕ ɲɛ̝ vɔlˈɨ̃n̪ɔ v ʐapxn̪ɲm pʐɨˈɔpadku kʐɨstatɕ vs̪ːpɔis̪ub spʐɛtʂɲɨ z tsɛlˈat̪mi i z̪apxn̪ami rɲtɕn̪ˈɔʐɲz̪tsji arɔdˈu
+pol_0147	jˈɛn̪ɔtʂɔn̪ɨx
+pol_0148	rtɨkuw
+pol_0149	ʐapxn̪ˈɨ̃n̪ɛɡɔ z pɔs̪ːanɔvʲjˈɛ̝ɲ ɲɲɛ̝jʂɛj ɛklˈat̪ratsji ɲɛ̝ mɔʐɲa rɔʂɛumɛ̝tɕ jakudʑɛlˈat̪jɔ̃ɲtsɛɡɔ jakʲɛmuklvʲjˈɛ̝k aɲstvu ɡrupʲɛ lub ɔsɔbɛ̝ jakʲɛɡɔklvʲjˈɛ̝k praˈɨvadɔ pɔpxn̪ɛjmɔˈɨvaɲa dʑawaln̪ɔɕtɕ lub vɨdaˈɨvaɲa aktˈu zmɛ̝ʐajɔ̃ɲtsɨx dɔ ɔbalɲakturɛɡɔklvʲjˈɛ̝k z prav i vɔlnɔɕtɕ z̪ˈɨvartɨx v ɲɲɛ̝jʂɛj ɛklˈat̪ratsji

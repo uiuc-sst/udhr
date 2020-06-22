@@ -1,0 +1,140 @@
+fra_0001	deklaʁatjɔn ynivesɛl d dʁwat d lˈɔm
+fra_0002	pʁeambyl
+fra_0003	kɔnsideʁan k la ʁɛkɔnesans d la diɲite ineRɑ̃t a tu l mɛmbʁ d lafamil ymen ɛ d lœʁ dʁwat ego ɛ inaljenabl kɔ̃stitu l fɔ̃dəmɑ̃ d lalibete d la ʒystis ɛ d la pɛ dan l mɔ̃d
+fra_0004	kɔnsideʁan k la mekonɛsɑ̃s ɛ l mepRi d dʁwat d lˈɔm ɔn kɔndɥita d akt d baRbaRi ki Revɔltɛn la kɔnsjɛns d symanite ɛ k lˈavɛnɛmɛntdˈyn mɔ̃d ɔù l ɛtR umɛ̃ səRɔ̃ libʁ d paʁle ɛ d kRwaR libeRe d lateʁœʁ ɛ d la misk a ete pRoklame kɔm la ply ot aspiRasjɔ̃ d lˈɔm
+fra_0005	kɔnsideʁan kˈil t esɑ̃sjɛl k l dʁwat d lˈɔm swa pRoteʒe paʁ ynʁegm d dʁwa puʁ k lˈɔm n swa pa kɔ̃tRɛ̃ ɛn supRɛm RəkyRs a laRevɔlt kɔ̃tR la tiRani ɛ lˈɔpʁsl
+fra_0006	kɔnsideʁan kˈil t esɑ̃sjɛl dˈɛnkuʁagʁ l devɛlɔpɛmɛn d ʁɛlatjɔn amikalɛntʁ nasjons
+fra_0007	kɔnsideʁan k dan la ʃaʁt l pœpl d natjɔn ynj ɔn pRoklame anuvo lœR fwa dan l dʁwat fɔndamɛnto d lˈɔm dan la diɲite ɛ lavalœR d la pesɔn umɛn dan lˈeglite d dʁwat d ɔm ɛ dfams ɛ kˈil z sɔn deklaRe Rezolu a favoRize l pʁɔgɛ sosjal ɛ a ɛ̃stoRed mɛjœʁ kɔnditjɔn d vj dan yn libete ply gandɛ
+fra_0008	kɔnsideʁan k l ɛtat mɛmbʁ z sɔn ɑ̃gaʒe a asuRe ɛn kɔpeʁatjɔn avɛklˈɔʁgnizatjɔn d natjɔn ynʁ l ʁpɛkt ynivesɛl ɛ ɛfɛktif d dʁwat dɛlˈɔm ɛ d libete fɔ̃damɑ̃tam
+fra_0009	kɔnsideʁan kun kɔnsɛptjɔn komun d s dʁwat ɛ libete t d la plysot impɔʁtans puʁ ʁɛmpliʁ plɛnəmɑ̃ sɛt ɛŋagmɛnt
+fra_0010	lˈasɛmble ʒeneRal
+fra_0011	pʁɔklam la pRezɑ̃t deklaʁatjɔn ynivesɛl d dʁwat d lˈɔm kɔm lˈidealkɔmyn a atɛ̃dR paʁ tu l pœpl ɛ tyt l natjɔn afɛ̃ k tu lindividy ɛ tu l ɔʁgn d la zɔsjete ɛjan sɛt deklaʁatjɔn kɔ̃stamɑ̃ alpʁˈi sˈɛfɔʁsɑ̃ paʁ lˈɛnsɛɲɛmɛn ɛ lˈedykatl d devɛlɔpe l ʁpɛkt dɛs dʁwat ɛ libete ɛ dˈɛn asuRe paʁ d myʁ pRogResiv dˈɔʁdʁ nasjonalɛ intenatjɔnal la ʁɛkɔnesans ɛ lˈaplikatjɔn univɛRsɛl ɛ efɛktje tantpaʁmi l pɔpylatjɔn d ɛtat mɛmbʁ œksmɛm k paʁmi sɛl dteʁitwaʁ plase sy lœR ʒyʁidiktjɔn.
+fra_0012	aʁtikl pʁɛmje
+fra_0013	tu l ɛtR umɛ̃ nɛs libʁ ɛ ego ɛn diɲite ɛ ɛn dʁwats.
+fra_0014	il sɔntdwe d Rɛzɔ̃ ɛ d kɔnsjɛns ɛ dwav aʒiR l œ̃ ɛnve l otʁ dan ynɛspRi d fRatɛRnite.
+fra_0015	aʁtikl 2
+fra_0016	ʃakyn pœ z pʁevalwaʁ d tu l dʁwat ɛ d tyt l libete pRoklame dansla pRezɑ̃t deklaʁatl sɑ̃ distɛ̃ksjɔ̃ okynɛ notamɑ̃ d ʁasɛ d kulœʁ dɛksɛ d laŋœ d Rəliʒjo dˈɔpinjɔn pɔlitik u d tut otR opinl dˈɔʁignɛnatjɔnal u sɔsin d fɔʁtynɛ d nɛsɑ̃s u d tut otR zitɥatjɔn.
+fra_0017	dɛ plus il n zea fɛ okyn distɛ̃ksjɔ̃ fɔ̃de zyʁ l statu pɔlitikɛ ʒyʁidik wintenatjɔnal dy pɛj u dy teʁitwaʁ dɔn yn pesɔn t ʁsɔʁtisantɛ k sɛpɛj u teʁitwaʁ swa ɛ̃depɑ̃dy sy tytɛt nɔn otɔnɔm u sumi a ynɛlimitatjɔn kɛlkɔ̃k d zuvenɛte.
+fra_0018	aʁtikl 3
+fra_0019	tu individy a dʁwa a la vje a la libete ɛ a la syʁɛte d sa pesɔnɛ.
+fra_0020	aʁtikl 4
+fra_0021	nyl n zea tənu ɛn klavaʒ ni ɛn zevityd
+fra_0022	lklavaʒ ɛ la tʁet d klavsɔn intedit sy tyt lœʁ fɔʁm.
+fra_0023	aʁtikl 5
+fra_0024	nyl n zea sumi a la tɔRtuR ni a d pɛn u tʁetɛmɛnt œs inumɛ̃ udegadants.
+fra_0025	aʁtikl 6
+fra_0026	ʃakyn a l dʁwa a la ʁɛkɔnesans ɛn tu ljœ d sa pesɔnalite ʒyʁidikɛ.
+fra_0027	aʁtikl 7
+fra_0028	tu sɔn ego dəvɑ̃ la lwa ɛ ɔn dʁwa sɑ̃ distɛ̃ksjɔ̃ a yn egal pʁɔtɛktjɔn dɛla lwa.
+fra_0029	tu ɔn dʁwa a yn pʁɔtɛktjɔn egal kɔ̃tR tut diskʁiminatjɔn ki vjolaʁe lapʁezɛnt deklaʁatjɔn ɛ kɔ̃tR tut pRovokasjɔ̃ a yn tɛl diskʁiminatjɔn.
+fra_0030	aʁtikl 8
+fra_0031	tut pesɔn a dʁwa a yn RəkyR ɛfɛktif dəvɑ̃ l ʒuRidiksjɔ̃ nasjonalkɔmpetɛnt kɔ̃tR l akt vjolɑ̃ l dʁwat fɔndamɛnto ki lɥi sɔn ʁɛkɔnyspaʁ la kɔnstitytjɔn u paʁ la lwa.
+fra_0032	aʁtikl 9
+fra_0033	nyl n pœ ɛtʁ aʁbitʁeʁɛmɛn aʁɛte detənu ni ɛgzile.
+fra_0034	aʁtikl 10
+fra_0035	tut pesɔn a dʁwat ɛn plɛn egls a s k sa koz swa ɛntɛndɥɛekitablɛmɛn ɛ publikəmɑ̃ paʁ yn tʁibynal indepɛndan ɛ ɛ̃paRsjal ki desideaswa d z dʁwat ɛ ɔbligtjɔns swa dy bjɛnfɔnde d tut akyzatjɔn ɛn npenal diʁig kɔ̃tR ɛlɛ.
+fra_0036	aʁtikl 1
+fra_0037	1.
+fra_0038	tut pesɔn akuze dˈyn akt deliktɥɛy t pRezume inosɑ̃t ʒuska sɛk sa kulpabilite ɛ ete legaləmɑ̃ etabli o kyR dˈyn pRosɛ pyblik ɔù tyt lgʁantj nesesɛR a sa defɛns lɥi oʁɔn ete asuRes.
+fra_0039	2.
+fra_0040	nyl n zea kɔndamne puʁ d aktjɔn u ɔmisjɔn ki o mɔmɛn ɔù ɛl ɔntete komizs n kɔ̃stitɥɛ pa yn akt deliktɥɛy dˈapʁɛ l dʁwa natjɔnal wintenatjɔnal.
+fra_0041	dɛ mɛm il n zea ɛ̃fliʒe okyn pɛn ply fɔʁt k sɛl ki etetaplikabl o mɔmɛn ɔù lˈakt deliktɥɛy a ete kɔmis.
+fra_0042	aʁtikl 12
+fra_0043	nyl n zea lˈɔbʒɛ dˈimikstjɔn aRbitRɛR dan sa vj pʁiveɛ sa famit zɔndɔmisil u sa koRɛspɔ̃da ni dˈatɛ̃t a sɔ̃ onœR ɛ a sa ʁepytatjɔn.
+fra_0044	tut pesɔn a dʁwa a la pʁɔtɛktjɔn d la lwa kɔ̃tR d tɛl imikstjɔn u dɛtɛl atɛntɛs.
+fra_0045	aʁtikl 13
+fra_0046	1.
+fra_0047	tut pesɔn a l dʁwa d siRkule libʁɛmɛn ɛ d ʃwaziʁ sa Rezidɑ̃s alˈinteʁjœʁ dˈyn ɛtat.
+fra_0048	2.
+fra_0049	tut pesɔn a l dʁwa d kite ty pejs j kɔ̃pRi l sjɛ̃ ɛ d ʁɛvɛniʁ dansɔn pɛjs.
+fra_0050	aʁtikl 14
+fra_0051	1.
+fra_0052	dɛvan la pɛRsekusl tut pesɔn a l dʁwa d ʃɛRʃe azil ɛ d benefisjed lˈazil ɛn dotR pɛjs.
+fra_0053	2.
+fra_0054	sɛ dʁwa n pœ ɛtʁ ɛ̃voke dan l ka d puʁsɥit ʁeɛlɛmɛn fɔ̃de zyʁ ynkʁim d dʁwa kɔmyn u zyʁ d aʒisəmɑ̃ kɔ̃tRɛR o byt ɛ o pRɛ̃sipd natjɔn ynj.
+fra_0055	aʁtikl 15
+fra_0056	1.
+fra_0057	tu individy a dʁwa a yn nasjonalite.
+fra_0058	2.
+fra_0059	nyl n pœ ɛtʁ aʁbitʁeʁɛmɛn pʁive d sa nasjonals ni dy dʁwa d ʃɑ̃ʒe dɛnatjɔnalite.
+fra_0060	aʁtikl 16
+fra_0061	1.
+fra_0062	a paʁtiʁ d lˈɑʒ nybilɛ lˈɔm ɛ la fɛmɛ sɑ̃ okyn ʁtʁiktjɔn kɑ̃ a laʁasɛ la nasjonalite u la Rəliʒjo ɔn l dʁwa d z maRje ɛ d fɔnde yn familɛ.
+fra_0063	ilsɔn d dʁwat ego o RəgaR dy maRjp duRɑ̃ l maʁjaʒ ɛ lɔʁ d sadisɔlytjɔn.
+fra_0064	2.
+fra_0065	l maʁjaʒ n pœ ɛtʁ kɔ̃klu kavɛk l libʁ ɛ plɛn kɔnsɛntɛmɛn d futuRsepuks.
+fra_0066	3.
+fra_0067	la famil t lˈelemɛn natyʁɛl ɛ fɔndamɛntal d la sɔsjete ɛ a dʁwa a lapʁɔtɛktjɔn d la sɔsjete ɛ d lˈɛtat.
+fra_0068	aʁtikl 17
+fra_0069	1.
+fra_0070	tut pesɔnɛ osi bjɛn sœl kˈɛn kolɛktivs a dʁwa a la pʁɔpʁjete.
+fra_0071	2.
+fra_0072	nyl n pœ ɛtʁ aʁbitʁeʁɛmɛn pʁive d sa pʁɔpʁjete
+fra_0073	aʁtikl 18
+fra_0074	tut pesɔn a dʁwa a la libete d pɑ̃se d kɔnsjɛns ɛ d ʁɛligɔn
+fra_0075	s dʁwatɛ̃plik la libete d ʃɑ̃ʒe d ʁɛligɔn u d kɔ̃viksjɔ̃ ensi k la libete dɛmanifte sa ʁɛligɔn u sa kɔ̃viksl sœl u ɛn kɔm tɑ̃ ɛn pyblik kˈɛnpʁive paʁ lˈɛnsɛɲɛmɛnt l pRatikɛs l kult ɛ lˈakɔmplisɛmɛn d Rit.
+fra_0076	aʁtikl 19
+fra_0077	tu individy a dʁwa a la libete dˈɔpinjɔn ɛ dˈɛkspʁsl s ki ɛ̃plik l dʁwa dɛn pa ɛtʁ ɛ̃kjete puʁ z ɔpinjɔn ɛ səlɥi d ʃɛRʃe d ʁɛsɛvwaʁ ɛ deRepɑ̃o sɑ̃ kɔ̃sideRasjɔ̃ d fRɔ̃tjɛRs l infɔʁmatjɔn ɛ l ide paʁkɛlk mwajɛn dˈɛkspʁsjɔn k s swat.
+fra_0078	aʁtikl 20
+fra_0079	1.
+fra_0080	tut pesɔn a dʁwa a la libete d ʁeynjɔn ɛ dˈasɔsjatjɔn pasifik.
+fra_0081	2.
+fra_0082	nyl n pœ ɛtʁ obliʒe d fɛR paRti dˈyn asɔsjatjɔn.
+fra_0083	aʁtikl 21
+fra_0084	1.
+fra_0085	tut pesɔn a l dʁwa d pʁɛndʁ paʁ a la diʁɛktjɔn d afɛR pyblik dsɔ̃ pejs swa diʁɛktɛmɛnt swa paʁ lˈintemedjeʁ d ʁɛpʁezɛntant libʁɛmɛntʃwazis.
+fra_0086	2.
+fra_0087	tut pesɔn a dʁwa a aksede dan d kɔnditjɔn dˈegls o fɔnjɔnspyblik d sɔ̃ pɛjs.
+fra_0088	3.
+fra_0089	la vɔlɔnte dy pøpl t l fɔ̃dəmɑ̃ d lˈotɔʁite d puvwaʁ pyblik
+fra_0090	sɛtɛvɔlɔnte dwa sˈɛkspRime paʁ d elɛktjɔn onɛt ki dwav avwaʁ ljœpeʁjɔdikɛmɛnt o syfʁaʒ ynivesɛl egl ɛ o vɔt səkRɛ u sɥivan ynɛpʁɔkedyʁ ekivalɛnt asuRɑ̃ la libete dy vɔtɛ.
+fra_0091	aʁtikl 22
+fra_0092	tut pesɔnɛ ɛn tɑ̃ k mɛmbʁ d la zɔsjete a dʁwa a la zekyʁite sosjal
+fra_0093	ɛlɛ fɔ̃de a ɔbtɛniʁ la satisfaktjɔn d dʁwat ekɔnɔmikɛs sosjo ɛ kyltyʁɛlsindispɛnsabl a sa diɲite ɛ o libʁ devɛlɔpɛmɛn d sa pɛRsonals gRas alˈɛfɔʁ natjɔnal ɛ a la kɔpeʁatjɔn ɛ̃tɛRnasjonn kɔ̃t tənu d lˈɔʁgnizatjɔn ɛtd RəsyRs d ʃak pɛjs.
+fra_0094	aʁtikl 23
+fra_0095	1.
+fra_0096	tut pesɔn a dʁwa o tʁavel o libʁ ʃwa d sɔ̃ tʁavel a d kɔnditjɔnsekitabl ɛ satisfezant d tʁavel ɛ a la pʁɔtɛktjɔn kɔ̃tR l ʃomag.
+fra_0097	2.
+fra_0098	tu ɔn dʁwat sɑ̃ okyn diskʁiminatl a yn saleʁ egl puʁ yn tʁavel egl
+fra_0099	3.
+fra_0100	kikɔ̃k tRavajə a dʁwa a yn ʁemyneʁatjɔn ekitabl ɛ satisfezant lɥjasuRɑ̃ ensi ka sa famil yn ɛksistɛns kɔnfɔʁm a la diɲite ymen ɛtkɔmplete sˈil j a ljœ paʁ tu otʁ mwajɛn d pʁɔtɛktjɔn zɔsjalɛ.
+fra_0101	4.
+fra_0102	tut pesɔn a l dʁwa d fɔnde avɛk dotR d sindikat ɛ d sˈafilje ad sindikat puʁ la defɛns d z inteʁɛts.
+fra_0103	aʁtikl 24
+fra_0104	tut pesɔn a dʁwa o ʁɛpɔ ɛ o lwaziR ɛ notamɑ̃ a yn limitatjɔnʁezɔnabl d la dyʁe dy tʁavel ɛ a d kɔ̃ʒe peje peRjodik.
+fra_0105	aʁtikl 25
+fra_0106	1.
+fra_0107	tut pesɔn a dʁwa a yn nivo d vj sufizɑ̃ puʁ asuRe sa zante zɔnbjɛnɛtʁ ɛ sø d sa famit notamɑ̃ puʁ lˈalimɛntatl lˈabilɛmɛnt lɛlɔgmɛnt l swan mediko ensi k puʁ l sevis sosjo nesesɛR
+fra_0108	ɛl adRwa a la zekyʁite ɛn ka d ʃomp d maladjɛ dˈinvalids d vœvp dəvjɛls u dan l otʁ ka d pɛRt d z mwajɛn d zybsistans paʁ zɥitɛd siʁkɔnstans ɛ̃depɑ̃dɑ̃t d sa vɔlɔnte.
+fra_0109	2.
+fra_0110	la matɛRnite ɛ lˈɛnfans ɔn dʁwa a yn ɛd ɛ a yn asistans spesjal.
+fra_0111	tusl ɑ̃fɑ̃ts kˈil swa ne dan l maʁjaʒ u ɔR maRjp ʒwis d la mɛmɛpʁɔtɛktjɔn zɔsjalɛ.
+fra_0112	aʁtikl 26
+fra_0113	1.
+fra_0114	tut pesɔn a dʁwa a lˈedykatjɔn.
+fra_0115	lˈedykatjɔn dwa ɛtʁ gRatɥd o mwɛ̃ ɛn sɛki kɔ̃sɛRn lˈɛnsɛɲɛmɛn elemɛnteʁ ɛ fɔ̃damɑ̃tal.
+fra_0116	lˈɛnsɛɲɛmɛntelemɛnteʁ t ɔbligtwaʁɛ.
+fra_0117	lˈɛnsɛɲɛmɛn tɛknik ɛ pʁɔfsjɔnɛl dwa ɛtʁɛgneʁalize
+fra_0118	lˈakɛ o etyd supeRjœR dwa ɛtʁ yvɛR ɛn plɛn eglite a tuzɛn fɔnjɔn d lœR meRitɛ.
+fra_0119	2.
+fra_0120	lˈedykatjɔn dwa vize o plɛn epanwisəmɑ̃ d la pesɔnalite ymen ɛ oʁɛnfɔʁsɛmɛn dy ʁpɛkt d dʁwat d lˈɔm ɛ d libete fɔ̃damɑ̃tal.
+fra_0121	ɛlɛdwa favoRize la kɔmpʁeɛnsl la tɔleʁans ɛ lˈamitje ɑ̃tR tyt l natjɔn ɛtu l gup Rasjo u Rəliʒjø ensi k l devɛlɔpɛmɛn d aktivite d
+fra_0122	natjɔn ynj puʁ l mentjɛn d la peks.
+fra_0123	3.
+fra_0124	l paRɑ̃ ɔnt paʁ pRijoRs l dʁwa d ʃwaziʁ l gnʁ dˈedykatjɔn a done alœʁ ɛnfants.
+fra_0125	aʁtikl 27
+fra_0126	1.
+fra_0127	tut pesɔn a l dʁwa d pʁɛndʁ paʁ libʁɛmɛn a la vj kyltyʁɛl d lakɔmynote d ʒwiʁ d aR ɛ d paʁtisipe o pʁɔgɛ sjɛntifik ɛ oksbjɛ̃fɛ ki ɛn Rezultɛn
+fra_0128	2.
+fra_0129	ʃakyn a dʁwa a la pʁɔtɛktjɔn d inteʁɛt moRo ɛ mateʁjɛl dekylɑ̃ d tutɛpʁɔdyktjɔn sjɑ̃tifikɛ liteʁeʁ u aʁtistik dɔn il t lˈotœʁ.
+fra_0130	aʁtikl 28
+fra_0131	tut pesɔn a dʁwa a s k Rɛ zyʁ l plan sosjal ɛ zyʁ l plan intenatjɔnalœ̃ ɔRdR tɛl k l dʁwat ɛ libete enɔ̃se dan la pRezɑ̃t deklaʁatjɔn pɥisɛnti tRyve plɛn ɛfɛt.
+fra_0132	aʁtikl 29
+fra_0133	1.
+fra_0134	lˈindividy a d dəvwaʁ ɛnve la kɔmynote dan lakɛl sœl l libʁ ɛ plɛndevɛlɔpɛmɛn d sa pesɔnalite t pɔsiblɛ.
+fra_0135	2.
+fra_0136	dan lˈɛksesis d z dʁwat ɛ dan la ʒwisɑ̃s d z libetes ʃakyn nɛsumi kˈoks limitatjɔn etabli paʁ la lwa ɛkskluzivəmɑ̃ ɛn vy dˈasyʁe laʁɛkɔnesans ɛ l ʁpɛkt d dʁwat ɛ libete dˈotʁɥi ɛ afɛ̃ d satisfeʁ oksʒust ɛgziʒɑ̃s d la mɔRn d lˈɔʁdʁ pyblik ɛ dy bjɛnɛtʁ gneʁal dan ynɛsɔsjete demokRatikɛ.
+fra_0137	3.
+fra_0138	s dʁwat ɛ libete n pyRɔ̃ ɛn okyn kas sˈɛksese kɔntʁeʁɛmɛn o bytsɛ o pRɛ̃sip d natjɔn ynj.
+fra_0139	aʁtikl 30
+fra_0140	okyn dispɔzitjɔn d la pRezɑ̃t deklaʁatjɔn n pœ ɛtʁ intepʁete komɛɛ̃pliy puʁ yn ɛtat yn gRypəmɑ̃ u yn ɛ̃dividɥ yn dʁwa kɛlkɔ̃k d sɛlivʁe a yn aktivite u dˈakɔmpliʁ yn akt vizan a la dtʁyktjɔn d dʁwat ɛtlibete ki j sɔn enɔnkes.

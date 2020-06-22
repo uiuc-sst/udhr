@@ -1,0 +1,140 @@
+por-PT_0001	Declaração Universal dos Direitos Humanos 
+por-PT_0002	Preâmbulo
+por-PT_0003	Considerando que o reconhecimento da dignidade inerente a todos os membros da família humanae dos seus direitos iguais e inalienáveis constitui o fundamento da liberdade, da justiça e da paz nomundo;
+por-PT_0004	Considerando que o desconhecimento e o desprezo dos direitos do Homem conduziram a actos debarbárie que revoltam a consciência da Humanidade e que o advento de um mundo em que os sereshumanos sejam livres de falar e de crer, libertos do terror e da miséria, foi proclamado como a maisalta inspiração do Homem;
+por-PT_0005	Considerando que é essencial a proteção dos direitos do Homem através de um regime de direito,para que o Homem não seja compelido, em supremo recurso, à revolta contra a tirania e a opressão;
+por-PT_0006	Considerando que é essencial encorajar o desenvolvimento de relações amistosas entre as nações;
+por-PT_0007	Considerando que, na Carta, os povos das Nações Unidas proclamam, de novo, a sua fé nos direitosfundamentais do Homem, na dignidade e no valor da pessoa humana, na igualdade de direitos doshomens e das mulheres e se declaram resolvidos a favorecer o progresso social e a instaurarmelhores condições de vida dentro de uma liberdade mais ampla;
+por-PT_0008	Considerando que os Estados membros se comprometeram a promover, em cooperação com a
+por-PT_0009	Organização das Nações Unidas, o respeito universal e efectivo dos direitos do Homem e dasliberdades fundamentais;
+por-PT_0010	Considerando que uma concepção comum destes direitos e liberdades é da mais alta importânciapara dar plena satisfação a tal compromisso:
+por-PT_0011	A Assembléia Geral proclama a presente Declaração Universaldos Direitos Humanoscomo ideal comum a atingir por todos os povos e todas as nações, a fim de que todos os indivíduos etodos os orgãos da sociedade, tendo-a constantemente no espírito, se esforcem, pelo ensino e pelaeducação, por desenvolver o respeito desses direitos e liberdades e por promover, por medidasprogressivas de ordem nacional e internacional, o seu reconhecimento e a sua aplicação universais eefectivos tanto entre as populações dos próprios Estados membros como entre as dos territórioscolocados sob a sua jurisdição.
+por-PT_0012	Artigo 1°
+por-PT_0013	Todos os seres humanos nascem livres e iguais em dignidade e em direitos.
+por-PT_0014	Dotados de razão e deconsciência, devem agir uns para com os outros em espírito de fraternidade.
+por-PT_0015	Artigo 2°
+por-PT_0016	Todos os seres humanos podem invocar os direitos e as liberdades proclamados na presente
+por-PT_0017	Declaração, sem distinção alguma, nomeadamente de raça, de cor, de sexo, de língua, de religião, deopinião política ou outra, de origem nacional ou social, de fortuna, de nascimento ou de qualqueroutra situação.
+por-PT_0018	Além disso, não será feita nenhuma distinção fundada no estatuto político, jurídicoou internacional do país ou do território da naturalidade da pessoa, seja esse país ou territórioindependente, sob tutela, autônomo ou sujeito a alguma limitação de soberania.
+por-PT_0019	Artigo 3°
+por-PT_0020	Todo indivíduo tem direito à vida, à liberdade e à segurança pessoal.
+por-PT_0021	Artigo 4°
+por-PT_0022	Ninguém será mantido em escravatura ou em servidão;
+por-PT_0023	a escravatura e o trato dos escravos, sobtodas as formas, são proibidos.
+por-PT_0024	Artigo 5°
+por-PT_0025	Ninguém será submetido a tortura nem a penas ou tratamentos cruéis, desumanos ou degradantes.
+por-PT_0026	Artigo 6°
+por-PT_0027	Todos os indivíduos têm direito ao reconhecimento, em todos os lugares, da sua personalidadejurídica.
+por-PT_0028	Artigo 7°
+por-PT_0029	Todos são iguais perante a lei e, sem distinção, têm direito a igual protecção da lei.
+por-PT_0030	Todos têmdireito a protecção igual contra qualquer discriminação que viole a presente Declaração e contraqualquer incitamento a tal discriminação.
+por-PT_0031	Artigo 8°
+por-PT_0032	Toda a pessoa tem direito a recurso efectivo para as jurisdições nacionais competentes contra osactos que violem os direitos fundamentais reconhecidos pela Constituição ou pela lei.
+por-PT_0033	Artigo 9°
+por-PT_0034	Ninguém pode ser arbitrariamente preso, detido ou exilado.
+por-PT_0035	Artigo 10°
+por-PT_0036	Toda a pessoa tem direito, em plena igualdade, a que a sua causa seja equitativa e publicamentejulgada por um tribunal independente e imparcial que decida dos seus direitos e obrigações ou dasrazões de qualquer acusação em matéria penal que contra ela seja deduzida.
+por-PT_0037	Artigo 11°
+por-PT_0038	1.
+por-PT_0039	Toda a pessoa acusada de um acto delituoso presume-se inocente até que a sua culpabilidadefique legalmente provada no decurso de um processo público em que todas as garantias necessáriasde defesa lhe sejam asseguradas.
+por-PT_0040	2.
+por-PT_0041	Ninguém será condenado por acções ou omissões que, no momento da sua prática, nãoconstituíam acto delituoso à face do direito interno ou internacional.
+por-PT_0042	Do mesmo modo, não seráinfligida pena mais grave do que a que era aplicável no momento em que o acto delituoso foicometido.
+por-PT_0043	Artigo 12°
+por-PT_0044	Ninguém sofrerá intromissões arbitrárias na sua vida privada, na sua família, no seu domicílio ou nasua correspondência, nem ataques à sua honra e reputação.
+por-PT_0045	Contra tais intromissões ou ataquestoda a pessoa tem direito a protecção da lei.
+por-PT_0046	Artigo 13°
+por-PT_0047	1.
+por-PT_0048	Toda a pessoa tem o direito de livremente circular e escolher a sua residência no interior de um
+por-PT_0049	Estado.
+por-PT_0050	2.
+por-PT_0051	Toda a pessoa tem o direito de abandonar o país em que se encontra, incluindo o seu, e o direitode regressar ao seu país.
+por-PT_0052	Artigo 14°
+por-PT_0053	1.
+por-PT_0054	Toda a pessoa sujeita a perseguição tem o direito de procurar e de beneficiar de asilo em outrospaíses.
+por-PT_0055	2.
+por-PT_0056	Este direito não pode, porém, ser invocado no caso de processo realmente existente por crime dedireito comum ou por actividades contrárias aos fins e aos princípios das Nações Unidas.
+por-PT_0057	Artigo 15°
+por-PT_0058	1.
+por-PT_0059	Todo o indivíduo tem direito a ter uma nacionalidade.
+por-PT_0060	2.
+por-PT_0061	Ninguém pode ser arbitrariamente privado da sua nacionalidade nem do direito de mudar denacionalidade.
+por-PT_0062	Artigo 16°
+por-PT_0063	1.
+por-PT_0064	A partir da idade núbil, o homem e a mulher têm o direito de casar e de constituir família, semrestrição alguma de raça, nacionalidade ou religião.
+por-PT_0065	Durante o casamento e na altura da suadissolução, ambos têm direitos iguais.
+por-PT_0066	2.
+por-PT_0067	O casamento não pode ser celebrado sem o livre e pleno consentimento dos futuros esposos.
+por-PT_0068	3.
+por-PT_0069	A família é o elemento natural e fundamental da sociedade e tem direito à proteção desta e do
+por-PT_0070	Estado.
+por-PT_0071	Artigo 17°
+por-PT_0072	1.
+por-PT_0073	Toda a pessoa, individual ou colectiva, tem direito à propriedade.
+por-PT_0074	2.
+por-PT_0075	Ninguém pode ser arbitrariamente privado da sua propriedade.
+por-PT_0076	Artigo 18°
+por-PT_0077	Toda a pessoa tem direito à liberdade de pensamento, de consciência e de religião;
+por-PT_0078	este direitoimplica a liberdade de mudar de religião ou de convicção, assim como a liberdade de manifestar areligião ou convicção, sozinho ou em comum, tanto em público como em privado, pelo ensino, pelaprática, pelo culto e pelos ritos.
+por-PT_0079	Artigo 19°
+por-PT_0080	Todo o indivíduo tem direito à liberdade de opinião e de expressão, o que implica o direito de nãoser inquietado pelas suas opiniões e o de procurar, receber e difundir, sem consideração defronteiras, informações e idéias por qualquer meio de expressão.
+por-PT_0081	Artigo 20°
+por-PT_0082	1.
+por-PT_0083	Toda a pessoa tem direito à liberdade de reunião e de associação pacíficas.
+por-PT_0084	2.
+por-PT_0085	Ninguém pode ser obrigado a fazer parte de uma associação.
+por-PT_0086	Artigo 21°
+por-PT_0087	1.
+por-PT_0088	Toda a pessoa tem o direito de tomar parte na direcção dos negócios, públicos do seu país, querdirectamente, quer por intermédio de representantes livremente escolhidos.
+por-PT_0089	2.
+por-PT_0090	Toda a pessoa tem direito de acesso, em condições de igualdade, às funções públicas do seu país.
+por-PT_0091	3.
+por-PT_0092	A vontade do povo é o fundamento da autoridade dos poderes públicos: e deve exprimir-seatravés de eleições honestas a realizar periodicamente por sufrágio universal e igual, com votosecreto ou segundo processo equivalente que salvaguarde a liberdade de voto.
+por-PT_0093	Artigo 22°
+por-PT_0094	Toda a pessoa, como membro da sociedade, tem direito à segurança social;
+por-PT_0095	e pode legitimamenteexigir a satisfação dos direitos econômicos, sociais e culturais indispensáveis, graças ao esforçonacional e à cooperação internacional, de harmonia com a organização e os recursos de cada país.
+por-PT_0096	Artigo 23°
+por-PT_0097	1.
+por-PT_0098	Toda a pessoa tem direito ao trabalho, à livre escolha do trabalho, a condições equitativas esatisfatórias de trabalho e à protecção contra o desemprego.
+por-PT_0099	2.
+por-PT_0100	Todos têm direito, sem discriminação alguma, a salário igual por trabalho igual.
+por-PT_0101	3.
+por-PT_0102	Quem trabalha tem direito a uma remuneração equitativa e satisfatória, que lhe permita e à suafamília uma existência conforme com a dignidade humana, e completada, se possível, por todos osoutros meios de protecção social.
+por-PT_0103	4.
+por-PT_0104	Toda a pessoa tem o direito de fundar com outras pessoas sindicatos e de se filiar em sindicatospara defesa dos seus interesses.
+por-PT_0105	Artigo 24°
+por-PT_0106	Toda a pessoa tem direito ao repouso e aos lazeres, especialmente, a uma limitação razoável daduração do trabalho e as férias periódicas pagas.
+por-PT_0107	Artigo 25°
+por-PT_0108	1.
+por-PT_0109	Toda a pessoa tem direito a um nível de vida suficiente para lhe assegurar e à sua família a saúde eo bem-estar, principalmente quanto à alimentação, ao vestuário, ao alojamento, à assistênciamédica e ainda quanto aos serviços sociais necessários, e tem direito à segurança no desemprego,na doença, na invalidez, na viuvez, na velhice ou noutros casos de perda de meios de subsistênciapor circunstâncias independentes da sua vontade.
+por-PT_0110	2.
+por-PT_0111	A maternidade e a infância têm direito a ajuda e a assistência especiais.
+por-PT_0112	Todas as crianças, nascidasdentro ou fora do matrimônio, gozam da mesma protecção social.
+por-PT_0113	Artigo 26°
+por-PT_0114	1.
+por-PT_0115	Toda a pessoa tem direito à educação.
+por-PT_0116	A educação deve ser gratuita, pelo menos a correspondenteao ensino elementar fundamental.
+por-PT_0117	O ensino elementar é obrigatório.
+por-PT_0118	O ensino técnico e profissionaldever ser generalizado;
+por-PT_0119	o acesso aos estudos superiores deve estar aberto a todos em plenaigualdade, em função do seu mérito.
+por-PT_0120	2.
+por-PT_0121	A educação deve visar à plena expansão da personalidade humana e ao reforço dos direitos do
+por-PT_0122	Homem e das liberdades fundamentais e deve favorecer a compreensão, a tolerância e a amizadeentre todas as nações e todos os grupos raciais ou religiosos, bem como o desenvolvimento dasactividades das Nações Unidas para a manutenção da paz.
+por-PT_0123	3.
+por-PT_0124	Aos pais pertence a prioridade do direito de escholher o género de educação a dar aos filhos.
+por-PT_0125	Artigo 27°
+por-PT_0126	1.
+por-PT_0127	Toda a pessoa tem o direito de tomar parte livremente na vida cultural da comunidade, de fruir asartes e de participar no progresso científico e nos benefícios que deste resultam.
+por-PT_0128	2.
+por-PT_0129	Todos têm direito à protecção dos interesses morais e materiais ligados a qualquer produçãocientífica, literária ou artística da sua autoria.
+por-PT_0130	Artigo 28°
+por-PT_0131	Toda a pessoa tem direito a que reine, no plano social e no plano internacional, uma ordem capaz detornar plenamente efectivos os direitos e as liberdades enunciadas na presente Declaração.
+por-PT_0132	Artigo 29°
+por-PT_0133	1.
+por-PT_0134	O indivíduo tem deveres para com a comunidade, fora da qual não é possível o livre e plenodesenvolvimento da sua personalidade.
+por-PT_0135	2.
+por-PT_0136	No exercício deste direito e no gozo destas liberdades ninguém está sujeito senão às limitaçõesestabelecidas pela lei com vista exclusivamente a promover o reconhecimento e o respeito dosdireitos e liberdades dos outros e a fim de satisfazer as justas exigências da moral, da ordem públicae do bem-estar numa sociedade democrática.
+por-PT_0137	3.
+por-PT_0138	Em caso algum estes direitos e liberdades poderão ser exercidos contrariamente e aos fins e aosprincípios das Nações Unidas.
+por-PT_0139	Artigo 30°
+por-PT_0140	Nenhuma disposição da presente Declaração pode ser interpretada de maneira a envolver paraqualquer Estado, agrupamento ou indivíduo o direito de se entregar a alguma actividade ou depraticar algum acto destinado a destruir os direitos e liberdades aqui enunciados.

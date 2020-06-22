@@ -1,0 +1,90 @@
+# This file maps recordings to their ISO 639-3 codes.
+#
+# The audio filenames here are exactly as distributed by librivox.
+#
+# The ISO 639-3 codes have been annotated by dialect specifiers if
+# (1) there are two dialects of the same language represented, and it's clear that people
+# recording at least one of those two dialects wanted to maintain  the difference, or
+# (2) the g2ps project has separate regional dialect models for two dialects of the language.
+#
+# Dialect specifiers are separated by hyphens, and may include
+# (1) country code, using ISO 3166-1, capital letters.
+# (2) region code, using ISO 3166-2, capital letters, always following a country code.
+# (3) version name, using lowercase letters, in case there are multiple versions of the text.
+# The por-BR and eng-GB-plain are commented out because United Nations doesn't publish them.
+# It is possible that language or dialect codes contain mistakes, when the narrator did not specify;
+# if you find mistakes, please tell me.
+#
+human_rights_03_eng_cc_64kb	  eng-US
+human_rights_03_eng_jkb_64kb	  eng-US
+human_rights_03_eng_mdk_64kb	  eng-US
+human_rights_03_eng_mkb_64kb	  eng-US
+human_rights_03_eng_njb_64kb	  eng-AU
+human_rights_03_eng_rg_64kb	  eng-GB
+human_rights_03_epo_njb_64kb	  epo
+human_rights_un_ace_adam_64kb	  ace
+human_rights_un_afk_cdb_64kb	  afr
+human_rights_un_arz_ef_64kb	  arz
+human_rights_un_bal_brc_64kb	  ban
+#human_rights_un_bra_rljb_64kb	  por-BR
+human_rights_un_bug_brc_64kb	  bug
+human_rights_un_bul_eu_64kb	  bul
+human_rights_un_cat_nv_64kb	  cat
+human_rights_un_chi_nf_64kb	  cmn
+human_rights_un_chn_cz_64kb	  cmn
+human_rights_un_cze_msed_64kb	  ces
+human_rights_un_dns_me_64kb	  dan
+human_rights_un_dut_aw_64kb	  nld
+human_rights_un_dut_mb_64kb	  nld
+human_rights_un_eng_drb_64kb	  eng-GB
+human_rights_un_eng_ks_64kb	  eng-US
+human_rights_un_eo_ac_64kb	  epo
+human_rights_un_far_pm_64kb	  fao
+human_rights_un_fil_alnl_64kb	  fil
+human_rights_un_fin_jf_64kb	  fin
+human_rights_un_fri_sn_64kb	  fry
+human_rights_un_frn_ezwa_64kb	  fra
+human_rights_un_frn_grd_64kb	  fra
+human_rights_un_frn_gyz_64kb	  fra
+human_rights_un_ger_robu_64kb	  deu
+human_rights_un_grc_pi_64kb	  ell
+human_rights_un_heb_ab_64kb	  heb
+human_rights_un_hin_brc_64kb	  hin
+human_rights_un_hun_dii_64kb	  hun
+human_rights_un_ind_rd_64kb	  ind
+human_rights_un_inz_mb_64kb	  ind
+human_rights_un_ita_dan_64kb	  ita
+human_rights_un_ita_mar_64kb	  ita
+human_rights_un_jav_vu_64kb	  jav
+human_rights_un_javs_vu_64kb	  jav
+human_rights_un_jpn_k_64kb	  jpn
+human_rights_un_kkn_lsj_64kb	  kor
+human_rights_un_lat_vu_64kb	  lat-v2
+human_rights_un_lav_kb_64kb	  lav
+human_rights_un_lb_ll_64kb	  ltz
+human_rights_un_ltn_ezwa_64kb	  lat-v1
+human_rights_un_min_sd_64kb	  min
+human_rights_un_mli_rh_64kb	  zlm
+human_rights_un_nno_be_64kb	  nno
+human_rights_un_oc_am_64kb	  oci
+human_rights_un_ori_ra_64kb	  ori
+human_rights_un_pl_km_64kb	  pol
+#human_rights_un_plain_drb_64kb	  eng-GB-plain
+human_rights_un_pmp_dm_64kb	  pam
+human_rights_un_por_as_64kb	  por-PT
+human_rights_un_por_sl_64kb	  por-PT
+human_rights_un_pql_jawo_64kb	  ces
+human_rights_un_rum_xip_64kb	  ron
+human_rights_un_rus_sd_64kb	  rus
+human_rights_un_slo_msed_64kb	  slk
+human_rights_un_spa_mr_64kb	  spa
+human_rights_un_spn_krs_64kb	  spa
+human_rights_un_sun_brc_64kb	  sun
+human_rights_un_swe_adam_64kb	  swe
+human_rights_un_swe_lr_64kb	  swe
+human_rights_un_tam_dm_64kb	  tam
+human_rights_un_tam_prm_64kb	  tam
+human_rights_un_ukr_r90_64kb	  ukr
+human_rights_un_urd_ahk_64kb	  urd
+human_rights_un_wal_ezwa_64kb	  wln
+human_rights_un_yid_ss_64kb	  yid

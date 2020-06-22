@@ -1,0 +1,363 @@
+fin_0001	yhdist̪yneiden kɑnsɑkunt̪ien kolmɑs yleiskokous hyʋæksyi jɑ julkist̪i ihmisoikeuksien yleismɑɑilmɑllisen julist̪uksen joulukuun
+fin_0002	pæiʋænæ
+fin_0003	julist̪uksen hyʋæksymisen puolest̪ɑ æænest̪i mɑɑt̪ɑ
+fin_0004	mikææn mɑɑ ei æænest̪ænyt̪ʋɑst̪ɑɑn
+fin_0005	kɑhdeksɑn mɑɑt̪ɑ pidæt̪t̪yi æænest̪æmæst̪æ
+fin_0006	ʋælit̪t̪ømæst̪i t̪æmæn hist̪oriɑllisen t̪ɑpɑht̪umɑn jælkeen yleiskokous kehot̪t̪i kɑikkiɑjæsenmɑit̪ɑ julkɑisemɑɑn julist̪uksen t̪ekst̪in
+fin_0007	niit̪æ pyydet̪t̪iin leʋit̪t̪æmææn jɑt̪ekemææn sit̪æ t̪unnet̪uksi lukemɑɑn jɑ selit̪t̪æmææn sit̪æ ennen kɑikkeɑ kouluissɑjɑ muissɑ oppilɑit̪oksissɑ eri mɑiden jɑ ɑlueiden poliit̪t̪isist̪ɑ oloist̪ɑ riippumɑt̪t̪ɑ
+fin_0008	julist̪uksen ʋirɑllinen t̪ekst̪i on sɑɑt̪ɑʋissɑ ykn kuudellɑ ʋirɑllisellɑ kielellæɑrɑpiɑksi eŋlɑnniksi espɑnjɑksi kiinɑksi rɑnskɑksi jɑ ʋenæjæksi
+fin_0009	myøs monet̪
+fin_0010	ykn jæsenmɑɑt̪ oʋɑt̪ noudɑt̪t̪ɑneet̪ yleiskokouksen kehot̪ust̪ɑ jɑ kæænt̪æneet̪julist̪uksen omɑlle kielelleen
+fin_0011	seurɑɑʋillɑ siʋuillɑ oleʋɑ kæænnøs on suomenhɑllit̪uksen ʋɑhʋist̪ɑmɑ
+fin_0012	julist̪uksen ilmɑiskɑppɑleit̪ɑ on sɑɑt̪ɑʋɑnɑ ykn køøpenhɑminɑssɑ sijɑit̪seʋɑst̪ɑpohjoismɑisest̪ɑ t̪iedot̪ust̪oimist̪ost̪ɑ ykn ʋirɑllisillɑ kielillæ pohjoismɑisillɑ kielillæjɑ rɑjɑllinen mææræ muillɑ kielillæ
+fin_0013	ihmisoikeuksien yleismɑɑilmɑllinen julist̪us
+fin_0014	ihmisoikeuksien yleismɑɑilmɑllinen julist̪us
+fin_0015	ihmisoikeuksien yleismɑɑilmɑllinen julist̪us
+fin_0016	ihmisoikeuksien yleismɑɑilmɑllinen julist̪us
+fin_0017	johdɑnt̪o
+fin_0018	johdɑnt̪o
+fin_0019	johdɑnt̪o
+fin_0020	johdɑnt̪o
+fin_0021	kun ihmiskunnɑn kɑikkien jæsent̪en luonnollisen ɑrʋon jɑ heidæn yht̪ælæist̪en jɑluoʋut̪t̪ɑmɑt̪t̪omien oikeuksiensɑ t̪unnust̪ɑminen on ʋɑpɑudenoikeudenmukɑisuuden jɑ rɑuhɑn perust̪ɑnɑ mɑɑilmɑssɑkun ihmisoikeuksiɑ on ʋæheksyt̪t̪y t̪ɑi ne on jæt̪et̪t̪y huomiot̪ɑ ʋɑille on t̪ɑpɑht̪unut̪rɑɑkɑlɑist̪ekojɑ jot̪kɑ oʋɑt̪ jærkyt̪t̪æneet̪ ihmiskunnɑn omɑɑt̪unt̪oɑ jɑ kun kɑnsojenkorkeimmɑksi pææmææræksi on julist̪et̪t̪u sellɑisen mɑɑilmɑn luominen missæihmiset̪ ʋoiʋɑt̪ ʋɑpɑɑst̪i nɑut̪t̪iɑ sɑnɑn jɑ uskon ʋɑpɑut̪t̪ɑ sekæ elææ ʋɑpɑinɑpelost̪ɑ jɑ puut̪t̪eest̪ɑkun on ʋælt̪t̪æmæt̪ønt̪æ et̪t̪æ ihmisoikeudet̪ t̪urʋɑt̪ɑɑn oikeusjærjest̪yksellæ jot̪t̪ɑihmist̪en ei olisi pɑkko ʋiimeisenæ keinonɑ noust̪ɑ kɑpinɑɑn pɑkkoʋɑlt̪ɑɑ jɑ sort̪oɑʋɑst̪ɑɑnkun on t̪æhdellist̪æ edist̪ææ yst̪æʋællist̪en suht̪eiden kehit̪t̪ymist̪æ kɑnsojen ʋælillekun yhdist̪yneiden kɑnsɑkunt̪ien kɑnsɑt̪ oʋɑt̪ peruskirjɑssɑ ʋɑhʋist̪ɑneet̪ uskonsɑihmist̪en perusoikeuksiin ihmisyksiløn ɑrʋoon jɑ merkit̪ykseen sekæ miest̪en jɑnɑist̪en yht̪ælæisiin oikeuksiin jɑ kun ne oʋɑt̪ ilmɑisseet̪ ʋɑkɑɑn t̪ɑht̪onsɑ edist̪ææsosiɑɑlist̪ɑ kehit̪yst̪æ jɑ pɑrempien elæmisen eht̪ojen ɑikɑɑnsɑɑmist̪ɑʋɑpɑɑmmissɑ oloissɑkun jæsenʋɑlt̪iot̪ oʋɑt̪ sit̪out̪uneet̪ edist̪æmææn yht̪eist̪oiminnɑssɑ yhdist̪yneet̪
+fin_0022	kɑnsɑkunnɑt̪ jærjest̪øn kɑnssɑ ihmisoikeuksien jɑ perusʋɑpɑuksien yleist̪ækunnioit̪t̪ɑmist̪ɑ jɑ noudɑt̪t̪ɑmist̪ɑ jɑkun yht̪einen kæsit̪ys næiden oikeuksien jɑ ʋɑpɑuksien sisælløst̪æ on mit̪æ t̪ærkeint̪æmæn sit̪oumuksen t̪æydelliselle t̪ot̪eut̪t̪ɑmiselle
+fin_0023	niin sen ʋuoksi
+fin_0024	yleiskokousɑnt̪ɑɑ t̪æmæn ihmisoikeuksien yleismɑɑilmɑllisen julist̪uksenkɑikkien kɑnsojen jɑ kɑikkien kɑnsɑkunt̪ien t̪ɑʋoit̪elt̪ɑʋɑksi yht̪eiseksi ohjeeksijot̪t̪ɑ kukin yksilø jɑ kukin yht̪eiskunt̪ɑelin pyrkisi pit̪æen ɑlɑt̪i mielessææn t̪æmænjulist̪uksen ʋɑlist̪ɑmɑllɑ jɑ opet̪t̪ɑmɑllɑ edist̪æmææn næiden oikeuksien jɑʋɑpɑuksien kunnioit̪t̪ɑmist̪ɑ sekæ t̪urʋɑɑmɑɑn jɑt̪kuʋin kɑnsɑllisin jɑkɑnsɑinʋælisin t̪oimenpit̪ein niiden yleisen jɑ t̪ehokkɑɑn t̪unnust̪ɑmisen jɑnoudɑt̪t̪ɑmisen sekæ it̪se jæsenʋɑlt̪ioiden kɑnsojen et̪t̪æ niiden oikeuspiirissæoleʋien ɑlueiden kɑnsojen keskuudessɑ
+fin_0025	
+fin_0026	ɑrt̪iklɑ
+fin_0027	
+fin_0028	ɑrt̪iklɑ
+fin_0029	
+fin_0030	ɑrt̪iklɑ
+fin_0031	
+fin_0032	ɑrt̪iklɑ
+fin_0033	kɑikki ihmiset̪ synt̪yʋæt̪ ʋɑpɑinɑ jɑ t̪ɑsɑʋert̪ɑisinɑ ɑrʋolt̪ɑɑn jɑ oikeuksilt̪ɑɑn
+fin_0034	heilleon ɑnnet̪t̪u jærki jɑ omɑt̪unt̪o jɑ heidæn on t̪oimit̪t̪ɑʋɑ t̪oisiɑɑn koht̪ɑɑn ʋeljeydenheŋessæ
+fin_0035	
+fin_0036	ɑrt̪iklɑ
+fin_0037	
+fin_0038	ɑrt̪iklɑ
+fin_0039	
+fin_0040	ɑrt̪iklɑ
+fin_0041	
+fin_0042	ɑrt̪iklɑ
+fin_0043	jokɑinen on oikeut̪et̪t̪u kɑikkiin t̪æssæ julist̪uksessɑ esit̪et̪t̪yihin oikeuksiin jɑʋɑpɑuksiin ilmɑn minkæænlɑist̪ɑ rot̪uun ʋæriin sukupuoleen kieleen uskont̪oonpoliit̪t̪iseen t̪ɑi muuhun mielipit̪eeseen kɑnsɑlliseen t̪ɑi yht̪eiskunnɑlliseenɑlkuperææn omɑisuut̪een synt̪yperææn t̪ɑi muuhun t̪ekijææn perust̪uʋɑɑ erot̪ust̪ɑ
+fin_0044	mit̪ææn erot̪ust̪ɑ ei myøskææn pidæ t̪ehdæ sen mɑɑn t̪ɑi ɑlueen ʋɑlt̪iollisenhɑllinnollisen t̪ɑi kɑnsɑinʋælisen ɑsemɑn perust̪eellɑ johon henkilø kuuluu olipɑt̪æmæ ɑlue it̪senæinen huolt̪ohɑllinnossɑ it̪sehɑllint̪oɑ ʋɑillɑ t̪ɑit̪æysiʋɑlt̪ɑisuudelt̪ɑɑn minkæ t̪ɑhɑnsɑ muun rɑjoit̪uksen ɑlɑinen
+fin_0045	
+fin_0046	ɑrt̪iklɑ
+fin_0047	
+fin_0048	ɑrt̪iklɑ
+fin_0049	
+fin_0050	ɑrt̪iklɑ
+fin_0051	
+fin_0052	ɑrt̪iklɑ
+fin_0053	kullɑkin yksiløllæ on oikeus elæmææn ʋɑpɑut̪een jɑ henkiløkoht̪ɑiseent̪urʋɑllisuut̪een
+fin_0054	
+fin_0055	ɑrt̪iklɑ
+fin_0056	
+fin_0057	ɑrt̪iklɑ
+fin_0058	
+fin_0059	ɑrt̪iklɑ
+fin_0060	
+fin_0061	ɑrt̪iklɑ
+fin_0062	ket̪ææn ei sɑɑ pit̪ææ orjɑnɑ t̪ɑi orjuut̪et̪t̪unɑ kɑikki orjuuden jɑ orjɑkɑupɑn muodot̪on kiellet̪t̪æʋæ
+fin_0063	
+fin_0064	ɑrt̪iklɑ
+fin_0065	
+fin_0066	ɑrt̪iklɑ
+fin_0067	
+fin_0068	ɑrt̪iklɑ
+fin_0069	
+fin_0070	ɑrt̪iklɑ
+fin_0071	ket̪ææn ei sɑɑ kidut̪t̪ɑɑ eikæ kohdellɑ t̪ɑi rɑŋɑist̪ɑ julmɑst̪i epæinhimillisest̪i t̪ɑiɑlent̪ɑʋɑst̪i
+fin_0072	
+fin_0073	ɑrt̪iklɑ
+fin_0074	
+fin_0075	ɑrt̪iklɑ
+fin_0076	
+fin_0077	ɑrt̪ik
+fin_0078	
+fin_0079	ɑrt̪iklɑ
+fin_0080	lɑ
+fin_0081	jokɑisellɑ ihmisellæ on kɑikkiɑllɑ oikeus siihen et̪t̪æ hænet̪ henkilønæ t̪unnust̪et̪ɑɑnlɑin edessæ
+fin_0082	
+fin_0083	ɑrt̪iklɑ
+fin_0084	
+fin_0085	ɑrt̪iklɑ
+fin_0086	
+fin_0087	ɑrt̪iklɑ
+fin_0088	
+fin_0089	ɑrt̪iklɑ
+fin_0090	kɑikki oʋɑt̪ t̪ɑsɑʋert̪ɑisiɑ lɑin edessæ jɑ oikeut̪et̪ut̪ erot̪ukset̪t̪ɑ yht̪ælæiseen lɑinsuojɑɑn
+fin_0091	kɑikillɑ on oikeus t̪ɑsɑʋert̪ɑiseen suojɑɑn t̪æt̪æ julist̪ust̪ɑ loukkɑɑʋɑɑsyrjint̪ææ ʋɑst̪ɑɑn sekæ kɑikkeɑ sellɑiseen syrjint̪ææn t̪æht̪ææʋææ yllyt̪yst̪æ ʋɑst̪ɑɑn
+fin_0092	
+fin_0093	ɑrt̪iklɑ
+fin_0094	
+fin_0095	ɑrt̪iklɑ
+fin_0096	
+fin_0097	ɑrt̪iklɑ
+fin_0098	
+fin_0099	ɑrt̪iklɑ
+fin_0100	jokɑisellɑ on oikeus t̪ehokkɑɑseen hyʋit̪ykseen ɑsiɑnomɑisessɑ kɑnsɑllisessɑt̪uomioist̪uimessɑ hæneen kohdist̪uneist̪ɑ t̪eoist̪ɑ jot̪kɑ loukkɑɑʋɑt̪ hænelleʋɑlt̪iosæænnøllæ t̪ɑi lɑillɑ t̪urʋɑt̪t̪ujɑ perusoikeuksiɑ
+fin_0101	
+fin_0102	ɑrt̪iklɑ
+fin_0103	
+fin_0104	ɑrt̪iklɑ
+fin_0105	
+fin_0106	ɑrt̪iklɑ
+fin_0107	
+fin_0108	ɑrt̪iklɑ
+fin_0109	ket̪ææn ei sɑɑ mieliʋɑlt̪ɑisest̪i pidæt̪t̪ææ ʋɑŋit̪ɑ t̪ɑi ɑjɑɑ mɑɑnpɑkoon
+fin_0110	
+fin_0111	ɑrt̪iklɑ
+fin_0112	
+fin_0113	ɑrt̪iklɑ
+fin_0114	
+fin_0115	ɑrt̪iklɑ
+fin_0116	
+fin_0117	ɑrt̪iklɑ
+fin_0118	jokɑisellɑ on t̪æysin t̪ɑsɑɑrʋoisest̪i oikeus siihen et̪t̪æ hænt̪æ oikeudenmukɑisest̪ijɑ julkisest̪i kuullɑɑn riippumɑt̪t̪omɑssɑ jɑ puolueet̪t̪omɑssɑ t̪uomioist̪uimessɑhænen oikeuksiɑɑn jɑ ʋelʋollisuuksiɑɑn mææræt̪t̪æessæ t̪ɑi hænt̪æ ʋɑst̪ɑɑn nost̪et̪t̪uɑrikossyyt̪et̪t̪æ selʋit̪et̪t̪æessæ
+fin_0119	
+fin_0120	ɑrt̪iklɑ
+fin_0121	
+fin_0122	ɑrt̪iklɑ
+fin_0123	
+fin_0124	ɑrt̪iklɑ
+fin_0125	
+fin_0126	ɑrt̪iklɑ
+fin_0127	
+fin_0128	jokɑisen rikollisest̪ɑ t̪eost̪ɑ syyt̪t̪eessæ oleʋɑn henkiløn edellyt̪et̪æænoleʋɑn syyt̪øn siihen ɑst̪i kunnes hænen syyllisyyt̪ensæ on lɑillisest̪it̪odist̪et̪t̪u julkisessɑ oikeudenkæynnissæ jossɑ hænelle t̪urʋɑt̪ɑɑn kɑikkihænen puolust̪ust̪ɑɑn ʋɑrt̪en t̪ɑrpeelliset̪ t̪ɑkeet̪
+fin_0129	
+fin_0130	ket̪ææn ei pidæ t̪uomit̪ɑ rɑŋɑist̪ɑʋɑksi t̪eoist̪ɑ t̪ɑi lɑiminlyønneist̪æ jot̪kɑeiʋæt̪ kɑnsɑllisen t̪ɑi kɑnsɑinʋælisen oikeuden mukɑɑn olleet̪ rikollisiɑt̪ekohet̪kellæ
+fin_0131	myøskææn ei pidæ t̪uomit̪ɑ ɑnkɑrɑmpɑɑn rɑŋɑist̪ukseenkuin mikæ oli soʋellet̪t̪ɑʋissɑ rɑŋɑist̪ɑʋɑn t̪eon suorit̪uʃet̪kellæ
+fin_0132	
+fin_0133	ɑrt̪iklɑ
+fin_0134	
+fin_0135	ɑrt̪iklɑ
+fin_0136	
+fin_0137	ɑrt̪iklɑ
+fin_0138	
+fin_0139	ɑrt̪iklɑ
+fin_0140	ælkøøn mieliʋɑlt̪ɑisest̪i puut̪ut̪t̪ɑko kenenkææn yksit̪yiselæmææn perheeseen kot̪iint̪ɑi kirjeenʋɑiht̪oon ælkøønkæ loukɑt̪t̪ɑko kenenkææn kunniɑɑ jɑ mɑinet̪t̪ɑ
+fin_0141	jokɑisellɑ on oikeus lɑin suojɑɑn sellɑist̪ɑ puut̪t̪umist̪ɑ t̪ɑi loukkɑust̪ɑ ʋɑst̪ɑɑn
+fin_0142	
+fin_0143	ɑrt̪iklɑ
+fin_0144	
+fin_0145	ɑrt̪iklɑ
+fin_0146	
+fin_0147	ɑrt̪iklɑ
+fin_0148	
+fin_0149	ɑrt̪iklɑ
+fin_0150	
+fin_0151	jokɑisellɑ on oikeus liikkuɑ ʋɑpɑɑst̪i jɑ ʋɑlit̪ɑ ɑsuinpɑikkɑnsɑ kunkinʋɑlt̪ion sisællæ
+fin_0152	
+fin_0153	jokɑisellɑ on oikeus læht̪eæ mɑɑst̪ɑ myøs omɑst̪ɑ mɑɑst̪ɑɑn jɑ pɑlɑt̪ɑmɑɑhɑnsɑ
+fin_0154	
+fin_0155	ɑrt̪iklɑ
+fin_0156	
+fin_0157	ɑrt̪iklɑ
+fin_0158	
+fin_0159	ɑrt̪iklɑ
+fin_0160	
+fin_0161	ɑrt̪iklɑ
+fin_0162	
+fin_0163	jokɑisellɑ ʋɑinon koht̪eeksi jout̪uneellɑ on oikeus hɑkeɑ jɑ nɑut̪t̪iɑt̪urʋɑpɑikkɑɑ muissɑ mɑissɑ
+fin_0164	
+fin_0165	t̪æhæn oikeut̪een ei ʋoidɑ ʋedot̪ɑ kun on kysymys t̪osi epæpoliit̪t̪isist̪ɑrikoksist̪ɑ joht̪uʋist̪ɑ syyt̪t̪eist̪æ t̪ɑi t̪eoist̪ɑ jot̪kɑ oʋɑt̪ ʋɑst̪oin yhdist̪yneiden
+fin_0166	kɑnsɑkunt̪ien periɑɑt̪t̪eit̪ɑ jɑ pææmææriæ
+fin_0167	
+fin_0168	ɑrt̪iklɑ
+fin_0169	
+fin_0170	ɑrt̪iklɑ
+fin_0171	
+fin_0172	ɑrt̪iklɑ
+fin_0173	
+fin_0174	ɑrt̪iklɑ
+fin_0175	
+fin_0176	jokɑisellɑ on oikeus kɑnsɑlɑisuut̪een
+fin_0177	
+fin_0178	kelt̪ææn ei sɑɑ mieliʋɑlt̪ɑisest̪i riist̪ææ kɑnsɑlɑisuut̪t̪ɑ eikæ eʋæt̪æ oikeut̪t̪ɑkɑnsɑlɑisuuden ʋɑiht̪ɑmiseen
+fin_0179	
+fin_0180	ɑrt̪iklɑ
+fin_0181	
+fin_0182	ɑrt̪iklɑ
+fin_0183	
+fin_0184	ɑrt̪iklɑ
+fin_0185	
+fin_0186	ɑrt̪iklɑ
+fin_0187	
+fin_0188	t̪æysiikæisillæ miehillæ jɑ nɑisillɑ on oikeus solmiɑ ɑʋioliit̪t̪o jɑ perust̪ɑɑperhe ilmɑn minkæænlɑisiɑ rodust̪ɑ kɑnsɑlɑisuudest̪ɑ t̪ɑi uskonnost̪ɑjoht̪uʋiɑ rɑjoit̪uksiɑ
+fin_0189	heillæ on yht̪ælæiset̪ oikeudet̪ ɑʋioliit̪t̪oon ɑʋioliit̪onɑikɑnɑ jɑ sen purkɑmisen jælkeen
+fin_0190	
+fin_0191	ɑʋioliit̪on solmiminen t̪ɑpɑht̪ukoon ʋɑin t̪uleʋien ɑʋiopuolisoiden ʋɑpɑɑst̪ɑjɑ t̪æydest̪æ suost̪umuksest̪ɑ
+fin_0192	
+fin_0193	perhe on yht̪eiskunnɑn luonnollinen jɑ perust̪ɑʋɑ ydinosɑ jɑ sillæ on oikeusyht̪eiskunnɑn jɑ ʋɑlt̪ion suojɑɑn
+fin_0194	
+fin_0195	ɑrt̪iklɑ
+fin_0196	
+fin_0197	ɑrt̪iklɑ
+fin_0198	
+fin_0199	ɑrt̪iklɑ
+fin_0200	
+fin_0201	ɑrt̪iklɑ
+fin_0202	
+fin_0203	jokɑisellɑ on oikeus omist̪ɑɑ omɑisuut̪t̪ɑ yksin t̪ɑi yhdessæ t̪oist̪en kɑnssɑ
+fin_0204	
+fin_0205	kelt̪ææn ælkøøn mieliʋɑlt̪ɑisest̪i riist̪et̪t̪ækø hænen omɑisuut̪t̪ɑɑn
+fin_0206	
+fin_0207	ɑrt̪iklɑ
+fin_0208	
+fin_0209	ɑrt̪iklɑ
+fin_0210	
+fin_0211	ɑrt̪iklɑ
+fin_0212	
+fin_0213	ɑrt̪iklɑ
+fin_0214	jokɑisellɑ ihmisellæ on ɑjɑt̪uksen omɑnt̪unnon jɑ uskonnon ʋɑpɑus
+fin_0215	t̪æmæ oikeussisælt̪ææ ʋɑpɑuden uskonnon t̪ɑi ʋɑkɑumuksen ʋɑiht̪ɑmiseen sekæ uskonnon t̪ɑiʋɑkɑumuksen julist̪ɑmiseen yksin t̪ɑi yhdessæ t̪oist̪en kɑnssɑ sekæ julkisest̪i et̪t̪æyksit̪yisest̪i opet̪t̪ɑmɑllɑ sekæ hɑrjoit̪t̪ɑmɑllɑ hɑrt̪ɑut̪t̪ɑ jɑ uskonnollisiɑ menojɑ
+fin_0216	
+fin_0217	ɑrt̪iklɑ
+fin_0218	
+fin_0219	ɑrt̪iklɑ
+fin_0220	
+fin_0221	ɑrt̪iklɑ
+fin_0222	
+fin_0223	ɑrt̪iklɑ
+fin_0224	jokɑisellɑ on oikeus mielipit̪een jɑ sɑnɑnʋɑpɑut̪een
+fin_0225	t̪æhæn sisælt̪yy oikeuʃæirit̪semæt̪t̪æ pit̪ææ mielipit̪eensæ sekæ oikeus rɑjoist̪ɑ riippumɑt̪t̪ɑ hɑnkkiɑʋɑst̪ɑɑnot̪t̪ɑɑ jɑ leʋit̪t̪ææ t̪iet̪ojɑ kɑikkien t̪iedot̪usʋælineiden kɑut̪t̪ɑ
+fin_0226	
+fin_0227	ɑrt̪iklɑ
+fin_0228	
+fin_0229	ɑrt̪iklɑ
+fin_0230	
+fin_0231	ɑrt̪iklɑ
+fin_0232	
+fin_0233	ɑrt̪iklɑ
+fin_0234	
+fin_0235	kɑikillɑ on oikeus rɑuhɑnomɑiseen kokoont̪umis jɑ yhdist̪ymisʋɑpɑut̪een
+fin_0236	
+fin_0237	ket̪ææn ei sɑɑ pɑkot̪t̪ɑɑ liit̪t̪ymææn mihinkææn yhdist̪ykseen
+fin_0238	
+fin_0239	ɑrt̪iklɑ
+fin_0240	
+fin_0241	ɑrt̪iklɑ
+fin_0242	
+fin_0243	ɑrt̪iklɑ
+fin_0244	
+fin_0245	ɑrt̪iklɑ
+fin_0246	
+fin_0247	jokɑisellɑ on oikeus osɑllist̪uɑ mɑɑnsɑ hɑllit̪semiseen joko ʋælit̪t̪ømæst̪i t̪ɑiʋɑpɑɑst̪i ʋɑlit̪t̪ujen edust̪ɑjien ʋælit̪yksellæ
+fin_0248	
+fin_0249	jokɑisellɑ on yht̪ælæinen oikeus pææst̪æ mɑɑnsɑ julkisiin t̪oimiin
+fin_0250	
+fin_0251	kɑnsɑn t̪ɑht̪o on hɑllit̪usʋɑllɑn perust̪ɑ
+fin_0252	t̪æmæ t̪ɑht̪o on ilmɑist̪ɑʋɑmææræɑikɑisillɑ jɑ ɑidoillɑ ʋɑɑleillɑ joissɑ kɑikillɑ on yleinen jɑ yht̪ælæinenæænioikeus jɑ joissɑ æænest̪ys on sɑlɑinen t̪ɑi muut̪ɑ ʋɑɑliʋɑpɑudent̪urʋɑɑʋɑɑ menet̪t̪elyæ noudɑt̪t̪ɑʋɑ
+fin_0253	
+fin_0254	ɑrt̪iklɑ
+fin_0255	
+fin_0256	ɑrt̪iklɑ
+fin_0257	
+fin_0258	ɑrt̪iklɑ
+fin_0259	
+fin_0260	ɑrt̪iklɑ
+fin_0261	jokɑisellɑ on yht̪eiskunnɑn jæsenenæ oikeus sosiɑɑlit̪urʋɑɑn sekæ oikeuskɑnsɑllist̪en t̪oimenpit̪eiden jɑ kɑnsɑinʋælisen yht̪eist̪yøn kɑut̪t̪ɑ kunkin mɑɑnjærjest̪elmæ jɑ ʋoimɑʋɑrɑt̪ huomioonot̪t̪ɑen nɑut̪t̪iɑ hænen ihmisɑrʋolleen jɑ hænenyksiløllisen olemuksensɑ ʋɑpɑɑlle kehit̪t̪ymiselle ʋælt̪t̪æmæt̪t̪ømiæ t̪ɑloudellisiɑsosiɑɑlisiɑ jɑ siʋist̪yksellisiæ oikeuksiɑ
+fin_0262	
+fin_0263	ɑrt̪iklɑ
+fin_0264	
+fin_0265	ɑrt̪iklɑ
+fin_0266	
+fin_0267	ɑrt̪iklɑ
+fin_0268	
+fin_0269	ɑrt̪iklɑ
+fin_0270	
+fin_0271	jokɑisellɑ on oikeus t̪yøhøn t̪yøpɑikɑn ʋɑpɑɑseen ʋɑlint̪ɑɑnoikeudenmukɑisiin jɑ t̪yydyt̪t̪æʋiin t̪yøeht̪oihin sekæ suojɑɑn t̪yøt̪t̪ømyyt̪t̪æʋɑst̪ɑɑn
+fin_0272	
+fin_0273	jokɑisellɑ on oikeus ilmɑn minkæænlɑist̪ɑ syrjint̪ææ sɑmɑɑn pɑlkkɑɑnsɑmɑst̪ɑ t̪yøst̪æ
+fin_0274	
+fin_0275	jokɑisellɑ t̪yøt̪æ t̪ekeʋællæ on oikeus koht̪uulliseen jɑ riit̪t̪æʋææn pɑlkkɑɑnjokɑ t̪urʋɑɑ hænelle jɑ hænen perheelleen ihmisɑrʋon mukɑisent̪oimeent̪ulon jɑ jot̪ɑ t̪ɑrpeen ʋɑɑt̪iessɑ t̪æydent̪æʋæt̪ muut̪ sosiɑɑlisensuojelun keinot̪
+fin_0276	
+fin_0277	jokɑisellɑ on oikeus perust̪ɑɑ ɑmmɑt̪t̪iyhdist̪yksiæ jɑ liit̪t̪yæ niihin et̪ujensɑpuolust̪ɑmiseksi
+fin_0278	
+fin_0279	ɑrt̪iklɑ
+fin_0280	
+fin_0281	ɑrt̪iklɑ
+fin_0282	
+fin_0283	ɑrt̪iklɑ
+fin_0284	
+fin_0285	ɑrt̪iklɑ
+fin_0286	jokɑisellɑ on oikeus lepoon jɑ ʋɑpɑɑɑikɑɑn t̪yøɑjɑn jærkeʋææn rɑjoit̪t̪ɑmiseensekæ mææræɑikɑisiin pɑlkɑllisiin lomiin
+fin_0287	
+fin_0288	ɑrt̪iklɑ
+fin_0289	
+fin_0290	ɑrt̪iklɑ
+fin_0291	
+fin_0292	ɑrt̪iklɑ
+fin_0293	
+fin_0294	ɑrt̪iklɑ
+fin_0295	
+fin_0296	jokɑisellɑ on oikeus elint̪ɑsoon jokɑ on riit̪t̪æʋæ t̪urʋɑɑmɑɑn hænen jɑhænen perheensæ t̪erʋeyden jɑ hyʋinʋoinnin rɑʋinnon ʋɑɑt̪et̪uksenɑsunnon læækint̪æhuollon jɑ ʋælt̪t̪æmæt̪t̪ømæn yht̪eiskunnɑllisen huollonosɑlt̪ɑ
+fin_0297	jokɑisellɑ on myøs oikeus t̪urʋɑɑn t̪yøt̪t̪ømyyden sɑirɑudent̪ɑpɑt̪urmɑn leskeyden t̪ɑi ʋɑnhuuden sekæ muun hænen t̪ɑhdost̪ɑɑnriippumɑt̪t̪ɑ t̪ɑpɑht̪uneen t̪oimeent̪ulon menet̪yksen ʋɑrɑlt̪ɑ
+fin_0298	
+fin_0299	æideillæ jɑ lɑpsillɑ on oikeus erit̪yiseen huolt̪oon jɑ ɑpuun
+fin_0300	kɑikkien lɑst̪enriippumɑt̪t̪ɑ siit̪æ oʋɑt̪ko he synt̪yneet̪ ɑʋioliit̪ossɑ t̪ɑi sen ulkopuolellɑt̪ulee nɑut̪t̪iɑ sɑmɑɑ yht̪eiskunnɑn suojɑɑ
+fin_0301	
+fin_0302	ɑrt̪iklɑ
+fin_0303	
+fin_0304	ɑrt̪iklɑ
+fin_0305	
+fin_0306	ɑrt̪iklɑ
+fin_0307	
+fin_0308	ɑrt̪iklɑ
+fin_0309	
+fin_0310	jokɑisellɑ on oikeus sɑɑdɑ opet̪ust̪ɑ
+fin_0311	opet̪uksen on olt̪ɑʋɑ ɑinɑkin ɑlkeisjɑ perusopet̪uksen osɑlt̪ɑ mɑksut̪ont̪ɑ
+fin_0312	ɑlkeisopet̪uksen on olt̪ɑʋɑpɑkollinen
+fin_0313	t̪eknist̪æ jɑ ɑmmɑt̪t̪iopet̪ust̪ɑ on olt̪ɑʋɑ yleisest̪i sɑɑt̪ɑʋillɑ jɑkorkeɑmmɑn opet̪uksen on olt̪ɑʋɑ ɑʋoinnɑ yht̪ælæisest̪i kɑikille heidænkykyjensæ mukɑɑn
+fin_0314	
+fin_0315	opet̪uksen on pyrit̪t̪æʋæ ihmisen persoonɑllisuuden t̪æyt̪een kehit̪t̪æmiseensekæ ihmisoikeuksien jɑ perusʋɑpɑuksien kunnioit̪t̪ɑmisenʋɑhʋist̪ɑmiseen
+fin_0316	sen t̪ulee edist̪ææ ymmært̪æmyst̪æ suʋɑit̪seʋɑisuut̪t̪ɑ jɑyst̪æʋyyt̪t̪æ kɑikkien kɑnsɑkunt̪ien jɑ kɑikkien rot̪u jɑ uskont̪oryhmienkesken sekæ pyrkiæ edist̪æmææn yhdist̪yneiden kɑnsɑkunt̪ien t̪oimint̪ɑɑrɑuhɑn yllæpit̪æmiseksi
+fin_0317	
+fin_0318	ʋɑnhemmillɑ on ensisijɑinen oikeus ʋɑlit̪ɑ heidæn lɑpsilleen ɑnnet̪t̪ɑʋɑnopet̪uksen lɑɑt̪u
+fin_0319	
+fin_0320	ɑrt̪iklɑ
+fin_0321	
+fin_0322	ɑrt̪iklɑ
+fin_0323	
+fin_0324	ɑrt̪iklɑ
+fin_0325	
+fin_0326	ɑrt̪iklɑ
+fin_0327	
+fin_0328	jokɑisellɑ on oikeus ʋɑpɑɑst̪i osɑllist̪uɑ yht̪eiskunnɑn siʋist̪yselæmæænnɑut̪t̪iɑ t̪ɑit̪eist̪ɑ sekæ pææst̪æ osɑlliseksi t̪iet̪een edist̪yksen mukɑnɑɑnt̪uomist̪ɑ eduist̪ɑ
+fin_0329	
+fin_0330	jokɑisellɑ on oikeus niiden henkist̪en jɑ ɑineellist̪en et̪ujen suojɑɑmiseenjot̪kɑ joht̪uʋɑt̪ hænen luomɑst̪ɑɑn t̪iet̪eellisest̪æ kirjɑllisest̪ɑ t̪ɑi t̪ɑit̪eellisest̪ɑt̪uot̪ɑnnost̪ɑ
+fin_0331	
+fin_0332	ɑrt̪iklɑ
+fin_0333	
+fin_0334	ɑrt̪iklɑ
+fin_0335	
+fin_0336	ɑrt̪iklɑ
+fin_0337	
+fin_0338	ɑrt̪iklɑ
+fin_0339	jokɑisellɑ on oikeus sellɑiseen yht̪eiskunnɑlliseen jɑ kɑnsɑinʋæliseenjærjest̪ykseen jonkɑ puit̪t̪eissɑ t̪æssæ julist̪uksessɑ esit̪et̪yt̪ oikeudet̪ jɑʋelʋollisuudet̪ ʋoiʋɑt̪ t̪æysin t̪ot̪eut̪uɑ
+fin_0340	
+fin_0341	ɑrt̪iklɑ
+fin_0342	
+fin_0343	ɑrt̪iklɑ
+fin_0344	
+fin_0345	ɑrt̪iklɑ
+fin_0346	
+fin_0347	ɑrt̪iklɑ
+fin_0348	
+fin_0349	jokɑisellɑ ihmisellæ on ʋelʋollisuuksiɑ yht̪eiskunt̪ɑɑ koht̪ɑɑn koskɑ ʋɑinsen puit̪t̪eissɑ hænen yksiløllisen olemuksensɑ ʋɑpɑɑ jɑ t̪æysi kehit̪ys onmɑhdollinen
+fin_0350	
+fin_0351	kæyt̪t̪æessææn oikeuksiɑɑn jɑ nɑut̪t̪iessɑɑn ʋɑpɑuksiɑɑn kukɑɑn ei olemuiden kuin sellɑist̪en lɑillɑ sæædet̪t̪yjen rɑjoit̪ust̪en ɑlɑinen joidenyksinomɑisenɑ t̪ɑrkoit̪uksenɑ on t̪urʋɑt̪ɑ t̪oist̪en oikeuksien jɑ ʋɑpɑuksient̪unnust̪ɑminen jɑ kunnioit̪t̪ɑminen sekæ morɑɑlin julkisen jærjest̪yksen jɑyleisen hyʋinʋoinnin oikeut̪et̪ut̪ ʋɑɑt̪imukset̪ kɑnsɑnʋɑlt̪ɑisessɑyht̪eiskunnɑssɑ
+fin_0352	
+fin_0353	næit̪æ oikeuksiɑ jɑ ʋɑpɑuksiɑ ei missææn t̪ɑpɑuksessɑ sɑɑ kæyt̪t̪ææ ʋɑst̪oin
+fin_0354	yhdist̪yneiden kɑnsɑkunt̪ien pææmææriæ jɑ periɑɑt̪t̪eit̪ɑ
+fin_0355	
+fin_0356	ɑrt̪iklɑ
+fin_0357	
+fin_0358	ɑrt̪iklɑ
+fin_0359	
+fin_0360	ɑrt̪iklɑ
+fin_0361	
+fin_0362	ɑrt̪iklɑ
+fin_0363	mit̪ææn t̪æssæ julist̪uksessɑ ei sɑɑ t̪ulkit̪ɑ niin et̪t̪æ ʋɑlt̪io ryhmæ t̪ɑi yksit̪yinenhenkilø ʋoi sen perust̪eellɑ kɑt̪soɑ oikeudekseen t̪ehdæ sellɑist̪ɑ mikæ ʋoisihæʋit̪t̪ææ t̪æssæ mæærit̪elt̪yjæ oikeuksiɑ jɑ ʋɑpɑuksiɑ
