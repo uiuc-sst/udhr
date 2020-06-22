@@ -12,7 +12,7 @@ and then aligning them to the corresponding texts.
 
 ## How to use the corpus
 
-Segmented text and phone transcriptions are distributed with the
+Segmented text and automatically generated phone transcriptions are distributed with the
 corpus (in the "text" and "phones" subdirectories, respectively).
 Audio is not distributed with the corpus.  To get it, you'll need
 to have wget, unzip, ffmpeg, and python >=3.7 installed; then try the
@@ -37,15 +37,20 @@ rest of exp.
 ## How to download the original text sources
 
 If you want to download the original source texts from
-United Nations, you can use
-scripts/prepare_data.py --text to do that.  You'll need to have some
-command-line utilities installed; see the script for more details.
+United Nations:
+```bash
+python scripts/prepare_data.py --text
+```
 
 If you want to convert the texts into international phonetic alphabet,
-using the languagenet G2Ps, you can use scripts/prepare_data.py --phones to do that.
-You'll need to have phonetisaurus installed.
+using the languagenet G2Ps: first, install
+[https://github.com/AdolfVonKleist/Phonetisaurus](Phonetisaurus).
+Then you can type
+```bash
+python scripts/prepare_data.py --phones
+```
 
-The sources themselves are listed in the files in the conf subdirectory.
+The source URLs are listed in the files in the conf subdirectory.
 
 ## How to contribute
 
@@ -56,7 +61,7 @@ The sources themselves are listed in the files in the conf subdirectory.
 2. If the UN has a translation in your language, but only in the form
    of an image, with no corresponding unicode text document, please
    consider transcribing the image to text, and donating it to them
-   and/or to me. Languages/Dialects in this situation currently
+   and/or to me. Languages in this situation currently
    include Hebrew, Oriya, Tamil, Urdu, Yiddish.
 
 3. If librivox doesn't have an audio recording in your language, please
