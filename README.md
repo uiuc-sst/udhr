@@ -63,6 +63,7 @@ The source URLs are listed in the files in the conf subdirectory.
    consider transcribing the image to text, and donating it to them
    and/or to me. Languages in this situation currently
    include Hebrew, Oriya, Tamil, Urdu, Yiddish.
+   One source for unicode text is https://unicode.org/udhr/translations.html.
 
 3. If librivox doesn't have an audio recording in your language, please
    consider donating one.  Register for a librivox account at
