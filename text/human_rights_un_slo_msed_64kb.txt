@@ -1,97 +1,95 @@
-human_rights_un_slo_msed_64kb_0001	VŠEOBECNÁ DEKLARÁCIA ĽUDSKÝCH PRÁV 
-human_rights_un_slo_msed_64kb_0002	PREAMBULA
-human_rights_un_slo_msed_64kb_0003	Vo  vedomí,  že  uznanie  prirodzenej  dôstojnosti  a  rovných  a  neodcudziteľných  práv  členovľudskej rodiny je základom slobody, spravodlivosti a mieru na svete,že  neuznanie  ľudských  práv  a  pohŕdanie  nimi  viedlo  k  barbarským  činom,  ktoré  urážajúsvedomie ľudstva, a že  vybudovanie sveta, v ktorom ľudia zbavení  strachu a núdze sa  budútešiť slobode prejavu a presvedčenia, bolo vyhlásené za najvyšší cieľ ľudstva,že je nutné, aby sa ľudské práva chránili zákonom, ak nemá byť človek donútený uchýliť sa, ažkeď všetko ostatné zlyhalo, k odboju proti tyranii a útlaku,že je nutné podporovať rozvoj priateľských vzťahov medzi národmi,že národy Organizácie Spojených národov zdôraznili v Charte znovu svoju vieru v základnéľudské práva, v dôstojnosť a hodnotu ľudskej osobnosti, v rovnaké práva mužov a žien, že sarozhodli podporovať sociálny pokrok a vytvoriť lepšie životné podmienky vo väčšej slobode,že  členské  štáty  prevzali  záväzok  zaistiť  v  spolupráci  s  Organizáciou  Spojených  národovvšeobecné uznávanie a zachovávanie ľudských práv a základných slobôd aže rovnaké chápanie týchto práv a slobôd má nesmierny význam pre dôsledné splnenie tohtozáväzku,vyhlasuje
-human_rights_un_slo_msed_64kb_0004	VALNÉ ZHROMAŽDENIEtúto Všeobecnú deklaráciu ľudských práv ako spoločný cieľ pre všetky národy a všetky štáty,aby sa každý jednotlivec a každý orgán spoločnosti, majúc túto deklaráciu stále na mysli, snažilvyučovaním  a  výchovou  rozšíriť  úctu  k  týmto  právam  a  slobodám  a  zaistiť  postupnýmiopatreniami  vnútroštátnymi  i  medzinárodnými  ich  všeobecné  a  účinné  uznávanie  azachovávanie ako medzi ľudom členských štátov samotných, tak medzi ľudom území, ktoré súpod ich správou.
-human_rights_un_slo_msed_64kb_0005	Článok 1
-human_rights_un_slo_msed_64kb_0006	Všetci ľudia sa rodia slobodní a sebe rovní, v ich dôstojnosti a právach.
-human_rights_un_slo_msed_64kb_0007	Sú obdarení rozumoma svedomím a majú navzájom konať v duchu bratstva.
-human_rights_un_slo_msed_64kb_0008	Článok 2
-human_rights_un_slo_msed_64kb_0009	Každý  má  všetky  práva  a  všetky  slobody,  vyhlásené  v  tejto  deklarácii,  bez  ohľadu  na  rasu,farbu, pohlavie, jazyk, náboženstvo, politické alebo iné zmýšľanie, národnostný alebo sociálnypôvod, majetok, rod alebo iné postavenie.
-human_rights_un_slo_msed_64kb_0010	Žiaden  rozdiel  sa  nebude  robiť  na  základe  politického,  právneho  alebo  medzinárodnéhopostavenia  krajiny  alebo  územia,  ku  ktorému  osoba  patrí,  či  je  to  krajina  alebo  územienezávislé,  poručnícke,  nesamosprávne  alebo  podrobené  akémukoľvek  inému  obmedzeniusuverenity.
-human_rights_un_slo_msed_64kb_0011	Článok 3
+human_rights_un_slo_msed_64kb_0001	VŠOBECNÁ DEKLARÁCIA LUDSKÝCH PRÁV
+human_rights_un_slo_msed_64kb_0002	Úvod
+human_rights_un_slo_msed_64kb_0003	Vo vedomí že uznanie prirodzenej dôstojnosti a rovnych a neodcudzite ľných práv členov ľudskej rodiny je základom slobody, spravodlivosti a mieru na svete,že zneuznanie ľudských práv a pohrdanie nimi viedlo k barbarským činom, ktoré urážajú svedomie ľudstva, a že vybudovanie sveta, v ktorom ľudia, zbavení strachu a núdze, budú sa tešiť slobode prejavu a presvedčenia, bolo vyhlásené za najvyšší cieľ ľudu,že je nutné, aby sa ľudsk práva chránily zákonom, ak nemá byť človek donúteý uchýliť sa, keď všetko ostatné zlyhalo, k odboju proti tyranii a útlaku,že je nutné podporovať rozvoj priateľských vzťahov medzi národmi,že ľud Spojených národov zdoraznil v Charte znovu svoju vieru v základné ľudské práva, v dostojnosť a hodnotu ľudskej osobnosti, v rovnaké práva mužov a žien a že sa rozhodol podporovať sociálny pokrok a vytvoriť lepšie životné podmienky za vačšej slobody,že členské štáty prevzaly závazok zaistiť v spolupráci s Organizáciou Spojeých národov všeobecné uznávanie a zachovávanie ľudských práv a základýých slobod aže rovnaké chápanie týchto práv a slobod má nesmierny význam pre dokonalé splnenie tohto závazku,vyhlasuje
+human_rights_un_slo_msed_64kb_0004	VALNÉ SHROMAŽDENIEtúto všeobecnú deklaráciu ľudských práv ako spoločný cieľ pre všetky národy a všetky štáty, aby sa každý jednotlivec a každý orgán spoločnosti, majúc túto deklaráciu stále na mysli, snažil vyučovaním a výchovou rozšíriť úctu k týmto právam a slobodám a zaistiť postupnými opatreniami vnútroštátnými i medzinárodnými ich všeobecné a účinné uznávanie a zachovávanie ako medzi ľudom členských štátov samých, tak medzi ľudom území , ktoré sú pod ich právomocou.
+human_rights_un_slo_msed_64kb_0005	Článok 1.
+human_rights_un_slo_msed_64kb_0006	Všetci ľudia sa rodia slobodní a sebe rovní , čo sa týka ich dostojnosti a práv.
+human_rights_un_slo_msed_64kb_0007	Sú obdarení rozumom a majú navzájom jednať v bratskom duchu.
+human_rights_un_slo_msed_64kb_0008	Článok 2.
+human_rights_un_slo_msed_64kb_0009	Každý má všetky práva a všetky slobody, vyhlášené v tejto deklarácii, bez hociakého rozlišovania najma pod ľa rasy, farby, pohlavia, jazyka, náboženstva, politického alebo iného smýšľania, národnostného alebo sociálného povodu, majetku, rodu alebo iného postavenia
+human_rights_un_slo_msed_64kb_0010	Žiaden rozdiel sa nebude robiť na podklade politického, právného alebo nedzinárodného postavenia krajiny alebo územia, ku ktorému osoba prí sluší, či je to krajina alebo územie nezávislé alebo pod poručenstvom, nesamosprávne alebo podrobené hociakému inému obmedzeniu suverenity.
+human_rights_un_slo_msed_64kb_0011	Článok 3.
 human_rights_un_slo_msed_64kb_0012	Každý má právo na život, slobodu a osobnú bezpečnosť.
-human_rights_un_slo_msed_64kb_0013	Článok 4
-human_rights_un_slo_msed_64kb_0014	Nikto nesmie byť držaný v otroctve alebo v nevoľníctve, všetky formy otroctva a obchodu sotrokmi sú zakázané.
-human_rights_un_slo_msed_64kb_0015	Článok 5
-human_rights_un_slo_msed_64kb_0016	Nikto  nesmie  byť  mučený  alebo  podrobený  krutému,  neľudskému  alebo  ponižujúcemuzaobchádzaniu alebo trestu.
-human_rights_un_slo_msed_64kb_0017	Článok 6
-human_rights_un_slo_msed_64kb_0018	Každý má právo, aby bol všade uznávaný jeho právny status.
-human_rights_un_slo_msed_64kb_0019	Článok 7
-human_rights_un_slo_msed_64kb_0020	Všetci sú si pred zákonom rovní a majú právo na rovnakú  zákonnú ochranu bez akejkoľvekdiskriminácie.
-human_rights_un_slo_msed_64kb_0021	Všetci  majú  právo  na  rovnakú  ochranu  proti  akejkoľvek  diskriminácii,  ktoráporušuje túto deklaráciu, a proti akémukoľvek podnecovaniu k takej diskriminácii.
-human_rights_un_slo_msed_64kb_0022	Článok 8
-human_rights_un_slo_msed_64kb_0023	Každý má právo na účinnú ochranu príslušnými vnútroštátnymi súdmi proti činom porušujúcimzákladné práva, ktoré mu priznáva ústava alebo zákon.
-human_rights_un_slo_msed_64kb_0024	Článok 9
-human_rights_un_slo_msed_64kb_0025	Nikto nesmie byť svojvoľne zatknutý, zadržaný alebo vyhostený.
-human_rights_un_slo_msed_64kb_0026	Článok 10
-human_rights_un_slo_msed_64kb_0027	Každý má rovnaké právo, aby bol spravodlivo a verejne vypočutý nezávislým a nestrannýmsúdom, ktorý rozhoduje o jeho právach  a povinnostiach a o  akomkoľvek  trestnom obvinení,vznesenom proti nemu.
-human_rights_un_slo_msed_64kb_0028	Článok 11
-human_rights_un_slo_msed_64kb_0029	(1) Každý, kto je obvinený z trestného činu, má právo, aby bol považovaný za nevinného, kýmnie je zákonným postupom dokázaná jeho vina vo verejnom  procese, pri ktorom mal všetkyzáruky nevyhnutné na jeho obhajobu.
-human_rights_un_slo_msed_64kb_0030	(2) Nikto nesmie byť uznaný vinným zo spáchania akéhokoľvek trestného činu spočívajúcehov konaní  alebo  opomenutí,  ktoré  v  čase,  keď  bolo  spáchané,  nebolo  trestným  činom  podľavnútroštátneho alebo medzinárodného práva.
-human_rights_un_slo_msed_64kb_0031	Rovnako nesmie byť uložený ťažší trest ako trest,ktorý mohol byť uložený v čase, keď bol trestný čin spáchaný.
-human_rights_un_slo_msed_64kb_0032	Článok 12
-human_rights_un_slo_msed_64kb_0033	Nikto nesmie byť vystavený svojvoľnému zasahovaniu do súkromného života, rodiny, domovaalebo korešpondencie, ani útokom na svoju česť a povesť.
-human_rights_un_slo_msed_64kb_0034	Každý má právo na zákonnú ochranuproti takýmto zásahom alebo útokom.
-human_rights_un_slo_msed_64kb_0035	Článok 13
-human_rights_un_slo_msed_64kb_0036	(1) Každý má právo slobodne sa pohybovať a slobodne si zvoliť bydlisko v každom štáte.
-human_rights_un_slo_msed_64kb_0037	(2) Každý má právo opustiť ktorúkoľvek krajinu, i svoju vlastnú, a vrátiť sa do svojej krajiny.
-human_rights_un_slo_msed_64kb_0038	Článok 14
-human_rights_un_slo_msed_64kb_0039	(1) Každý má právo vyhľadať a získať v iných krajinách azyl pred prenasledovaním.
-human_rights_un_slo_msed_64kb_0040	(2)  Toto  právo  nemožno  uplatňovať  v  prípade  stíhania  začatého  na  základe  nepolitickýchtrestných činov  alebo na základe činov, ktoré sú  v rozpore s cieľmi  a zásadami  Organizácie
-human_rights_un_slo_msed_64kb_0041	Spojených národov.
-human_rights_un_slo_msed_64kb_0042	Článok 15
-human_rights_un_slo_msed_64kb_0043	(1) Každý má právo na štátnu príslušnosť.
-human_rights_un_slo_msed_64kb_0044	(2)  Nikto  nesmie  byť  svojvoľne  zbavený  svojej  štátnej  príslušnosti,  ani  práva  svoju  štátnupríslušnosť zmeniť.
-human_rights_un_slo_msed_64kb_0045	Článok 16
-human_rights_un_slo_msed_64kb_0046	(1)  Muži  a  ženy,  ktorí  dosiahli  plnoletosť,  majú  právo  bez  obmedzenia  z  dôvodov  rasovej,národnostnej alebo náboženskej príslušnosti, uzavrieť manželstvo a založiť rodinu.
-human_rights_un_slo_msed_64kb_0047	Majú nárokna rovnaké práva na uzavretie manželstva, rovnaké práva počas manželstva aj pri jeho zrušení.
-human_rights_un_slo_msed_64kb_0048	(2)  Manželstvo  môže  byť  uzavreté  len  so  slobodným  a  riadnym  súhlasom  nastávajúcichmanželov.
-human_rights_un_slo_msed_64kb_0049	(3) Rodina je prirodzenou a základnou jednotkou  spoločnosti  a má nárok  na ochranu  tak  zostrany spoločnosti, ako aj štátu.
-human_rights_un_slo_msed_64kb_0050	Článok 17
-human_rights_un_slo_msed_64kb_0051	(1) Každý má právo vlastniť majetok sám, rovnako ako aj spolu s inými.
-human_rights_un_slo_msed_64kb_0052	(2) Nikto nesmie byť svojvoľne zbavený svojho majetku.
-human_rights_un_slo_msed_64kb_0053	Článok 18
-human_rights_un_slo_msed_64kb_0054	Každý má právo na slobodu myslenia, svedomia a náboženstva;
-human_rights_un_slo_msed_64kb_0055	toto právo zahŕňa aj sloboduzmeniť svoje náboženstvo alebo vieru, ako aj slobodu prejavovať svoje náboženstvo súkromne,vyučovaním, vykonávaním náboženských úkonov, bohoslužbou a zachovávaním obradov.
-human_rights_un_slo_msed_64kb_0056	Článok 19
-human_rights_un_slo_msed_64kb_0057	Každý  má  právo  na  slobodu  presvedčenia  a prejavu,  toto  právo  nepripúšťa,  aby  niekto  trpelujmu  pre  svoje  presvedčenie  a  zahŕňa  právo  vyhľadávať,  prijímať  a  rozširovať  informácie  amyšlienky všetkými prostriedkami a bez ohľadu na hranice.
-human_rights_un_slo_msed_64kb_0058	Článok 20
-human_rights_un_slo_msed_64kb_0059	(1) Každému je zaručená sloboda pokojného zhromažďovania a združovania sa.
-human_rights_un_slo_msed_64kb_0060	(2) Nikto nesmie byť nútený, aby bol členom nejakého združenia.
-human_rights_un_slo_msed_64kb_0061	Článok 21
-human_rights_un_slo_msed_64kb_0062	(1)  Každý  má  právo,  aby  sa  zúčastnil  na  správe  svojej  krajiny,  buď  priamo  aleboprostredníctvom slobodne volených zástupcov.
-human_rights_un_slo_msed_64kb_0063	(2) Každý má právo vstúpiť za rovnakých podmienok do verejných služieb svojej krajiny.
-human_rights_un_slo_msed_64kb_0064	(3) Základom vládnej moci je vôľa ľudu, táto vôľa má byť vyjadrená v pravidelných a riadnychvoľbách, na základe všeobecného a rovného hlasovacieho práva tajným hlasovaním alebo inýmrovnocenným postupom zabezpečujúcim slobodu hlasovania.
-human_rights_un_slo_msed_64kb_0065	Článok 22
-human_rights_un_slo_msed_64kb_0066	Každý človek má ako člen spoločnosti právo na sociálne zabezpečenie a nárok na to, aby muboli národným úsilím aj medzinárodnou súčinnosťou a v súlade s organizáciou a prostriedkamipríslušného  štátu  zaručené  hospodárske,  sociálne  a  kultúrne  práva,  nevyhnutné  pre  jehodôstojnosť a slobodný rozvoj jeho osobnosti.
-human_rights_un_slo_msed_64kb_0067	Článok 23
-human_rights_un_slo_msed_64kb_0068	(1) Každý má právo na  prácu, na slobodnú voľbu zamestnania, na spravodlivé a uspokojivépracovné podmienky a na ochranu pred nezamestnanosťou.
-human_rights_un_slo_msed_64kb_0069	(2) Každý má bez akejkoľvek diskriminácie nárok na rovnaký plat za rovnakú prácu.
-human_rights_un_slo_msed_64kb_0070	(3)  Každý  pracujúci  má  právo  na  spravodlivú  a  primeranú  odmenu,  ktorá  zabezpečuje  jemusamému  a  jeho  rodine  živobytie  zodpovedajúce  ľudskej  dôstojnosti,  a  doplnená,  v  prípadepotreby, inými prostriedkami sociálneho zabezpečenia.
-human_rights_un_slo_msed_64kb_0071	(4) Každý má právo na ochranu svojich záujmov zakladať odborové organizácie a pristupovaťk nim.
-human_rights_un_slo_msed_64kb_0072	Článok 24
-human_rights_un_slo_msed_64kb_0073	Každý  má  právo  na  odpočinok  a  zotavenie,  na  rozumné  vymedzenie  pracovných  hodín  apravidelnej platenej dovolenky.
-human_rights_un_slo_msed_64kb_0074	Článok 25
-human_rights_un_slo_msed_64kb_0075	(1) Každý má právo na takú životnú úroveň, ktorá môže zabezpečiť jemu i jeho rodine zdraviea blahobyt,  vrátane  stravy,  ošatenia,  bývania,  lekárskej  starostlivosti,  ako  aj  potrebnýchsociálnych  služieb,  má  právo  na  zabezpečenie  v  nezamestnanosti,  v  chorobe,  pri  pracovnejnespôsobilosti, pri ovdovení, v starobe alebo v iných prípadoch straty zárobkových možností,ktoré nastali za okolností nezávislých od jeho vôle.
-human_rights_un_slo_msed_64kb_0076	(2)  Materstvo  a  detstvo  majú  nárok  na  zvláštnu  starostlivosť  a  pomoc.
-human_rights_un_slo_msed_64kb_0077	Všetky  deti,  či  užnarodené v manželstve alebo mimo neho, majú rovnakú sociálnu ochranu.
-human_rights_un_slo_msed_64kb_0078	Článok 26
-human_rights_un_slo_msed_64kb_0079	(1) Každý má právo na vzdelanie.
-human_rights_un_slo_msed_64kb_0080	Vzdelanie je bezplatné, aspoň v začiatočných a základnýchstupňoch.
-human_rights_un_slo_msed_64kb_0081	Základné  vzdelanie  je  povinné.
-human_rights_un_slo_msed_64kb_0082	Technické  a  odborné  vzdelanie  je  všeobecneprístupné a vyššie vzdelanie má byť rovnako prístupné každému podľa jeho schopností.
-human_rights_un_slo_msed_64kb_0083	(2) Vzdelanie má smerovať k plnému rozvoju ľudskej osobnosti a k posilneniu úcty k ľudskýmprávam a základným slobodám.
-human_rights_un_slo_msed_64kb_0084	Má napomáhať k vzájomnému porozumeniu, znášanlivosti apriateľstvu medzi všetkými národmi a všetkými rasovými i náboženskými skupinami,  ako ajrozvoju činnosti Organizácie Spojených národov na zachovanie mieru.
-human_rights_un_slo_msed_64kb_0085	(3) Rodičia majú prednostné právo vybrať druh vzdelania, ktorý bude poskytnutý ich deťom.
-human_rights_un_slo_msed_64kb_0086	Článok 27
-human_rights_un_slo_msed_64kb_0087	(1) Každý má právo slobodne sa zúčastňovať na kultúrnom živote spoločnosti, mať potešeniez umenia a zúčastniť sa na vedeckom pokroku a na jeho výdobytkoch.
-human_rights_un_slo_msed_64kb_0088	(2)  Každý  má  právo  na  ochranu  morálnych  a  materiálnych  záujmov,  ktoré  vyplývajú  z  jehovedeckej, literárnej alebo umeleckej tvorby.
-human_rights_un_slo_msed_64kb_0089	Článok 28
-human_rights_un_slo_msed_64kb_0090	Každý má právo na to, aby vládol taký sociálny a medzinárodný poriadok, v ktorom by sa právaa slobody vyhlásené v tejto deklarácii uskutočňovali v plnom rozsahu.
-human_rights_un_slo_msed_64kb_0091	Článok 29
-human_rights_un_slo_msed_64kb_0092	(1)  Každý  má  povinnosti  voči  spoločnosti,  iba  v  nej  môže  slobodne  a  plne  rozvinúť  svojuosobnosť.
-human_rights_un_slo_msed_64kb_0093	(2) Vo výkone svojich práv a slobôd je každý podrobený iba takým obmedzeniam, ktoré stanovízákon  a  ktoré  slúžia  výhradne  k  zabezpečeniu  náležitého  uznávania  a  zachovávania  práv  aslobôd iných, ako aj k uspokojeniu spravodlivých požiadaviek morálky, verejného poriadku avšeobecného blaha v demokratickej spoločnosti.
-human_rights_un_slo_msed_64kb_0094	(3) Výkon týchto práv a slobôd nesmie byť v žiadnom prípade v rozpore s cieľmi a zásadami
-human_rights_un_slo_msed_64kb_0095	Organizácie Spojených národov.
-human_rights_un_slo_msed_64kb_0096	Článok 30
-human_rights_un_slo_msed_64kb_0097	V tejto deklarácii sa nesmie nič vykladať tak, aby to oprávňovalo akýkoľvek štát, skupinu aleboosobu vyvíjať činnosť alebo dopúšťať sa činov, ktoré by smerovali k potlačeniu niektorého zpráv alebo slobôd v tejto deklarácii vyhlásených.
+human_rights_un_slo_msed_64kb_0013	Článok 4.
+human_rights_un_slo_msed_64kb_0014	Nikto sa nesmie držať v otroctve alebo v nevoľníctve: všetky formy otroctva a obchodu s otrokmi sú zakázané.
+human_rights_un_slo_msed_64kb_0015	Článok 5.
+human_rights_un_slo_msed_64kb_0016	Nikto nesmie byť mučený alebo podrobený krutému, neľudskému alebo ponižujúcemu zaobchádzaniu alebo trestu.
+human_rights_un_slo_msed_64kb_0017	Článok 6.
+human_rights_un_slo_msed_64kb_0018	Každý má právo, aby bola všade uznávaná jeho právna osobnosť.
+human_rights_un_slo_msed_64kb_0019	Článok 7.
+human_rights_un_slo_msed_64kb_0020	Všetci sú si pred zákonom rovní a majú právo na rovnakú ochranu zákona bez hociakého rozlišovania.
+human_rights_un_slo_msed_64kb_0021	Všetci majú právo na rovnakú ochranu proti hociakej diskriminácii, ktorá porušuje túto deklaráciu, a proti každému podnűcovaniu k takej diskriminácii.
+human_rights_un_slo_msed_64kb_0022	Článok 8.
+human_rights_un_slo_msed_64kb_0023	Každý má právo, aby mu príslušné vnútroštátne súdy poskytly účinnú ochranu proti činom porušujúcim zčkladné práva, ktoré sú mu priznávané ústavou alebo zákonom.
+human_rights_un_slo_msed_64kb_0024	Článok 9.
+human_rights_un_slo_msed_64kb_0025	Nikto nesmie byť svojvoľne zatknutý, držaný vo vazbe alebo vyhnaný do vyhnanstva.
+human_rights_un_slo_msed_64kb_0026	Článok 10.
+human_rights_un_slo_msed_64kb_0027	Každý má úplne rovnaké právo, aby bol spravodlive a verejne vypočutý nezávislým a nestranným súdom, ktorý rozhoduje o jeho právach a povinnostiach a o každom trestnom obvinení, vznesenom proti nemu.
+human_rights_un_slo_msed_64kb_0028	Článok 11.
+human_rights_un_slo_msed_64kb_0029	Každý, kto je obvinený z trestného činu, považuje se za nevinného, dokiaľ nie je zákonným postupom dokázaná jeho vina vo verejnom pokračovaní, pri ktorom mal zaistené všetky možnosti obhajoby.
+human_rights_un_slo_msed_64kb_0030	Nikto nesmie byť odsúdený pre čin alebo opomenutia, ktoré v čase, ked' boly spáchané, neboly trestné podľa štátného alebo medzinárodného práva.
+human_rights_un_slo_msed_64kb_0031	Rovnako nesmie byť uložený ťažší trest než trest, ktorý mohol byť uložený v čase, ke trestný čin bol spáchaný.
+human_rights_un_slo_msed_64kb_0032	Článok 12.
+human_rights_un_slo_msed_64kb_0033	Nikto nesmie byť vystavený svojvoľnému zasahovaniu do súkromného života, rodiny, domova alebo korešpondencie, ani útokom na svoju česť a povesť.
+human_rights_un_slo_msed_64kb_0034	Každý má právo na zákonnú ochranu proti takýmto zásahom alebo útokom.
+human_rights_un_slo_msed_64kb_0035	Článok 13.
+human_rights_un_slo_msed_64kb_0036	(1) Každý má právo voľne sa pohybovať a slobodne si zvoliť bydlisko v tom - ktorom štáte.
+human_rights_un_slo_msed_64kb_0037	(2) Každý má právo opustiť hociktorú krajinu, i svoju vlastnú, a vrátiť sa do svojej krajiny.
+human_rights_un_slo_msed_64kb_0038	Článok 14.
+human_rights_un_slo_msed_64kb_0039	Každý má právo vyhľadať si pred prenasledovaním útočište v iných krajinách a požívať tam azyl.
+human_rights_un_slo_msed_64kb_0040	Toto právo nemožno uplatňovať v prípade stíhania na ozaj odôvodneného nepolitickými zločinmi alebo činmi, ktoré sú v rozpore s cieľami a zásadami Spojených národov.
+human_rights_un_slo_msed_64kb_0041	Článok 15.
+human_rights_un_slo_msed_64kb_0042	Každý má právo na štátnu príslušnosť.
+human_rights_un_slo_msed_64kb_0043	Nikto nesmie byť svojvoľne zbavený svojej štátnej príslušnosti, ani práva svoju štátnu príslušnosť zmieniť.
+human_rights_un_slo_msed_64kb_0044	Článok 16.
+human_rights_un_slo_msed_64kb_0045	Muži a ženy, ak dosiahli plnoletosť, majú právo bez hociakého obmedzenia z dôvodov rasovej, národnostei alebo náboženskej príslušnosti uzavrieť manželstvo a založiť rodinu.
+human_rights_un_slo_msed_64kb_0046	Čo sa manželstva týka, majú počas jeho trvania i pri jeho rozlúčení rovnaké práva.
+human_rights_un_slo_msed_64kb_0047	Manželstvá môžu byť uzavrené len so slobodným a plným súhlasom nastávajúcich manželov.
+human_rights_un_slo_msed_64kb_0048	Rodina je prirodzenou a základnou jednotkou spoločnosti a má nárok na ochranu so strany spoločnosti štátu.
+human_rights_un_slo_msed_64kb_0049	Článok 17.
+human_rights_un_slo_msed_64kb_0050	Každý má právo vlastniť majetok ako sám, tak spolu s inými.
+human_rights_un_slo_msed_64kb_0051	Nikto nesmie byť svojvoľne zbavený svojho majetku.
+human_rights_un_slo_msed_64kb_0052	Článok 18.
+human_rights_un_slo_msed_64kb_0053	Každý má právo na slobodu myslenia, svedomia a náboženstva;
+human_rights_un_slo_msed_64kb_0054	toto právo obsahuje aj voľnosť zmeniť náboženstvo alebo vieru, ako i slobodu prejavovať svoje náboženstvo alebo vieru, sám alebo společne s inými, či už verejne alebo súkromne, vyučovaním, vykonávaním náboženských úkonov, bohoslužbou a zachovávaním obradov.
+human_rights_un_slo_msed_64kb_0055	Článok 19.
+human_rights_un_slo_msed_64kb_0056	Každý má právo na slobodu presvedčenia a prejavu: toto právo nepripúšťa, aby niekto trpel ujmu pre svoje presvedčenie a zahrňuje právo vyhľadávať, prijímať a rozširovať informácie a myšlienky hociakými prostriedkami a bez ohľadu na hranice.
+human_rights_un_slo_msed_64kb_0057	Článok 20.
+human_rights_un_slo_msed_64kb_0058	Každému je zaručená sloboda pokojného shromažďovania a sdružovania sa.
+human_rights_un_slo_msed_64kb_0059	Nikto nesmie byť nútený, aby bol členom nejakého sdruženia.
+human_rights_un_slo_msed_64kb_0060	Článok 21.
+human_rights_un_slo_msed_64kb_0061	Každý má právo, aby sa účastnil na vláde svojej krajiny buď priamo, alebo prostredníctvom slobodne volených zástupcov.
+human_rights_un_slo_msed_64kb_0062	Každý má právo vstúpiť za rovnakých podmienok do verejných služieb svojej krajiny.
+human_rights_un_slo_msed_64kb_0063	Vôľa ľudu má byť základom vládnej moci: táto vôľa musí byť vyjadrená správne prevádzanými voľbami, ktoré sa majú konať v pravidelných obdobiach na základe všeobecného a rovného hlasovacieho práva tajným hlasovaním alebo rovnocenným postupom, ktorý zabezpečuje slobodu hlasovania.
+human_rights_un_slo_msed_64kb_0064	Článok 22.
+human_rights_un_slo_msed_64kb_0065	Každý človek má ako člen spoločnosti právo na sociálne zabezpečenie a nárok, aby mu boly národným úsilím i medzinárodnou súčinnosťou a v súlade s organizáciou a prostriedkami príslušného štátu zaistené hospodárske, sociálne a kultúrne práva, potrebné k jeho dôstojnosti a k slobodnému rozvoju jeho osobnosti.
+human_rights_un_slo_msed_64kb_0066	Článok 23.
+human_rights_un_slo_msed_64kb_0067	Každý má právo na prácu, na slobodnú voľbu zamestnania, na spravodlivé a uspokojivé pracovné podmienky a na ochranu proti nezamestnanosti.
+human_rights_un_slo_msed_64kb_0068	Každý, bez hociakého rozlišovania, má nárok na rovnaký plat za rovnakú prácu.
+human_rights_un_slo_msed_64kb_0069	Každý pracujúci má právo na spravodlivú a dostačujúcu odmenu, ktorá by zaisťovala jemu samému a jeho rodine živobytie odpovedajúce ľudskej dôstojnosti, a ktorá by bola doplnená, keby toho bolo treba, inými prostriedkami sociálnej ochrany.
+human_rights_un_slo_msed_64kb_0070	Každý má právo na ochranu svojich záujmov zakladať s inými odborové organizácie a pristupovať k ním.
+human_rights_un_slo_msed_64kb_0071	Článok 24.
+human_rights_un_slo_msed_64kb_0072	Každý má právo na odpočinok a na zotavenie, zvlášť aj na rozumné vymedzenie pracovných hodín a na pravidelnú platenú dovolenku.
+human_rights_un_slo_msed_64kb_0073	Článok 25.
+human_rights_un_slo_msed_64kb_0074	Každý má právo na takú životnú úroveň, ktorá môže zaistiť jeho zdravie a blahobyt a zdravie jeho rodiny, počítajúc v to menovite výživu, šatenie, bývanie a lekárske ošetrovanie, ako aj potrebné sociálne opatrenia: má právo na zabezpečenie v nezamestnanosti, v nemoci, pri neschopnosti k práci, pri ovdovení, v starobe alebo v iných prípadoch straty zárobkových možností, ktoré nastanú za okolností nezávislých ne jeho vôli.
+human_rights_un_slo_msed_64kb_0075	Materstvo a detstvo majú nárok na zvláštnu strarostlivosť a pomoc.
+human_rights_un_slo_msed_64kb_0076	Všetky deti, či manželské alebo nemanželské, požívajú rovnakú sociálnu ochranu.
+human_rights_un_slo_msed_64kb_0077	Článok 26.
+human_rights_un_slo_msed_64kb_0078	Každý má právo na vzdelanie.
+human_rights_un_slo_msed_64kb_0079	Vzdelanie nech je bezplatné aspoň v začiatočných a základných stupňoch.
+human_rights_un_slo_msed_64kb_0080	Základné vzdelanie je povinné.
+human_rights_un_slo_msed_64kb_0081	Technické a odborné vzdelanie nech je všeobecne prístupné a vyššie vzdelanie má byť rovnako prístupné každému podľa jeho schopností.
+human_rights_un_slo_msed_64kb_0082	Vzdelanie má smerovať k plnému rozvoju ľudskej osobnosti a k posilneniu úcty k ľudským právam a základným slobodám.
+human_rights_un_slo_msed_64kb_0083	Má napomáhať k vzájomnému porozumeniu, snášanlivosti a priateľstvu medzi všetkými národmi a všetkými rasovými i náboženskými skupinami, ako aj k rozvoju činnosti Spojených národov pre zachovanie mieru.
+human_rights_un_slo_msed_64kb_0084	Rodičia majú prednostné právo voliť druh vzdelania pre svoje deti.
+human_rights_un_slo_msed_64kb_0085	Článok 27.
+human_rights_un_slo_msed_64kb_0086	Každý má právo slobodne sa účastniť na kultúrnom živote spoločnosti, užívať plodov umenia a účastniť sa na vedeckom pokroku a jeho výťažkoch.
+human_rights_un_slo_msed_64kb_0087	Každý má právo na ochranu morálnych a materiálnych záujmov, ktoré vyplývajú z jeho vedeckej, literárnej alebo umeleckej tvorby.
+human_rights_un_slo_msed_64kb_0088	Článok 28.
+human_rights_un_slo_msed_64kb_0089	Každý má právo na to, aby vládol taký sociálny a medzinárodný poriadok, v ktorom by práva a slobody vyhlásené v tejto deklarácii boly plne uplatnené.
+human_rights_un_slo_msed_64kb_0090	Článok 29.
+human_rights_un_slo_msed_64kb_0091	Každý má povinnosť voči spoločnosti: jedine v nej môže slobodne a plne rozvinúť svoju osobnosť.
+human_rights_un_slo_msed_64kb_0092	Vo výkone svojich práv a v užívaní svojich slobôd je každý podrobený iba takým obmedzeniam, ktoré stanoví zákon a ktoré slúžia výhradne k zabezpečeniu náležitého, uznávania a zachovávania práv a slobôd iných, ako aj k uspokojeniu spravodlivých požiadaviek mravnosti, verejného poriadku a obecného blaha v demokratiskej spoločnosti.
+human_rights_un_slo_msed_64kb_0093	Výkon týchto práv a slobod nesmie byť v žiadnom prípade v rozpore s cieľami a zásadami Spojených národov.
+human_rights_un_slo_msed_64kb_0094	Článok 30.
+human_rights_un_slo_msed_64kb_0095	V tejto deklarácii nič sa nesmie vykladať tak, aby oprávňovalo ktorýkoľvek štát, skupinu, alebo osobu vyvíjať činnosť alebo dopúšťať sa činov, ktoré by smerovaly k potlačeniu niektorého z práv alebo slobôd v tejto deklarácii vyhlásených.

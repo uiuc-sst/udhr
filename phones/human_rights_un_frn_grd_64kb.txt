@@ -1,140 +1,107 @@
-human_rights_un_frn_grd_64kb_0001	deklaʁatjɔn ynivesɛl d dʁwat d lˈɔm
+human_rights_un_frn_grd_64kb_0001	deklaʁatjɔn ynivesɛl d dʁwat d l’ɔm
 human_rights_un_frn_grd_64kb_0002	pʁeambyl
-human_rights_un_frn_grd_64kb_0003	kɔnsideʁan k la ʁɛkɔnesans d la diɲite ineRɑ̃t a tu l mɛmbʁ d lafamil ymen ɛ d lœʁ dʁwat ego ɛ inaljenabl kɔ̃stitu l fɔ̃dəmɑ̃ d lalibete d la ʒystis ɛ d la pɛ dan l mɔ̃d
-human_rights_un_frn_grd_64kb_0004	kɔnsideʁan k la mekonɛsɑ̃s ɛ l mepRi d dʁwat d lˈɔm ɔn kɔndɥita d akt d baRbaRi ki Revɔltɛn la kɔnsjɛns d symanite ɛ k lˈavɛnɛmɛntdˈyn mɔ̃d ɔù l ɛtR umɛ̃ səRɔ̃ libʁ d paʁle ɛ d kRwaR libeRe d lateʁœʁ ɛ d la misk a ete pRoklame kɔm la ply ot aspiRasjɔ̃ d lˈɔm
-human_rights_un_frn_grd_64kb_0005	kɔnsideʁan kˈil t esɑ̃sjɛl k l dʁwat d lˈɔm swa pRoteʒe paʁ ynʁegm d dʁwa puʁ k lˈɔm n swa pa kɔ̃tRɛ̃ ɛn supRɛm RəkyRs a laRevɔlt kɔ̃tR la tiRani ɛ lˈɔpʁsl
-human_rights_un_frn_grd_64kb_0006	kɔnsideʁan kˈil t esɑ̃sjɛl dˈɛnkuʁagʁ l devɛlɔpɛmɛn d ʁɛlatjɔn amikalɛntʁ nasjons
-human_rights_un_frn_grd_64kb_0007	kɔnsideʁan k dan la ʃaʁt l pœpl d natjɔn ynj ɔn pRoklame anuvo lœR fwa dan l dʁwat fɔndamɛnto d lˈɔm dan la diɲite ɛ lavalœR d la pesɔn umɛn dan lˈeglite d dʁwat d ɔm ɛ dfams ɛ kˈil z sɔn deklaRe Rezolu a favoRize l pʁɔgɛ sosjal ɛ a ɛ̃stoRed mɛjœʁ kɔnditjɔn d vj dan yn libete ply gandɛ
-human_rights_un_frn_grd_64kb_0008	kɔnsideʁan k l ɛtat mɛmbʁ z sɔn ɑ̃gaʒe a asuRe ɛn kɔpeʁatjɔn avɛklˈɔʁgnizatjɔn d natjɔn ynʁ l ʁpɛkt ynivesɛl ɛ ɛfɛktif d dʁwat dɛlˈɔm ɛ d libete fɔ̃damɑ̃tam
-human_rights_un_frn_grd_64kb_0009	kɔnsideʁan kun kɔnsɛptjɔn komun d s dʁwat ɛ libete t d la plysot impɔʁtans puʁ ʁɛmpliʁ plɛnəmɑ̃ sɛt ɛŋagmɛnt
-human_rights_un_frn_grd_64kb_0010	lˈasɛmble ʒeneRal
-human_rights_un_frn_grd_64kb_0011	pʁɔklam la pRezɑ̃t deklaʁatjɔn ynivesɛl d dʁwat d lˈɔm kɔm lˈidealkɔmyn a atɛ̃dR paʁ tu l pœpl ɛ tyt l natjɔn afɛ̃ k tu lindividy ɛ tu l ɔʁgn d la zɔsjete ɛjan sɛt deklaʁatjɔn kɔ̃stamɑ̃ alpʁˈi sˈɛfɔʁsɑ̃ paʁ lˈɛnsɛɲɛmɛn ɛ lˈedykatl d devɛlɔpe l ʁpɛkt dɛs dʁwat ɛ libete ɛ dˈɛn asuRe paʁ d myʁ pRogResiv dˈɔʁdʁ nasjonalɛ intenatjɔnal la ʁɛkɔnesans ɛ lˈaplikatjɔn univɛRsɛl ɛ efɛktje tantpaʁmi l pɔpylatjɔn d ɛtat mɛmbʁ œksmɛm k paʁmi sɛl dteʁitwaʁ plase sy lœR ʒyʁidiktjɔn.
+human_rights_un_frn_grd_64kb_0003	kɔnsideʁan k la ʁɛkɔnesans d la diɲite ineRɑ̃t a tu l mɛmbʁ d la famil ymen ɛ d lœʁ dʁwat ego ɛ inaljenabl kɔ̃stitu l fɔ̃dəmɑ̃ d la libete d la ʒystis ɛ d la pɛ dan l mɔ̃d
+human_rights_un_frn_grd_64kb_0004	kɔnsideʁan k la mekonɛsɑ̃s ɛ l mepRi d dʁwat d l’ɔm ɔn kɔndɥi a d akt d baʁbaʁj ki Revɔltɛn la kɔnsjɛns d l’ymanite ɛ k l’avɛnəmɑ̃ d’yn mɔnd ɔù l ɛtR umɛ̃ səRɔ̃ libʁ d paʁle ɛ d kRwaR libeRe d la teʁœʁ ɛ d la misk a ete pRoklame kɔm la ply ot aspiRasjɔ̃ d l’ɔm
+human_rights_un_frn_grd_64kb_0005	kɔnsideʁan k’il t sɛntjɛl k l dʁwat d l’ɔm swa pRoteʒe paʁ yn ʁegm d dʁwa puʁ k l’ɔm n swa pa kɔ̃tRɛ̃ ɛn sypʁɛm RəkyRs a la Revɔlt kɔ̃tR la tiRani ɛ l’ɔpʁsl
+human_rights_un_frn_grd_64kb_0006	kɔnsideʁan k’il t sɛntjɛl d’ɛnkuʁagʁ l devɛlɔpɛmɛn d ʁɛlatjɔn amikal ɑ̃tR nasjons
+human_rights_un_frn_grd_64kb_0007	kɔnsideʁan k dan la ʃaʁt l pœpl d natjɔn ynj ɔn pRoklame a nuvo lœR fwa dan l dʁwat fɔndamɛnto d l’ɔm dan la diɲite ɛ la valœʁ d la pesɔn ymenɛ dan l’eglite d dʁwat d ɔm ɛ d fɛmɛs ɛ k’il s sɔn deklaRe Rezolu a favoRize l pʁɔgɛ sɔsjal ɛ a ɛ̃stoRe d mɛlœʁ kɔnditjɔn d vj dan yn libete ply gandɛ
+human_rights_un_frn_grd_64kb_0008	kɔnsideʁan k l etat mɛmbʁ s sɔn ɑ̃gaʒe a asuRe ɛn kɔpeʁatjɔn avɛk l’ɔʁgnizatjɔn d natjɔn ynʁ l ʁpɛkt ynivesɛl ɛ ɛfɛktif d dʁwat d l’ɔm ɛ d libete fɔ̃damɑ̃tam
+human_rights_un_frn_grd_64kb_0009	kɔnsideʁan k’yn kɔnsɛptjɔn komun d s dʁwat ɛ libete t d la ply ot impɔʁtans puʁ ʁɛmpliʁ plɛnəmɑ̃ sɛ ɛŋagmɛnt
+human_rights_un_frn_grd_64kb_0010	l’asɛmble gneʁal
+human_rights_un_frn_grd_64kb_0011	pʁɔklam la pRezɑ̃t deklaʁatjɔn ynivesɛl d dʁwat d l’ɔm kɔm l’ideal kɔmyn a atɛndʁ paʁ tu l pœpl ɛ tut l nasjɔ̃ afin k tu l ɛ̃dividy ɛ tu l ɔʁgn d la zɔsjete ɛjɑ̃ sɛt deklaʁatjɔn kɔ̃stamɑ̃ a l’pʁit s’ɛfɔʁsɛnt paʁ l’ɛnsɛɲɛmɛn ɛ l’edykatl d devɛlɔpe l ʁpɛkt d s dʁwat ɛ libete ɛ d’ɛn asuRe paʁ d myʁ pRogResiv d’ɔʁdʁ natjɔnal ɛ intenatjɔnal la ʁɛkɔnesans ɛ l’aplikatjɔn univɛRsɛl ɛ efɛktje tɑ̃ paRmi l pɔpylatjɔn d etat mɛmbʁ ømɛm k paRmi sɛl d teʁitwaʁ plase sy lœR ʒyʁidiktjɔn.
 human_rights_un_frn_grd_64kb_0012	aʁtikl pʁɛmje
 human_rights_un_frn_grd_64kb_0013	tu l ɛtR umɛ̃ nɛs libʁ ɛ ego ɛn diɲite ɛ ɛn dʁwats.
-human_rights_un_frn_grd_64kb_0014	il sɔntdwe d Rɛzɔ̃ ɛ d kɔnsjɛns ɛ dwav aʒiR l œ̃ ɛnve l otʁ dan ynɛspRi d fRatɛRnite.
+human_rights_un_frn_grd_64kb_0014	il sɔn dwe d ʁezɔn ɛ d kɔnsjɛns ɛ dwav aʒiR l œ̃ ɛnve l otʁ dan yn ɛspRi d fRatɛRnite.
 human_rights_un_frn_grd_64kb_0015	aʁtikl 2
-human_rights_un_frn_grd_64kb_0016	ʃakyn pœ z pʁevalwaʁ d tu l dʁwat ɛ d tyt l libete pRoklame dansla pRezɑ̃t deklaʁatl sɑ̃ distɛ̃ksjɔ̃ okynɛ notamɑ̃ d ʁasɛ d kulœʁ dɛksɛ d laŋœ d Rəliʒjo dˈɔpinjɔn pɔlitik u d tut otR opinl dˈɔʁignɛnatjɔnal u sɔsin d fɔʁtynɛ d nɛsɑ̃s u d tut otR zitɥatjɔn.
-human_rights_un_frn_grd_64kb_0017	dɛ plus il n zea fɛ okyn distɛ̃ksjɔ̃ fɔ̃de zyʁ l statu pɔlitikɛ ʒyʁidik wintenatjɔnal dy pɛj u dy teʁitwaʁ dɔn yn pesɔn t ʁsɔʁtisantɛ k sɛpɛj u teʁitwaʁ swa ɛ̃depɑ̃dy sy tytɛt nɔn otɔnɔm u sumi a ynɛlimitatjɔn kɛlkɔ̃k d zuvenɛte.
+human_rights_un_frn_grd_64kb_0016	ʃakyn pœ s pʁevalwaʁ d tu l dʁwat ɛ d tut l libete pRoklame dan la pRezɑ̃t deklaʁatl sɑ̃ distɛ̃ksjɔ̃ okynɛ notamɑ̃ d ʁasɛ d kulœʁ d zɛksɛ d laŋœ d Rəliʒjo d’ɔpinjɔn pɔlitik u d tut otʁ ɔpinl d’ɔʁign natjɔnal u sosjn d fɔʁtynɛ d nesans u d tut otʁ zitɥatjɔn.
+human_rights_un_frn_grd_64kb_0017	dɛ plus il n zea fɛ okyn distɛ̃ksjɔ̃ fɔ̃de syʁ l staty pɔlitikɛ ʒyʁidik u intenatjɔnal dy pɛj u dy teʁitwaʁ dɔn yn pesɔn t ʁsɔʁtisantɛ k s pɛj u teʁitwaʁ swa ɛ̃depɑ̃dy sy tytɛt nɔn otɔnɔm u sumi a yn limitatjɔn kɛlkɔ̃k d zuvenɛte.
 human_rights_un_frn_grd_64kb_0018	aʁtikl 3
 human_rights_un_frn_grd_64kb_0019	tu individy a dʁwa a la vje a la libete ɛ a la syʁɛte d sa pesɔnɛ.
 human_rights_un_frn_grd_64kb_0020	aʁtikl 4
 human_rights_un_frn_grd_64kb_0021	nyl n zea tənu ɛn klavaʒ ni ɛn zevityd
-human_rights_un_frn_grd_64kb_0022	lklavaʒ ɛ la tʁet d klavsɔn intedit sy tyt lœʁ fɔʁm.
+human_rights_un_frn_grd_64kb_0022	l’klavaʒ ɛ la tʁet d klav sɔn intedit sy tut lœʁ fɔʁm.
 human_rights_un_frn_grd_64kb_0023	aʁtikl 5
-human_rights_un_frn_grd_64kb_0024	nyl n zea sumi a la tɔRtuR ni a d pɛn u tʁetɛmɛnt œs inumɛ̃ udegadants.
+human_rights_un_frn_grd_64kb_0024	nyl n zea sumi a la tɔRtuR ni a d pɛn u tʁetɛmɛnt œs inumɛ̃ u degadants.
 human_rights_un_frn_grd_64kb_0025	aʁtikl 6
 human_rights_un_frn_grd_64kb_0026	ʃakyn a l dʁwa a la ʁɛkɔnesans ɛn tu ljœ d sa pesɔnalite ʒyʁidikɛ.
 human_rights_un_frn_grd_64kb_0027	aʁtikl 7
-human_rights_un_frn_grd_64kb_0028	tu sɔn ego dəvɑ̃ la lwa ɛ ɔn dʁwa sɑ̃ distɛ̃ksjɔ̃ a yn egal pʁɔtɛktjɔn dɛla lwa.
-human_rights_un_frn_grd_64kb_0029	tu ɔn dʁwa a yn pʁɔtɛktjɔn egal kɔ̃tR tut diskʁiminatjɔn ki vjolaʁe lapʁezɛnt deklaʁatjɔn ɛ kɔ̃tR tut pRovokasjɔ̃ a yn tɛl diskʁiminatjɔn.
+human_rights_un_frn_grd_64kb_0028	tu sɔn ego dɛvan la lwa ɛ ɔn dʁwa sɑ̃ distɛ̃ksjɔ̃ a yn egal pʁɔtɛktjɔn d la lwa.
+human_rights_un_frn_grd_64kb_0029	tu ɔn dʁwa a yn pʁɔtɛktjɔn egal kɔ̃tR tut diskʁiminatjɔn ki vjolaʁe la pRezɑ̃t deklaʁatjɔn ɛ kɔ̃tR tut pRovokasjɔ̃ a yn tɛl diskʁiminatjɔn.
 human_rights_un_frn_grd_64kb_0030	aʁtikl 8
-human_rights_un_frn_grd_64kb_0031	tut pesɔn a dʁwa a yn RəkyR ɛfɛktif dəvɑ̃ l ʒuRidiksjɔ̃ nasjonalkɔmpetɛnt kɔ̃tR l akt vjolɑ̃ l dʁwat fɔndamɛnto ki lɥi sɔn ʁɛkɔnyspaʁ la kɔnstitytjɔn u paʁ la lwa.
+human_rights_un_frn_grd_64kb_0031	tut pesɔn a dʁwa a yn RəkyR ɛfɛktif dɛvan l ʒuRidiksjɔ̃ nasjonal kɔmpetɛnt kɔ̃tR l akt vjolɑ̃ l dʁwat fɔndamɛnto ki lɥi sɔn Rəkonu paʁ la kɔnstitytjɔn u paʁ la lwa.
 human_rights_un_frn_grd_64kb_0032	aʁtikl 9
-human_rights_un_frn_grd_64kb_0033	nyl n pœ ɛtʁ aʁbitʁeʁɛmɛn aʁɛte detənu ni ɛgzile.
+human_rights_un_frn_grd_64kb_0033	nyl n pœ ɛtʁ aʁbitʁeʁɛmɛn aʁɛte detɛny ni ɛgzile.
 human_rights_un_frn_grd_64kb_0034	aʁtikl 10
-human_rights_un_frn_grd_64kb_0035	tut pesɔn a dʁwat ɛn plɛn egls a s k sa koz swa ɛntɛndɥɛekitablɛmɛn ɛ publikəmɑ̃ paʁ yn tʁibynal indepɛndan ɛ ɛ̃paRsjal ki desideaswa d z dʁwat ɛ ɔbligtjɔns swa dy bjɛnfɔnde d tut akyzatjɔn ɛn npenal diʁig kɔ̃tR ɛlɛ.
+human_rights_un_frn_grd_64kb_0035	tut pesɔn a dʁwat ɛn plɛn egls a s k sa koz swa ɑ̃tɑ̃du ekitablɛmɛn ɛ publikəmɑ̃ paʁ yn tʁibynal indepɛndan ɛ ɛ̃paRsjal ki desidea swa d z dʁwat ɛ ɔbligtjɔns swa dy bjɛn fɔnde d tut akyzatjɔn ɛn matjɛʁ penal diʁig kɔ̃tR ɛlɛ.
 human_rights_un_frn_grd_64kb_0036	aʁtikl 1
-human_rights_un_frn_grd_64kb_0037	1.
-human_rights_un_frn_grd_64kb_0038	tut pesɔn akuze dˈyn akt deliktɥɛy t pRezume inosɑ̃t ʒuska sɛk sa kulpabilite ɛ ete legaləmɑ̃ etabli o kyR dˈyn pRosɛ pyblik ɔù tyt lgʁantj nesesɛR a sa defɛns lɥi oʁɔn ete asuRes.
-human_rights_un_frn_grd_64kb_0039	2.
-human_rights_un_frn_grd_64kb_0040	nyl n zea kɔndamne puʁ d aktjɔn u ɔmisjɔn ki o mɔmɛn ɔù ɛl ɔntete komizs n kɔ̃stitɥɛ pa yn akt deliktɥɛy dˈapʁɛ l dʁwa natjɔnal wintenatjɔnal.
-human_rights_un_frn_grd_64kb_0041	dɛ mɛm il n zea ɛ̃fliʒe okyn pɛn ply fɔʁt k sɛl ki etetaplikabl o mɔmɛn ɔù lˈakt deliktɥɛy a ete kɔmis.
-human_rights_un_frn_grd_64kb_0042	aʁtikl 12
-human_rights_un_frn_grd_64kb_0043	nyl n zea lˈɔbʒɛ dˈimikstjɔn aRbitRɛR dan sa vj pʁiveɛ sa famit zɔndɔmisil u sa koRɛspɔ̃da ni dˈatɛ̃t a sɔ̃ onœR ɛ a sa ʁepytatjɔn.
-human_rights_un_frn_grd_64kb_0044	tut pesɔn a dʁwa a la pʁɔtɛktjɔn d la lwa kɔ̃tR d tɛl imikstjɔn u dɛtɛl atɛntɛs.
-human_rights_un_frn_grd_64kb_0045	aʁtikl 13
-human_rights_un_frn_grd_64kb_0046	1.
-human_rights_un_frn_grd_64kb_0047	tut pesɔn a l dʁwa d siRkule libʁɛmɛn ɛ d ʃwaziʁ sa Rezidɑ̃s alˈinteʁjœʁ dˈyn ɛtat.
-human_rights_un_frn_grd_64kb_0048	2.
-human_rights_un_frn_grd_64kb_0049	tut pesɔn a l dʁwa d kite ty pejs j kɔ̃pRi l sjɛ̃ ɛ d ʁɛvɛniʁ dansɔn pɛjs.
-human_rights_un_frn_grd_64kb_0050	aʁtikl 14
-human_rights_un_frn_grd_64kb_0051	1.
-human_rights_un_frn_grd_64kb_0052	dɛvan la pɛRsekusl tut pesɔn a l dʁwa d ʃɛRʃe azil ɛ d benefisjed lˈazil ɛn dotR pɛjs.
-human_rights_un_frn_grd_64kb_0053	2.
-human_rights_un_frn_grd_64kb_0054	sɛ dʁwa n pœ ɛtʁ ɛ̃voke dan l ka d puʁsɥit ʁeɛlɛmɛn fɔ̃de zyʁ ynkʁim d dʁwa kɔmyn u zyʁ d aʒisəmɑ̃ kɔ̃tRɛR o byt ɛ o pRɛ̃sipd natjɔn ynj.
-human_rights_un_frn_grd_64kb_0055	aʁtikl 15
-human_rights_un_frn_grd_64kb_0056	1.
-human_rights_un_frn_grd_64kb_0057	tu individy a dʁwa a yn nasjonalite.
-human_rights_un_frn_grd_64kb_0058	2.
-human_rights_un_frn_grd_64kb_0059	nyl n pœ ɛtʁ aʁbitʁeʁɛmɛn pʁive d sa nasjonals ni dy dʁwa d ʃɑ̃ʒe dɛnatjɔnalite.
-human_rights_un_frn_grd_64kb_0060	aʁtikl 16
-human_rights_un_frn_grd_64kb_0061	1.
-human_rights_un_frn_grd_64kb_0062	a paʁtiʁ d lˈɑʒ nybilɛ lˈɔm ɛ la fɛmɛ sɑ̃ okyn ʁtʁiktjɔn kɑ̃ a laʁasɛ la nasjonalite u la Rəliʒjo ɔn l dʁwa d z maRje ɛ d fɔnde yn familɛ.
-human_rights_un_frn_grd_64kb_0063	ilsɔn d dʁwat ego o RəgaR dy maRjp duRɑ̃ l maʁjaʒ ɛ lɔʁ d sadisɔlytjɔn.
-human_rights_un_frn_grd_64kb_0064	2.
-human_rights_un_frn_grd_64kb_0065	l maʁjaʒ n pœ ɛtʁ kɔ̃klu kavɛk l libʁ ɛ plɛn kɔnsɛntɛmɛn d futuRsepuks.
-human_rights_un_frn_grd_64kb_0066	3.
-human_rights_un_frn_grd_64kb_0067	la famil t lˈelemɛn natyʁɛl ɛ fɔndamɛntal d la sɔsjete ɛ a dʁwa a lapʁɔtɛktjɔn d la sɔsjete ɛ d lˈɛtat.
-human_rights_un_frn_grd_64kb_0068	aʁtikl 17
-human_rights_un_frn_grd_64kb_0069	1.
-human_rights_un_frn_grd_64kb_0070	tut pesɔnɛ osi bjɛn sœl kˈɛn kolɛktivs a dʁwa a la pʁɔpʁjete.
-human_rights_un_frn_grd_64kb_0071	2.
-human_rights_un_frn_grd_64kb_0072	nyl n pœ ɛtʁ aʁbitʁeʁɛmɛn pʁive d sa pʁɔpʁjete
-human_rights_un_frn_grd_64kb_0073	aʁtikl 18
-human_rights_un_frn_grd_64kb_0074	tut pesɔn a dʁwa a la libete d pɑ̃se d kɔnsjɛns ɛ d ʁɛligɔn
-human_rights_un_frn_grd_64kb_0075	s dʁwatɛ̃plik la libete d ʃɑ̃ʒe d ʁɛligɔn u d kɔ̃viksjɔ̃ ensi k la libete dɛmanifte sa ʁɛligɔn u sa kɔ̃viksl sœl u ɛn kɔm tɑ̃ ɛn pyblik kˈɛnpʁive paʁ lˈɛnsɛɲɛmɛnt l pRatikɛs l kult ɛ lˈakɔmplisɛmɛn d Rit.
-human_rights_un_frn_grd_64kb_0076	aʁtikl 19
-human_rights_un_frn_grd_64kb_0077	tu individy a dʁwa a la libete dˈɔpinjɔn ɛ dˈɛkspʁsl s ki ɛ̃plik l dʁwa dɛn pa ɛtʁ ɛ̃kjete puʁ z ɔpinjɔn ɛ səlɥi d ʃɛRʃe d ʁɛsɛvwaʁ ɛ deRepɑ̃o sɑ̃ kɔ̃sideRasjɔ̃ d fRɔ̃tjɛRs l infɔʁmatjɔn ɛ l ide paʁkɛlk mwajɛn dˈɛkspʁsjɔn k s swat.
-human_rights_un_frn_grd_64kb_0078	aʁtikl 20
-human_rights_un_frn_grd_64kb_0079	1.
-human_rights_un_frn_grd_64kb_0080	tut pesɔn a dʁwa a la libete d ʁeynjɔn ɛ dˈasɔsjatjɔn pasifik.
-human_rights_un_frn_grd_64kb_0081	2.
-human_rights_un_frn_grd_64kb_0082	nyl n pœ ɛtʁ obliʒe d fɛR paRti dˈyn asɔsjatjɔn.
-human_rights_un_frn_grd_64kb_0083	aʁtikl 21
-human_rights_un_frn_grd_64kb_0084	1.
-human_rights_un_frn_grd_64kb_0085	tut pesɔn a l dʁwa d pʁɛndʁ paʁ a la diʁɛktjɔn d afɛR pyblik dsɔ̃ pejs swa diʁɛktɛmɛnt swa paʁ lˈintemedjeʁ d ʁɛpʁezɛntant libʁɛmɛntʃwazis.
-human_rights_un_frn_grd_64kb_0086	2.
-human_rights_un_frn_grd_64kb_0087	tut pesɔn a dʁwa a aksede dan d kɔnditjɔn dˈegls o fɔnjɔnspyblik d sɔ̃ pɛjs.
-human_rights_un_frn_grd_64kb_0088	3.
-human_rights_un_frn_grd_64kb_0089	la vɔlɔnte dy pøpl t l fɔ̃dəmɑ̃ d lˈotɔʁite d puvwaʁ pyblik
-human_rights_un_frn_grd_64kb_0090	sɛtɛvɔlɔnte dwa sˈɛkspRime paʁ d elɛktjɔn onɛt ki dwav avwaʁ ljœpeʁjɔdikɛmɛnt o syfʁaʒ ynivesɛl egl ɛ o vɔt səkRɛ u sɥivan ynɛpʁɔkedyʁ ekivalɛnt asuRɑ̃ la libete dy vɔtɛ.
-human_rights_un_frn_grd_64kb_0091	aʁtikl 22
-human_rights_un_frn_grd_64kb_0092	tut pesɔnɛ ɛn tɑ̃ k mɛmbʁ d la zɔsjete a dʁwa a la zekyʁite sosjal
-human_rights_un_frn_grd_64kb_0093	ɛlɛ fɔ̃de a ɔbtɛniʁ la satisfaktjɔn d dʁwat ekɔnɔmikɛs sosjo ɛ kyltyʁɛlsindispɛnsabl a sa diɲite ɛ o libʁ devɛlɔpɛmɛn d sa pɛRsonals gRas alˈɛfɔʁ natjɔnal ɛ a la kɔpeʁatjɔn ɛ̃tɛRnasjonn kɔ̃t tənu d lˈɔʁgnizatjɔn ɛtd RəsyRs d ʃak pɛjs.
-human_rights_un_frn_grd_64kb_0094	aʁtikl 23
-human_rights_un_frn_grd_64kb_0095	1.
-human_rights_un_frn_grd_64kb_0096	tut pesɔn a dʁwa o tʁavel o libʁ ʃwa d sɔ̃ tʁavel a d kɔnditjɔnsekitabl ɛ satisfezant d tʁavel ɛ a la pʁɔtɛktjɔn kɔ̃tR l ʃomag.
-human_rights_un_frn_grd_64kb_0097	2.
-human_rights_un_frn_grd_64kb_0098	tu ɔn dʁwat sɑ̃ okyn diskʁiminatl a yn saleʁ egl puʁ yn tʁavel egl
-human_rights_un_frn_grd_64kb_0099	3.
-human_rights_un_frn_grd_64kb_0100	kikɔ̃k tRavajə a dʁwa a yn ʁemyneʁatjɔn ekitabl ɛ satisfezant lɥjasuRɑ̃ ensi ka sa famil yn ɛksistɛns kɔnfɔʁm a la diɲite ymen ɛtkɔmplete sˈil j a ljœ paʁ tu otʁ mwajɛn d pʁɔtɛktjɔn zɔsjalɛ.
-human_rights_un_frn_grd_64kb_0101	4.
-human_rights_un_frn_grd_64kb_0102	tut pesɔn a l dʁwa d fɔnde avɛk dotR d sindikat ɛ d sˈafilje ad sindikat puʁ la defɛns d z inteʁɛts.
-human_rights_un_frn_grd_64kb_0103	aʁtikl 24
-human_rights_un_frn_grd_64kb_0104	tut pesɔn a dʁwa o ʁɛpɔ ɛ o lwaziR ɛ notamɑ̃ a yn limitatjɔnʁezɔnabl d la dyʁe dy tʁavel ɛ a d kɔ̃ʒe peje peRjodik.
-human_rights_un_frn_grd_64kb_0105	aʁtikl 25
-human_rights_un_frn_grd_64kb_0106	1.
-human_rights_un_frn_grd_64kb_0107	tut pesɔn a dʁwa a yn nivo d vj sufizɑ̃ puʁ asuRe sa zante zɔnbjɛnɛtʁ ɛ sø d sa famit notamɑ̃ puʁ lˈalimɛntatl lˈabilɛmɛnt lɛlɔgmɛnt l swan mediko ensi k puʁ l sevis sosjo nesesɛR
-human_rights_un_frn_grd_64kb_0108	ɛl adRwa a la zekyʁite ɛn ka d ʃomp d maladjɛ dˈinvalids d vœvp dəvjɛls u dan l otʁ ka d pɛRt d z mwajɛn d zybsistans paʁ zɥitɛd siʁkɔnstans ɛ̃depɑ̃dɑ̃t d sa vɔlɔnte.
-human_rights_un_frn_grd_64kb_0109	2.
-human_rights_un_frn_grd_64kb_0110	la matɛRnite ɛ lˈɛnfans ɔn dʁwa a yn ɛd ɛ a yn asistans spesjal.
-human_rights_un_frn_grd_64kb_0111	tusl ɑ̃fɑ̃ts kˈil swa ne dan l maʁjaʒ u ɔR maRjp ʒwis d la mɛmɛpʁɔtɛktjɔn zɔsjalɛ.
-human_rights_un_frn_grd_64kb_0112	aʁtikl 26
-human_rights_un_frn_grd_64kb_0113	1.
-human_rights_un_frn_grd_64kb_0114	tut pesɔn a dʁwa a lˈedykatjɔn.
-human_rights_un_frn_grd_64kb_0115	lˈedykatjɔn dwa ɛtʁ gRatɥd o mwɛ̃ ɛn sɛki kɔ̃sɛRn lˈɛnsɛɲɛmɛn elemɛnteʁ ɛ fɔ̃damɑ̃tal.
-human_rights_un_frn_grd_64kb_0116	lˈɛnsɛɲɛmɛntelemɛnteʁ t ɔbligtwaʁɛ.
-human_rights_un_frn_grd_64kb_0117	lˈɛnsɛɲɛmɛn tɛknik ɛ pʁɔfsjɔnɛl dwa ɛtʁɛgneʁalize
-human_rights_un_frn_grd_64kb_0118	lˈakɛ o etyd supeRjœR dwa ɛtʁ yvɛR ɛn plɛn eglite a tuzɛn fɔnjɔn d lœR meRitɛ.
-human_rights_un_frn_grd_64kb_0119	2.
-human_rights_un_frn_grd_64kb_0120	lˈedykatjɔn dwa vize o plɛn epanwisəmɑ̃ d la pesɔnalite ymen ɛ oʁɛnfɔʁsɛmɛn dy ʁpɛkt d dʁwat d lˈɔm ɛ d libete fɔ̃damɑ̃tal.
-human_rights_un_frn_grd_64kb_0121	ɛlɛdwa favoRize la kɔmpʁeɛnsl la tɔleʁans ɛ lˈamitje ɑ̃tR tyt l natjɔn ɛtu l gup Rasjo u Rəliʒjø ensi k l devɛlɔpɛmɛn d aktivite d
-human_rights_un_frn_grd_64kb_0122	natjɔn ynj puʁ l mentjɛn d la peks.
-human_rights_un_frn_grd_64kb_0123	3.
-human_rights_un_frn_grd_64kb_0124	l paRɑ̃ ɔnt paʁ pRijoRs l dʁwa d ʃwaziʁ l gnʁ dˈedykatjɔn a done alœʁ ɛnfants.
-human_rights_un_frn_grd_64kb_0125	aʁtikl 27
-human_rights_un_frn_grd_64kb_0126	1.
-human_rights_un_frn_grd_64kb_0127	tut pesɔn a l dʁwa d pʁɛndʁ paʁ libʁɛmɛn a la vj kyltyʁɛl d lakɔmynote d ʒwiʁ d aR ɛ d paʁtisipe o pʁɔgɛ sjɛntifik ɛ oksbjɛ̃fɛ ki ɛn Rezultɛn
-human_rights_un_frn_grd_64kb_0128	2.
-human_rights_un_frn_grd_64kb_0129	ʃakyn a dʁwa a la pʁɔtɛktjɔn d inteʁɛt moRo ɛ mateʁjɛl dekylɑ̃ d tutɛpʁɔdyktjɔn sjɑ̃tifikɛ liteʁeʁ u aʁtistik dɔn il t lˈotœʁ.
-human_rights_un_frn_grd_64kb_0130	aʁtikl 28
-human_rights_un_frn_grd_64kb_0131	tut pesɔn a dʁwa a s k Rɛ zyʁ l plan sosjal ɛ zyʁ l plan intenatjɔnalœ̃ ɔRdR tɛl k l dʁwat ɛ libete enɔ̃se dan la pRezɑ̃t deklaʁatjɔn pɥisɛnti tRyve plɛn ɛfɛt.
-human_rights_un_frn_grd_64kb_0132	aʁtikl 29
-human_rights_un_frn_grd_64kb_0133	1.
-human_rights_un_frn_grd_64kb_0134	lˈindividy a d dəvwaʁ ɛnve la kɔmynote dan lakɛl sœl l libʁ ɛ plɛndevɛlɔpɛmɛn d sa pesɔnalite t pɔsiblɛ.
-human_rights_un_frn_grd_64kb_0135	2.
-human_rights_un_frn_grd_64kb_0136	dan lˈɛksesis d z dʁwat ɛ dan la ʒwisɑ̃s d z libetes ʃakyn nɛsumi kˈoks limitatjɔn etabli paʁ la lwa ɛkskluzivəmɑ̃ ɛn vy dˈasyʁe laʁɛkɔnesans ɛ l ʁpɛkt d dʁwat ɛ libete dˈotʁɥi ɛ afɛ̃ d satisfeʁ oksʒust ɛgziʒɑ̃s d la mɔRn d lˈɔʁdʁ pyblik ɛ dy bjɛnɛtʁ gneʁal dan ynɛsɔsjete demokRatikɛ.
-human_rights_un_frn_grd_64kb_0137	3.
-human_rights_un_frn_grd_64kb_0138	s dʁwat ɛ libete n pyRɔ̃ ɛn okyn kas sˈɛksese kɔntʁeʁɛmɛn o bytsɛ o pRɛ̃sip d natjɔn ynj.
-human_rights_un_frn_grd_64kb_0139	aʁtikl 30
-human_rights_un_frn_grd_64kb_0140	okyn dispɔzitjɔn d la pRezɑ̃t deklaʁatjɔn n pœ ɛtʁ intepʁete komɛɛ̃pliy puʁ yn ɛtat yn gRypəmɑ̃ u yn ɛ̃dividɥ yn dʁwa kɛlkɔ̃k d sɛlivʁe a yn aktivite u dˈakɔmpliʁ yn akt vizan a la dtʁyktjɔn d dʁwat ɛtlibete ki j sɔn enɔnkes.
+human_rights_un_frn_grd_64kb_0037	tut pesɔn akuze d’yn akt deliktɥɛy t pRezume inosɑ̃t ʒysk’a s k sa kulpabilite ɛ ete legaləmɑ̃ etabli o kyR d’yn pRosɛ pyblik ɔù tut l gʁantj nesesɛR a sa defɛns lɥi oʁɔn ete asuRes.
+human_rights_un_frn_grd_64kb_0038	nyl n zea kɔndamne puʁ d aktjɔn u ɔmisjɔn ki o mɔmɛn ɔù ɛl ɔn ete komizs n kɔ̃stitɥɛ pa yn akt deliktɥɛy d’apʁɛ l dʁwa natjɔnal u intenatjɔnal.
+human_rights_un_frn_grd_64kb_0039	dɛ mɛm il n zea ɛ̃fliʒe okyn pɛn ply fɔʁt k sɛl ki etɛ aplikabl o mɔmɛn ɔù l’akt deliktɥɛy a ete kɔmis.
+human_rights_un_frn_grd_64kb_0040	aʁtikl 12
+human_rights_un_frn_grd_64kb_0041	nyl n zea l’ɔbʒɛ d’imikstjɔ̃ aRbitRɛR dan sa vj pʁiveɛ sa famit sɔ̃ domisil u sa kɔʁpɔnda ni d’atɛnt a sɔ̃ ɔnœʁ ɛ a sa ʁepytatjɔn.
+human_rights_un_frn_grd_64kb_0042	tut pesɔn a dʁwa a la pʁɔtɛktjɔn d la lwa kɔ̃tR d tɛl imikstjɔ̃ u d tɛl atɛntɛs.
+human_rights_un_frn_grd_64kb_0043	aʁtikl 13
+human_rights_un_frn_grd_64kb_0044	tut pesɔn a l dʁwa d siRkule libʁɛmɛn ɛ d ʃwaziʁ sa ʁezidɛns a l’inteʁjœʁ d’yn etat.
+human_rights_un_frn_grd_64kb_0045	tut pesɔn a l dʁwa d kite ty pɛjs j kɔ̃pRi l sjɛ̃ ɛ d ʁɛvɛniʁ dan sɔ̃ pɛjs.
+human_rights_un_frn_grd_64kb_0046	aʁtikl 14
+human_rights_un_frn_grd_64kb_0047	dɛvan la pɛRsekutl tut pesɔn a l dʁwa d ʃeʃe azil ɛ d benefisje d l’azil ɛn d’otʁ pɛjs.
+human_rights_un_frn_grd_64kb_0048	sɛ dʁwa n pœ ɛtʁ ɛ̃voke dan l ka d puʁsɥit ʁeɛlɛmɛn fɔ̃de syʁ yn kRim d dʁwa kɔmyn u syʁ d aʒisəmɑ̃ kɔ̃tRɛR o byt ɛ o pRɛ̃sip d natjɔn ynj.
+human_rights_un_frn_grd_64kb_0049	aʁtikl 15
+human_rights_un_frn_grd_64kb_0050	tu individy a dʁwa a yn nasjonalite.
+human_rights_un_frn_grd_64kb_0051	nyl n pœ ɛtʁ aʁbitʁeʁɛmɛn pʁive d sa natjɔnals ni dy dʁwa d ʃaŋe d nasjonalite.
+human_rights_un_frn_grd_64kb_0052	aʁtikl 16
+human_rights_un_frn_grd_64kb_0053	a paʁtiʁ d l’ɑʒ nybilɛ l’ɔm ɛ la fɛmɛ sɑ̃ okyn ʁtʁiktjɔn kɑ̃ a la ʁasɛ la nasjonalite u la Rəliʒjo ɔn l dʁwa d s maRje ɛ d fɔ̃de yn familɛ.
+human_rights_un_frn_grd_64kb_0054	il ɔn d dʁwat ego o RəgaR dy maRj. duRɑ̃ l maʁjaʒ ɛ lɔʁ d sa disɔlytjɔn.
+human_rights_un_frn_grd_64kb_0055	l maʁjaʒ n pœ ɛtʁ kɔ̃klu k’avɛk l libʁ ɛ plɛn kɔnsɛntɛmɛn d fytyʁ epy.
+human_rights_un_frn_grd_64kb_0056	la famil t l’elemɛn natyʁɛl ɛ fɔndamɛntal d la sɔsjete ɛ a dʁwa a la pʁɔtɛktjɔn d la sɔsjete ɛ d l’etat.
+human_rights_un_frn_grd_64kb_0057	aʁtikl 17
+human_rights_un_frn_grd_64kb_0058	tut pesɔnɛ osi bjɛn sœl k’ɛn kolɛktivs a dʁwa a la pʁɔpʁjete.
+human_rights_un_frn_grd_64kb_0059	nyl n pœ ɛtʁ aʁbitʁeʁɛmɛn pʁive d sa pʁɔpʁjete.
+human_rights_un_frn_grd_64kb_0060	aʁtikl 18
+human_rights_un_frn_grd_64kb_0061	tut pesɔn a dʁwa a la libete d pɑ̃se d kɔnsjɛns ɛ d ʁɛligɔn
+human_rights_un_frn_grd_64kb_0062	s dʁwa ɛ̃plik la libete d ʃaŋe d ʁɛligɔn u d kɔ̃viksjɔ̃ ensi k la libete d manifte sa ʁɛligɔn u sa kɔ̃viksl sœl u ɛn komun tɑ̃ ɛn pyblik k’ɛn pʁive paʁ l’ɛnsɛɲɛmɛnt l pʁatikɛs l kult ɛ l’akɔmplisɛmɛn d Rit.
+human_rights_un_frn_grd_64kb_0063	aʁtikl 19
+human_rights_un_frn_grd_64kb_0064	tu individy a dʁwa a la libete d’ɔpinjɔn ɛ d’ɛkspʁl s ki ɛ̃plik l dʁwa d n pa ɛtʁ ɛ̃kjete puʁ z ɔpinjɔn ɛ sɛlɥi d ʃeʃe d ʁɛsɛvwaʁ ɛ d Repɑ̃o sɑ̃ kɔ̃sideRasjɔ̃ d fʁɔntjɛʁɛs l infɔʁmatjɔn ɛ l ide paʁ kɛlk mwajɛn d’ɛkspʁsjɔn k s swat.
+human_rights_un_frn_grd_64kb_0065	aʁtikl 20
+human_rights_un_frn_grd_64kb_0066	tut pesɔn a dʁwa a la libete d ʁeynjɔn ɛ d’asɔsjatjɔn pasifik.
+human_rights_un_frn_grd_64kb_0067	nyl n pœ ɛtʁ obliʒe d feʁ paʁtj d’yn asɔsjatjɔn.
+human_rights_un_frn_grd_64kb_0068	aʁtikl 21
+human_rights_un_frn_grd_64kb_0069	tut pesɔn a l dʁwa d pʁɛndʁ paʁ a la diʁɛktjɔn d afeʁ pyblik d sɔ̃ pɛjs swa diʁɛktɛmɛnt swa paʁ l’intemedjeʁ d ʁɛpʁezɛntant libʁɛmɛn ʃwazis.
+human_rights_un_frn_grd_64kb_0070	tut pesɔn a dʁwa a akede dan d kɔnditjɔn d’egls o fɔnjɔn pyblik d sɔ̃ pɛjs.
+human_rights_un_frn_grd_64kb_0071	la vɔlɔnte dy pøpl t l fɔ̃dəmɑ̃ d l’otɔʁite d puvwaʁ pyblik
+human_rights_un_frn_grd_64kb_0072	sɛt vɔlɔnte dwa s’ɛkspʁime paʁ d elɛktjɔn ɔnɛt ki dwav avwaʁ ljœ peʁjɔdikɛmɛnt o syfʁaʒ ynivesɛl egl ɛ o vɔt sɛkʁɛ u sɥivan yn pʁɔkedyʁ ekivalɛnt asuRɑ̃ la libete dy vɔtɛ.
+human_rights_un_frn_grd_64kb_0073	aʁtikl 2
+human_rights_un_frn_grd_64kb_0074	tut pesɔnɛ ɛn tɑ̃ k mɛmbʁ d la zɔsjete a dʁwa a la sekyʁite sosjal
+human_rights_un_frn_grd_64kb_0075	ɛl t fɔ̃de a ɔbtɛniʁ la satisfaktjɔn d dʁwat ekɔnɔmikɛs sɔsjo ɛ kultuRɛl ɛ̃dispɑ̃sabl a sa diɲite ɛ o libʁ devɛlɔpɛmɛn d sa pɛRsonals gRas a l’ɛfɔʁ natjɔnal ɛ a la kɔpeʁatjɔn ɛ̃tɛRnasjonn kɔ̃t tənu d l’ɔʁgnizatjɔn ɛ d ʁsuʁs d ʃak pɛjs.
+human_rights_un_frn_grd_64kb_0076	aʁtikl 23
+human_rights_un_frn_grd_64kb_0077	tut pesɔn a dʁwa o tʁavel o libʁ ʃwa d sɔ̃ tʁavel a d kɔnditjɔn ekitabl ɛ satisfezant d tʁavel ɛ a la pʁɔtɛktjɔn kɔ̃tR l ʃomaʒ.
+human_rights_un_frn_grd_64kb_0078	tu ɔn dʁwat sɑ̃ okyn diskʁiminatl a yn saleʁ egl puʁ yn tʁavel egal.
+human_rights_un_frn_grd_64kb_0079	kikɔ̃k tʁavel a dʁwa a yn ʁemyneʁatjɔn ekitabl ɛ satisfezant lɥi asuRɑ̃ ensi k’a sa famil yn ɛksistɛns kɔnfɔʁm a la diɲite ymen ɛ kɔ̃plete s’il j a ljœ paʁ tu otʁ mwajɛn d pʁɔtɛktjɔn zɔsjalɛ.
+human_rights_un_frn_grd_64kb_0080	tut pesɔn a l dʁwa d fɔ̃de avɛk d’otʁ d sindikat ɛ d s’afilje a d sindikat puʁ la defɛns d z inteʁɛts.
+human_rights_un_frn_grd_64kb_0081	aʁtikl 24
+human_rights_un_frn_grd_64kb_0082	tut pesɔn a dʁwa o ʁɛpɔ ɛ o lwaziʁ ɛ notamɑ̃ a yn limitatjɔn ʁezɔnabl d la dyʁe dy tʁavel ɛ a d kɔ̃ʒe pɛje peRjodik.
+human_rights_un_frn_grd_64kb_0083	aʁtikl 25
+human_rights_un_frn_grd_64kb_0084	tut pesɔn a dʁwa a yn nivo d vj sufizɑ̃ puʁ asuRe sa zante sɔ̃ bjɛ̃nɛtR ɛ sø d sa famit notamɑ̃ puʁ l’alimɛntatl l’abilɛmɛnt l lɔgmɛnt l swan mediko ensi k puʁ l sevis sɔsjo nesesɛR
+human_rights_un_frn_grd_64kb_0085	ɛl a dʁwa a la sekyʁite ɛn ka d ʃom. d maladjɛ d’invalids d vœv. d vjɛls u dan l otʁ ka d pɛRt d z mwajɛn d sybsistans paʁ sɥit d siʁkɔnstans ɛ̃depɑ̃dɑ̃t d sa volɔ̃te.
+human_rights_un_frn_grd_64kb_0086	la matɛRnite ɛ l’ɛnfans ɔn dʁwa a yn ɛd ɛ a yn asistans spesjal.
+human_rights_un_frn_grd_64kb_0087	tu l ɑ̃fɑ̃ts k’il swa ne dan l maʁjaʒ u ɔR maRj. ʒwis d la mɛm pʁɔtɛktjɔn zɔsjalɛ.
+human_rights_un_frn_grd_64kb_0088	aʁtikl 26
+human_rights_un_frn_grd_64kb_0089	tut pesɔn a dʁwa a l’edykatjɔn.
+human_rights_un_frn_grd_64kb_0090	l’edykatjɔn dwa ɛtʁ gRatɥd o mwan ɛn s ki kɔ̃sɛRn l’ɛnsɛɲɛmɛn elemɛnteʁ ɛ fɔndamɛntal.
+human_rights_un_frn_grd_64kb_0091	l’ɛnsɛɲɛmɛn elemɛnteʁ t ɔbligtwaʁɛ.
+human_rights_un_frn_grd_64kb_0092	l’ɛnsɛɲɛmɛn tɛʃnik ɛ pʁɔfsjɔnɛl dwa ɛtʁ ʒeneRalize
+human_rights_un_frn_grd_64kb_0093	l’akɛ o etyd zypeʁjœʁ dwa ɛtʁ yvɛR ɛn plɛn eglite a tu ɛn fɔnjɔn d lœR meRitɛ.
+human_rights_un_frn_grd_64kb_0094	l’edykatjɔn dwa vize o plɛn epanwisəmɑ̃ d la pesɔnalite ymen ɛ o ʁɛnfɔʁsɛmɛn dy ʁpɛkt d dʁwat d l’ɔm ɛ d libete fɔ̃damɑ̃tal.
+human_rights_un_frn_grd_64kb_0095	ɛl dwa favoRize la kɔ̃pReɑ̃sl la tɔleʁans ɛ l’amitje ɑ̃tR tut l nasjɔ̃ ɛ tu l gup ʁasjo u Rəliʒjø ensi k l devɛlɔpɛmɛn d aktivite d natjɔn ynj puʁ l mentjɛn d la peks.
+human_rights_un_frn_grd_64kb_0096	l paRɑ̃ ɔnt paʁ pRijoRs l dʁwa d ʃwaziʁ l gnʁ d’edykatjɔn a dɔne a lœʁ ɛnfants.
+human_rights_un_frn_grd_64kb_0097	aʁtikl 27
+human_rights_un_frn_grd_64kb_0098	tut pesɔn a l dʁwa d pʁɛndʁ paʁ libʁɛmɛn a la vj kyltyʁɛl d la kɔmynote d ʒwiʁ d aR ɛ d paʁtisipe o pʁɔgɛ sjɛntifik ɛ o bjɛ̃fɛ ki ɛn ʁezyltɛnt.
+human_rights_un_frn_grd_64kb_0099	ʃakyn a dʁwa a la pʁɔtɛktjɔn d inteʁɛt moRo ɛ mateʁjɛl dekylɑ̃ d tut pʁɔdyktjɔn sjɛntifikɛ liteʁeʁ u aʁtistik dɔn il t l’otœʁ.
+human_rights_un_frn_grd_64kb_0100	aʁtikl 28
+human_rights_un_frn_grd_64kb_0101	tut pesɔn a dʁwa a s k Rɛ syʁ l plan sɔsjal ɛ syʁ l plan intenatjɔnal yn ɔʁdʁ tɛl k l dʁwat ɛ libete enɔ̃se dan la pRezɑ̃t deklaʁatjɔn pɥisɛn j tʁuve plɛn ɛfɛt.
+human_rights_un_frn_grd_64kb_0102	aʁtikl 29
+human_rights_un_frn_grd_64kb_0103	l’individy a d dɛvwaʁ ɛnve la kɔmynote dan lakɛl sœl l libʁ ɛ plɛn devɛlɔpɛmɛn d sa pesɔnalite t pɔsiblɛ.
+human_rights_un_frn_grd_64kb_0104	dan l’ɛksesis d z dʁwat ɛ dan la ʒwisans d z libetes ʃakyn n’t sumi k’o limitatjɔn etabli paʁ la lwa ɛkskluzivəmɑ̃ ɛn vy d’asuRe la ʁɛkɔnesans ɛ l ʁpɛkt d dʁwat ɛ libete d’otʁɥi ɛ afin d satisfeʁ o ʒust ɛgziʒɑ̃s d la mɔRn d l’ɔʁdʁ pyblik ɛ dy bjɛ̃nɛtR gneʁal dan yn sɔsjete demɔkʁatikɛ.
+human_rights_un_frn_grd_64kb_0105	s dʁwat ɛ libete n pyRɔ̃ ɛn okyn kas s’ɛksese kɔntʁeʁɛmɛn o byt ɛ o pRɛ̃sip d natjɔn ynj.
+human_rights_un_frn_grd_64kb_0106	aʁtikl 30
+human_rights_un_frn_grd_64kb_0107	okyn dispɔzitjɔn d la pRezɑ̃t deklaʁatjɔn n pœ ɛtʁ intepʁete kɔm ɛ̃plikɑ̃ puʁ yn etat yn gupɛmɛn u yn individy yn dʁwa kɛlkɔ̃k d s livRe a yn aktivite u d’akɔmpliʁ yn akt vizan a la dtʁyktjɔn d dʁwat ɛ libete ki j sɔn enɔnkes.

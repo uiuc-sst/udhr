@@ -1,140 +1,107 @@
-human_rights_un_frn_grd_64kb_0001	Déclaration universelle des droits de l'homme 
+human_rights_un_frn_grd_64kb_0001	Déclaration universelle des droits de l’homme
 human_rights_un_frn_grd_64kb_0002	Préambule
-human_rights_un_frn_grd_64kb_0003	Considérant que la reconnaissance de la dignité inhérente à tous les membres de lafamille humaine et de leurs droits égaux et inaliénables constitue le fondement de laliberté, de la justice et de la paix dans le monde,
-human_rights_un_frn_grd_64kb_0004	Considérant que la méconnaissance et le mépris des droits de l'homme ont conduità des actes de barbarie qui révoltent la conscience de l'humanité et que l'avènementd'un monde où les êtres humains seront libres de parler et de croire, libérés de laterreur et de la misère, a été proclamé comme la plus haute aspiration de l'homme,
-human_rights_un_frn_grd_64kb_0005	Considérant qu'il est essentiel que les droits de l'homme soient protégés par unrégime de droit pour que l'homme ne soit pas contraint, en suprême recours, à larévolte contre la tyrannie et l'oppression,
-human_rights_un_frn_grd_64kb_0006	Considérant qu'il est essentiel d'encourager le développement de relations amicalesentre nations,
-human_rights_un_frn_grd_64kb_0007	Considérant que dans la Charte les peuples des Nations Unies ont proclamé ànouveau leur foi dans les droits fondamentaux de l'homme, dans la dignité et lavaleur de la personne humaine, dans l'égalité des droits des hommes et desfemmes, et qu'ils se sont déclarés résolus à favoriser le progrès social et à instaurerde meilleures conditions de vie dans une liberté plus grande,
-human_rights_un_frn_grd_64kb_0008	Considérant que les Etats Membres se sont engagés à assurer, en coopération avecl'Organisation des Nations Unies, le respect universel et effectif des droits del'homme et des libertés fondamentales,
-human_rights_un_frn_grd_64kb_0009	Considérant qu'une conception commune de ces droits et libertés est de la plushaute importance pour remplir pleinement cet engagement,
-human_rights_un_frn_grd_64kb_0010	L'Assemblée générale
-human_rights_un_frn_grd_64kb_0011	Proclame la présente Déclaration universelle des droits de l'homme comme l'idéalcommun à atteindre par tous les peuples et toutes les nations afin que tous lesindividus et tous les organes de la société, ayant cette Déclaration constamment àl'esprit, s'efforcent, par l'enseignement et l'éducation, de développer le respect deces droits et libertés et d'en assurer, par des mesures progressives d'ordre nationalet international, la reconnaissance et l'application universelles et effectives, tantparmi les populations des Etats Membres eux-mêmes que parmi celles desterritoires placés sous leur juridiction.
+human_rights_un_frn_grd_64kb_0003	Considérant que la reconnaissance de la dignité inhérente à tous les membres de la famille humaine et de leurs droits égaux et inaliénables constitue le fondement de la liberté, de la justice et de la paix dans le monde,
+human_rights_un_frn_grd_64kb_0004	Considérant que la méconnaissance et le mépris des droits de l’homme ont conduit à des actes de barbarie qui révoltent la conscience de l’humanité et que l’avènement d’un monde où les êtres humains seront libres de parler et de croire, libérés de la terreur et de la misère, a été proclamé comme la plus haute aspiration de l’homme,
+human_rights_un_frn_grd_64kb_0005	Considérant qu’il est essentiel que les droits de l’homme soient protégés par un régime de droit pour que l’homme ne soit pas contraint, en suprême recours, à la révolte contre la tyrannie et l’oppression,
+human_rights_un_frn_grd_64kb_0006	Considérant qu’il est essentiel d’encourager le développement de relations amicales entre nations,
+human_rights_un_frn_grd_64kb_0007	Considérant que dans la Charte les peuples des Nations Unies ont proclamé à nouveau leur foi dans les droits fondamentaux de l’homme, dans la dignité et la valeur de la personne humaine, dans l’égalité des droits des hommes et des femmes, et qu’ils se sont déclarés résolus à favoriser le progrès social et à instaurer de meilleures conditions de vie dans une liberté plus grande,
+human_rights_un_frn_grd_64kb_0008	Considérant que les États Membres se sont engagés à assurer, en coopération avec l’Organisation des Nations Unies, le respect universel et effectif des droits de l’homme et des libertés fondamentales,
+human_rights_un_frn_grd_64kb_0009	Considérant qu’une conception commune de ces droits et libertés est de la plus haute importance pour remplir pleinement cet engagement,
+human_rights_un_frn_grd_64kb_0010	L’Assemblée générale
+human_rights_un_frn_grd_64kb_0011	Proclame la présente Déclaration universelle des droits de l’homme comme l’idéal commun à atteindre par tous les peuples et toutes les nations afin que tous les individus et tous les organes de la société, ayant cette Déclaration constamment à l’esprit, s’efforcent, par l’enseignement et l’éducation, de développer le respect de ces droits et libertés et d’en assurer, par des mesures progressives d’ordre national et international, la reconnaissance et l’application universelles et effectives, tant parmi les populations des États Membres eux‐mêmes que parmi celles des territoires placés sous leur juridiction.
 human_rights_un_frn_grd_64kb_0012	Article premier
 human_rights_un_frn_grd_64kb_0013	Tous les êtres humains naissent libres et égaux en dignité et en droits.
-human_rights_un_frn_grd_64kb_0014	Ils sontdoués de raison et de conscience et doivent agir les uns envers les autres dans unesprit de fraternité.
+human_rights_un_frn_grd_64kb_0014	Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.
 human_rights_un_frn_grd_64kb_0015	Article 2
-human_rights_un_frn_grd_64kb_0016	Chacun peut se prévaloir de tous les droits et de toutes les libertés proclamés dansla présente Déclaration, sans distinction aucune, notamment de race, de couleur, desexe, de langue, de religion, d'opinion politique ou de toute autre opinion, d'originenationale ou sociale, de fortune, de naissance ou de toute autre situation.
-human_rights_un_frn_grd_64kb_0017	De plus, il ne sera fait aucune distinction fondée sur le statut politique, juridique ouinternational du pays ou du territoire dont une personne est ressortissante, que cepays ou territoire soit indépendant, sous tutelle, non autonome ou soumis à unelimitation quelconque de souveraineté.
+human_rights_un_frn_grd_64kb_0016	Chacun peut se prévaloir de tous les droits et de toutes les libertés proclamés dans la présente Déclaration, sans distinction aucune, notamment de race, de couleur, de sexe, de langue, de religion, d’opinion politique ou de toute autre opinion, d’origine nationale ou sociale, de fortune, de naissance ou de toute autre situation.
+human_rights_un_frn_grd_64kb_0017	De plus, il ne sera fait aucune distinction fondée sur le statut politique, juridique ou international du pays ou du territoire dont une personne est ressortissante, que ce pays ou territoire soit indépendant, sous tutelle, non autonome ou soumis à une limitation quelconque de souveraineté.
 human_rights_un_frn_grd_64kb_0018	Article 3
 human_rights_un_frn_grd_64kb_0019	Tout individu a droit à la vie, à la liberté et à la sûreté de sa personne.
 human_rights_un_frn_grd_64kb_0020	Article 4
 human_rights_un_frn_grd_64kb_0021	Nul ne sera tenu en esclavage ni en servitude;
-human_rights_un_frn_grd_64kb_0022	l'esclavage et la traite des esclavessont interdits sous toutes leurs formes.
+human_rights_un_frn_grd_64kb_0022	l’esclavage et la traite des esclaves sont interdits sous toutes leurs formes.
 human_rights_un_frn_grd_64kb_0023	Article 5
-human_rights_un_frn_grd_64kb_0024	Nul ne sera soumis à la torture, ni à des peines ou traitements cruels, inhumains oudégradants.
+human_rights_un_frn_grd_64kb_0024	Nul ne sera soumis à la torture, ni à des peines ou traitements cruels, inhumains ou dégradants.
 human_rights_un_frn_grd_64kb_0025	Article 6
 human_rights_un_frn_grd_64kb_0026	Chacun a le droit à la reconnaissance en tous lieux de sa personnalité juridique.
 human_rights_un_frn_grd_64kb_0027	Article 7
-human_rights_un_frn_grd_64kb_0028	Tous sont égaux devant la loi et ont droit sans distinction à une égale protection dela loi.
-human_rights_un_frn_grd_64kb_0029	Tous ont droit à une protection égale contre toute discrimination qui violerait laprésente Déclaration et contre toute provocation à une telle discrimination.
+human_rights_un_frn_grd_64kb_0028	Tous sont égaux devant la loi et ont droit sans distinction à une égale protection de la loi.
+human_rights_un_frn_grd_64kb_0029	Tous ont droit à une protection égale contre toute discrimination qui violerait la présente Déclaration et contre toute provocation à une telle discrimination.
 human_rights_un_frn_grd_64kb_0030	Article 8
-human_rights_un_frn_grd_64kb_0031	Toute personne a droit à un recours effectif devant les juridictions nationalescompétentes contre les actes violant les droits fondamentaux qui lui sont reconnuspar la constitution ou par la loi.
+human_rights_un_frn_grd_64kb_0031	Toute personne a droit à un recours effectif devant les juridictions nationales compétentes contre les actes violant les droits fondamentaux qui lui sont reconnus par la constitution ou par la loi.
 human_rights_un_frn_grd_64kb_0032	Article 9
 human_rights_un_frn_grd_64kb_0033	Nul ne peut être arbitrairement arrêté, détenu ni exilé.
 human_rights_un_frn_grd_64kb_0034	Article 10
-human_rights_un_frn_grd_64kb_0035	Toute personne a droit, en pleine égalité, à ce que sa cause soit entendueéquitablement et publiquement par un tribunal indépendant et impartial, qui décidera,soit de ses droits et obligations, soit du bien-fondé de toute accusation en matièrepénale dirigée contre elle.
+human_rights_un_frn_grd_64kb_0035	Toute personne a droit, en pleine égalité, à ce que sa cause soit entendue équitablement et publiquement par un tribunal indépendant et impartial, qui décidera, soit de ses droits et obligations, soit du bien fondé de toute accusation en matière pénale dirigée contre elle.
 human_rights_un_frn_grd_64kb_0036	Article 11
-human_rights_un_frn_grd_64kb_0037	1.
-human_rights_un_frn_grd_64kb_0038	Toute personne accusée d'un acte délictueux est présumée innocente jusqu'à ceque sa culpabilité ait été légalement établie au cours d'un procès public où toutes lesgaranties nécessaires à sa défense lui auront été assurées.
-human_rights_un_frn_grd_64kb_0039	2.
-human_rights_un_frn_grd_64kb_0040	Nul ne sera condamné pour des actions ou omissions qui, au moment où elles ontété commises, ne constituaient pas un acte délictueux d'après le droit national ouinternational.
-human_rights_un_frn_grd_64kb_0041	De même, il ne sera infligé aucune peine plus forte que celle qui étaitapplicable au moment où l'acte délictueux a été commis.
-human_rights_un_frn_grd_64kb_0042	Article 12
-human_rights_un_frn_grd_64kb_0043	Nul ne sera l'objet d'immixtions arbitraires dans sa vie privée, sa famille, sondomicile ou sa correspondance, ni d'atteintes à son honneur et à sa réputation.
-human_rights_un_frn_grd_64kb_0044	Toute personne a droit à la protection de la loi contre de telles immixtions ou detelles atteintes.
-human_rights_un_frn_grd_64kb_0045	Article 13
-human_rights_un_frn_grd_64kb_0046	1.
-human_rights_un_frn_grd_64kb_0047	Toute personne a le droit de circuler librement et de choisir sa résidence àl'intérieur d'un Etat.
-human_rights_un_frn_grd_64kb_0048	2.
-human_rights_un_frn_grd_64kb_0049	Toute personne a le droit de quitter tout pays, y compris le sien, et de revenir dansson pays.
-human_rights_un_frn_grd_64kb_0050	Article 14
-human_rights_un_frn_grd_64kb_0051	1.
-human_rights_un_frn_grd_64kb_0052	Devant la persécution, toute personne a le droit de chercher asile et de bénéficierde l'asile en d'autres pays.
-human_rights_un_frn_grd_64kb_0053	2.
-human_rights_un_frn_grd_64kb_0054	Ce droit ne peut être invoqué dans le cas de poursuites réellement fondées sur uncrime de droit commun ou sur des agissements contraires aux buts et aux principesdes Nations Unies.
-human_rights_un_frn_grd_64kb_0055	Article 15
-human_rights_un_frn_grd_64kb_0056	1.
-human_rights_un_frn_grd_64kb_0057	Tout individu a droit à une nationalité.
-human_rights_un_frn_grd_64kb_0058	2.
-human_rights_un_frn_grd_64kb_0059	Nul ne peut être arbitrairement privé de sa nationalité, ni du droit de changer denationalité.
-human_rights_un_frn_grd_64kb_0060	Article 16
-human_rights_un_frn_grd_64kb_0061	1.
-human_rights_un_frn_grd_64kb_0062	A partir de l'âge nubile, l'homme et la femme, sans aucune restriction quant à larace, la nationalité ou la religion, ont le droit de se marier et de fonder une famille.
-human_rights_un_frn_grd_64kb_0063	Ilsont des droits égaux au regard du mariage, durant le mariage et lors de sadissolution.
-human_rights_un_frn_grd_64kb_0064	2.
-human_rights_un_frn_grd_64kb_0065	Le mariage ne peut être conclu qu'avec le libre et plein consentement des futursépoux.
-human_rights_un_frn_grd_64kb_0066	3.
-human_rights_un_frn_grd_64kb_0067	La famille est l'élément naturel et fondamental de la société et a droit à laprotection de la société et de l'Etat.
-human_rights_un_frn_grd_64kb_0068	Article 17
-human_rights_un_frn_grd_64kb_0069	1.
-human_rights_un_frn_grd_64kb_0070	Toute personne, aussi bien seule qu'en collectivité, a droit à la propriété.
-human_rights_un_frn_grd_64kb_0071	2.
-human_rights_un_frn_grd_64kb_0072	Nul ne peut être arbitrairement privé de sa propriété
-human_rights_un_frn_grd_64kb_0073	Article 18
-human_rights_un_frn_grd_64kb_0074	Toute personne a droit à la liberté de pensée, de conscience et de religion;
-human_rights_un_frn_grd_64kb_0075	ce droitimplique la liberté de changer de religion ou de conviction ainsi que la liberté demanifester sa religion ou sa conviction, seule ou en commun, tant en public qu'enprivé, par l'enseignement, les pratiques, le culte et l'accomplissement des rites.
-human_rights_un_frn_grd_64kb_0076	Article 19
-human_rights_un_frn_grd_64kb_0077	Tout individu a droit à la liberté d'opinion et d'expression, ce qui implique le droit dene pas être inquiété pour ses opinions et celui de chercher, de recevoir et derépandre, sans considérations de frontières, les informations et les idées parquelque moyen d'expression que ce soit.
-human_rights_un_frn_grd_64kb_0078	Article 20
-human_rights_un_frn_grd_64kb_0079	1.
-human_rights_un_frn_grd_64kb_0080	Toute personne a droit à la liberté de réunion et d'association pacifiques.
-human_rights_un_frn_grd_64kb_0081	2.
-human_rights_un_frn_grd_64kb_0082	Nul ne peut être obligé de faire partie d'une association.
-human_rights_un_frn_grd_64kb_0083	Article 21
-human_rights_un_frn_grd_64kb_0084	1.
-human_rights_un_frn_grd_64kb_0085	Toute personne a le droit de prendre part à la direction des affaires publiques deson pays, soit directement, soit par l'intermédiaire de représentants librementchoisis.
-human_rights_un_frn_grd_64kb_0086	2.
-human_rights_un_frn_grd_64kb_0087	Toute personne a droit à accéder, dans des conditions d'égalité, aux fonctionspubliques de son pays.
-human_rights_un_frn_grd_64kb_0088	3.
-human_rights_un_frn_grd_64kb_0089	La volonté du peuple est le fondement de l'autorité des pouvoirs publics;
-human_rights_un_frn_grd_64kb_0090	cettevolonté doit s'exprimer par des élections honnêtes qui doivent avoir lieupériodiquement, au suffrage universel égal et au vote secret ou suivant uneprocédure équivalente assurant la liberté du vote.
-human_rights_un_frn_grd_64kb_0091	Article 22
-human_rights_un_frn_grd_64kb_0092	Toute personne, en tant que membre de la société, a droit à la sécurité sociale;
-human_rights_un_frn_grd_64kb_0093	elleest fondée à obtenir la satisfaction des droits économiques, sociaux et culturelsindispensables à sa dignité et au libre développement de sa personnalité, grâce àl'effort national et à la coopération internationale, compte tenu de l'organisation etdes ressources de chaque pays.
-human_rights_un_frn_grd_64kb_0094	Article 23
-human_rights_un_frn_grd_64kb_0095	1.
-human_rights_un_frn_grd_64kb_0096	Toute personne a droit au travail, au libre choix de son travail, à des conditionséquitables et satisfaisantes de travail et à la protection contre le chômage.
-human_rights_un_frn_grd_64kb_0097	2.
-human_rights_un_frn_grd_64kb_0098	Tous ont droit, sans aucune discrimination, à un salaire égal pour un travail égal
-human_rights_un_frn_grd_64kb_0099	3.
-human_rights_un_frn_grd_64kb_0100	Quiconque travaille a droit à une rémunération équitable et satisfaisante luiassurant ainsi qu'à sa famille une existence conforme à la dignité humaine etcomplétée, s'il y a lieu, par tous autres moyens de protection sociale.
-human_rights_un_frn_grd_64kb_0101	4.
-human_rights_un_frn_grd_64kb_0102	Toute personne a le droit de fonder avec d'autres des syndicats et de s'affilier àdes syndicats pour la défense de ses intérêts.
-human_rights_un_frn_grd_64kb_0103	Article 24
-human_rights_un_frn_grd_64kb_0104	Toute personne a droit au repos et aux loisirs et notamment à une limitationraisonnable de la durée du travail et à des congés payés périodiques.
-human_rights_un_frn_grd_64kb_0105	Article 25
-human_rights_un_frn_grd_64kb_0106	1.
-human_rights_un_frn_grd_64kb_0107	Toute personne a droit à un niveau de vie suffisant pour assurer sa santé, sonbien-être et ceux de sa famille, notamment pour l'alimentation, l'habillement, lelogement, les soins médicaux ainsi que pour les services sociaux nécessaires;
-human_rights_un_frn_grd_64kb_0108	elle adroit à la sécurité en cas de chômage, de maladie, d'invalidité, de veuvage, devieillesse ou dans les autres cas de perte de ses moyens de subsistance par suitede circonstances indépendantes de sa volonté.
-human_rights_un_frn_grd_64kb_0109	2.
-human_rights_un_frn_grd_64kb_0110	La maternité et l'enfance ont droit à une aide et à une assistance spéciales.
-human_rights_un_frn_grd_64kb_0111	Tousles enfants, qu'ils soient nés dans le mariage ou hors mariage, jouissent de la mêmeprotection sociale.
-human_rights_un_frn_grd_64kb_0112	Article 26
-human_rights_un_frn_grd_64kb_0113	1.
-human_rights_un_frn_grd_64kb_0114	Toute personne a droit à l'éducation.
-human_rights_un_frn_grd_64kb_0115	L'éducation doit être gratuite, au moins en cequi concerne l'enseignement élémentaire et fondamental.
-human_rights_un_frn_grd_64kb_0116	L'enseignementélémentaire est obligatoire.
-human_rights_un_frn_grd_64kb_0117	L'enseignement technique et professionnel doit êtregénéralisé;
-human_rights_un_frn_grd_64kb_0118	l'accès aux études supérieures doit être ouvert en pleine égalité à tousen fonction de leur mérite.
-human_rights_un_frn_grd_64kb_0119	2.
-human_rights_un_frn_grd_64kb_0120	L'éducation doit viser au plein épanouissement de la personnalité humaine et aurenforcement du respect des droits de l'homme et des libertés fondamentales.
-human_rights_un_frn_grd_64kb_0121	Elledoit favoriser la compréhension, la tolérance et l'amitié entre toutes les nations ettous les groupes raciaux ou religieux, ainsi que le développement des activités des
-human_rights_un_frn_grd_64kb_0122	Nations Unies pour le maintien de la paix.
-human_rights_un_frn_grd_64kb_0123	3.
-human_rights_un_frn_grd_64kb_0124	Les parents ont, par priorité, le droit de choisir le genre d'éducation à donner àleurs enfants.
-human_rights_un_frn_grd_64kb_0125	Article 27
-human_rights_un_frn_grd_64kb_0126	1.
-human_rights_un_frn_grd_64kb_0127	Toute personne a le droit de prendre part librement à la vie culturelle de lacommunauté, de jouir des arts et de participer au progrès scientifique et auxbienfaits qui en résultent
-human_rights_un_frn_grd_64kb_0128	2.
-human_rights_un_frn_grd_64kb_0129	Chacun a droit à la protection des intérêts moraux et matériels découlant de touteproduction scientifique, littéraire ou artistique dont il est l'auteur.
-human_rights_un_frn_grd_64kb_0130	Article 28
-human_rights_un_frn_grd_64kb_0131	Toute personne a droit à ce que règne, sur le plan social et sur le plan international,un ordre tel que les droits et libertés énoncés dans la présente Déclaration puissenty trouver plein effet.
-human_rights_un_frn_grd_64kb_0132	Article 29
-human_rights_un_frn_grd_64kb_0133	1.
-human_rights_un_frn_grd_64kb_0134	L'individu a des devoirs envers la communauté dans laquelle seule le libre et pleindéveloppement de sa personnalité est possible.
-human_rights_un_frn_grd_64kb_0135	2.
-human_rights_un_frn_grd_64kb_0136	Dans l'exercice de ses droits et dans la jouissance de ses libertés, chacun n'estsoumis qu'aux limitations établies par la loi exclusivement en vue d'assurer lareconnaissance et le respect des droits et libertés d'autrui et afin de satisfaire auxjustes exigences de la morale, de l'ordre public et du bien-être général dans unesociété démocratique.
-human_rights_un_frn_grd_64kb_0137	3.
-human_rights_un_frn_grd_64kb_0138	Ces droits et libertés ne pourront, en aucun cas, s'exercer contrairement aux butset aux principes des Nations Unies.
-human_rights_un_frn_grd_64kb_0139	Article 30
-human_rights_un_frn_grd_64kb_0140	Aucune disposition de la présente Déclaration ne peut être interprétée commeimpliquant, pour un Etat, un groupement ou un individu, un droit quelconque de selivrer à une activité ou d'accomplir un acte visant à la destruction des droits etlibertés qui y sont énoncés.
+human_rights_un_frn_grd_64kb_0037	Toute personne accusée d’un acte délictueux est présumée innocente jusqu’à ce que sa culpabilité ait été légalement établie au cours d’un procès public où toutes les garanties nécessaires à sa défense lui auront été assurées.
+human_rights_un_frn_grd_64kb_0038	Nul ne sera condamné pour des actions ou omissions qui, au moment où elles ont été commises, ne constituaient pas un acte délictueux d’après le droit national ou international.
+human_rights_un_frn_grd_64kb_0039	De même, il ne sera infligé aucune peine plus forte que celle qui était applicable au moment où l’acte délictueux a été commis.
+human_rights_un_frn_grd_64kb_0040	Article 12
+human_rights_un_frn_grd_64kb_0041	Nul ne sera l’objet d’immixtions arbitraires dans sa vie privée, sa famille, son domicile ou sa correspondance, ni d’atteintes à son honneur et à sa réputation.
+human_rights_un_frn_grd_64kb_0042	Toute personne a droit à la protection de la loi contre de telles immixtions ou de telles atteintes.
+human_rights_un_frn_grd_64kb_0043	Article 13
+human_rights_un_frn_grd_64kb_0044	Toute personne a le droit de circuler librement et de choisir sa résidence à l’intérieur d’un État.
+human_rights_un_frn_grd_64kb_0045	Toute personne a le droit de quitter tout pays, y compris le sien, et de revenir dans son pays.
+human_rights_un_frn_grd_64kb_0046	Article 14
+human_rights_un_frn_grd_64kb_0047	Devant la persécution, toute personne a le droit de chercher asile et de bénéficier de l’asile en d’autres pays.
+human_rights_un_frn_grd_64kb_0048	Ce droit ne peut être invoqué dans le cas de poursuites réellement fondées sur un crime de droit commun ou sur des agissements contraires aux buts et aux principes des Nations Unies.
+human_rights_un_frn_grd_64kb_0049	Article 15
+human_rights_un_frn_grd_64kb_0050	Tout individu a droit à une nationalité.
+human_rights_un_frn_grd_64kb_0051	Nul ne peut être arbitrairement privé de sa nationalité, ni du droit de changer de nationalité.
+human_rights_un_frn_grd_64kb_0052	Article 16
+human_rights_un_frn_grd_64kb_0053	A partir de l’âge nubile, l’homme et la femme, sans aucune restriction quant à la race, la nationalité ou la religion, ont le droit de se marier et de fonder une famille.
+human_rights_un_frn_grd_64kb_0054	Ils ont des droits égaux au regard du mariage, durant le mariage et lors de sa dissolution.
+human_rights_un_frn_grd_64kb_0055	Le mariage ne peut être conclu qu’avec le libre et plein consentement des futurs époux.
+human_rights_un_frn_grd_64kb_0056	La famille est l’élément naturel et fondamental de la société et a droit à la protection de la société et de l’État.
+human_rights_un_frn_grd_64kb_0057	Article 17
+human_rights_un_frn_grd_64kb_0058	Toute personne, aussi bien seule qu’en collectivité, a droit à la propriété.
+human_rights_un_frn_grd_64kb_0059	Nul ne peut être arbitrairement privé de sa propriété.
+human_rights_un_frn_grd_64kb_0060	Article 18
+human_rights_un_frn_grd_64kb_0061	Toute personne a droit à la liberté de pensée, de conscience et de religion;
+human_rights_un_frn_grd_64kb_0062	ce droit implique la liberté de changer de religion ou de conviction ainsi que la liberté de manifester sa religion ou sa conviction, seule ou en commun, tant en public qu’en privé, par l’enseignement, les pratiques, le culte et l’accomplissement des rites.
+human_rights_un_frn_grd_64kb_0063	Article 19
+human_rights_un_frn_grd_64kb_0064	Tout individu a droit à la liberté d’opinion et d’expression, ce qui implique le droit de ne pas être inquiété pour ses opinions et celui de chercher, de recevoir et de répandre, sans considérations de frontières, les informations et les idées par quelque moyen d’expression que ce soit.
+human_rights_un_frn_grd_64kb_0065	Article 20
+human_rights_un_frn_grd_64kb_0066	Toute personne a droit à la liberté de réunion et d’association pacifiques.
+human_rights_un_frn_grd_64kb_0067	Nul ne peut être obligé de faire partie d’une association.
+human_rights_un_frn_grd_64kb_0068	Article 21
+human_rights_un_frn_grd_64kb_0069	Toute personne a le droit de prendre part à la direction des affaires publiques de son pays, soit directement, soit par l’intermédiaire de représentants librement choisis.
+human_rights_un_frn_grd_64kb_0070	Toute personne a droit à accéder, dans des conditions d’égalité, aux fonctions publiques de son pays.
+human_rights_un_frn_grd_64kb_0071	La volonté du peuple est le fondement de l’autorité des pouvoirs publics;
+human_rights_un_frn_grd_64kb_0072	cette volonté doit s’exprimer par des élections honnêtes qui doivent avoir lieu périodiquement, au suffrage universel égal et au vote secret ou suivant une procédure équivalente assurant la liberté du vote.
+human_rights_un_frn_grd_64kb_0073	Article 22
+human_rights_un_frn_grd_64kb_0074	Toute personne, en tant que membre de la société, a droit à la sécurité sociale;
+human_rights_un_frn_grd_64kb_0075	elle est fondée à obtenir la satisfaction des droits économiques, sociaux et culturels indispensables à sa dignité et au libre développement de sa personnalité, grâce à l’effort national et à la coopération internationale, compte tenu de l’organisation et des ressources de chaque pays.
+human_rights_un_frn_grd_64kb_0076	Article 23
+human_rights_un_frn_grd_64kb_0077	Toute personne a droit au travail, au libre choix de son travail, à des conditions équitables et satisfaisantes de travail et à la protection contre le chômage.
+human_rights_un_frn_grd_64kb_0078	Tous ont droit, sans aucune discrimination, à un salaire égal pour un travail égal.
+human_rights_un_frn_grd_64kb_0079	Quiconque travaille a droit à une rémunération équitable et satisfaisante lui assurant ainsi qu’à sa famille une existence conforme à la dignité humaine et complétée, s’il y a lieu, par tous autres moyens de protection sociale.
+human_rights_un_frn_grd_64kb_0080	Toute personne a le droit de fonder avec d’autres des syndicats et de s’affilier à des syndicats pour la défense de ses intérêts.
+human_rights_un_frn_grd_64kb_0081	Article 24
+human_rights_un_frn_grd_64kb_0082	Toute personne a droit au repos et aux loisirs et notamment à une limitation raisonnable de la durée du travail et à des congés payés périodiques.
+human_rights_un_frn_grd_64kb_0083	Article 25
+human_rights_un_frn_grd_64kb_0084	Toute personne a droit à un niveau de vie suffisant pour assurer sa santé, son bien‐être et ceux de sa famille, notamment pour l’alimentation, l’habillement, le logement, les soins médicaux ainsi que pour les services sociaux nécessaires;
+human_rights_un_frn_grd_64kb_0085	elle a droit à la sécurité en cas de chômage, de maladie, d’invalidité, de veuvage, de vieillesse ou dans les autres cas de perte de ses moyens de subsistance par suite de circonstances indépendantes de sa volonté.
+human_rights_un_frn_grd_64kb_0086	La maternité et l’enfance ont droit à une aide et à une assistance spéciales.
+human_rights_un_frn_grd_64kb_0087	Tous les enfants, qu’ils soient nés dans le mariage ou hors mariage, jouissent de la même protection sociale.
+human_rights_un_frn_grd_64kb_0088	Article 26
+human_rights_un_frn_grd_64kb_0089	Toute personne a droit à l’éducation.
+human_rights_un_frn_grd_64kb_0090	L’éducation doit être gratuite, au moins en ce qui concerne l’enseignement élémentaire et fondamental.
+human_rights_un_frn_grd_64kb_0091	L’enseignement élémentaire est obligatoire.
+human_rights_un_frn_grd_64kb_0092	L’enseignement technique et professionnel doit être généralisé;
+human_rights_un_frn_grd_64kb_0093	l’accès aux études supérieures doit être ouvert en pleine égalité à tous en fonction de leur mérite.
+human_rights_un_frn_grd_64kb_0094	L’éducation doit viser au plein épanouissement de la personnalité humaine et au renforcement du respect des droits de l’homme et des libertés fondamentales.
+human_rights_un_frn_grd_64kb_0095	Elle doit favoriser la compréhension, la tolérance et l’amitié entre toutes les nations et tous les groupes raciaux ou religieux, ainsi que le développement des activités des Nations Unies pour le maintien de la paix.
+human_rights_un_frn_grd_64kb_0096	Les parents ont, par priorité, le droit de choisir le genre d’éducation à donner à leurs enfants.
+human_rights_un_frn_grd_64kb_0097	Article 27
+human_rights_un_frn_grd_64kb_0098	Toute personne a le droit de prendre part librement à la vie culturelle de la communauté, de jouir des arts et de participer au progrès scientifique et aux bienfaits qui en résultent.
+human_rights_un_frn_grd_64kb_0099	Chacun a droit à la protection des intérêts moraux et matériels découlant de toute production scientifique, littéraire ou artistique dont il est l’auteur.
+human_rights_un_frn_grd_64kb_0100	Article 28
+human_rights_un_frn_grd_64kb_0101	Toute personne a droit à ce que règne, sur le plan social et sur le plan international, un ordre tel que les droits et libertés énoncés dans la présente Déclaration puissent y trouver plein effet.
+human_rights_un_frn_grd_64kb_0102	Article 29
+human_rights_un_frn_grd_64kb_0103	L’individu a des devoirs envers la communauté dans laquelle seul le libre et plein développement de sa personnalité est possible.
+human_rights_un_frn_grd_64kb_0104	Dans l’exercice de ses droits et dans la jouissance de ses libertés, chacun n’est soumis qu’aux limitations établies par la loi exclusivement en vue d’assurer la reconnaissance et le respect des droits et libertés d’autrui et afin de satisfaire aux justes exigences de la morale, de l’ordre public et du bien‐être général dans une société démocratique.
+human_rights_un_frn_grd_64kb_0105	Ces droits et libertés ne pourront, en aucun cas, s’exercer contrairement aux buts et aux principes des Nations Unies.
+human_rights_un_frn_grd_64kb_0106	Article 30
+human_rights_un_frn_grd_64kb_0107	Aucune disposition de la présente Déclaration ne peut être interprétée comme impliquant pour un État, un groupement ou un individu un droit quelconque de se livrer à une activité ou d’accomplir un acte visant à la destruction des droits et libertés qui y sont énoncés.

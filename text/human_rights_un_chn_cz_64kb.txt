@@ -1,209 +1,109 @@
 human_rights_un_chn_cz_64kb_0001	世界人权宣言
 human_rights_un_chn_cz_64kb_0002	联合国大会一九四八年十二月十日第217A(III)号决议通过并颁布
-human_rights_un_chn_cz_64kb_0003	1948 年 12 月 10 日， 联 合 国 大 会 通 过 并 颁 布《 世 界 人 权 宣 言》。
-human_rights_un_chn_cz_64kb_0004	这 一
-human_rights_un_chn_cz_64kb_0005	具 有 历 史 意 义 的《 宣 言》 颁 布 后， 大 会 要 求 所 有 会 员 国 广 为 宣 传，
-human_rights_un_chn_cz_64kb_0006	并 且“ 不 分 国 家 或 领 土 的 政 治 地 位 , 主 要 在 各 级 学 校 和 其 他 教 育 机
-human_rights_un_chn_cz_64kb_0007	构 加 以 传 播、 展 示、 阅 读 和 阐 述。
-human_rights_un_chn_cz_64kb_0008	” 《 宣 言 》 全 文 如 下：
-human_rights_un_chn_cz_64kb_0009	序 言
-human_rights_un_chn_cz_64kb_0010	鉴 于 对 人 类 家 庭 所 有 成 员 的 固 有 尊 严 及 其 平 等 的 和 不 移 的 权 利 的
-human_rights_un_chn_cz_64kb_0011	承 认, 乃 是 世 界 自 由、 正 义 与 和 平 的 基 础,
-human_rights_un_chn_cz_64kb_0012	鉴 于 对 人 权 的 无 视 和 侮 蔑 已 发 展 为 野 蛮 暴 行, 这 些 暴 行 玷 污 了 人 类
-human_rights_un_chn_cz_64kb_0013	的 良 心, 而 一 个 人 人 享 有 言 论 和 信 仰 自 由 并 免 予 恐 惧 和 匮 乏 的 世 界
-human_rights_un_chn_cz_64kb_0014	的 来 临, 已 被 宣 布 为 普 通 人 民 的 最 高 愿 望,
-human_rights_un_chn_cz_64kb_0015	鉴 于 为 使 人 类 不 致 迫 不 得 已 铤 而 走 险 对 暴 政 和 压 迫 进 行 反 叛, 有 必
-human_rights_un_chn_cz_64kb_0016	要 使 人 权 受 法 治 的 保 护,
-human_rights_un_chn_cz_64kb_0017	鉴 于 有 必 要 促 进 各 国 间 友 好 关 系 的 发 展,
-human_rights_un_chn_cz_64kb_0018	鉴 于 各 联 合 国 国 家 的 人 民 已 在 联 合 国 宪 章 中 重 申 他 们 对 基 本 人
-human_rights_un_chn_cz_64kb_0019	权、 人 格 尊 严 和 价 值 以 及 男 女 平 等 权 利 的 信 念, 并 决 心 促 成 较 大 自
-human_rights_un_chn_cz_64kb_0020	由 中 的 社 会 进 步 和 生 活 水 平 的 改 善,
-human_rights_un_chn_cz_64kb_0021	鉴 于 各 会 员 国 业 已 誓 愿 同 联 合 国 合 作 以 促 进 对 人 权 和 基 本 自 由 的
-human_rights_un_chn_cz_64kb_0022	普 遍 尊 重 和 遵 行,
-human_rights_un_chn_cz_64kb_0023	鉴 于 对 这 些 权 利 和 自 由 的 普 遍 了 解 对 于 这 个 誓 愿 的 充 分 实 现 具 有
-human_rights_un_chn_cz_64kb_0024	很 大 的 重 要 性,
-human_rights_un_chn_cz_64kb_0025	因 此 现 在, 大 会, 发 布 这 一 世 界 人 权 宣 言 , 作 为 所 有 人 民 和 所 有 国 家
-human_rights_un_chn_cz_64kb_0026	努 力 实 现 的 共 同 标 准, 以 期 每 一 个 人 和 社 会 机 构 经 常 铭 念 本 宣 言,
-human_rights_un_chn_cz_64kb_0027	努 力 通 过 教 诲 和 教 育 促 进 对 权 利 和 自 由 的 尊 重, 并 通 过 国 家 的 和 国
-human_rights_un_chn_cz_64kb_0028	际 的 渐 进 措 施, 使 这 些 权 利 和 自 由 在 各 会 员 国 本 身 人 民 及 在 其 管 辖
-human_rights_un_chn_cz_64kb_0029	下 领 土 的 人 民 中 得 到 普 遍 和 有 效 的 承 认 和 遵 行;
-human_rights_un_chn_cz_64kb_0030	第 一 条
-human_rights_un_chn_cz_64kb_0031	人 人 生 而 自 由, 在 尊 严 和 权 利 上 一 律 平 等。
-human_rights_un_chn_cz_64kb_0032	他 们 赋 有 理 性 和 良 心, 并
-human_rights_un_chn_cz_64kb_0033	应 以 兄 弟 关 系 的 精 神 相 对 待。
-human_rights_un_chn_cz_64kb_0034	第 二 条
-human_rights_un_chn_cz_64kb_0035	人 人 有 资 格 享 有 本 宣 言 所 载 的 一 切 权 利 和 自 由, 不 分 种 族、 肤 色、
-human_rights_un_chn_cz_64kb_0036	性 别、 语 言、 宗 教、 政 治 或 其 他 见 解、 国 籍 或 社 会 出 身、 财 产、 出
-human_rights_un_chn_cz_64kb_0037	生 或 其 他 身 分 等 任 何 区 别。
-human_rights_un_chn_cz_64kb_0038	并 且 不 得 因 一 人 所 属 的 国 家 或 领 土 的 政 治 的、 行 政 的 或 者 国 际 的
-human_rights_un_chn_cz_64kb_0039	地 位 之 不 同 而 有 所 区 别, 无 论 该 领 土 是 独 立 领 土、 托 管 领 土、 非 自
-human_rights_un_chn_cz_64kb_0040	治 领 土 或 者 处 于 其 他 任 何 主 权 受 限 制 的 情 况 之 下。
-human_rights_un_chn_cz_64kb_0041	第 三 条
-human_rights_un_chn_cz_64kb_0042	人 人 有 权 享 有 生 命、 自 由 和 人 身 安 全。
-human_rights_un_chn_cz_64kb_0043	第 四 条
-human_rights_un_chn_cz_64kb_0044	任 何 人 不 得 使 为 奴 隶 或 奴 役;
-human_rights_un_chn_cz_64kb_0045	一 切 形 式 的 奴 隶 制 度 和 奴 隶 买 卖, 均
-human_rights_un_chn_cz_64kb_0046	应 予 以 禁 止。
-human_rights_un_chn_cz_64kb_0047	第 五 条
-human_rights_un_chn_cz_64kb_0048	任 何 人 不 得 加 以 酷 刑, 或 施 以 残 忍 的、 不 人 道 的 或 侮 辱 性 的 待 遇 或
-human_rights_un_chn_cz_64kb_0049	刑 罚。
-human_rights_un_chn_cz_64kb_0050	第 六 条
-human_rights_un_chn_cz_64kb_0051	人 人 在 任 何 地 方 有 权 被 承 认 在 法 律 前 的 人 格。
-human_rights_un_chn_cz_64kb_0052	第 七 条
-human_rights_un_chn_cz_64kb_0053	法 律 之 前 人 人 平 等, 并 有 权 享 受 法 律 的 平 等 保 护, 不 受 任 何 歧 视。
-human_rights_un_chn_cz_64kb_0054	人
-human_rights_un_chn_cz_64kb_0055	人 有 权 享 受 平 等 保 护, 以 免 受 违 反 本 宣 言 的 任 何 歧 视 行 为 以 及 煽 动
-human_rights_un_chn_cz_64kb_0056	这 种 歧 视 的 任 何 行 为 之 害。
-human_rights_un_chn_cz_64kb_0057	第 八 条
-human_rights_un_chn_cz_64kb_0058	任 何 人 当 宪 法 或 法 律 所 赋 予 他 的 基 本 权 利 遭 受 侵 害 时, 有 权 由 合 格
-human_rights_un_chn_cz_64kb_0059	的 国 家 法 庭 对 这 种 侵 害 行 为 作 有 效 的 补 救。
-human_rights_un_chn_cz_64kb_0060	第 九 条
-human_rights_un_chn_cz_64kb_0061	任 何 人 不 得 加 以 任 意 逮 捕、 拘 禁 或 放 逐。
-human_rights_un_chn_cz_64kb_0062	第 十 条
-human_rights_un_chn_cz_64kb_0063	人 人 完 全 平 等 地 有 权 由 一 个 独 立 而 无 偏 倚 的 法 庭 进 行 公 正 的 和 公
-human_rights_un_chn_cz_64kb_0064	开 的 审 讯, 以 确 定 他 的 权 利 和 义 务 并 判 定 对 他 提 出 的 任 何 刑 事 指
-human_rights_un_chn_cz_64kb_0065	控。
-human_rights_un_chn_cz_64kb_0066	第 十 一 条
-human_rights_un_chn_cz_64kb_0067	1.
-human_rights_un_chn_cz_64kb_0068	㈠ 凡 受 刑 事 控 告 者, 在 未 经 获 得 辩 护 上 所 需 的 一 切 保 证 的 公
-human_rights_un_chn_cz_64kb_0069	开 审 判 而 依 法 证 实 有 罪 以 前, 有 权 被 视 为 无 罪。
-human_rights_un_chn_cz_64kb_0070	2.
-human_rights_un_chn_cz_64kb_0071	㈡ 任 何 人 的 任 何 行 为 或 不 行 为, 在 其 发 生 时 依 国 家 法 或 国 际
-human_rights_un_chn_cz_64kb_0072	法 均 不 构 成 刑 事 罪 者, 不 得 被 判 为 犯 有 刑 事 罪。
-human_rights_un_chn_cz_64kb_0073	刑 罚 不 得 重 于
-human_rights_un_chn_cz_64kb_0074	犯 罪 时 适 用 的 法 律 规 定。
-human_rights_un_chn_cz_64kb_0075	第 十 二 条
-human_rights_un_chn_cz_64kb_0076	任 何 人 的 私 生 活、 家 庭、 住 宅 和 通 信 不 得 任 意 干 涉, 他 的 荣 誉 和 名
-human_rights_un_chn_cz_64kb_0077	誉 不 得 加 以 攻 击。
-human_rights_un_chn_cz_64kb_0078	人 人 有 权 享 受 法 律 保 护, 以 免 受 这 种 干 涉 或 攻
-human_rights_un_chn_cz_64kb_0079	击。
-human_rights_un_chn_cz_64kb_0080	第 十 三 条
-human_rights_un_chn_cz_64kb_0081	1.
-human_rights_un_chn_cz_64kb_0082	㈠ 人 人 在 各 国 境 内 有 权 自 由 迁 徙 和 居 住。
-human_rights_un_chn_cz_64kb_0083	2.
-human_rights_un_chn_cz_64kb_0084	㈡ 人 人 有 权 离 开 任 何 国 家, 包 括 其 本 国 在 内, 并 有 权 返 回 他 的
-human_rights_un_chn_cz_64kb_0085	国 家。
-human_rights_un_chn_cz_64kb_0086	第 十 四 条
-human_rights_un_chn_cz_64kb_0087	1.
-human_rights_un_chn_cz_64kb_0088	㈠ 人 人 有 权 在 其 他 国 家 寻 求 和 享 受 庇 护 以 避 免 迫 害。
-human_rights_un_chn_cz_64kb_0089	2.
-human_rights_un_chn_cz_64kb_0090	㈡ 在 真 正 由 于 非 政 治 性 的 罪 行 或 违 背 联 合 国 的 宗 旨 和 原 则 的
-human_rights_un_chn_cz_64kb_0091	行 为 而 被 起 诉 的 情 况 下, 不 得 援 用 此 种 权 利。
-human_rights_un_chn_cz_64kb_0092	第 十 五 条
-human_rights_un_chn_cz_64kb_0093	1.
-human_rights_un_chn_cz_64kb_0094	㈠ 人 人 有 权 享 有 国 籍。
-human_rights_un_chn_cz_64kb_0095	2.
-human_rights_un_chn_cz_64kb_0096	㈡ 任 何 人 的 国 籍 不 得 任 意 剥 夺, 亦 不 得 否 认 其 改 变 国 籍 的 权
-human_rights_un_chn_cz_64kb_0097	利。
-human_rights_un_chn_cz_64kb_0098	第 十 六 条
-human_rights_un_chn_cz_64kb_0099	1.
-human_rights_un_chn_cz_64kb_0100	㈠ 成 年 男 女, 不 受 种 族、 国 籍 或 宗 教 的 任 何 限 制 有 权 婚 嫁 和 成
-human_rights_un_chn_cz_64kb_0101	立 家 庭。
-human_rights_un_chn_cz_64kb_0102	他 们 在 婚 姻 方 面, 在 结 婚 期 间 和 在 解 除 婚 约 时, 应 有
-human_rights_un_chn_cz_64kb_0103	平 等 的 权 利。
-human_rights_un_chn_cz_64kb_0104	2.
-human_rights_un_chn_cz_64kb_0105	㈡ 只 有 经 男 女 双 方 的 自 由 和 完 全 的 同 意, 才 能 缔 婚。
-human_rights_un_chn_cz_64kb_0106	3.
-human_rights_un_chn_cz_64kb_0107	㈢ 家 庭 是 天 然 的 和 基 本 的 社 会 单 元, 并 应 受 社 会 和 国 家 的 保
-human_rights_un_chn_cz_64kb_0108	护。
-human_rights_un_chn_cz_64kb_0109	第 十 七 条
-human_rights_un_chn_cz_64kb_0110	1.
-human_rights_un_chn_cz_64kb_0111	㈠ 人 人 得 有 单 独 的 财 产 所 有 权 以 及 同 他 人 合 有 的 所 有 权。
-human_rights_un_chn_cz_64kb_0112	2.
-human_rights_un_chn_cz_64kb_0113	㈡ 任 何 人 的 财 产 不 得 任 意 剥 夺。
-human_rights_un_chn_cz_64kb_0114	第 十 八 条
-human_rights_un_chn_cz_64kb_0115	人 人 有 思 想、 良 心 和 宗 教 自 由 的 权 利;
-human_rights_un_chn_cz_64kb_0116	此 项 权 利 包 括 改 变 他 的 宗 教
-human_rights_un_chn_cz_64kb_0117	或 信 仰 的 自 由, 以 及 单 独 或 集 体、 公 开 或 秘 密 地 以 教 义、 实 践、 礼
-human_rights_un_chn_cz_64kb_0118	拜 和 戒 律 表 示 他 的 宗 教 或 信 仰 的 自 由。
-human_rights_un_chn_cz_64kb_0119	第 十 九 条
-human_rights_un_chn_cz_64kb_0120	人 人 有 权 享 有 主 张 和 发 表 意 见 的 自 由;
-human_rights_un_chn_cz_64kb_0121	此 项 权 利 包 括 持 有 主 张 而 不
-human_rights_un_chn_cz_64kb_0122	受 干 涉 的 自 由, 和 通 过 任 何 媒 介 和 不 论 国 界 寻 求、 接 受 和 传 递 消 息
-human_rights_un_chn_cz_64kb_0123	和 思 想 的 自 由。
-human_rights_un_chn_cz_64kb_0124	第 二 十 条
-human_rights_un_chn_cz_64kb_0125	1.
-human_rights_un_chn_cz_64kb_0126	㈠ 人 人 有 权 享 有 和 平 集 会 和 结 社 的 自 由。
-human_rights_un_chn_cz_64kb_0127	2.
-human_rights_un_chn_cz_64kb_0128	㈡ 任 何 人 不 得 迫 使 隶 属 于 某 一 团 体。
-human_rights_un_chn_cz_64kb_0129	第 二 十 一 条
-human_rights_un_chn_cz_64kb_0130	1.
-human_rights_un_chn_cz_64kb_0131	㈠ 人 人 有 直 接 或 通 过 自 由 选 择 的 代 表 参 与 治 理 本 国 的 权 利。
-human_rights_un_chn_cz_64kb_0132	2.
-human_rights_un_chn_cz_64kb_0133	㈡ 人 人 有 平 等 机 会 参 加 本 国 公 务 的 权 利。
-human_rights_un_chn_cz_64kb_0134	3.
-human_rights_un_chn_cz_64kb_0135	㈢ 人 民 的 意 志 是 政 府 权 力 的 基 础;
-human_rights_un_chn_cz_64kb_0136	这 一 意 志 应 以 定 期 的 和 真
-human_rights_un_chn_cz_64kb_0137	正 的 选 举 予 以 表 现, 而 选 举 应 依 据 普 遍 和 平 等 的 投 票 权, 并 以
-human_rights_un_chn_cz_64kb_0138	不 记 名 投 票 或 相 当 的 自 由 投 票 程 序 进 行。
-human_rights_un_chn_cz_64kb_0139	第 二 十 二 条
-human_rights_un_chn_cz_64kb_0140	每 个 人, 作 为 社 会 的 一 员, 有 权 享 受 社 会 保 障, 并 有 权 享 受 他 的 个 人
-human_rights_un_chn_cz_64kb_0141	尊 严 和 人 格 的 自 由 发 展 所 必 需 的 经 济、 社 会 和 文 化 方 面 各 种 权 利
-human_rights_un_chn_cz_64kb_0142	的 实 现, 这 种 实 现 是 通 过 国 家 努 力 和 国 际 合 作 并 依 照 各 国 的 组 织 和
-human_rights_un_chn_cz_64kb_0143	资 源 情 况。
-human_rights_un_chn_cz_64kb_0144	第 二 十 三 条
-human_rights_un_chn_cz_64kb_0145	1.
-human_rights_un_chn_cz_64kb_0146	㈠ 人 人 有 权 工 作、 自 由 选 择 职 业、 享 受 公 正 和 合 适 的 工 作 条
-human_rights_un_chn_cz_64kb_0147	件 并 享 受 免 于 失 业 的 保 障。
-human_rights_un_chn_cz_64kb_0148	2.
-human_rights_un_chn_cz_64kb_0149	㈡ 人 人 有 同 工 同 酬 的 权 利, 不 受 任 何 歧 视。
-human_rights_un_chn_cz_64kb_0150	3.
-human_rights_un_chn_cz_64kb_0151	㈢ 每 一 个 工 作 的 人, 有 权 享 受 公 正 和 合 适 的 报 酬, 保 证 使 他 本
-human_rights_un_chn_cz_64kb_0152	人 和 家 属 有 一 个 符 合 人 的 生 活 条 件, 必 要 时 并 辅 以 其 他 方 式
-human_rights_un_chn_cz_64kb_0153	的 社 会 保 障。
-human_rights_un_chn_cz_64kb_0154	4.
-human_rights_un_chn_cz_64kb_0155	㈣ 人 人 有 为 维 护 其 利 益 而 组 织 和 参 加 工 会 的 权 利。
-human_rights_un_chn_cz_64kb_0156	第 二 十 四 条
-human_rights_un_chn_cz_64kb_0157	人 人 有 享 有 休 息 和 闲 暇 的 权 利, 包 括 工 作 时 间 有 合 理 限 制 和 定 期 给
-human_rights_un_chn_cz_64kb_0158	薪 休 假 的 权 利。
-human_rights_un_chn_cz_64kb_0159	第 二 十 五 条
-human_rights_un_chn_cz_64kb_0160	1.
-human_rights_un_chn_cz_64kb_0161	㈠ 人 人 有 权 享 受 为 维 持 他 本 人 和 家 属 的 健 康 和 福 利 所 需 的 生
-human_rights_un_chn_cz_64kb_0162	活 水 准, 包 括 食 物、 衣 着、 住 房、 医 疗 和 必 要 的 社 会 服 务;
-human_rights_un_chn_cz_64kb_0163	在 遭
-human_rights_un_chn_cz_64kb_0164	到 失 业、 疾 病、 残 废、 守 寡、 衰 老 或 在 其 他 不 能 控 制 的 情 况
-human_rights_un_chn_cz_64kb_0165	下 丧 失 谋 生 能 力 时, 有 权 享 受 保 障。
-human_rights_un_chn_cz_64kb_0166	2.
-human_rights_un_chn_cz_64kb_0167	㈡ 母 亲 和 儿 童 有 权 享 受 特 别 照 顾 和 协 助。
-human_rights_un_chn_cz_64kb_0168	一 切 儿 童, 无 论 婚 生
-human_rights_un_chn_cz_64kb_0169	或 非 婚 生, 都 应 享 受 同 样 的 社 会 保 护。
-human_rights_un_chn_cz_64kb_0170	第 二 十 六 条
-human_rights_un_chn_cz_64kb_0171	1.
-human_rights_un_chn_cz_64kb_0172	㈠ 人 人 都 有 受 教 育 的 权 利, 教 育 应 当 免 费, 至 少 在 初 级 和 基 本
-human_rights_un_chn_cz_64kb_0173	阶 段 应 如 此。
-human_rights_un_chn_cz_64kb_0174	初 级 教 育 应 属 义 务 性 质。
-human_rights_un_chn_cz_64kb_0175	技 术 和 职 业 教 育 应 普
-human_rights_un_chn_cz_64kb_0176	遍 设 立。
-human_rights_un_chn_cz_64kb_0177	高 等 教 育 应 根 据 成 绩 而 对 一 切 人 平 等 开 放。
-human_rights_un_chn_cz_64kb_0178	2.
-human_rights_un_chn_cz_64kb_0179	㈡ 教 育 的 目 的 在 于 充 分 发 展 人 的 个 性 并 加 强 对 人 权 和 基 本 自
-human_rights_un_chn_cz_64kb_0180	由 的 尊 重。
-human_rights_un_chn_cz_64kb_0181	教 育 应 促 进 各 国、 各 种 族 或 各 宗 教 集 团 间 的 了
-human_rights_un_chn_cz_64kb_0182	解、 容 忍 和 友 谊, 并 应 促 进 联 合 国 维 护 和 平 的 各 项 活 动。
-human_rights_un_chn_cz_64kb_0183	3.
-human_rights_un_chn_cz_64kb_0184	㈢ 父 母 对 其 子 女 所 应 受 的 教 育 的 种 类, 有 优 先 选 择 的 权 利。
-human_rights_un_chn_cz_64kb_0185	第 二 十 七 条
-human_rights_un_chn_cz_64kb_0186	1.
-human_rights_un_chn_cz_64kb_0187	㈠ 人 人 有 权 自 由 参 加 社 会 的 文 化 生 活, 享 受 艺 术, 并 分 享 科 学
-human_rights_un_chn_cz_64kb_0188	进 步 及 其 产 生 的 福 利。
-human_rights_un_chn_cz_64kb_0189	2.
-human_rights_un_chn_cz_64kb_0190	㈡ 人 人 对 由 于 他 所 创 作 的 任 何 科 学、 文 学 或 美 术 作 品 而 产 生
-human_rights_un_chn_cz_64kb_0191	的 精 神 的 和 物 质 的 利 益, 有 享 受 保 护 的 权 利。
-human_rights_un_chn_cz_64kb_0192	第 二 十 八 条
-human_rights_un_chn_cz_64kb_0193	人 人 有 权 要 求 一 种 社 会 的 和 国 际 的 秩 序, 在 这 种 秩 序 中, 本 宣 言 所
-human_rights_un_chn_cz_64kb_0194	载 的 权 利 和 自 由 能 获 得 充 分 实 现。
-human_rights_un_chn_cz_64kb_0195	第 二 十 九 条
-human_rights_un_chn_cz_64kb_0196	1.
-human_rights_un_chn_cz_64kb_0197	㈠ 人 人 对 社 会 负 有 义 务, 因 为 只 有 在 社 会 中 他 的 个 性 才 可 能
-human_rights_un_chn_cz_64kb_0198	得 到 自 由 和 充 分 的 发 展。
-human_rights_un_chn_cz_64kb_0199	2.
-human_rights_un_chn_cz_64kb_0200	㈡ 人 人 在 行 使 他 的 权 利 和 自 由 时, 只 受 法 律 所 确 定 的 限 制, 确
-human_rights_un_chn_cz_64kb_0201	定 此 种 限 制 的 唯 一 目 的 在 于 保 证 对 旁 人 的 权 利 和 自 由 给 予 应
-human_rights_un_chn_cz_64kb_0202	有 的 承 认 和 尊 重, 并 在 一 个 民 主 的 社 会 中 适 应 道 德、 公 共 秩 序
-human_rights_un_chn_cz_64kb_0203	和 普 遍 福 利 的 正 当 需 要。
-human_rights_un_chn_cz_64kb_0204	3.
-human_rights_un_chn_cz_64kb_0205	㈢ 这 些 权 利 和 自 由 的 行 使, 无 论 在 任 何 情 形 下 均 不 得 违 背 联
-human_rights_un_chn_cz_64kb_0206	合 国 的 宗 旨 和 原 则。
-human_rights_un_chn_cz_64kb_0207	第 三 十 条
-human_rights_un_chn_cz_64kb_0208	本 宣 言 的 任 何 条 文, 不 得 解 释 为 默 许 任 何 国 家、 集 团 或 个 人 有 权 进
-human_rights_un_chn_cz_64kb_0209	行 任 何 旨 在 破 坏 本 宣 言 所 载 的 任 何 权 利 和 自 由 的 活 动 或 行 为。
+human_rights_un_chn_cz_64kb_0003	1948 年 12 月 10 日，联合国大会通过并颁布《世界人权宣言》。
+human_rights_un_chn_cz_64kb_0004	这一具有历史意义的《宣言》颁布后，大会要求所有会员国广为宣传，并且“不分国家或领土的政治地位,主要在各级学校和其他教育机构加以传播、展示、阅读和阐述。
+human_rights_un_chn_cz_64kb_0005	”《宣言》全文如下：
+human_rights_un_chn_cz_64kb_0006	序言
+human_rights_un_chn_cz_64kb_0007	鉴于对人类家庭所有成员的固有尊严及其平等的和不移的权利的承认,乃是世界自由、正义与和平的基础,
+human_rights_un_chn_cz_64kb_0008	鉴于对人权的无视和侮蔑已发展为野蛮暴行,这些暴行玷污了人类的良心,而一个人人享有言论和信仰自由并免予恐惧和匮乏的世界的来临,已被宣布为普通人民的最高愿望,
+human_rights_un_chn_cz_64kb_0009	鉴于为使人类不致迫不得已铤而走险对暴政和压迫进行反叛,有必要使人权受法治的保护,
+human_rights_un_chn_cz_64kb_0010	鉴于有必要促进各国间友好关系的发展,
+human_rights_un_chn_cz_64kb_0011	鉴于各联合国国家的人民已在联合国宪章中重申他们对基本人权、人格尊严和价值以及男女平等权利的信念,并决心促成较大自由中的社会进步和生活水平的改善,
+human_rights_un_chn_cz_64kb_0012	鉴于各会员国业已誓愿同联合国合作以促进对人权和基本自由的普遍尊重和遵行,
+human_rights_un_chn_cz_64kb_0013	鉴于对这些权利和自由的普遍了解对于这个誓愿的充分实现具有很大的重要性,
+human_rights_un_chn_cz_64kb_0014	因此现在,大会,发布这一世界人权宣言,作为所有人民和所有国家努力实现的共同标准,以期每一个人和社会机构经常铭念本宣言,努力通过教诲和教育促进对权利和自由的尊重,并通过国家的和国际的渐进措施,使这些权利和自由在各会员国本身人民及在其管辖下领土的人民中得到普遍和有效的承认和遵行;
+human_rights_un_chn_cz_64kb_0015	第一条
+human_rights_un_chn_cz_64kb_0016	人人生而自由,在尊严和权利上一律平等。
+human_rights_un_chn_cz_64kb_0017	他们赋有理性和良心,并应以兄弟关系的精神相对待。
+human_rights_un_chn_cz_64kb_0018	第二条
+human_rights_un_chn_cz_64kb_0019	人人有资格享有本宣言所载的一切权利和自由,不分种族、肤色、性别、语言、宗教、政治或其他见解、国籍或社会出身、财产、出生或其他身分等任何区别。
+human_rights_un_chn_cz_64kb_0020	并且不得因一人所属的国家或领土的政治的、行政的或者国际的地位之不同而有所区别,无论该领土是独立领土、托管领土、非自治领土或者处于其他任何主权受限制的情况之下。
+human_rights_un_chn_cz_64kb_0021	第三条
+human_rights_un_chn_cz_64kb_0022	人人有权享有生命、自由和人身安全。
+human_rights_un_chn_cz_64kb_0023	第四条
+human_rights_un_chn_cz_64kb_0024	任何人不得使为奴隶或奴役;
+human_rights_un_chn_cz_64kb_0025	一切形式的奴隶制度和奴隶买卖,均应予以禁止。
+human_rights_un_chn_cz_64kb_0026	第五条
+human_rights_un_chn_cz_64kb_0027	任何人不得加以酷刑,或施以残忍的、不人道的或侮辱性的待遇或刑罚。
+human_rights_un_chn_cz_64kb_0028	第六条
+human_rights_un_chn_cz_64kb_0029	人人在任何地方有权被承认在法律前的人格。
+human_rights_un_chn_cz_64kb_0030	第七条
+human_rights_un_chn_cz_64kb_0031	法律之前人人平等,并有权享受法律的平等保护,不受任何歧视。
+human_rights_un_chn_cz_64kb_0032	人人有权享受平等保护,以免受违反本宣言的任何歧视行为以及煽动这种歧视的任何行为之害。
+human_rights_un_chn_cz_64kb_0033	第八条
+human_rights_un_chn_cz_64kb_0034	任何人当宪法或法律所赋予他的基本权利遭受侵害时,有权由合格的国家法庭对这种侵害行为作有效的补救。
+human_rights_un_chn_cz_64kb_0035	第九条
+human_rights_un_chn_cz_64kb_0036	任何人不得加以任意逮捕、拘禁或放逐。
+human_rights_un_chn_cz_64kb_0037	第十条
+human_rights_un_chn_cz_64kb_0038	人人完全平等地有权由一个独立而无偏倚的法庭进行公正的和公开的审讯,以确定他的权利和义务并判定对他提出的任何刑事指控。
+human_rights_un_chn_cz_64kb_0039	第十一条
+human_rights_un_chn_cz_64kb_0040	凡受刑事控告者,在未经获得辩护上所需的一切保证的公开审判而依法证实有罪以前,有权被视为无罪。
+human_rights_un_chn_cz_64kb_0041	任何人的任何行为或不行为,在其发生时依国家法或国际法均不构成刑事罪者,不得被判为犯有刑事罪。
+human_rights_un_chn_cz_64kb_0042	刑罚不得重于犯罪时适用的法律规定。
+human_rights_un_chn_cz_64kb_0043	第十二条
+human_rights_un_chn_cz_64kb_0044	任何人的私生活、家庭、住宅和通信不得任意干涉,他的荣誉和名誉不得加以攻击。
+human_rights_un_chn_cz_64kb_0045	人人有权享受法律保护,以免受这种干涉或攻击。
+human_rights_un_chn_cz_64kb_0046	第十三条
+human_rights_un_chn_cz_64kb_0047	人人在各国境内有权自由迁徙和居住。
+human_rights_un_chn_cz_64kb_0048	人人有权离开任何国家,包括其本国在内,并有权返回他的国家。
+human_rights_un_chn_cz_64kb_0049	第十四条
+human_rights_un_chn_cz_64kb_0050	人人有权在其他国家寻求和享受庇护以避免迫害。
+human_rights_un_chn_cz_64kb_0051	在真正由于非政治性的罪行或违背联合国的宗旨和原则的行为而被起诉的情况下,不得援用此种权利。
+human_rights_un_chn_cz_64kb_0052	第十五条
+human_rights_un_chn_cz_64kb_0053	人人有权享有国籍。
+human_rights_un_chn_cz_64kb_0054	任何人的国籍不得任意剥夺,亦不得否认其改变国籍的权利。
+human_rights_un_chn_cz_64kb_0055	第十六条
+human_rights_un_chn_cz_64kb_0056	成年男女,不受种族、国籍或宗教的任何限制有权婚嫁和成立家庭。
+human_rights_un_chn_cz_64kb_0057	他们在婚姻方面,在结婚期间和在解除婚约时,应有平等的权利。
+human_rights_un_chn_cz_64kb_0058	只有经男女双方的自由和完全的同意,才能缔婚。
+human_rights_un_chn_cz_64kb_0059	家庭是天然的和基本的社会单元,并应受社会和国家的保护。
+human_rights_un_chn_cz_64kb_0060	第十七条
+human_rights_un_chn_cz_64kb_0061	人人得有单独的财产所有权以及同他人合有的所有权。
+human_rights_un_chn_cz_64kb_0062	任何人的财产不得任意剥夺。
+human_rights_un_chn_cz_64kb_0063	第十八条
+human_rights_un_chn_cz_64kb_0064	人人有思想、良心和宗教自由的权利;
+human_rights_un_chn_cz_64kb_0065	此项权利包括改变他的宗教或信仰的自由,以及单独或集体、公开或秘密地以教义、实践、礼拜和戒律表示他的宗教或信仰的自由。
+human_rights_un_chn_cz_64kb_0066	第十九条
+human_rights_un_chn_cz_64kb_0067	人人有权享有主张和发表意见的自由;
+human_rights_un_chn_cz_64kb_0068	此项权利包括持有主张而不受干涉的自由,和通过任何媒介和不论国界寻求、接受和传递消息和思想的自由。
+human_rights_un_chn_cz_64kb_0069	第二十条
+human_rights_un_chn_cz_64kb_0070	人人有权享有和平集会和结社的自由。
+human_rights_un_chn_cz_64kb_0071	任何人不得迫使隶属于某一团体。
+human_rights_un_chn_cz_64kb_0072	第二十一条
+human_rights_un_chn_cz_64kb_0073	人人有直接或通过自由选择的代表参与治理本国的权利。
+human_rights_un_chn_cz_64kb_0074	人人有平等机会参加本国公务的权利。
+human_rights_un_chn_cz_64kb_0075	人民的意志是政府权力的基础;
+human_rights_un_chn_cz_64kb_0076	这一意志应以定期的和真正的选举予以表现,而选举应依据普遍和平等的投票权,并以不记名投票或相当的自由投票程序进行。
+human_rights_un_chn_cz_64kb_0077	第二十二条
+human_rights_un_chn_cz_64kb_0078	每个人,作为社会的一员,有权享受社会保障,并有权享受他的个人尊严和人格的自由发展所必需的经济、社会和文化方面各种权利的实现,这种实现是通过国家努力和国际合作并依照各国的组织和资源情况。
+human_rights_un_chn_cz_64kb_0079	第二十三条
+human_rights_un_chn_cz_64kb_0080	人人有权工作、自由选择职业、享受公正和合适的工作条件并享受免于失业的保障。
+human_rights_un_chn_cz_64kb_0081	人人有同工同酬的权利,不受任何歧视。
+human_rights_un_chn_cz_64kb_0082	每一个工作的人,有权享受公正和合适的报酬,保证使他本人和家属有一个符合人的生活条件,必要时并辅以其他方式的社会保障。
+human_rights_un_chn_cz_64kb_0083	人人有为维护其利益而组织和参加工会的权利。
+human_rights_un_chn_cz_64kb_0084	第二十四条
+human_rights_un_chn_cz_64kb_0085	人人有享有休息和闲暇的权利,包括工作时间有合理限制和定期给薪休假的权利。
+human_rights_un_chn_cz_64kb_0086	第二十五条
+human_rights_un_chn_cz_64kb_0087	人人有权享受为维持他本人和家属的健康和福利所需的生活水准,包括食物、衣着、住房、医疗和必要的社会服务;
+human_rights_un_chn_cz_64kb_0088	在遭到失业、疾病、残废、守寡、衰老或在其他不能控制的情况下丧失谋生能力时,有权享受保障。
+human_rights_un_chn_cz_64kb_0089	母亲和儿童有权享受特别照顾和协助。
+human_rights_un_chn_cz_64kb_0090	一切儿童,无论婚生或非婚生,都应享受同样的社会保护。
+human_rights_un_chn_cz_64kb_0091	第二十六条
+human_rights_un_chn_cz_64kb_0092	人人都有受教育的权利,教育应当免费,至少在初级和基本阶段应如此。
+human_rights_un_chn_cz_64kb_0093	初级教育应属义务性质。
+human_rights_un_chn_cz_64kb_0094	技术和职业教育应普遍设立。
+human_rights_un_chn_cz_64kb_0095	高等教育应根据成绩而对一切人平等开放。
+human_rights_un_chn_cz_64kb_0096	教育的目的在于充分发展人的个性并加强对人权和基本自由的尊重。
+human_rights_un_chn_cz_64kb_0097	教育应促进各国、各种族或各宗教集团间的了解、容忍和友谊,并应促进联合国维护和平的各项活动。
+human_rights_un_chn_cz_64kb_0098	父母对其子女所应受的教育的种类,有优先选择的权利。
+human_rights_un_chn_cz_64kb_0099	第二十七条
+human_rights_un_chn_cz_64kb_0100	人人有权自由参加社会的文化生活,享受艺术,并分享科学进步及其产生的福利。
+human_rights_un_chn_cz_64kb_0101	人人对由于他所创作的任何科学、文学或美术作品而产生的精神的和物质的利益,有享受保护的权利。
+human_rights_un_chn_cz_64kb_0102	第二十八条
+human_rights_un_chn_cz_64kb_0103	人人有权要求一种社会的和国际的秩序,在这种秩序中,本宣言所载的权利和自由能获得充分实现。
+human_rights_un_chn_cz_64kb_0104	第二十九条
+human_rights_un_chn_cz_64kb_0105	人人对社会负有义务,因为只有在社会中他的个性才可能得到自由和充分的发展。
+human_rights_un_chn_cz_64kb_0106	人人在行使他的权利和自由时,只受法律所确定的限制,确定此种限制的唯一目的在于保证对旁人的权利和自由给予应有的承认和尊重,并在一个民主的社会中适应道德、公共秩序和普遍福利的正当需要。
+human_rights_un_chn_cz_64kb_0107	这些权利和自由的行使,无论在任何情形下均不得违背联合国的宗旨和原则。
+human_rights_un_chn_cz_64kb_0108	第三十条
+human_rights_un_chn_cz_64kb_0109	本宣言的任何条文,不得解释为默许任何国家、集团或个人有权进行任何旨在破坏本宣言所载的任何权利和自由的活动或行为。

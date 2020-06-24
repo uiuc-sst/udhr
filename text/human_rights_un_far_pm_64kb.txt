@@ -1,168 +1,135 @@
 human_rights_un_far_pm_64kb_0001	HEIMSYVIRLÝSING UM MANNARÆTTINDI
 human_rights_un_far_pm_64kb_0002	INNGANGUR
-human_rights_un_far_pm_64kb_0003	Tað verður at viðurkenna, at menniskjuni er virðing íborin, og at allir limirmannaættarinnar eiga somu ómissiligu rættindi, og hetta er støðið undir frælsi,rættvísi og friði í heiminum.
-human_rights_un_far_pm_64kb_0004	Har sum mannarættindini hava verið fyri vanbýti og vanvirðing, hevur tað havt viðsær ræðuligar gerðir, sum hava skakað samvitsku mannaættarinnar, og einheimskipan, har sum fólk nýtur talu- og trúarfrælsi og frælsi frá ótta og neyð,hevur verið boðað sum menniskjunar hægsta mið og mál.
-human_rights_un_far_pm_64kb_0005	Tað varðar almikið um, mannarættindi verða vard við lógum, um fólk ikki skalverða noytt til sum evstu ráð at taka til uppreistur móti harðræði og kúgan.
+human_rights_un_far_pm_64kb_0003	Tað verður at viðurkenna, at menniskjuni er virðing íborin, og at allir limir mannaættarinnar eiga somu ómissiligu rættindi, og hetta er støðið undir frælsi, rættvísi og friði í heiminum.
+human_rights_un_far_pm_64kb_0004	Har sum mannarættindini hava verið fyri vanbýti og vanvirðing, hevur tað havt við sær ræðuligar gerðir, sum hava skakað samvitsku mannaættarinnar, og ein heimskipan, har sum fólk nýtur talu- og trúarfrælsi og frælsi frá ótta og neyð, hevur verið boðað sum menniskjunar hægsta mið og mál.
+human_rights_un_far_pm_64kb_0005	Tað varðar almikið um, mannarættindi verða vard við lógum, um fólk ikki skal verða noytt til sum evstu ráð at taka til uppreistur móti harðræði og kúgan.
 human_rights_un_far_pm_64kb_0006	Tað varðar almikið um at elva og stimbra vinalag tióðanna millum.
-human_rights_un_far_pm_64kb_0007	Í sáttmáala sínum hava Sameindu Tjóðirnar av nýggjum váttað trúgv sína áundirstøðulig mannarættindi, á sóma menniskjans og virði, og á javnrættindi fyrikvinnur og menn, og tær hava rátt av at fremja framburð í almannamálum ogbøta um lívskor manna í alt meiri frælsi.
-human_rights_un_far_pm_64kb_0008	Limaríkini hava skyldubundið seg til, í samvinnu við Sameindu Tjóðirnar, at virkafyri at fáa framt, at mannarættindini og undirstøðilig frælsisrættindi verða almentvird og hildin.
-human_rights_un_far_pm_64kb_0009	Tað at allir partar skilja hesi rættindi og frælsi er fremsta treytin fyri, at hendaskylda verður framd út í æsur.
+human_rights_un_far_pm_64kb_0007	Í sáttmáala sínum hava Sameindu Tjóðirnar av nýggjum váttað trúgv sína á undirstøðulig mannarættindi, á sóma menniskjans og virði, og á javnrættindi fyri kvinnur og menn, og tær hava rátt av at fremja framburð í almannamálum og bøta um lívskor manna í alt meiri frælsi.
+human_rights_un_far_pm_64kb_0008	Limaríkini hava skyldubundið seg til, í samvinnu við Sameindu Tjóðirnar, at virka fyri at fáa framt, at mannarættindini og undirstøðilig frælsisrættindi verða alment vird og hildin.
+human_rights_un_far_pm_64kb_0009	Tað at allir partar skilja hesi rættindi og frælsi er fremsta treytin fyri, at henda skylda verður framd út í æsur.
 human_rights_un_far_pm_64kb_0010	Tess vegna bjóðar
 human_rights_un_far_pm_64kb_0011	AÐALFUNDURIN
-human_rights_un_far_pm_64kb_0012	Hesa heimsyvirlýsing um mannarættindi sum felags mið fyri øll fólk og allar tjóðirvið tí endamáli, at hvør einstakur og hvør samfelagsstovnur alsamt við hesiyvirlýsing í huga skal stremba fyri við frálæru og uppaling at fremja virðing fyrihesum rættindum og frælsismálum og við framsøknum atgerðum innanlands ogmillumlanda at tryggja, at tey verða viðurkend og hildin allastðni á munagóðanhátt, bæði í fólkinum í limaríkjunum og í fólkinum í teimum londum, sum eruinnan løgdømi teirra.
+human_rights_un_far_pm_64kb_0012	Hesa heimsyvirlýsing um mannarættindi sum felags mið fyri øll fólk og allar tjóðir við tí endamáli, at hvør einstakur og hvør samfelagsstovnur alsamt við hesi yvirlýsing í huga skal stremba fyri við frálæru og uppaling at fremja virðing fyri hesum rættindum og frælsismálum og við framsøknum atgerðum innanlands og millumlanda at tryggja, at tey verða viðurkend og hildin allastðni á munagóðan hátt, bæði í fólkinum í limaríkjunum og í fólkinum í teimum londum, sum eru innan løgdømi teirra.
 human_rights_un_far_pm_64kb_0013	1.
 human_rights_un_far_pm_64kb_0014	grein
 human_rights_un_far_pm_64kb_0015	Øll menniskju eru fødd fræls og jøvn til virðingar og mannarættindi.
-human_rights_un_far_pm_64kb_0016	Tey hava skilog samvitsku og eiga at fara hvørt um annað í bróðuranda.
+human_rights_un_far_pm_64kb_0016	Tey hava skil og samvitsku og eiga at fara hvørt um annað í bróðuranda.
 human_rights_un_far_pm_64kb_0017	2.
 human_rights_un_far_pm_64kb_0018	grein
-human_rights_un_far_pm_64kb_0019	Øll hava krav um rættindi og frælsi, sum eru nevdn í hesi yvirlýsing, uttan mun tilættarslag (rasu), húðarlit, kyn, mál, átrúnað, politiska ella aðra sannføring,tjóðskaparligan ella samfelagsligan uppruna, ognarviðurskifti, føðing ella aðrastøðu.
-human_rights_un_far_pm_64kb_0020	Somuleiðis skal eingin mismunur vera orsakað av politiskari, rættarligari ellamillumtjóða støðu hjá tí landi, sum ein persónur hoyrir til, sama um landið ersjálvstøðugt, undir tilsjónarvaldi, ella fullveldi tess á annan hátt er skert.
+human_rights_un_far_pm_64kb_0019	Øll hava krav um rættindi og frælsi, sum eru nevdn í hesi yvirlýsing, uttan mun til ættarslag (rasu), húðarlit, kyn, mál, átrúnað, politiska ella aðra sannføring, tjóðskaparligan ella samfelagsligan uppruna, ognarviðurskifti, føðing ella aðra støðu.
+human_rights_un_far_pm_64kb_0020	Somuleiðis skal eingin mismunur vera orsakað av politiskari, rættarligari ella millumtjóða støðu hjá tí landi, sum ein persónur hoyrir til, sama um landið er sjálvstøðugt, undir tilsjónarvaldi, ella fullveldi tess á annan hátt er skert.
 human_rights_un_far_pm_64kb_0021	3.
 human_rights_un_far_pm_64kb_0022	grein
 human_rights_un_far_pm_64kb_0023	Ein og hvør hevur rætt til lív, frælsi og persónliga trygd.
 human_rights_un_far_pm_64kb_0024	4.
 human_rights_un_far_pm_64kb_0025	grein
 human_rights_un_far_pm_64kb_0026	Eingin skal liva í trældómi ella trælkan;
-human_rights_un_far_pm_64kb_0027	trældómur og trælahandil av øllum slagskulu verða bannað.
+human_rights_un_far_pm_64kb_0027	trældómur og trælahandil av øllum slag skulu verða bannað.
 human_rights_un_far_pm_64kb_0028	5.
 human_rights_un_far_pm_64kb_0029	grein
-human_rights_un_far_pm_64kb_0030	Eingin skal verða píndur ella harðliga, ómenniskjaliga ella vanæruliga viðfarin ellarevsaður.
+human_rights_un_far_pm_64kb_0030	Eingin skal verða píndur ella harðliga, ómenniskjaliga ella vanæruliga viðfarin ella revsaður.
 human_rights_un_far_pm_64kb_0031	6.
 human_rights_un_far_pm_64kb_0032	grein
 human_rights_un_far_pm_64kb_0033	Øll hava rætt til, hvar tey ery stødd, at verða viðurkend sum persænar fyri lægini.
 human_rights_un_far_pm_64kb_0034	7.
 human_rights_un_far_pm_64kb_0035	grein
 human_rights_un_far_pm_64kb_0036	Øll eru jøvn fyri lægini hava rætt til somu rættarvernd uttan mismun.
-human_rights_un_far_pm_64kb_0037	Øll havasama rætt at verða vard fyri mismuni, sum er brot mæti hesi samtykt, og at verðavard fyri allari áeggjan til at skapa tílíkan mismun.
+human_rights_un_far_pm_64kb_0037	Øll hava sama rætt at verða vard fyri mismuni, sum er brot mæti hesi samtykt, og at verða vard fyri allari áeggjan til at skapa tílíkan mismun.
 human_rights_un_far_pm_64kb_0038	8.
 human_rights_un_far_pm_64kb_0039	grein
-human_rights_un_far_pm_64kb_0040	Um onkur fær viðferð, sum er tvørtur ’mæti teimum grundrættindum, sum honumeru tryggjað sambært grundlæg og øðrum landslægum, skal hann hava rætt til atfáa fullar sømdir afturfyri við dæmstælar landsins.
+human_rights_un_far_pm_64kb_0040	Um onkur fær viðferð, sum er tvørtur 'mæti teimum grundrættindum, sum honum eru tryggjað sambært grundlæg og øðrum landslægum, skal hann hava rætt til at fáa fullar sømdir afturfyri við dæmstælar landsins.
 human_rights_un_far_pm_64kb_0041	9.
 human_rights_un_far_pm_64kb_0042	grein
 human_rights_un_far_pm_64kb_0043	Eingin skal verða tilvildarliga handtikin, settur í varðhald ella gjørdur útlagin.
 human_rights_un_far_pm_64kb_0044	10.
 human_rights_un_far_pm_64kb_0045	grein
-human_rights_un_far_pm_64kb_0046	Øll hava sannan javnrætt till rættvísa og almenna rættarviðgerð fyri æheftum ogævildigum dæmstæli, sum skal tka avgerð um rættindi teirra og skyldur, og umøll revsimál, ið verða reist.
+human_rights_un_far_pm_64kb_0046	Øll hava sannan javnrætt till rættvísa og almenna rættarviðgerð fyri æheftum og ævildigum dæmstæli, sum skal tka avgerð um rættindi teirra og skyldur, og um øll revsimál, ið verða reist.
 human_rights_un_far_pm_64kb_0047	11.
 human_rights_un_far_pm_64kb_0048	grein
-human_rights_un_far_pm_64kb_0049	1.
-human_rights_un_far_pm_64kb_0050	Hvør, sum verður ákærdur fyri revsiverda ferð, eigur rætt til al verðamettur æsekur, inntil hann er dømdur sekur við almenna rættargongd, harsum hann hevur fingið fulla trygd fyri verju.
-human_rights_un_far_pm_64kb_0051	2.
-human_rights_un_far_pm_64kb_0052	Eingin skal verða funnin sekur í revsimáli av nøkrum slag, uttan so at gerðella ábyrgdarloysi, sum hann var ákærdur fyri, et at rokna sum brotsgerðsambært landslægum ella lægum, tá ið gerðin varð framd.
-human_rights_un_far_pm_64kb_0053	Ei heldur skalstrangari revsing verða ásett enn hon, ið var galdandi, tá ið tannrevsiverda gerðin varð framd.
-human_rights_un_far_pm_64kb_0054	12.
-human_rights_un_far_pm_64kb_0055	grein
-human_rights_un_far_pm_64kb_0056	Eingin eigur at vera fyri tilvildarligari uppílegging í persænlig viðurskifti, heimalívella brævaskifti, ei heldur fyri æruskemd ella útspilling.
-human_rights_un_far_pm_64kb_0057	Øll eiga rætt tillægarvernd fyri slíkari uppílegging ella ágangi.
-human_rights_un_far_pm_64kb_0058	13.
-human_rights_un_far_pm_64kb_0059	grein
-human_rights_un_far_pm_64kb_0060	1.
-human_rights_un_far_pm_64kb_0061	Øll hava rætt til frítt at fara og búsetast innan fyri landamark í hvørjum ríkisær.
-human_rights_un_far_pm_64kb_0062	2.
-human_rights_un_far_pm_64kb_0063	Øll hava rætt til at fara av landinum, hvørjum sum er, eisini sínum egna ogat fara heim aftur til sítt land.
-human_rights_un_far_pm_64kb_0064	14.
+human_rights_un_far_pm_64kb_0049	Hvør, sum verður ákærdur fyri revsiverda ferð, eigur rætt til al verða mettur æsekur, inntil hann er dømdur sekur við almenna rættargongd, har sum hann hevur fingið fulla trygd fyri verju.
+human_rights_un_far_pm_64kb_0050	Eingin skal verða funnin sekur í revsimáli av nøkrum slag, uttan so at gerð ella ábyrgdarloysi, sum hann var ákærdur fyri, et at rokna sum brotsgerð sambært landslægum ella lægum, tá ið gerðin varð framd.
+human_rights_un_far_pm_64kb_0051	Ei heldur skal strangari revsing verða ásett enn hon, ið var galdandi, tá ið tann revsiverda gerðin varð framd.
+human_rights_un_far_pm_64kb_0052	12.
+human_rights_un_far_pm_64kb_0053	grein
+human_rights_un_far_pm_64kb_0054	Eingin eigur at vera fyri tilvildarligari uppílegging í persænlig viðurskifti, heimalív ella brævaskifti, ei heldur fyri æruskemd ella útspilling.
+human_rights_un_far_pm_64kb_0055	Øll eiga rætt til lægarvernd fyri slíkari uppílegging ella ágangi.
+human_rights_un_far_pm_64kb_0056	13.
+human_rights_un_far_pm_64kb_0057	grein
+human_rights_un_far_pm_64kb_0058	Øll hava rætt til frítt at fara og búsetast innan fyri landamark í hvørjum ríki sær.
+human_rights_un_far_pm_64kb_0059	Øll hava rætt til at fara av landinum, hvørjum sum er, eisini sínum egna og at fara heim aftur til sítt land.
+human_rights_un_far_pm_64kb_0060	14.
+human_rights_un_far_pm_64kb_0061	grein
+human_rights_un_far_pm_64kb_0062	Øll hava rætt at søkja um og fáa friðskjæl í øðrum londum fyri meinsæknum.
+human_rights_un_far_pm_64kb_0063	Slíkan rætt ber ikki til at skjæta seg undir, tá ið ákæran av røttum er fyri æpolitiskar brotsgerðir ella gerðir, sum eru ímæti endamálum og grundreglum Sameindu Tjæðanna.
+human_rights_un_far_pm_64kb_0064	15.
 human_rights_un_far_pm_64kb_0065	grein
-human_rights_un_far_pm_64kb_0066	1.
-human_rights_un_far_pm_64kb_0067	Øll hava rætt at søkja um og fáa friðskjæl í øðrum londum fyrimeinsæknum.
-human_rights_un_far_pm_64kb_0068	2.
-human_rights_un_far_pm_64kb_0069	Slíkan rætt ber ikki til at skjæta seg undir, tá ið ákæran av røttum er fyriæpolitiskar brotsgerðir ella gerðir, sum eru ímæti endamálum oggrundreglum Sameindu Tjæðanna.
-human_rights_un_far_pm_64kb_0070	15.
-human_rights_un_far_pm_64kb_0071	grein
-human_rights_un_far_pm_64kb_0072	1.
-human_rights_un_far_pm_64kb_0073	Øll hava tjæðskaparrætt.
-human_rights_un_far_pm_64kb_0074	2.
-human_rights_un_far_pm_64kb_0075	Eingin skal tilvildarliga missa sín tjæðskap, og ongum skal verða sýtt fyriat skifta tjæðskap.
-human_rights_un_far_pm_64kb_0076	16.
-human_rights_un_far_pm_64kb_0077	grein
-human_rights_un_far_pm_64kb_0078	1.
-human_rights_un_far_pm_64kb_0079	Menn og kvinnur, sum eru komin til lægaldur, skulu uttan mun til ættarslag
-human_rights_un_far_pm_64kb_0080	(rasu), tjæðskap ella átrúnað hava rætt at giftast og setast í búgv.
-human_rights_un_far_pm_64kb_0081	Teyhava krav um javnrættindi at giftast, í hjúnalagnum og til hjúnaskilnað.
-human_rights_un_far_pm_64kb_0082	2.
-human_rights_un_far_pm_64kb_0083	Hjúnaband kann ikki verða bundið, uttan báðir partar samtykkja í tí avfríum vilja.
-human_rights_un_far_pm_64kb_0084	3.
-human_rights_un_far_pm_64kb_0085	Húskið er tann natúrliga frumeindin í samfelagnum og hevur rætt til verndav samfelag og landi.
-human_rights_un_far_pm_64kb_0086	17.
-human_rights_un_far_pm_64kb_0087	grein
-human_rights_un_far_pm_64kb_0088	1.
-human_rights_un_far_pm_64kb_0089	Øll hava rætt til at eiga ogn, annaðhvørt einsamøll ella ’ felag við onnur.
-human_rights_un_far_pm_64kb_0090	2.
-human_rights_un_far_pm_64kb_0091	Eingin skal hissini vera fyri ongartøku.
-human_rights_un_far_pm_64kb_0092	18.
-human_rights_un_far_pm_64kb_0093	grein
-human_rights_un_far_pm_64kb_0094	Øll hava rætt til hugsanar-, samvitsku- og trúarfrælsi.
-human_rights_un_far_pm_64kb_0095	Hesi rættur fatar eisini umfrælsi at skifta átrúnað ella trúgv, og frælsi til annaðhvørt einsamallur ella í felagvið onnur og alment ella einskilt at inna trúgv sína í frálæru, tilbiðing,gudstænastu og halgihaldi.
-human_rights_un_far_pm_64kb_0096	19.
-human_rights_un_far_pm_64kb_0097	grein
-human_rights_un_far_pm_64kb_0098	Øll skulu vera fræls at hava sínar áskoðanir og bera tær fram uttan forðan, og atsøkja sær og breiða út vitan og hugsanir ígjøgnum hvønn boðmiðil, sum veraskal, og æheft av landamarki.
-human_rights_un_far_pm_64kb_0099	20.
-human_rights_un_far_pm_64kb_0100	grein
-human_rights_un_far_pm_64kb_0101	1.
-human_rights_un_far_pm_64kb_0102	Øll hava rætt til frítt og á friðarligan hátt at koma saman og taka segsaman í felagsskapir.
-human_rights_un_far_pm_64kb_0103	2.
-human_rights_un_far_pm_64kb_0104	Eingin kann verða noyddur at vera limur í felag.
-human_rights_un_far_pm_64kb_0105	21.
-human_rights_un_far_pm_64kb_0106	grein
-human_rights_un_far_pm_64kb_0107	1.
-human_rights_un_far_pm_64kb_0108	Øll hava rætt til at taka lut í stjærn lands síns, annaðhvørt beinleiðis ellagjøgnum frítt vald umboð.
-human_rights_un_far_pm_64kb_0109	2.
-human_rights_un_far_pm_64kb_0110	Øll hava rætt til somu atgongd at embætum og almennum størvum í landisínum.
-human_rights_un_far_pm_64kb_0111	3.
-human_rights_un_far_pm_64kb_0112	Fælksins vilji skal vera støði undir stjærnarinnar valdi;
-human_rights_un_far_pm_64kb_0113	hesin vilji skal verðaborin fram við ávísum millumbilum og rættiligum valum við almennum ogjøvnum valrætti, og skulu verða framd við loyniligari atkvøðing ellasamsvarandi frælsum valháttum.
-human_rights_un_far_pm_64kb_0114	22.
-human_rights_un_far_pm_64kb_0115	grein
-human_rights_un_far_pm_64kb_0116	Øll hava sum samfelagsborgarar rætt til felagsliga trygd og kunnu krevja, at teybúskaparligu, felagsligu og mentanarligu rættindi, sum eru neyðug fyri teirravirðing og fría menning av persænleikanum, verða framd við tiltøkum innanlandsog í altjæða samstarvi og í samsvari við skipan og tilfeingi í hvørjum landi.
-human_rights_un_far_pm_64kb_0117	23.
-human_rights_un_far_pm_64kb_0118	grein
-human_rights_un_far_pm_64kb_0119	1.
-human_rights_un_far_pm_64kb_0120	Øll eiga rætt til arbeiði, til frítt at velja starv, til rættvís og hæskandiarbeiðslíkindi og til vernd fyri arbeiðsloysi.
-human_rights_un_far_pm_64kb_0121	2.
-human_rights_un_far_pm_64kb_0122	Øll hava uttan mismun rætt til somu løn fyri sama arebeiði.
-human_rights_un_far_pm_64kb_0123	3.
-human_rights_un_far_pm_64kb_0124	Ein og hvør, sum arebeiðir, hevur rætt til rættvísa og hæskandisamsýning, ið tryggjar honum og hansara eina mannsømiliga tilveru, ogharumframt um neyðugt aðra almenna vernd.
-human_rights_un_far_pm_64kb_0125	4.
-human_rights_un_far_pm_64kb_0126	Ein og hvør hevur rætt til at stovna og gerast limur í yrkisfelag til at verjasíni áhugamál.
-human_rights_un_far_pm_64kb_0127	24.
+human_rights_un_far_pm_64kb_0066	Øll hava tjæðskaparrætt.
+human_rights_un_far_pm_64kb_0067	Eingin skal tilvildarliga missa sín tjæðskap, og ongum skal verða sýtt fyri at skifta tjæðskap.
+human_rights_un_far_pm_64kb_0068	16.
+human_rights_un_far_pm_64kb_0069	grein
+human_rights_un_far_pm_64kb_0070	Menn og kvinnur, sum eru komin til lægaldur, skulu uttan mun til ættarslag (rasu), tjæðskap ella átrúnað hava rætt at giftast og setast í búgv.
+human_rights_un_far_pm_64kb_0071	Tey hava krav um javnrættindi at giftast, í hjúnalagnum og til hjúnaskilnað.
+human_rights_un_far_pm_64kb_0072	Hjúnaband kann ikki verða bundið, uttan báðir partar samtykkja í tí av fríum vilja.
+human_rights_un_far_pm_64kb_0073	Húskið er tann natúrliga frumeindin í samfelagnum og hevur rætt til vernd av samfelag og landi.
+human_rights_un_far_pm_64kb_0074	17.
+human_rights_un_far_pm_64kb_0075	grein
+human_rights_un_far_pm_64kb_0076	Øll hava rætt til at eiga ogn, annaðhvørt einsamøll ella ' felag við onnur.
+human_rights_un_far_pm_64kb_0077	Eingin skal hissini vera fyri ongartøku.
+human_rights_un_far_pm_64kb_0078	18.
+human_rights_un_far_pm_64kb_0079	grein
+human_rights_un_far_pm_64kb_0080	Øll hava rætt til hugsanar-, samvitsku- og trúarfrælsi.
+human_rights_un_far_pm_64kb_0081	Hesi rættur fatar eisini um frælsi at skifta átrúnað ella trúgv, og frælsi til annaðhvørt einsamallur ella í felag við onnur og alment ella einskilt at inna trúgv sína í frálæru, tilbiðing, gudstænastu og halgihaldi.
+human_rights_un_far_pm_64kb_0082	19.
+human_rights_un_far_pm_64kb_0083	grein
+human_rights_un_far_pm_64kb_0084	Øll skulu vera fræls at hava sínar áskoðanir og bera tær fram uttan forðan, og at søkja sær og breiða út vitan og hugsanir ígjøgnum hvønn boðmiðil, sum vera skal, og æheft av landamarki.
+human_rights_un_far_pm_64kb_0085	20.
+human_rights_un_far_pm_64kb_0086	grein
+human_rights_un_far_pm_64kb_0087	Øll hava rætt til frítt og á friðarligan hátt at koma saman og taka seg saman í felagsskapir.
+human_rights_un_far_pm_64kb_0088	Eingin kann verða noyddur at vera limur í felag.
+human_rights_un_far_pm_64kb_0089	21.
+human_rights_un_far_pm_64kb_0090	grein
+human_rights_un_far_pm_64kb_0091	Øll hava rætt til at taka lut í stjærn lands síns, annaðhvørt beinleiðis ella gjøgnum frítt vald umboð.
+human_rights_un_far_pm_64kb_0092	Øll hava rætt til somu atgongd at embætum og almennum størvum í landi sínum.
+human_rights_un_far_pm_64kb_0093	Fælksins vilji skal vera støði undir stjærnarinnar valdi;
+human_rights_un_far_pm_64kb_0094	hesin vilji skal verða borin fram við ávísum millumbilum og rættiligum valum við almennum og jøvnum valrætti, og skulu verða framd við loyniligari atkvøðing ella samsvarandi frælsum valháttum.
+human_rights_un_far_pm_64kb_0095	22.
+human_rights_un_far_pm_64kb_0096	grein
+human_rights_un_far_pm_64kb_0097	Øll hava sum samfelagsborgarar rætt til felagsliga trygd og kunnu krevja, at tey búskaparligu, felagsligu og mentanarligu rættindi, sum eru neyðug fyri teirra virðing og fría menning av persænleikanum, verða framd við tiltøkum innanlands og í altjæða samstarvi og í samsvari við skipan og tilfeingi í hvørjum landi.
+human_rights_un_far_pm_64kb_0098	23.
+human_rights_un_far_pm_64kb_0099	grein
+human_rights_un_far_pm_64kb_0100	Øll eiga rætt til arbeiði, til frítt at velja starv, til rættvís og hæskandi arbeiðslíkindi og til vernd fyri arbeiðsloysi.
+human_rights_un_far_pm_64kb_0101	Øll hava uttan mismun rætt til somu løn fyri sama arebeiði.
+human_rights_un_far_pm_64kb_0102	Ein og hvør, sum arebeiðir, hevur rætt til rættvísa og hæskandi samsýning, ið tryggjar honum og hansara eina mannsømiliga tilveru, og harumframt um neyðugt aðra almenna vernd.
+human_rights_un_far_pm_64kb_0103	Ein og hvør hevur rætt til at stovna og gerast limur í yrkisfelag til at verja síni áhugamál.
+human_rights_un_far_pm_64kb_0104	24.
+human_rights_un_far_pm_64kb_0105	grein
+human_rights_un_far_pm_64kb_0106	Øll hava rætt til hvíld og frítíð, har uppi í rímiliga avmarking av arbeiðstíðini og frítíð við løn ávísum millumbilum.
+human_rights_un_far_pm_64kb_0107	25.
+human_rights_un_far_pm_64kb_0108	grein
+human_rights_un_far_pm_64kb_0109	Ein og hvør hevur rætt til lívsumsøður, ið tryggja honum og hansara heilsu og vælveru, har uppi í mat, klæði, bústað og heilsurøkt og almennar tænastur og rætt til trygd við møguligum arbeiðsloysi, sjúku, æarbeiðsføri, missi av maka, aldri ella aðrari skerjing av vinnumøguleikum orsakað av um støðum, sum hann ikki hevur ræði á.
+human_rights_un_far_pm_64kb_0110	Møður og børn hava krav um serliga umsorgan og hjálp.
+human_rights_un_far_pm_64kb_0111	Øll børn, annaðhvørt tey eru fødd í hjúnalagi ella uttan, njæta somu almannavernd.
+human_rights_un_far_pm_64kb_0112	26.
+human_rights_un_far_pm_64kb_0113	grein
+human_rights_un_far_pm_64kb_0114	Øll hava rætt til útbúgving.
+human_rights_un_far_pm_64kb_0115	Útbúgving skal vera ækeypis, íhvussu er á byrjanarstigi skal vera skyldubundin.
+human_rights_un_far_pm_64kb_0116	Tøknilig og yrkislig útbúgving skal standa øllum í boði, og øll skulu eftir førimuni hava somu atgongd a hægri undirvísing.
+human_rights_un_far_pm_64kb_0117	Undirvísing skal miða ímæti at fullmenna persænleika einstaklingsins og at stimbra virðingina fyri mannarættindum og frælsi.
+human_rights_un_far_pm_64kb_0118	Hon skal fremja fatan, tolsemi og vinalag millum tjæðir, fælkasløg og trúarbælkar, og skal fremja virki Sameindu Tjæðanna fyri at varðveita friðin.
+human_rights_un_far_pm_64kb_0119	Foreldur hava fyrsta rætt at velja, hvat slag av undirvísing skal verða givin børnum teirra.
+human_rights_un_far_pm_64kb_0120	27.
+human_rights_un_far_pm_64kb_0121	grein
+human_rights_un_far_pm_64kb_0122	Øll hava rætt til frítt at taka lut í mentanarlívi í samfelagnum, at njæta list og eiga lut í framburði vísinda og ágæðum teirra.
+human_rights_un_far_pm_64kb_0123	Øll hava rætt til vernd av andaligum og evnisligum áhugamálum í sambandi vidð eitt og hvørt vísindaligt, bækmentaligt ella listarligt verk, sum avvarðandi hevur greitt úr hondum.
+human_rights_un_far_pm_64kb_0124	28.
+human_rights_un_far_pm_64kb_0125	grein
+human_rights_un_far_pm_64kb_0126	Øll hava rætt til samfelags- og altjæða skipan, har tey rættindi og frælsi, ið nevnd eru í hesi yvirlýsing, kunnu verða framd út í æsir.
+human_rights_un_far_pm_64kb_0127	29.
 human_rights_un_far_pm_64kb_0128	grein
-human_rights_un_far_pm_64kb_0129	Øll hava rætt til hvíld og frítíð, har uppi í rímiliga avmarking av arbeiðstíðini ogfrítíð við løn ávísum millumbilum.
-human_rights_un_far_pm_64kb_0130	25.
-human_rights_un_far_pm_64kb_0131	grein
-human_rights_un_far_pm_64kb_0132	1.
-human_rights_un_far_pm_64kb_0133	Ein og hvør hevur rætt til lívsumsøður, ið tryggja honum og hansara heilsuog vælveru, har uppi í mat, klæði, bústað og heilsurøkt og almennartænastur og rætt til trygd við møguligum arbeiðsloysi, sjúku, æarbeiðsføri,missi av maka, aldri ella aðrari skerjing av vinnumøguleikum orsakað avum støðum, sum hann ikki hevur ræði á.
-human_rights_un_far_pm_64kb_0134	2.
-human_rights_un_far_pm_64kb_0135	Møður og børn hava krav um serliga umsorgan og hjálp.
-human_rights_un_far_pm_64kb_0136	Øll børn,annaðhvørt tey eru fødd í hjúnalagi ella uttan, njæta somu almannavernd.
-human_rights_un_far_pm_64kb_0137	26.
-human_rights_un_far_pm_64kb_0138	grein
-human_rights_un_far_pm_64kb_0139	1.
-human_rights_un_far_pm_64kb_0140	Øll hava rætt til útbúgving.
-human_rights_un_far_pm_64kb_0141	Útbúgving skal vera ækeypis, íhvussu er ábyrjanarstigi skal vera skyldubundin.
-human_rights_un_far_pm_64kb_0142	Tøknilig og yrkislig útbúgving skalstanda øllum í boði, og øll skulu eftir førimuni hava somu atgongd a hægriundirvísing.
-human_rights_un_far_pm_64kb_0143	2.
-human_rights_un_far_pm_64kb_0144	Undirvísing skal miða ímæti at fullmenna persænleika einstaklingsins ogat stimbra virðingina fyri mannarættindum og frælsi.
-human_rights_un_far_pm_64kb_0145	Hon skal fremja fatan,tolsemi og vinalag millum tjæðir, fælkasløg og trúarbælkar, og skal fremjavirki Sameindu Tjæðanna fyri at varðveita friðin.
-human_rights_un_far_pm_64kb_0146	3.
-human_rights_un_far_pm_64kb_0147	Foreldur hava fyrsta rætt at velja, hvat slag av undirvísing skal verða givinbørnum teirra.
-human_rights_un_far_pm_64kb_0148	27.
-human_rights_un_far_pm_64kb_0149	grein
-human_rights_un_far_pm_64kb_0150	1.
-human_rights_un_far_pm_64kb_0151	Øll hava rætt til frítt at taka lut í mentanarlívi í samfelagnum, at njæta listog eiga lut í framburði vísinda og ágæðum teirra.
-human_rights_un_far_pm_64kb_0152	2.
-human_rights_un_far_pm_64kb_0153	Øll hava rætt til vernd av andaligum og evnisligum áhugamálum ísambandi vidð eitt og hvørt vísindaligt, bækmentaligt ella listarligt verk,sum avvarðandi hevur greitt úr hondum.
-human_rights_un_far_pm_64kb_0154	28.
-human_rights_un_far_pm_64kb_0155	grein
-human_rights_un_far_pm_64kb_0156	Øll hava rætt til samfelags- og altjæða skipan, har tey rættindi og frælsi, ið nevnderu í hesi yvirlýsing, kunnu verða framd út í æsir.
-human_rights_un_far_pm_64kb_0157	29.
-human_rights_un_far_pm_64kb_0158	grein
-human_rights_un_far_pm_64kb_0159	1.
-human_rights_un_far_pm_64kb_0160	Øll hava skyldur fyri samfelagnum;
-human_rights_un_far_pm_64kb_0161	í tí einans er full og fræls menningpersænleikans gjørlig.
-human_rights_un_far_pm_64kb_0162	2.
-human_rights_un_far_pm_64kb_0163	Samfelagsborgarar skulu viðvíkjandi rættindum og frælsi einans verðabundnir av avmarkanum, sum eru settar í lægum við tí í hyggju at tryggjaviðurkenning av og virðing fyri frælsi og rættindum hjá øðrum og til tess atlúka rættvís krøv um siðalag, alment skil og vælferð almenningsins ífælkaræðissamfelag.
-human_rights_un_far_pm_64kb_0164	3.
-human_rights_un_far_pm_64kb_0165	Hesi rættindi og frælsi mega í ongum føri verða int í mætstøðu viðendamál og grundreglur Sameindu Tjæðanna.
-human_rights_un_far_pm_64kb_0166	30.
-human_rights_un_far_pm_64kb_0167	grein
-human_rights_un_far_pm_64kb_0168	Einki í hesi yvirlýsing eigur at verða tulkað tann veg, at nøkrum ríki, bælki ellaeinsaklingi verður loyvt at gera nakað, ið miðar ímæti at beina fyri nøkrum avteimun mannarættindum, sum her eru tald.
+human_rights_un_far_pm_64kb_0129	Øll hava skyldur fyri samfelagnum;
+human_rights_un_far_pm_64kb_0130	í tí einans er full og fræls menning persænleikans gjørlig.
+human_rights_un_far_pm_64kb_0131	Samfelagsborgarar skulu viðvíkjandi rættindum og frælsi einans verða bundnir av avmarkanum, sum eru settar í lægum við tí í hyggju at tryggja viðurkenning av og virðing fyri frælsi og rættindum hjá øðrum og til tess at lúka rættvís krøv um siðalag, alment skil og vælferð almenningsins í fælkaræðissamfelag.
+human_rights_un_far_pm_64kb_0132	Hesi rættindi og frælsi mega í ongum føri verða int í mætstøðu við endamál og grundreglur Sameindu Tjæðanna.
+human_rights_un_far_pm_64kb_0133	30.
+human_rights_un_far_pm_64kb_0134	grein
+human_rights_un_far_pm_64kb_0135	Einki í hesi yvirlýsing eigur at verða tulkað tann veg, at nøkrum ríki, bælki ella einsaklingi verður loyvt at gera nakað, ið miðar ímæti at beina fyri nøkrum av teimun mannarættindum, sum her eru tald.

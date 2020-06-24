@@ -1,363 +1,140 @@
 human_rights_un_fin_jf_64kb_0001	Yhdistyneiden kansakuntien kolmas yleiskokous hyväksyi ja julkisti ihmisoikeuksien yleismaailmallisen julistuksen joulukuun 10.
-human_rights_un_fin_jf_64kb_0002	päi-vänä 1948.
+human_rights_un_fin_jf_64kb_0002	päivänä 1948.
 human_rights_un_fin_jf_64kb_0003	Julistuksen hyväksymisen puolesta äänesti 48 maata.
-human_rights_un_fin_jf_64kb_0004	Mikään maa ei äänestänytvastaan.
+human_rights_un_fin_jf_64kb_0004	Mikään maa ei äänestänyt vastaan.
 human_rights_un_fin_jf_64kb_0005	Kahdeksan maata pidättyi äänestämästä.
-human_rights_un_fin_jf_64kb_0006	Välittömästi tämän historiallisen tapahtuman jälkeen yleiskokous kehotti kaikkiajäsenmaita julkaisemaan julistuksen tekstin.
-human_rights_un_fin_jf_64kb_0007	Niitä pyydettiin "levittämään jatekemään sitä tunnetuksi, lukemaan ja selittämään sitä ennen kaikkea kouluissaja muissa oppilaitoksissa eri maiden ja alueiden poliittisista oloista riippumatta".
-human_rights_un_fin_jf_64kb_0008	Julistuksen virallinen teksti on saatavissa YK:n kuudella virallisella kielellä:arabiaksi, englanniksi, espanjaksi, kiinaksi, ranskaksi ja venäjäksi.
-human_rights_un_fin_jf_64kb_0009	Myös monet
-human_rights_un_fin_jf_64kb_0010	YK:n jäsenmaat ovat noudattaneet yleiskokouksen kehotusta ja kääntäneetjulistuksen omalle kielelleen.
-human_rights_un_fin_jf_64kb_0011	Seuraavilla sivuilla oleva käännös on Suomenhallituksen vahvistama.
-human_rights_un_fin_jf_64kb_0012	Julistuksen ilmaiskappaleita on saatavana YK:n Kööpenhaminassa sijaitsevastapohjoismaisesta tiedotustoimistosta YK:n virallisilla kielillä, pohjoismaisilla kielilläja rajallinen määrä muilla kielillä.
-human_rights_un_fin_jf_64kb_0013	IHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS
-human_rights_un_fin_jf_64kb_0014	IHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS
-human_rights_un_fin_jf_64kb_0015	IHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS
-human_rights_un_fin_jf_64kb_0016	IHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS
-human_rights_un_fin_jf_64kb_0017	JOHDANTO
-human_rights_un_fin_jf_64kb_0018	JOHDANTO
-human_rights_un_fin_jf_64kb_0019	JOHDANTO
-human_rights_un_fin_jf_64kb_0020	JOHDANTO
-human_rights_un_fin_jf_64kb_0021	Kun ihmiskunnan kaikkien jäsenten luonnollisen arvon ja heidän yhtäläisten jaluovuttamattomien oikeuksiensa tunnustaminen on vapauden,oikeudenmukaisuuden ja rauhan perustana maailmassa,kun ihmisoikeuksia on väheksytty tai ne on jätetty huomiota vaille, on tapahtunutraakalaistekoja, jotka ovat järkyttäneet ihmiskunnan omaatuntoa, ja kun kansojenkorkeimmaksi päämääräksi on julistettu sellaisen maailman luominen, missäihmiset voivat vapaasti nauttia sanan ja uskon vapautta sekä elää vapainapelosta ja puutteesta,kun on välttämätöntä, että ihmisoikeudet turvataan oikeusjärjestyksellä, jottaihmisten ei olisi pakko viimeisenä keinona nousta kapinaan pakkovaltaa ja sortoavastaan,kun on tähdellistä edistää ystävällisten suhteiden kehittymistä kansojen välille,kun Yhdistyneiden Kansakuntien kansat ovat peruskirjassa vahvistaneet uskonsaihmisten perusoikeuksiin, ihmisyksilön arvoon ja merkitykseen sekä miesten janaisten yhtäläisiin oikeuksiin ja kun ne ovat ilmaisseet vakaan tahtonsa edistääsosiaalista kehitystä ja parempien elämisen ehtojen aikaansaamistavapaammissa oloissa,kun jäsenvaltiot ovat sitoutuneet edistämään, yhteistoiminnassa Yhdistyneet
-human_rights_un_fin_jf_64kb_0022	Kansakunnat -järjestön kanssa, ihmisoikeuksien ja perusvapauksien yleistäkunnioittamista ja noudattamista, ja,kun yhteinen käsitys näiden oikeuksien ja vapauksien sisällöstä on mitä tärkeintämän sitoumuksen täydelliselle toteuttamiselle,
-human_rights_un_fin_jf_64kb_0023	Niin sen vuoksi
-human_rights_un_fin_jf_64kb_0024	YLEISKOKOUSantaa TÄMÄN IHMISOIKEUKSIEN YLEISMAAILMALLISEN JULISTUKSENkaikkien kansojen ja kaikkien kansakuntien tavoiteltavaksi yhteiseksi ohjeeksi,jotta kukin yksilö ja kukin yhteiskuntaelin pyrkisi, pitäen alati mielessään tämänjulistuksen, valistamalla ja opettamalla edistämään näiden oikeuksien javapauksien kunnioittamista sekä turvaamaan jatkuvin kansallisin jakansainvälisin toimenpitein niiden yleisen ja tehokkaan tunnustamisen janoudattamisen sekä itse jäsenvaltioiden kansojen että niiden oikeuspiirissäolevien alueiden kansojen keskuudessa.
-human_rights_un_fin_jf_64kb_0025	1.
+human_rights_un_fin_jf_64kb_0006	Välittömästi tämän historiallisen tapahtuman jälkeen yleiskokous kehotti kaikkia jäsenmaita julkaisemaan julistuksen tekstin.
+human_rights_un_fin_jf_64kb_0007	Niitä pyydettiin "levittämään ja tekemään sitä tunnetuksi, lukemaan ja selittämään sitä ennen kaikkea kouluissa ja muissa oppilaitoksissa eri maiden ja alueiden poliittisista oloista riippumatta".
+human_rights_un_fin_jf_64kb_0008	Julistuksen virallinen teksti on saatavissa YK:n kuudella virallisella kielellä: arabiaksi, englanniksi, espanjaksi, kiinaksi, ranskaksi ja venäjäksi.
+human_rights_un_fin_jf_64kb_0009	Myös monet YK:n jäsenmaat ovat noudattaneet yleiskokouksen kehotusta ja kääntäneet julistuksen omalle kielelleen.
+human_rights_un_fin_jf_64kb_0010	Seuraavilla sivuilla oleva käännös on Suomen hallituksen vahvistama.
+human_rights_un_fin_jf_64kb_0011	Julistuksen ilmaiskappaleita on saatavana YK:n Kööpenhaminassa sijaitsevasta pohjoismaisesta tiedotustoimistosta YK:n virallisilla kielillä, pohjoismaisilla kielillä ja rajallinen määrä muilla kielillä.
+human_rights_un_fin_jf_64kb_0012	IHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS
+human_rights_un_fin_jf_64kb_0013	JOHDANTO
+human_rights_un_fin_jf_64kb_0014	Kun ihmiskunnan kaikkien jäsenten luonnollisen arvon ja heidän yhtäläisten ja luovuttamattomien oikeuksiensa tunnustaminen on vapauden, oikeudenmukaisuuden ja rauhan perustana maailmassa,kun ihmisoikeuksia on väheksytty tai ne on jätetty huomiota vaille, on tapahtunut raakalaistekoja, jotka ovat järkyttäneet ihmiskunnan omaatuntoa, ja kun kansojen korkeimmaksi päämääräksi on julistettu sellaisen maailman luominen, missä ihmiset voivat vapaasti nauttia sanan ja uskon vapautta sekä elää vapaina pelosta ja puutteesta,kun on välttämätöntä, että ihmisoikeudet turvataan oikeusjärjestyksellä, jotta ihmisten ei olisi pakko viimeisenä keinona nousta kapinaan pakkovaltaa ja sortoa vastaan,kun on tähdellistä edistää ystävällisten suhteiden kehittymistä kansojen välille,kun Yhdistyneiden Kansakuntien kansat ovat peruskirjassa vahvistaneet uskonsa ihmisten perusoikeuksiin, ihmisyksilön arvoon ja merkitykseen sekä miesten ja naisten yhtäläisiin oikeuksiin ja kun ne ovat ilmaisseet vakaan tahtonsa edistää sosiaalista kehitystä ja parempien elämisen ehtojen aikaansaamista vapaammissa oloissa,kun jäsenvaltiot ovat sitoutuneet edistämään, yhteistoiminnassa Yhdistyneet Kansakunnat -järjestön kanssa, ihmisoikeuksien ja perusvapauksien yleistä kunnioittamista ja noudattamista, jakun yhteinen käsitys näiden oikeuksien ja vapauksien sisällöstä on mitä tärkein tämän sitoumuksen täydelliselle toteuttamiselle,
+human_rights_un_fin_jf_64kb_0015	Niin sen vuoksi
+human_rights_un_fin_jf_64kb_0016	YLEISKOKOUSantaa TÄMÄN IHMISOIKEUKSIEN YLEISMAAILMALLISEN JULISTUKSEN kaikkien kansojen ja kaikkien kansakuntien tavoiteltavaksi yhteiseksi ohjeeksi, jotta kukin yksilö ja kukin yhteiskuntaelin pyrkisi, pitäen alati mielessään tämän julistuksen, valistamalla ja opettamalla edistämään näiden oikeuksien ja vapauksien kunnioittamista sekä turvaamaan jatkuvin kansallisin ja kansainvälisin toimenpitein niiden yleisen ja tehokkaan tunnustamisen ja noudattamisen sekä itse jäsenvaltioiden kansojen että niiden oikeuspiirissä olevien alueiden kansojen keskuudessa.
+human_rights_un_fin_jf_64kb_0017	1.
+human_rights_un_fin_jf_64kb_0018	artikla.
+human_rights_un_fin_jf_64kb_0019	Kaikki ihmiset syntyvät vapaina ja tasavertaisina arvoltaan ja oikeuksiltaan.
+human_rights_un_fin_jf_64kb_0020	Heille on annettu järki ja omatunto, ja heidän on toimittava toisiaan kohtaan veljeyden hengessä.
+human_rights_un_fin_jf_64kb_0021	2.
+human_rights_un_fin_jf_64kb_0022	artikla.
+human_rights_un_fin_jf_64kb_0023	Jokainen on oikeutettu kaikkiin tässä julistuksessa esitettyihin oikeuksiin ja vapauksiin ilman minkäänlaista rotuun, väriin, sukupuoleen, kieleen, uskontoon, poliittiseen tai muuhun mielipiteeseen, kansalliseen tai yhteiskunnalliseen alkuperään, omaisuuteen, syntyperään tai muuhun tekijään perustuvaa erotusta.
+human_rights_un_fin_jf_64kb_0024	Mitään erotusta ei myöskään pidä tehdä sen maan tai alueen valtiollisen, hallinnollisen tai kansainvälisen aseman perusteella, johon henkilö kuuluu, olipa tämä alue itsenäinen, huoltohallinnossa, itsehallintoa vailla tai täysivaltaisuudeltaan minkä tahansa muun rajoituksen alainen.
+human_rights_un_fin_jf_64kb_0025	3.
 human_rights_un_fin_jf_64kb_0026	artikla.
-human_rights_un_fin_jf_64kb_0027	1.
-human_rights_un_fin_jf_64kb_0028	artikla.
-human_rights_un_fin_jf_64kb_0029	1.
-human_rights_un_fin_jf_64kb_0030	artikla.
-human_rights_un_fin_jf_64kb_0031	1.
+human_rights_un_fin_jf_64kb_0027	Kullakin yksilöllä on oikeus elämään, vapauteen ja henkilökohtaiseen turvallisuuteen.
+human_rights_un_fin_jf_64kb_0028	4.
+human_rights_un_fin_jf_64kb_0029	artikla.
+human_rights_un_fin_jf_64kb_0030	Ketään ei saa pitää orjana tai orjuutettuna, kaikki orjuuden ja orjakaupan muodot on kiellettävä.
+human_rights_un_fin_jf_64kb_0031	5.
 human_rights_un_fin_jf_64kb_0032	artikla.
-human_rights_un_fin_jf_64kb_0033	Kaikki ihmiset syntyvät vapaina ja tasavertaisina arvoltaan ja oikeuksiltaan.
-human_rights_un_fin_jf_64kb_0034	Heilleon annettu järki ja omatunto, ja heidän on toimittava toisiaan kohtaan veljeydenhengessä.
-human_rights_un_fin_jf_64kb_0035	2.
-human_rights_un_fin_jf_64kb_0036	artikla.
-human_rights_un_fin_jf_64kb_0037	2.
+human_rights_un_fin_jf_64kb_0033	Ketään ei saa kiduttaa eikä kohdella tai rangaista julmasti, epäinhimillisesti tai alentavasti.
+human_rights_un_fin_jf_64kb_0034	6.
+human_rights_un_fin_jf_64kb_0035	artikla.
+human_rights_un_fin_jf_64kb_0036	Jokaisella ihmisellä on kaikkialla oikeus siihen, että hänet henkilönä tunnustetaan lain edessä.
+human_rights_un_fin_jf_64kb_0037	7.
 human_rights_un_fin_jf_64kb_0038	artikla.
-human_rights_un_fin_jf_64kb_0039	2.
-human_rights_un_fin_jf_64kb_0040	artikla.
-human_rights_un_fin_jf_64kb_0041	2.
+human_rights_un_fin_jf_64kb_0039	Kaikki ovat tasavertaisia lain edessä ja oikeutetut erotuksetta yhtäläiseen lain suojaan.
+human_rights_un_fin_jf_64kb_0040	Kaikilla on oikeus tasavertaiseen suojaan tätä julistusta loukkaavaa syrjintää vastaan sekä kaikkea sellaiseen syrjintään tähtäävää yllytystä vastaan.
+human_rights_un_fin_jf_64kb_0041	8.
 human_rights_un_fin_jf_64kb_0042	artikla.
-human_rights_un_fin_jf_64kb_0043	Jokainen on oikeutettu kaikkiin tässä julistuksessa esitettyihin oikeuksiin javapauksiin ilman minkäänlaista rotuun, väriin, sukupuoleen, kieleen, uskontoon,poliittiseen tai muuhun mielipiteeseen, kansalliseen tai yhteiskunnalliseenalkuperään, omaisuuteen, syntyperään tai muuhun tekijään perustuvaa erotusta.
-human_rights_un_fin_jf_64kb_0044	Mitään erotusta ei myöskään pidä tehdä sen maan tai alueen valtiollisen,hallinnollisen tai kansainvälisen aseman perusteella, johon henkilö kuuluu, olipatämä alue itsenäinen, huoltohallinnossa, itsehallintoa vailla taitäysivaltaisuudeltaan minkä tahansa muun rajoituksen alainen.
-human_rights_un_fin_jf_64kb_0045	3.
-human_rights_un_fin_jf_64kb_0046	artikla.
-human_rights_un_fin_jf_64kb_0047	3.
+human_rights_un_fin_jf_64kb_0043	Jokaisella on oikeus tehokkaaseen hyvitykseen asianomaisessa kansallisessa tuomioistuimessa häneen kohdistuneista teoista, jotka loukkaavat hänelle valtiosäännöllä tai lailla turvattuja perusoikeuksia.
+human_rights_un_fin_jf_64kb_0044	9.
+human_rights_un_fin_jf_64kb_0045	artikla.
+human_rights_un_fin_jf_64kb_0046	Ketään ei saa mielivaltaisesti pidättää, vangita tai ajaa maanpakoon.
+human_rights_un_fin_jf_64kb_0047	10.
 human_rights_un_fin_jf_64kb_0048	artikla.
-human_rights_un_fin_jf_64kb_0049	3.
-human_rights_un_fin_jf_64kb_0050	artikla.
-human_rights_un_fin_jf_64kb_0051	3.
-human_rights_un_fin_jf_64kb_0052	artikla.
-human_rights_un_fin_jf_64kb_0053	Kullakin yksilöllä on oikeus elämään, vapauteen ja henkilökohtaiseenturvallisuuteen.
-human_rights_un_fin_jf_64kb_0054	4.
-human_rights_un_fin_jf_64kb_0055	artikla.
-human_rights_un_fin_jf_64kb_0056	4.
-human_rights_un_fin_jf_64kb_0057	artikla.
-human_rights_un_fin_jf_64kb_0058	4.
-human_rights_un_fin_jf_64kb_0059	artikla.
-human_rights_un_fin_jf_64kb_0060	4.
-human_rights_un_fin_jf_64kb_0061	artikla.
-human_rights_un_fin_jf_64kb_0062	Ketään ei saa pitää orjana tai orjuutettuna, kaikki orjuuden ja orjakaupan muodoton kiellettävä.
-human_rights_un_fin_jf_64kb_0063	5.
+human_rights_un_fin_jf_64kb_0049	Jokaisella on täysin tasa-arvoisesti oikeus siihen, että häntä oikeudenmukaisesti ja julkisesti kuullaan riippumattomassa ja puolueettomassa tuomioistuimessa hänen oikeuksiaan ja velvollisuuksiaan määrättäessä tai häntä vastaan nostettua rikossyytettä selvitettäessä.
+human_rights_un_fin_jf_64kb_0050	11.
+human_rights_un_fin_jf_64kb_0051	artikla.
+human_rights_un_fin_jf_64kb_0052	Jokaisen rikollisesta teosta syytteessä olevan henkilön edellytetään olevan syytön siihen asti kunnes hänen syyllisyytensä on laillisesti todistettu julkisessa oikeudenkäynnissä, jossa hänelle turvataan kaikki hänen puolustustaan varten tarpeelliset takeet.
+human_rights_un_fin_jf_64kb_0053	Ketään ei pidä tuomita rangaistavaksi teoista tai laiminlyönneistä, jotka eivät kansallisen tai kansainvälisen oikeuden mukaan olleet rikollisia tekohetkellä.
+human_rights_un_fin_jf_64kb_0054	Myöskään ei pidä tuomita ankarampaan rangaistukseen, kuin mikä oli sovellettavissa rangaistavan teon suoritushetkellä.
+human_rights_un_fin_jf_64kb_0055	12.
+human_rights_un_fin_jf_64kb_0056	artikla.
+human_rights_un_fin_jf_64kb_0057	Älköön mielivaltaisesti puututtako kenenkään yksityiselämään, perheeseen, kotiin tai kirjeenvaihtoon älköönkä loukattako kenenkään kunniaa ja mainetta.
+human_rights_un_fin_jf_64kb_0058	Jokaisella on oikeus lain suojaan sellaista puuttumista tai loukkausta vastaan.
+human_rights_un_fin_jf_64kb_0059	13.
+human_rights_un_fin_jf_64kb_0060	artikla.
+human_rights_un_fin_jf_64kb_0061	Jokaisella on oikeus liikkua vapaasti ja valita asuinpaikkansa kunkin valtion sisällä.
+human_rights_un_fin_jf_64kb_0062	Jokaisella on oikeus lähteä maasta, myös omasta maastaan, ja palata maahansa.
+human_rights_un_fin_jf_64kb_0063	14.
 human_rights_un_fin_jf_64kb_0064	artikla.
-human_rights_un_fin_jf_64kb_0065	5.
-human_rights_un_fin_jf_64kb_0066	artikla.
-human_rights_un_fin_jf_64kb_0067	5.
+human_rights_un_fin_jf_64kb_0065	Jokaisella vainon kohteeksi joutuneella on oikeus hakea ja nauttia turvapaikkaa muissa maissa.
+human_rights_un_fin_jf_64kb_0066	Tähän oikeuteen ei voida vedota, kun on kysymys tosi epäpoliittisista rikoksista johtuvista syytteistä tai teoista, jotka ovat vastoin Yhdistyneiden Kansakuntien periaatteita ja päämääriä.
+human_rights_un_fin_jf_64kb_0067	15.
 human_rights_un_fin_jf_64kb_0068	artikla.
-human_rights_un_fin_jf_64kb_0069	5.
-human_rights_un_fin_jf_64kb_0070	artikla.
-human_rights_un_fin_jf_64kb_0071	Ketään ei saa kiduttaa eikä kohdella tai rangaista julmasti, epäinhimillisesti taialentavasti.
-human_rights_un_fin_jf_64kb_0072	6.
-human_rights_un_fin_jf_64kb_0073	artikla.
-human_rights_un_fin_jf_64kb_0074	6.
-human_rights_un_fin_jf_64kb_0075	artikla.
-human_rights_un_fin_jf_64kb_0076	6.
-human_rights_un_fin_jf_64kb_0077	artik
-human_rights_un_fin_jf_64kb_0078	6.
-human_rights_un_fin_jf_64kb_0079	artikla.
-human_rights_un_fin_jf_64kb_0080	la.
-human_rights_un_fin_jf_64kb_0081	Jokaisella ihmisellä on kaikkialla oikeus siihen, että hänet henkilönä tunnustetaanlain edessä.
-human_rights_un_fin_jf_64kb_0082	7.
-human_rights_un_fin_jf_64kb_0083	artikla.
-human_rights_un_fin_jf_64kb_0084	7.
-human_rights_un_fin_jf_64kb_0085	artikla.
-human_rights_un_fin_jf_64kb_0086	7.
-human_rights_un_fin_jf_64kb_0087	artikla.
-human_rights_un_fin_jf_64kb_0088	7.
-human_rights_un_fin_jf_64kb_0089	artikla.
-human_rights_un_fin_jf_64kb_0090	Kaikki ovat tasavertaisia lain edessä ja oikeutetut erotuksetta yhtäläiseen lainsuojaan.
-human_rights_un_fin_jf_64kb_0091	Kaikilla on oikeus tasavertaiseen suojaan tätä julistusta loukkaavaasyrjintää vastaan sekä kaikkea sellaiseen syrjintään tähtäävää yllytystä vastaan.
-human_rights_un_fin_jf_64kb_0092	8.
-human_rights_un_fin_jf_64kb_0093	artikla.
-human_rights_un_fin_jf_64kb_0094	8.
-human_rights_un_fin_jf_64kb_0095	artikla.
-human_rights_un_fin_jf_64kb_0096	8.
-human_rights_un_fin_jf_64kb_0097	artikla.
-human_rights_un_fin_jf_64kb_0098	8.
-human_rights_un_fin_jf_64kb_0099	artikla.
-human_rights_un_fin_jf_64kb_0100	Jokaisella on oikeus tehokkaaseen hyvitykseen asianomaisessa kansallisessatuomioistuimessa häneen kohdistuneista teoista, jotka loukkaavat hänellevaltiosäännöllä tai lailla turvattuja perusoikeuksia.
-human_rights_un_fin_jf_64kb_0101	9.
-human_rights_un_fin_jf_64kb_0102	artikla.
-human_rights_un_fin_jf_64kb_0103	9.
-human_rights_un_fin_jf_64kb_0104	artikla.
-human_rights_un_fin_jf_64kb_0105	9.
-human_rights_un_fin_jf_64kb_0106	artikla.
-human_rights_un_fin_jf_64kb_0107	9.
-human_rights_un_fin_jf_64kb_0108	artikla.
-human_rights_un_fin_jf_64kb_0109	Ketään ei saa mielivaltaisesti pidättää, vangita tai ajaa maanpakoon.
-human_rights_un_fin_jf_64kb_0110	10.
-human_rights_un_fin_jf_64kb_0111	artikla.
-human_rights_un_fin_jf_64kb_0112	10.
-human_rights_un_fin_jf_64kb_0113	artikla.
-human_rights_un_fin_jf_64kb_0114	10.
-human_rights_un_fin_jf_64kb_0115	artikla.
-human_rights_un_fin_jf_64kb_0116	10.
-human_rights_un_fin_jf_64kb_0117	artikla.
-human_rights_un_fin_jf_64kb_0118	Jokaisella on täysin tasa-arvoisesti oikeus siihen, että häntä oikeudenmukaisestija julkisesti kuullaan riippumattomassa ja puolueettomassa tuomioistuimessahänen oikeuksiaan ja velvollisuuksiaan määrättäessä tai häntä vastaan nostettuarikossyytettä selvitettäessä.
-human_rights_un_fin_jf_64kb_0119	11.
-human_rights_un_fin_jf_64kb_0120	artikla.
-human_rights_un_fin_jf_64kb_0121	11.
-human_rights_un_fin_jf_64kb_0122	artikla.
-human_rights_un_fin_jf_64kb_0123	11.
-human_rights_un_fin_jf_64kb_0124	artikla.
-human_rights_un_fin_jf_64kb_0125	11.
-human_rights_un_fin_jf_64kb_0126	artikla.
-human_rights_un_fin_jf_64kb_0127	1.
-human_rights_un_fin_jf_64kb_0128	Jokaisen rikollisesta teosta syytteessä olevan henkilön edellytetäänolevan syytön siihen asti kunnes hänen syyllisyytensä on laillisestitodistettu julkisessa oikeudenkäynnissä, jossa hänelle turvataan kaikkihänen puolustustaan varten tarpeelliset takeet.
-human_rights_un_fin_jf_64kb_0129	2.
-human_rights_un_fin_jf_64kb_0130	Ketään ei pidä tuomita rangaistavaksi teoista tai laiminlyönneistä, jotkaeivät kansallisen tai kansainvälisen oikeuden mukaan olleet rikollisiatekohetkellä.
-human_rights_un_fin_jf_64kb_0131	Myöskään ei pidä tuomita ankarampaan rangaistukseen,kuin mikä oli sovellettavissa rangaistavan teon suoritushetkellä.
-human_rights_un_fin_jf_64kb_0132	12.
-human_rights_un_fin_jf_64kb_0133	artikla.
-human_rights_un_fin_jf_64kb_0134	12.
-human_rights_un_fin_jf_64kb_0135	artikla.
-human_rights_un_fin_jf_64kb_0136	12.
-human_rights_un_fin_jf_64kb_0137	artikla.
-human_rights_un_fin_jf_64kb_0138	12.
+human_rights_un_fin_jf_64kb_0069	Jokaisella on oikeus kansalaisuuteen.
+human_rights_un_fin_jf_64kb_0070	Keltään ei saa mielivaltaisesti riistää kansalaisuutta eikä evätä oikeutta kansalaisuuden vaihtamiseen.
+human_rights_un_fin_jf_64kb_0071	16.
+human_rights_un_fin_jf_64kb_0072	artikla.
+human_rights_un_fin_jf_64kb_0073	Täysi-ikäisillä miehillä ja naisilla on oikeus solmia avioliitto ja perustaa perhe ilman minkäänlaisia rodusta, kansalaisuudesta tai uskonnosta johtuvia rajoituksia.
+human_rights_un_fin_jf_64kb_0074	Heillä on yhtäläiset oikeudet avioliittoon, avioliiton aikana ja sen purkamisen jälkeen.
+human_rights_un_fin_jf_64kb_0075	Avioliiton solmiminen tapahtukoon vain tulevien aviopuolisoiden vapaasta ja täydestä suostumuksesta.
+human_rights_un_fin_jf_64kb_0076	Perhe on yhteiskunnan luonnollinen ja perustava ydinosa ja sillä on oikeus yhteiskunnan ja valtion suojaan.
+human_rights_un_fin_jf_64kb_0077	17.
+human_rights_un_fin_jf_64kb_0078	artikla.
+human_rights_un_fin_jf_64kb_0079	Jokaisella on oikeus omistaa omaisuutta yksin tai yhdessä toisten kanssa.
+human_rights_un_fin_jf_64kb_0080	Keltään älköön mielivaltaisesti riistettäkö hänen omaisuuttaan.
+human_rights_un_fin_jf_64kb_0081	18.
+human_rights_un_fin_jf_64kb_0082	artikla.
+human_rights_un_fin_jf_64kb_0083	Jokaisella ihmisellä on ajatuksen, omantunnon ja uskonnon vapaus;
+human_rights_un_fin_jf_64kb_0084	tämä oikeus sisältää vapauden uskonnon tai vakaumuksen vaihtamiseen sekä uskonnon tai vakaumuksen julistamiseen yksin tai yhdessä toisten kanssa, sekä julkisesti että yksityisesti, opettamalla sekä harjoittamalla hartautta ja uskonnollisia menoja.
+human_rights_un_fin_jf_64kb_0085	19.
+human_rights_un_fin_jf_64kb_0086	artikla.
+human_rights_un_fin_jf_64kb_0087	Jokaisella on oikeus mielipiteen- ja sananvapauteen;
+human_rights_un_fin_jf_64kb_0088	tähän sisältyy oikeus häiritsemättä pitää mielipiteensä sekä oikeus rajoista riippumatta hankkia, vastaanottaa ja levittää tietoja kaikkien tiedotusvälineiden kautta.
+human_rights_un_fin_jf_64kb_0089	20.
+human_rights_un_fin_jf_64kb_0090	artikla.
+human_rights_un_fin_jf_64kb_0091	Kaikilla on oikeus rauhanomaiseen kokoontumis- ja yhdistymisvapauteen.
+human_rights_un_fin_jf_64kb_0092	Ketään ei saa pakottaa liittymään mihinkään yhdistykseen.
+human_rights_un_fin_jf_64kb_0093	21.
+human_rights_un_fin_jf_64kb_0094	artikla.
+human_rights_un_fin_jf_64kb_0095	Jokaisella on oikeus osallistua maansa hallitsemiseen joko välittömästi tai vapaasti valittujen edustajien välityksellä.
+human_rights_un_fin_jf_64kb_0096	Jokaisella on yhtäläinen oikeus päästä maansa julkisiin toimiin.
+human_rights_un_fin_jf_64kb_0097	Kansan tahto on hallitusvallan perusta;
+human_rights_un_fin_jf_64kb_0098	tämä tahto on ilmaistava määräaikaisilla ja aidoilla vaaleilla, joissa kaikilla on yleinen ja yhtäläinen äänioikeus ja joissa äänestys on salainen tai muuta vaalivapauden turvaavaa menettelyä noudattava.
+human_rights_un_fin_jf_64kb_0099	22.
+human_rights_un_fin_jf_64kb_0100	artikla.
+human_rights_un_fin_jf_64kb_0101	Jokaisella on yhteiskunnan jäsenenä oikeus sosiaaliturvaan sekä oikeus kansallisten toimenpiteiden ja kansainvälisen yhteistyön kautta kunkin maan järjestelmä ja voimavarat huomioonottaen, nauttia hänen ihmisarvolleen ja hänen yksilöllisen olemuksensa vapaalle kehittymiselle välttämättömiä taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia.
+human_rights_un_fin_jf_64kb_0102	23.
+human_rights_un_fin_jf_64kb_0103	artikla.
+human_rights_un_fin_jf_64kb_0104	Jokaisella on oikeus työhön, työpaikan vapaaseen valintaan, oikeudenmukaisiin ja tyydyttäviin työehtoihin sekä suojaan työttömyyttä vastaan.
+human_rights_un_fin_jf_64kb_0105	Jokaisella on oikeus ilman minkäänlaista syrjintää samaan palkkaan samasta työstä.
+human_rights_un_fin_jf_64kb_0106	Jokaisella työtä tekevällä on oikeus kohtuulliseen ja riittävään palkkaan, joka turvaa hänelle ja hänen perheelleen ihmisarvon mukaisen toimeentulon ja jota tarpeen vaatiessa täydentävät muut sosiaalisen suojelun keinot.
+human_rights_un_fin_jf_64kb_0107	Jokaisella on oikeus perustaa ammattiyhdistyksiä ja liittyä niihin etujensa puolustamiseksi.
+human_rights_un_fin_jf_64kb_0108	24.
+human_rights_un_fin_jf_64kb_0109	artikla.
+human_rights_un_fin_jf_64kb_0110	Jokaisella on oikeus lepoon ja vapaa-aikaan, työajan järkevään rajoittamiseen sekä määräaikaisiin palkallisiin lomiin.
+human_rights_un_fin_jf_64kb_0111	25.
+human_rights_un_fin_jf_64kb_0112	artikla.
+human_rights_un_fin_jf_64kb_0113	Jokaisella on oikeus elintasoon, joka on riittävä turvaamaan hänen ja hänen perheensä terveyden ja hyvinvoinnin ravinnon, vaatetuksen, asunnon, lääkintähuollon ja välttämättömän yhteiskunnallisen huollon osalta.
+human_rights_un_fin_jf_64kb_0114	Jokaisella on myös oikeus turvaan työttömyyden, sairauden, tapaturman, leskeyden tai vanhuuden sekä muun hänen tahdostaan riippumatta tapahtuneen toimeentulon menetyksen varalta.
+human_rights_un_fin_jf_64kb_0115	Äideillä ja lapsilla on oikeus erityiseen huoltoon ja apuun.
+human_rights_un_fin_jf_64kb_0116	Kaikkien lasten, riippumatta siitä, ovatko he syntyneet avioliitossa tai sen ulkopuolella, tulee nauttia samaa yhteiskunnan suojaa.
+human_rights_un_fin_jf_64kb_0117	26.
+human_rights_un_fin_jf_64kb_0118	artikla.
+human_rights_un_fin_jf_64kb_0119	Jokaisella on oikeus saada opetusta.
+human_rights_un_fin_jf_64kb_0120	Opetuksen on oltava ainakin alkeis- ja perusopetuksen osalta maksutonta.
+human_rights_un_fin_jf_64kb_0121	Alkeisopetuksen on oltava pakollinen.
+human_rights_un_fin_jf_64kb_0122	Teknistä ja ammattiopetusta on oltava yleisesti saatavilla, ja korkeamman opetuksen on oltava avoinna yhtäläisesti kaikille heidän kykyjensä mukaan.
+human_rights_un_fin_jf_64kb_0123	Opetuksen on pyrittävä ihmisen persoonallisuuden täyteen kehittämiseen sekä ihmisoikeuksien ja perusvapauksien kunnioittamisen vahvistamiseen.
+human_rights_un_fin_jf_64kb_0124	Sen tulee edistää ymmärtämystä, suvaitsevaisuutta ja ystävyyttä kaikkien kansakuntien ja kaikkien rotu- ja uskontoryhmien kesken sekä pyrkiä edistämään Yhdistyneiden Kansakuntien toimintaa rauhan ylläpitämiseksi.
+human_rights_un_fin_jf_64kb_0125	Vanhemmilla on ensisijainen oikeus valita heidän lapsilleen annettavan opetuksen laatu.
+human_rights_un_fin_jf_64kb_0126	27.
+human_rights_un_fin_jf_64kb_0127	artikla.
+human_rights_un_fin_jf_64kb_0128	Jokaisella on oikeus vapaasti osallistua yhteiskunnan sivistyselämään, nauttia taiteista sekä päästä osalliseksi tieteen edistyksen mukanaan tuomista eduista.
+human_rights_un_fin_jf_64kb_0129	Jokaisella on oikeus niiden henkisten ja aineellisten etujen suojaamiseen, jotka johtuvat hänen luomastaan tieteellisestä, kirjallisesta tai taiteellisesta tuotannosta.
+human_rights_un_fin_jf_64kb_0130	28.
+human_rights_un_fin_jf_64kb_0131	artikla.
+human_rights_un_fin_jf_64kb_0132	Jokaisella on oikeus sellaiseen yhteiskunnalliseen ja kansainväliseen järjestykseen, jonka puitteissa tässä julistuksessa esitetyt oikeudet ja velvollisuudet voivat täysin toteutua.
+human_rights_un_fin_jf_64kb_0133	29.
+human_rights_un_fin_jf_64kb_0134	artikla.
+human_rights_un_fin_jf_64kb_0135	Jokaisella ihmisellä on velvollisuuksia yhteiskuntaa kohtaan, koska vain sen puitteissa hänen yksilöllisen olemuksensa vapaa ja täysi kehitys on mahdollinen.
+human_rights_un_fin_jf_64kb_0136	Käyttäessään oikeuksiaan ja nauttiessaan vapauksiaan kukaan ei ole muiden kuin sellaisten lailla säädettyjen rajoitusten alainen, joiden yksinomaisena tarkoituksena on turvata toisten oikeuksien ja vapauksien tunnustaminen ja kunnioittaminen sekä moraalin, julkisen järjestyksen ja yleisen hyvinvoinnin oikeutetut vaatimukset kansanvaltaisessa yhteiskunnassa.
+human_rights_un_fin_jf_64kb_0137	Näitä oikeuksia ja vapauksia ei missään tapauksessa saa käyttää vastoin Yhdistyneiden Kansakuntien päämääriä ja periaatteita.
+human_rights_un_fin_jf_64kb_0138	30.
 human_rights_un_fin_jf_64kb_0139	artikla.
-human_rights_un_fin_jf_64kb_0140	Älköön mielivaltaisesti puututtako kenenkään yksityiselämään, perheeseen, kotiintai kirjeenvaihtoon älköönkä loukattako kenenkään kunniaa ja mainetta.
-human_rights_un_fin_jf_64kb_0141	Jokaisella on oikeus lain suojaan sellaista puuttumista tai loukkausta vastaan.
-human_rights_un_fin_jf_64kb_0142	13.
-human_rights_un_fin_jf_64kb_0143	artikla.
-human_rights_un_fin_jf_64kb_0144	13.
-human_rights_un_fin_jf_64kb_0145	artikla.
-human_rights_un_fin_jf_64kb_0146	13.
-human_rights_un_fin_jf_64kb_0147	artikla.
-human_rights_un_fin_jf_64kb_0148	13.
-human_rights_un_fin_jf_64kb_0149	artikla.
-human_rights_un_fin_jf_64kb_0150	1.
-human_rights_un_fin_jf_64kb_0151	Jokaisella on oikeus liikkua vapaasti ja valita asuinpaikkansa kunkinvaltion sisällä.
-human_rights_un_fin_jf_64kb_0152	2.
-human_rights_un_fin_jf_64kb_0153	Jokaisella on oikeus lähteä maasta, myös omasta maastaan, ja palatamaahansa.
-human_rights_un_fin_jf_64kb_0154	14.
-human_rights_un_fin_jf_64kb_0155	artikla.
-human_rights_un_fin_jf_64kb_0156	14.
-human_rights_un_fin_jf_64kb_0157	artikla.
-human_rights_un_fin_jf_64kb_0158	14.
-human_rights_un_fin_jf_64kb_0159	artikla.
-human_rights_un_fin_jf_64kb_0160	14.
-human_rights_un_fin_jf_64kb_0161	artikla.
-human_rights_un_fin_jf_64kb_0162	1.
-human_rights_un_fin_jf_64kb_0163	Jokaisella vainon kohteeksi joutuneella on oikeus hakea ja nauttiaturvapaikkaa muissa maissa.
-human_rights_un_fin_jf_64kb_0164	2.
-human_rights_un_fin_jf_64kb_0165	Tähän oikeuteen ei voida vedota, kun on kysymys tosi epäpoliittisistarikoksista johtuvista syytteistä tai teoista, jotka ovat vastoin Yhdistyneiden
-human_rights_un_fin_jf_64kb_0166	Kansakuntien periaatteita ja päämääriä.
-human_rights_un_fin_jf_64kb_0167	15.
-human_rights_un_fin_jf_64kb_0168	artikla.
-human_rights_un_fin_jf_64kb_0169	15.
-human_rights_un_fin_jf_64kb_0170	artikla.
-human_rights_un_fin_jf_64kb_0171	15.
-human_rights_un_fin_jf_64kb_0172	artikla.
-human_rights_un_fin_jf_64kb_0173	15.
-human_rights_un_fin_jf_64kb_0174	artikla.
-human_rights_un_fin_jf_64kb_0175	1.
-human_rights_un_fin_jf_64kb_0176	Jokaisella on oikeus kansalaisuuteen.
-human_rights_un_fin_jf_64kb_0177	2.
-human_rights_un_fin_jf_64kb_0178	Keltään ei saa mielivaltaisesti riistää kansalaisuutta eikä evätä oikeuttakansalaisuuden vaihtamiseen.
-human_rights_un_fin_jf_64kb_0179	16.
-human_rights_un_fin_jf_64kb_0180	artikla.
-human_rights_un_fin_jf_64kb_0181	16.
-human_rights_un_fin_jf_64kb_0182	artikla.
-human_rights_un_fin_jf_64kb_0183	16.
-human_rights_un_fin_jf_64kb_0184	artikla.
-human_rights_un_fin_jf_64kb_0185	16.
-human_rights_un_fin_jf_64kb_0186	artikla.
-human_rights_un_fin_jf_64kb_0187	1.
-human_rights_un_fin_jf_64kb_0188	Täysi-ikäisillä miehillä ja naisilla on oikeus solmia avioliitto ja perustaaperhe ilman minkäänlaisia rodusta, kansalaisuudesta tai uskonnostajohtuvia rajoituksia.
-human_rights_un_fin_jf_64kb_0189	Heillä on yhtäläiset oikeudet avioliittoon, avioliitonaikana ja sen purkamisen jälkeen.
-human_rights_un_fin_jf_64kb_0190	2.
-human_rights_un_fin_jf_64kb_0191	Avioliiton solmiminen tapahtukoon vain tulevien aviopuolisoiden vapaastaja täydestä suostumuksesta.
-human_rights_un_fin_jf_64kb_0192	3.
-human_rights_un_fin_jf_64kb_0193	Perhe on yhteiskunnan luonnollinen ja perustava ydinosa ja sillä on oikeusyhteiskunnan ja valtion suojaan.
-human_rights_un_fin_jf_64kb_0194	17.
-human_rights_un_fin_jf_64kb_0195	artikla.
-human_rights_un_fin_jf_64kb_0196	17.
-human_rights_un_fin_jf_64kb_0197	artikla.
-human_rights_un_fin_jf_64kb_0198	17.
-human_rights_un_fin_jf_64kb_0199	artikla.
-human_rights_un_fin_jf_64kb_0200	17.
-human_rights_un_fin_jf_64kb_0201	artikla.
-human_rights_un_fin_jf_64kb_0202	1.
-human_rights_un_fin_jf_64kb_0203	Jokaisella on oikeus omistaa omaisuutta yksin tai yhdessä toisten kanssa.
-human_rights_un_fin_jf_64kb_0204	2.
-human_rights_un_fin_jf_64kb_0205	Keltään älköön mielivaltaisesti riistettäkö hänen omaisuuttaan.
-human_rights_un_fin_jf_64kb_0206	18.
-human_rights_un_fin_jf_64kb_0207	artikla.
-human_rights_un_fin_jf_64kb_0208	18.
-human_rights_un_fin_jf_64kb_0209	artikla.
-human_rights_un_fin_jf_64kb_0210	18.
-human_rights_un_fin_jf_64kb_0211	artikla.
-human_rights_un_fin_jf_64kb_0212	18.
-human_rights_un_fin_jf_64kb_0213	artikla.
-human_rights_un_fin_jf_64kb_0214	Jokaisella ihmisellä on ajatuksen, omantunnon ja uskonnon vapaus;
-human_rights_un_fin_jf_64kb_0215	tämä oikeussisältää vapauden uskonnon tai vakaumuksen vaihtamiseen sekä uskonnon taivakaumuksen julistamiseen yksin tai yhdessä toisten kanssa, sekä julkisesti ettäyksityisesti, opettamalla sekä harjoittamalla hartautta ja uskonnollisia menoja.
-human_rights_un_fin_jf_64kb_0216	19.
-human_rights_un_fin_jf_64kb_0217	artikla.
-human_rights_un_fin_jf_64kb_0218	19.
-human_rights_un_fin_jf_64kb_0219	artikla.
-human_rights_un_fin_jf_64kb_0220	19.
-human_rights_un_fin_jf_64kb_0221	artikla.
-human_rights_un_fin_jf_64kb_0222	19.
-human_rights_un_fin_jf_64kb_0223	artikla.
-human_rights_un_fin_jf_64kb_0224	Jokaisella on oikeus mielipiteen- ja sananvapauteen;
-human_rights_un_fin_jf_64kb_0225	tähän sisältyy oikeushäiritsemättä pitää mielipiteensä sekä oikeus rajoista riippumatta hankkia,vastaanottaa ja levittää tietoja kaikkien tiedotusvälineiden kautta.
-human_rights_un_fin_jf_64kb_0226	20.
-human_rights_un_fin_jf_64kb_0227	artikla.
-human_rights_un_fin_jf_64kb_0228	20.
-human_rights_un_fin_jf_64kb_0229	artikla.
-human_rights_un_fin_jf_64kb_0230	20.
-human_rights_un_fin_jf_64kb_0231	artikla.
-human_rights_un_fin_jf_64kb_0232	20.
-human_rights_un_fin_jf_64kb_0233	artikla.
-human_rights_un_fin_jf_64kb_0234	1.
-human_rights_un_fin_jf_64kb_0235	Kaikilla on oikeus rauhanomaiseen kokoontumis- ja yhdistymisvapauteen.
-human_rights_un_fin_jf_64kb_0236	2.
-human_rights_un_fin_jf_64kb_0237	Ketään ei saa pakottaa liittymään mihinkään yhdistykseen.
-human_rights_un_fin_jf_64kb_0238	21.
-human_rights_un_fin_jf_64kb_0239	artikla
-human_rights_un_fin_jf_64kb_0240	21.
-human_rights_un_fin_jf_64kb_0241	artikla....
-human_rights_un_fin_jf_64kb_0242	21.
-human_rights_un_fin_jf_64kb_0243	artikla
-human_rights_un_fin_jf_64kb_0244	21.
-human_rights_un_fin_jf_64kb_0245	artikla
-human_rights_un_fin_jf_64kb_0246	1.
-human_rights_un_fin_jf_64kb_0247	Jokaisella on oikeus osallistua maansa hallitsemiseen joko välittömästi taivapaasti valittujen edustajien välityksellä.
-human_rights_un_fin_jf_64kb_0248	2.
-human_rights_un_fin_jf_64kb_0249	Jokaisella on yhtäläinen oikeus päästä maansa julkisiin toimiin.
-human_rights_un_fin_jf_64kb_0250	3.
-human_rights_un_fin_jf_64kb_0251	Kansan tahto on hallitusvallan perusta;
-human_rights_un_fin_jf_64kb_0252	tämä tahto on ilmaistavamääräaikaisilla ja aidoilla vaaleilla, joissa kaikilla on yleinen ja yhtäläinenäänioikeus ja joissa äänestys on salainen tai muuta vaalivapaudenturvaavaa menettelyä noudattava.
-human_rights_un_fin_jf_64kb_0253	22.
-human_rights_un_fin_jf_64kb_0254	artikla.
-human_rights_un_fin_jf_64kb_0255	22.
-human_rights_un_fin_jf_64kb_0256	artikla.
-human_rights_un_fin_jf_64kb_0257	22.
-human_rights_un_fin_jf_64kb_0258	artikla.
-human_rights_un_fin_jf_64kb_0259	22.
-human_rights_un_fin_jf_64kb_0260	artikla.
-human_rights_un_fin_jf_64kb_0261	Jokaisella on yhteiskunnan jäsenenä oikeus sosiaaliturvaan sekä oikeuskansallisten toimenpiteiden ja kansainvälisen yhteistyön kautta kunkin maanjärjestelmä ja voimavarat huomioonottaen, nauttia hänen ihmisarvolleen ja hänenyksilöllisen olemuksensa vapaalle kehittymiselle välttämättömiä taloudellisia,sosiaalisia ja sivistyksellisiä oikeuksia.
-human_rights_un_fin_jf_64kb_0262	23.
-human_rights_un_fin_jf_64kb_0263	artikla.
-human_rights_un_fin_jf_64kb_0264	23.
-human_rights_un_fin_jf_64kb_0265	artikla.
-human_rights_un_fin_jf_64kb_0266	23.
-human_rights_un_fin_jf_64kb_0267	artikla.
-human_rights_un_fin_jf_64kb_0268	23.
-human_rights_un_fin_jf_64kb_0269	artikla.
-human_rights_un_fin_jf_64kb_0270	1.
-human_rights_un_fin_jf_64kb_0271	Jokaisella on oikeus työhön, työpaikan vapaaseen valintaan,oikeudenmukaisiin ja tyydyttäviin työehtoihin sekä suojaan työttömyyttävastaan.
-human_rights_un_fin_jf_64kb_0272	2.
-human_rights_un_fin_jf_64kb_0273	Jokaisella on oikeus ilman minkäänlaista syrjintää samaan palkkaansamasta työstä.
-human_rights_un_fin_jf_64kb_0274	3.
-human_rights_un_fin_jf_64kb_0275	Jokaisella työtä tekevällä on oikeus kohtuulliseen ja riittävään palkkaan,joka turvaa hänelle ja hänen perheelleen ihmisarvon mukaisentoimeentulon ja jota tarpeen vaatiessa täydentävät muut sosiaalisensuojelun keinot.
-human_rights_un_fin_jf_64kb_0276	4.
-human_rights_un_fin_jf_64kb_0277	Jokaisella on oikeus perustaa ammattiyhdistyksiä ja liittyä niihin etujensapuolustamiseksi.
-human_rights_un_fin_jf_64kb_0278	24.
-human_rights_un_fin_jf_64kb_0279	artikla.
-human_rights_un_fin_jf_64kb_0280	24.
-human_rights_un_fin_jf_64kb_0281	artikla.
-human_rights_un_fin_jf_64kb_0282	24.
-human_rights_un_fin_jf_64kb_0283	artikla.
-human_rights_un_fin_jf_64kb_0284	24.
-human_rights_un_fin_jf_64kb_0285	artikla.
-human_rights_un_fin_jf_64kb_0286	Jokaisella on oikeus lepoon ja vapaa-aikaan, työajan järkevään rajoittamiseensekä määräaikaisiin palkallisiin lomiin.
-human_rights_un_fin_jf_64kb_0287	22225.
-human_rights_un_fin_jf_64kb_0288	artikla.
-human_rights_un_fin_jf_64kb_0289	5.
-human_rights_un_fin_jf_64kb_0290	artikla.
-human_rights_un_fin_jf_64kb_0291	5.
-human_rights_un_fin_jf_64kb_0292	artikla.
-human_rights_un_fin_jf_64kb_0293	5.
-human_rights_un_fin_jf_64kb_0294	artikla.
-human_rights_un_fin_jf_64kb_0295	1.
-human_rights_un_fin_jf_64kb_0296	Jokaisella on oikeus elintasoon, joka on riittävä turvaamaan hänen jahänen perheensä terveyden ja hyvinvoinnin ravinnon, vaatetuksen,asunnon, lääkintähuollon ja välttämättömän yhteiskunnallisen huollonosalta.
-human_rights_un_fin_jf_64kb_0297	Jokaisella on myös oikeus turvaan työttömyyden, sairauden,tapaturman, leskeyden tai vanhuuden sekä muun hänen tahdostaanriippumatta tapahtuneen toimeentulon menetyksen varalta.
-human_rights_un_fin_jf_64kb_0298	2.
-human_rights_un_fin_jf_64kb_0299	Äideillä ja lapsilla on oikeus erityiseen huoltoon ja apuun.
-human_rights_un_fin_jf_64kb_0300	Kaikkien lasten,riippumatta siitä, ovatko he syntyneet avioliitossa tai sen ulkopuolella,tulee nauttia samaa yhteiskunnan suojaa.
-human_rights_un_fin_jf_64kb_0301	26.
-human_rights_un_fin_jf_64kb_0302	artikla.
-human_rights_un_fin_jf_64kb_0303	26.
-human_rights_un_fin_jf_64kb_0304	artikla.
-human_rights_un_fin_jf_64kb_0305	26.
-human_rights_un_fin_jf_64kb_0306	artikla.
-human_rights_un_fin_jf_64kb_0307	26.
-human_rights_un_fin_jf_64kb_0308	artikla.
-human_rights_un_fin_jf_64kb_0309	1.
-human_rights_un_fin_jf_64kb_0310	Jokaisella on oikeus saada opetusta.
-human_rights_un_fin_jf_64kb_0311	Opetuksen on oltava ainakin alkeis-ja perusopetuksen osalta maksutonta.
-human_rights_un_fin_jf_64kb_0312	Alkeisopetuksen on oltavapakollinen.
-human_rights_un_fin_jf_64kb_0313	Teknistä ja ammattiopetusta on oltava yleisesti saatavilla, jakorkeamman opetuksen on oltava avoinna yhtäläisesti kaikille heidänkykyjensä mukaan.
-human_rights_un_fin_jf_64kb_0314	2.
-human_rights_un_fin_jf_64kb_0315	Opetuksen on pyrittävä ihmisen persoonallisuuden täyteen kehittämiseensekä ihmisoikeuksien ja perusvapauksien kunnioittamisenvahvistamiseen.
-human_rights_un_fin_jf_64kb_0316	Sen tulee edistää ymmärtämystä, suvaitsevaisuutta jaystävyyttä kaikkien kansakuntien ja kaikkien rotu- ja uskontoryhmienkesken sekä pyrkiä edistämään Yhdistyneiden Kansakuntien toimintaarauhan ylläpitämiseksi.
-human_rights_un_fin_jf_64kb_0317	3.
-human_rights_un_fin_jf_64kb_0318	Vanhemmilla on ensisijainen oikeus valita heidän lapsilleen annettavanopetuksen laatu.
-human_rights_un_fin_jf_64kb_0319	27.
-human_rights_un_fin_jf_64kb_0320	artikla.
-human_rights_un_fin_jf_64kb_0321	27.
-human_rights_un_fin_jf_64kb_0322	artikla.
-human_rights_un_fin_jf_64kb_0323	27.
-human_rights_un_fin_jf_64kb_0324	artikla.
-human_rights_un_fin_jf_64kb_0325	27.
-human_rights_un_fin_jf_64kb_0326	artikla.
-human_rights_un_fin_jf_64kb_0327	1.
-human_rights_un_fin_jf_64kb_0328	Jokaisella on oikeus vapaasti osallistua yhteiskunnan sivistyselämään,nauttia taiteista sekä päästä osalliseksi tieteen edistyksen mukanaantuomista eduista.
-human_rights_un_fin_jf_64kb_0329	2.
-human_rights_un_fin_jf_64kb_0330	Jokaisella on oikeus niiden henkisten ja aineellisten etujen suojaamiseen,jotka johtuvat hänen luomastaan tieteellisestä, kirjallisesta tai taiteellisestatuotannosta.
-human_rights_un_fin_jf_64kb_0331	28.
-human_rights_un_fin_jf_64kb_0332	artikla.
-human_rights_un_fin_jf_64kb_0333	28.
-human_rights_un_fin_jf_64kb_0334	artikla.
-human_rights_un_fin_jf_64kb_0335	28.
-human_rights_un_fin_jf_64kb_0336	artikla.
-human_rights_un_fin_jf_64kb_0337	28.
-human_rights_un_fin_jf_64kb_0338	artikla.
-human_rights_un_fin_jf_64kb_0339	Jokaisella on oikeus sellaiseen yhteiskunnalliseen ja kansainväliseenjärjestykseen, jonka puitteissa tässä julistuksessa esitetyt oikeudet javelvollisuudet voivat täysin toteutua.
-human_rights_un_fin_jf_64kb_0340	29.
-human_rights_un_fin_jf_64kb_0341	artikla.
-human_rights_un_fin_jf_64kb_0342	29.
-human_rights_un_fin_jf_64kb_0343	artikla.
-human_rights_un_fin_jf_64kb_0344	29.
-human_rights_un_fin_jf_64kb_0345	artikla.
-human_rights_un_fin_jf_64kb_0346	29.
-human_rights_un_fin_jf_64kb_0347	artikla.
-human_rights_un_fin_jf_64kb_0348	1.
-human_rights_un_fin_jf_64kb_0349	Jokaisella ihmisellä on velvollisuuksia yhteiskuntaa kohtaan, koska vainsen puitteissa hänen yksilöllisen olemuksensa vapaa ja täysi kehitys onmahdollinen.
-human_rights_un_fin_jf_64kb_0350	2.
-human_rights_un_fin_jf_64kb_0351	Käyttäessään oikeuksiaan ja nauttiessaan vapauksiaan kukaan ei olemuiden kuin sellaisten lailla säädettyjen rajoitusten alainen, joidenyksinomaisena tarkoituksena on turvata toisten oikeuksien ja vapauksientunnustaminen ja kunnioittaminen sekä moraalin, julkisen järjestyksen jayleisen hyvinvoinnin oikeutetut vaatimukset kansanvaltaisessayhteiskunnassa.
-human_rights_un_fin_jf_64kb_0352	3.
-human_rights_un_fin_jf_64kb_0353	Näitä oikeuksia ja vapauksia ei missään tapauksessa saa käyttää vastoin
-human_rights_un_fin_jf_64kb_0354	Yhdistyneiden Kansakuntien päämääriä ja periaatteita.
-human_rights_un_fin_jf_64kb_0355	30.
-human_rights_un_fin_jf_64kb_0356	artikla.
-human_rights_un_fin_jf_64kb_0357	30.
-human_rights_un_fin_jf_64kb_0358	artikla.
-human_rights_un_fin_jf_64kb_0359	30.
-human_rights_un_fin_jf_64kb_0360	artikla.
-human_rights_un_fin_jf_64kb_0361	30.
-human_rights_un_fin_jf_64kb_0362	artikla.
-human_rights_un_fin_jf_64kb_0363	Mitään tässä julistuksessa ei saa tulkita niin, että valtio, ryhmä tai yksityinenhenkilö voi sen perusteella katsoa oikeudekseen tehdä sellaista, mikä voisihävittää tässä määriteltyjä oikeuksia ja vapauksia.
+human_rights_un_fin_jf_64kb_0140	Mitään tässä julistuksessa ei saa tulkita niin, että valtio, ryhmä tai yksityinen henkilö voi sen perusteella katsoa oikeudekseen tehdä sellaista, mikä voisi hävittää tässä määriteltyjä oikeuksia ja vapauksia.

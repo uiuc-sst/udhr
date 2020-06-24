@@ -67,7 +67,7 @@ human_rights_un_min_sd_64kb	  min
 human_rights_un_mli_rh_64kb	  zlm
 human_rights_un_nno_be_64kb	  nno
 human_rights_un_oc_am_64kb	  oci
-human_rights_un_ori_ra_64kb	  ori
+#human_rights_un_ori_ra_64kb	  ori
 human_rights_un_pl_km_64kb	  pol
 #human_rights_un_plain_drb_64kb	  eng-GB-plain
 human_rights_un_pmp_dm_64kb	  pam

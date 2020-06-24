@@ -1,169 +1,104 @@
-human_rights_un_inz_mb_64kb_0001	Az Emberi Jogok Egyetemes Nyilatkozata
-human_rights_un_inz_mb_64kb_0002	Bevezető
-human_rights_un_inz_mb_64kb_0003	Tekintettel arra, hogy az emberiség családja minden egyes tagja méltóságának, valamintegyenlő és elidegeníthetetlen jogainak elismerése alkotja a szabadság, az igazság és abéke alapját a világon,
-human_rights_un_inz_mb_64kb_0004	Tekintettel arra, hogy az emberi jogok el nem ismerése és semmibevevése az emberiséglelkiismeretét fellázító barbár cselekményekhez vezetett, és hogy az ember legfőbb vágyaegy olyan világ eljövetele, amelyben az elnyomástól, valamint a nyomortól megszabadultemberi lények szava és meggyőződése szabad lesz,
-human_rights_un_inz_mb_64kb_0005	Tekintettel annak fontosságára, hogy az emberi jogokat a jog uralma védelmezze, nehogyaz ember végső szükségében a zsarnokság és az elnyomás elleni lázadásra kényszerüljön,
-human_rights_un_inz_mb_64kb_0006	Tekintettel arra, hogy igen lényeges a nemzetek közötti baráti kapcsolatok kifejeződésénekelőmozdítása,
-human_rights_un_inz_mb_64kb_0007	Tekintettel arra, hogy az Alapokmányban az Egyesült Nemzetek népei újból hitet tettek azalapvető emberi jogok, az emberi személyiség méltósága és értéke, a férfiak és nőkegyenjogúsága mellett, valamint kinyilvánították azt az elhatározásukat, hogy elősegítik aszociális haladást és nagyobb szabadság mellett jobb életfeltételeket valósítanak meg,
-human_rights_un_inz_mb_64kb_0008	Tekintettel arra, hogy a tagállamok kötelezték magukat arra, hogy az Egyesült Nemzetek
-human_rights_un_inz_mb_64kb_0009	Szervezetével együttműködve biztosítják az emberi jogok és alapvető szabadságokáltalános és tényleges tiszteletbentartását,
-human_rights_un_inz_mb_64kb_0010	Tekintettel arra, hogy a jogok és szabadságok mibenléte tekintetében közös felfogáskialakításának a legnagyobb jelentősége van az említett kötelezettség maradéktalanteljesítésének szempontjábóla közgyűlés kinyilvánítja  az emberi jogok egyetemleges nyilatkozatátmint azt a közös eszményt, amelynek elérésére minden népnek ésminden nemzetnek törekednie kell abból a célból, hogy minden személyés a társadalom minden szerve, állandóan szem előtt tartva a jelen
-human_rights_un_inz_mb_64kb_0011	Nyilatkozatot, oktatás és nevelés útján előmozdítsa e jogok ésszabadságok tiszteletbentartásának kifejlesztését, valamint azoknakfokozatosan megvalósuló hazai és nemzetközi jogszabályok útján történőáltalános és tényleges alkalmazását és elismerését mind a tagállamoknépei között, mind pedig a joghatóságuk alatt álló területek népei között.
-human_rights_un_inz_mb_64kb_0012	1.
-human_rights_un_inz_mb_64kb_0013	cikk
-human_rights_un_inz_mb_64kb_0014	Minden.
-human_rights_un_inz_mb_64kb_0015	emberi lény szabadon születik és egyenlő méltósága és joga van.
-human_rights_un_inz_mb_64kb_0016	Az emberek,ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogyviseltessenek.
-human_rights_un_inz_mb_64kb_0017	2.
-human_rights_un_inz_mb_64kb_0018	cikk
-human_rights_un_inz_mb_64kb_0019	Mindenki, bármely megkülönböztetésre, nevezetesen fajra, színre, nemre, nyelvre, vallásra,politikai vagy bármely más véleményre, nemzeti vagy társadalmi eredetre, vagyonra,születésre, vagy bármely más körülményre való tekintet nélkül hivatkozhat a jelen
-human_rights_un_inz_mb_64kb_0020	Nyilatkozatban kinyilvánított összes jogokra és szabadságokra.
-human_rights_un_inz_mb_64kb_0021	Ezenfelül nem lehet semmiféle megkülönböztetést tenni annak az országnak, vagyterületnek politikai, jogi vagy nemzetközi helyzete alapján sem, amelynek a személyállampolgára, aszerint, hogy az illető ország vagy terület független, gyámság alatt áll, nemautonóm vagy szuverenitása bármely vonatkozásban korlátozott.
-human_rights_un_inz_mb_64kb_0022	3.
-human_rights_un_inz_mb_64kb_0023	cikk
-human_rights_un_inz_mb_64kb_0024	Minden személynek joga van az élethez, a szabadsághoz és a személyi biztonsághoz.
-human_rights_un_inz_mb_64kb_0025	4.
-human_rights_un_inz_mb_64kb_0026	cikk
-human_rights_un_inz_mb_64kb_0027	Senkit sem lehet rabszolgaságban, vagy szolgaságban tartani, a rabszolgaság és arabszolgakereskedés minden alakja tilos.
-human_rights_un_inz_mb_64kb_0028	5.
-human_rights_un_inz_mb_64kb_0029	cikk
-human_rights_un_inz_mb_64kb_0030	Senkit sem lehet kínvallatásnak, avagy kegyetlen, embertelen vagy lealacsonyítóbüntetésnek vagy bánásmódnak alávetni.
-human_rights_un_inz_mb_64kb_0031	6.
-human_rights_un_inz_mb_64kb_0032	cikk
-human_rights_un_inz_mb_64kb_0033	Mindenkinek joga van ahhoz, hogy jogalanyiságát bárhol elismerjék.
-human_rights_un_inz_mb_64kb_0034	7.
-human_rights_un_inz_mb_64kb_0035	cikk
-human_rights_un_inz_mb_64kb_0036	A törvény előtt mindenki egyenlő és minden megkülönböztetés nélkül joga van a törvényegyenlő védelméhez.
-human_rights_un_inz_mb_64kb_0037	Mindenkinek joga van egyenlő védelemhez a jelen Nyilatkozatot sértőminden megkülönböztetéssel és minden ilyen megkülönböztetésre irányuló felbujtássalszemben.
-human_rights_un_inz_mb_64kb_0038	8.
-human_rights_un_inz_mb_64kb_0039	cikk
-human_rights_un_inz_mb_64kb_0040	Minden személynek joga van az alkotmányban vagy a törvényben részére biztosítottalapvető jogokat sértő eljárások ellen a hazai bíróságokhoz tényleges jogorvoslatértfolyamodni.
-human_rights_un_inz_mb_64kb_0041	9.
-human_rights_un_inz_mb_64kb_0042	cikk
-human_rights_un_inz_mb_64kb_0043	Senkit sem lehet önkényesen letartóztatni, őrizetbe venni vagy száműzni.
-human_rights_un_inz_mb_64kb_0044	10.
-human_rights_un_inz_mb_64kb_0045	cikk
-human_rights_un_inz_mb_64kb_0046	Minden személynek teljesen egyenlő joga van arra, hogy ügyét független és pártatlanbíróság méltányosan és nyilvánosan tárgyalja, s ez határozzon  egyrészt jogai éskőtelezettségei felől, másrészt minden ellene emelt bűnügyi vád megalapozottsága felől.
-human_rights_un_inz_mb_64kb_0047	11.
-human_rights_un_inz_mb_64kb_0048	cikk
-human_rights_un_inz_mb_64kb_0049	1.
-human_rights_un_inz_mb_64kb_0050	Minden büntetendő cselekménnyel vádolt személyt ártatlannak kell vélelmeznimindaddig, amíg bűnősségét nyilvánosan lefolytatott perben, a védelméhez szükségesvalamennyi biztosíték mellett, törvényesen megállapítják.
-human_rights_un_inz_mb_64kb_0051	2.
-human_rights_un_inz_mb_64kb_0052	Senkit sem szabad elítélni oly cselekményért vagy mulasztásért, amely elkövetésepillanatában a hazai jog vagy a nemzetközi jog szerint nem volt büntetendő cselekmény.
-human_rights_un_inz_mb_64kb_0053	Ugyancsak nem szabad súlyosabb büntetést kiszabni, mint amely a büntetendőcselekmény elkövetése pillanatában volt alkalmazható.
-human_rights_un_inz_mb_64kb_0054	12.
-human_rights_un_inz_mb_64kb_0055	cikk
-human_rights_un_inz_mb_64kb_0056	Senkinek magánéletébe, családi ügyeibe, lakóhelye megválasztásába vagy levelezésébenem szabad önkényesen beavatkozni, sem pedig becsületében vagy jó hírnevébenmegsérteni.
-human_rights_un_inz_mb_64kb_0057	Minden személynek joga van az ilyen beavatkozásokkal vagy sértésekkelszemben a törvény védelméhez.
-human_rights_un_inz_mb_64kb_0058	13.
-human_rights_un_inz_mb_64kb_0059	cikk
-human_rights_un_inz_mb_64kb_0060	1.
-human_rights_un_inz_mb_64kb_0061	Az államon belül minden személynek joga van szabadon mozogni és lakóhelyétszabadon megválasztani.
-human_rights_un_inz_mb_64kb_0062	2.
-human_rights_un_inz_mb_64kb_0063	Minden személynek joga van minden országot, ideértve saját hazáját is, elhagyni,valamint saját hazájába visszatérni.
-human_rights_un_inz_mb_64kb_0064	14.
-human_rights_un_inz_mb_64kb_0065	cikk
-human_rights_un_inz_mb_64kb_0066	1.
-human_rights_un_inz_mb_64kb_0067	Minden személynek joga van az üldözés elől más országban menedéket keresni és amás ország nyújtotta menedéket élvezni.
-human_rights_un_inz_mb_64kb_0068	2.
-human_rights_un_inz_mb_64kb_0069	Erre a jogra nem lehet hivatkozni közönséges bűncselekmény miatti.
-human_rights_un_inz_mb_64kb_0070	kellőképpenmegalapozott üldözés, sem pedig az Egyesült Nemzetek céljaival és elveivel ellentétestevékenység esetében.
-human_rights_un_inz_mb_64kb_0071	15.
-human_rights_un_inz_mb_64kb_0072	cikk
-human_rights_un_inz_mb_64kb_0073	1.
-human_rights_un_inz_mb_64kb_0074	Minden személynek joga van valamely állampolgársághoz.
-human_rights_un_inz_mb_64kb_0075	2.
-human_rights_un_inz_mb_64kb_0076	Senkit sem lehet sem állampolgárságától, sem állampolgársága megváltoztatásánakjogától önkényesen megfosztani.
-human_rights_un_inz_mb_64kb_0077	16.
-human_rights_un_inz_mb_64kb_0078	cikk
-human_rights_un_inz_mb_64kb_0079	1.
-human_rights_un_inz_mb_64kb_0080	Mind a férfinak, mind a nőnek a házasságra érett kor elérésétől kezdve joga van fajon,nemzetiségen vagy valláson alapuló korlátozás nélkül házasságot kötni és családotalapítani.
-human_rights_un_inz_mb_64kb_0081	A házasság tekintetében a férfinak és a nőnek mind a házasság tartama alatt,mind a házasság felbontása tekintetében egyenlő jogai vannak.
-human_rights_un_inz_mb_64kb_0082	2.
-human_rights_un_inz_mb_64kb_0083	Házasságot csak a jövendő házastársak szabad és teljes beleegyezésével lehet kötni.
-human_rights_un_inz_mb_64kb_0084	3.
-human_rights_un_inz_mb_64kb_0085	A család a társadalom természetes és alapvető alkotó eleme és joga van a társadalom,valamint az állam védelmére.
-human_rights_un_inz_mb_64kb_0086	17.
-human_rights_un_inz_mb_64kb_0087	cikk
-human_rights_un_inz_mb_64kb_0088	1.
-human_rights_un_inz_mb_64kb_0089	Minden személynek, mind egyénileg, mind másokkal együttesen joga van a tulajdonhoz.
-human_rights_un_inz_mb_64kb_0090	2.
-human_rights_un_inz_mb_64kb_0091	Senkit sem lehet tulajdonától önkényesen megfosztani.
-human_rights_un_inz_mb_64kb_0092	18.
-human_rights_un_inz_mb_64kb_0093	cikk
-human_rights_un_inz_mb_64kb_0094	Minden személynek joga van a gondolat, a lelkiismeret és a vallás szabadságához, ez a jogmagában foglalja a vallás és a meggyőződés megváltoztatásának szabadságát, valamint avallásnak vagy a meggyőződésnek mind egyénileg, mind együttesen, mind a nyilvánosságelőtt, mind a magánéletben oktatás, gyakorlás és szertartások végzése útján valókifejezésre juttatásának jogát.
-human_rights_un_inz_mb_64kb_0095	19.
-human_rights_un_inz_mb_64kb_0096	cikk
-human_rights_un_inz_mb_64kb_0097	Minden személynek joga van a vélemény és a kifejezés szabadságához, amely magábanfoglalja azt a jogot, hogy véleménye miatt ne szenvedjen zaklatást és hogy határokra valótekintet nélkül kutathasson, átvihessen és terjeszthessen híreket és eszméket bármilyenkifejezési módon.
-human_rights_un_inz_mb_64kb_0098	20.
-human_rights_un_inz_mb_64kb_0099	cikk
-human_rights_un_inz_mb_64kb_0100	1.
-human_rights_un_inz_mb_64kb_0101	Minden személynek joga van békés célú gyülekezési és egyesülési szabadsághoz.
-human_rights_un_inz_mb_64kb_0102	2.
-human_rights_un_inz_mb_64kb_0103	Senkit sem lehet valamely egyesületbe való belépésre kőtelezni.
-human_rights_un_inz_mb_64kb_0104	21.
-human_rights_un_inz_mb_64kb_0105	cikk
-human_rights_un_inz_mb_64kb_0106	1.
-human_rights_un_inz_mb_64kb_0107	Minden személynek joga van a hazája közügyeinek igazgatásában akár közvetlenül, akárszabadon választott képviselői útján való részvételhez.
-human_rights_un_inz_mb_64kb_0108	2.
-human_rights_un_inz_mb_64kb_0109	Minden személynek egyenlő feltételek mellett joga van saját hazájában közszolgálatiállásokra való alkalmazásához.
-human_rights_un_inz_mb_64kb_0110	3.
-human_rights_un_inz_mb_64kb_0111	A közhatalom tekintélyének alapja a nép akarata;
-human_rights_un_inz_mb_64kb_0112	ez az akarat egyenlő szavazati jog éstitkos szavazás vagy a szavazás szabadságát ezzel egyenértékűen biztosító eljárás alapjánidőszakonként tartandó tisztességes választáson kell hogy kifejezésre jusson.
-human_rights_un_inz_mb_64kb_0113	22.
-human_rights_un_inz_mb_64kb_0114	cikk
-human_rights_un_inz_mb_64kb_0115	Minden személynek mint a társadalom tagjának joga van a szociális biztonsághoz;
-human_rights_un_inz_mb_64kb_0116	mindenszemélynek ugyancsak igénye van arra, hogy -az államok erőfeszítései és a nemzetköziegyüttműködés eredményeképpen és számotvetve az egyes országok szervezetével és gazdasági erőforrásaival- a méltóságához ésszemélyiségének szabadon való kifejlődéséhez szükséges gazdasági, szociális éskulturális jogait kielégíthesse.
-human_rights_un_inz_mb_64kb_0117	23.
-human_rights_un_inz_mb_64kb_0118	cikk
-human_rights_un_inz_mb_64kb_0119	1.
-human_rights_un_inz_mb_64kb_0120	Minden személynek joga van a munkához, a munka szabad megválasztásához, améltányos és kielégítő munkafeltételekhez és a munkanélküliség elleni védelemhez.
-human_rights_un_inz_mb_64kb_0121	2.
-human_rights_un_inz_mb_64kb_0122	Az egyenlő munkáért mindenkinek, bármilyen megkülönböztetés nélkül egyenlő bérhezvan joga.
-human_rights_un_inz_mb_64kb_0123	3.
-human_rights_un_inz_mb_64kb_0124	Mindenkinek, aki dolgozik, olyan méltányos és kielégítő fizetéshez van joga, amelyszámára és családja számára az emberi méltóságnak megfelelő létet biztosít és amelyetmegfelelő esetben a szociális védelem összes egyéb eszközei egészítenek ki.
-human_rights_un_inz_mb_64kb_0125	4.
-human_rights_un_inz_mb_64kb_0126	Minden személynek joga van a pihenéshez, a szabad időhöz, nevezetesen a munkaidőtartamának ésszerű korlátozásához, valamint az időszakonkénti fizetett szabadsághoz.
-human_rights_un_inz_mb_64kb_0127	24.
-human_rights_un_inz_mb_64kb_0128	cikk
-human_rights_un_inz_mb_64kb_0129	Minden személynek joga van a pihenésre és szabadidőre, beleértve a munkaidő ésszerűkorlátozását és az időszakos fizetett szabadságot.
-human_rights_un_inz_mb_64kb_0130	25.
-human_rights_un_inz_mb_64kb_0131	cikk
-human_rights_un_inz_mb_64kb_0132	1.
-human_rights_un_inz_mb_64kb_0133	Minden személynek joga van saját maga és családja egészségének és jóléténekbiztosítására alkalmas életszínvonalhoz, nevezetesen élelemhez, ruházathoz, lakáshoz,orvosi gondozáshoz, valamint a szükséges szociális szolgáltatásokhoz, joga van amunkanélküliség, betegség, rokkantság, özvegység, öregség esetére szóló, valamintmindazon más esetekre szóló biztosításhoz, amikor létfenntartási eszközeit akaratátólfüggetlen körülmények miatt elveszíti.
-human_rights_un_inz_mb_64kb_0134	2.
-human_rights_un_inz_mb_64kb_0135	Az anyaság és a gyermekkor különleges segítséghez és támogatáshoz adnak jogot.
-human_rights_un_inz_mb_64kb_0136	Minden gyermek, akár házasságból, akár házasságon kívül született, ugyanabban aszociális védelemben részesül.
-human_rights_un_inz_mb_64kb_0137	26.
-human_rights_un_inz_mb_64kb_0138	cikk
-human_rights_un_inz_mb_64kb_0139	1.
-human_rights_un_inz_mb_64kb_0140	Minden személynek joga van a neveléshez.
-human_rights_un_inz_mb_64kb_0141	A nevelésnek, legalábbis az elemi ésalapvető oktatást illetően, ingyenesnek kell lennie.
-human_rights_un_inz_mb_64kb_0142	Az elemi oktatás kötelező.
-human_rights_un_inz_mb_64kb_0143	A technikai ésszakoktatást általánossá kell tenni;
-human_rights_un_inz_mb_64kb_0144	a felsőbb tanulmányokra való felvételnek mindenki előtt
-human_rights_un_inz_mb_64kb_0145	-érdeméhez képest- egyenlő feltételek mellett nyitva kell állnia.
-human_rights_un_inz_mb_64kb_0146	2.
-human_rights_un_inz_mb_64kb_0147	A nevelésnek az emberi személyiség teljes kibontakoztatására, valamint az emberi jogokés alapvető szabadságok tiszteletbentartásának megerősítésére kell irányulnia.
-human_rights_un_inz_mb_64kb_0148	Anevelésnek elő kell segítenie a nemzetek, valamint az összes faji és vallási csoportokközötti megértést, türelmet és barátságot, valamint az Egyesült Nemzetek által a békefenntartásának érdekében kifejtett tevékenység kifejlődését.
-human_rights_un_inz_mb_64kb_0149	3.
-human_rights_un_inz_mb_64kb_0150	A szülőket elsőbbségi jog illeti meg a gyermekeiknek adandó nevelés megválasztásában.
-human_rights_un_inz_mb_64kb_0151	27.
-human_rights_un_inz_mb_64kb_0152	cikk
-human_rights_un_inz_mb_64kb_0153	1.
-human_rights_un_inz_mb_64kb_0154	Minden személynek joga van a közösség kulturális életében való szabad részvételhez, aművészetek élvezéséhez, valamint a tudomány haladásában és az abból származójótéteményekben való részvételhez.
-human_rights_un_inz_mb_64kb_0155	2.
-human_rights_un_inz_mb_64kb_0156	Mindenkinek joga van minden általa alkotott tudományos, irodalmi és művészetitermékkel kapcsolatos erkölcsi és anyagi érdekeinek védelméhez.
-human_rights_un_inz_mb_64kb_0157	28.
-human_rights_un_inz_mb_64kb_0158	cikk  Minden személynek joga van ahhoz, hogy mind a társadalmi,mind a nemzetközi viszonyok tekintetében olyan rendszer uralkodjék,amelyben a jelen Nyilatkozatban kinyilvánított jogok és szabadságokteljes hatállyal érvényesülhessenek.
-human_rights_un_inz_mb_64kb_0159	29.
-human_rights_un_inz_mb_64kb_0160	cikk
-human_rights_un_inz_mb_64kb_0161	1.
-human_rights_un_inz_mb_64kb_0162	A személynek kőtelességei vannak a közösséggel szemben, amelynek keretébenegyedül lehetséges a személyiség szabad és teljes kifejlődése.
-human_rights_un_inz_mb_64kb_0163	2.
-human_rights_un_inz_mb_64kb_0164	Jogainak gyakorlása és szabadságainak élvezete tekintetében senki sincs alávetve máskorlátozásnak, mint amelyet a törvény kizárólag mások jogai és szabadságai elismerésénekés tiszteletbentartásának biztosítása érdekében, valamint a demokratikus társadalomerkölcse, közrendje és általános jóléte jogos követelményeinek kielégítése érdekébenmegállapít.
-human_rights_un_inz_mb_64kb_0165	3.
-human_rights_un_inz_mb_64kb_0166	Ezeket a jogokat és szabadságokat semmi esetre sem lehet az Egyesült Nemzetekcéljaival és elveivel ellentétesen gyakorolni.
-human_rights_un_inz_mb_64kb_0167	30.
-human_rights_un_inz_mb_64kb_0168	cikk
-human_rights_un_inz_mb_64kb_0169	A jelen Nyilatkozat egyetlen rendelkezése sem értelmezhető úgy, hogy az valamely állam,valamely csoport, vagy valamely egyén részére bármilyen jogot adna arra, hogy az ittkinyilvánított jogok és szabadságok megsemmisítésére irányuló tevékenységet fejtsen ki,vagy ilyen cselekményt elkövessen.
+human_rights_un_inz_mb_64kb_0001	Pernyataan Umum tentang Hak-Hak Asasi Manusia
+human_rights_un_inz_mb_64kb_0002	Mukadimah
+human_rights_un_inz_mb_64kb_0003	Menimbang bahwa pengakuan atas martabat alamiah dan hak-hak yang sama dan mutlak dari semua anggota keluarga manusia adalah dasar kemerdekaan, keadilan dan perdamaian di dunia,
+human_rights_un_inz_mb_64kb_0004	Menimbang bahwa mengabaikan dan memandang rendah hak-hak asasi manusia telah mengakibatkan perbuatan-perbuatan bengis yang menimbulkan rasa kemarahan hati nurani umat manusia, dan terbentuknya suatu dunia tempat manusia akan mengecap kenikmatan kebebasan berbicara dan beragama serta kebebasan dari ketakutan dan kekurangan telah dinyatakan sebagai cita-cita tertinggi dari rakyat biasa,
+human_rights_un_inz_mb_64kb_0005	Menimbang bahwa hak-hak asasi manusia perlu dilindungi oleh peraturan hukum supaya orang tidak akan terpaksa memilih pemberontakan sebagai usaha terakhir guna menentang kelaliman dan penindasan,
+human_rights_un_inz_mb_64kb_0006	Menimbang bahwa pembangunan hubungan persahabatan antara negara-negara perlu digalakkan,
+human_rights_un_inz_mb_64kb_0007	Menimbang bahwa bangsa-bangsa dari Perserikatan Bangsa-Bangsa sekali lagi telah menyatakan di dalam Piagam Perserikatan Bangsa-Bangsa kepercayaan mereka akan hak-hak dasar dari manusia, akan martabat dan nilai seseorang manusia dan akan hak-hak yang sama dari pria maupun wanita, dan telah bertekad untuk menggalakkan kemajuan sosial dan taraf hidup yang lebih baik di dalam kemerdekaan yang lebih luas,
+human_rights_un_inz_mb_64kb_0008	Menimbang bahwa Negara-Negara Anggota telah berjanji untuk mencapai kemajuan dalam penghargaan dan penghormatan umum terhadap hak-hak asasi manusia dan kebebasan-kebebasan asasi, dengan bekerjasama dengan Perserikatan Bangsa-Bangsa,
+human_rights_un_inz_mb_64kb_0009	Menimbang bahwa pengertian umum tentang hak-hak dan kebebasan-kebebasan tersebut sangat penting untuk pelaksanaan yang sungguh-sungguh dari janji ini, maka,
+human_rights_un_inz_mb_64kb_0010	Majelis Umum dengan ini memproklamasikan
+human_rights_un_inz_mb_64kb_0011	Pernyataan Umum tentang Hak-Hak Asasi Manusiasebagai satu standar umum keberhasilan untuk semua bangsa dan semua negara, dengan tujuan agar setiap orang dan setiap badan dalam masyarakat dengan senantiasa mengingat Pernyataan ini, akan berusaha dengan jalan mengajar dan mendidik untuk menggalakkan penghargaan terhadap hak-hak dan kebebasan-kebebasan tersebut, dan dengan jalan tindakan-tindakan progresif yang bersifat nasional maupun internasional, menjamin pengakuan dan penghormatannya secara universal dan efektif, baik oleh bangsa-bangsa dari Negara-Negara Anggota sendiri maupun oleh bangsa-bangsa dari daerah-daerah yang berada di bawah kekuasaan hukum mereka.
+human_rights_un_inz_mb_64kb_0012	Pasal 1
+human_rights_un_inz_mb_64kb_0013	Semua orang dilahirkan merdeka dan mempunyai martabat dan hak-hak yang sama.
+human_rights_un_inz_mb_64kb_0014	Mereka dikaruniai akal dan hati nurani dan hendaknya bergaul satu sama lain dalam semangat persaudaraan.
+human_rights_un_inz_mb_64kb_0015	Pasal 2
+human_rights_un_inz_mb_64kb_0016	Setiap orang berhak atas semua hak dan kebebasan-kebebasan yang tercantum di dalam Pernyataan ini tanpa perkecualian apapun, seperti ras, warna kulit, jenis kelamin, bahasa, agama, politik atau pendapat yang berlainan, asal mula kebangsaan atau kemasyarakatan, hak milik, kelahiran ataupun kedudukan lain.
+human_rights_un_inz_mb_64kb_0017	Di samping itu, tidak diperbolehkan melakukan perbedaan atas dasar kedudukan politik, hukum atau kedudukan internasional dari negara atau daerah dari mana seseorang berasal, baik dari negara yang merdeka, yang berbentuk wilayah-wilayah perwalian, jajahan atau yang berada di bawah batasan kedaulatan yang lain.
+human_rights_un_inz_mb_64kb_0018	Pasal 3
+human_rights_un_inz_mb_64kb_0019	Setiap orang berhak atas penghidupan, kebebasan dan keselamatan individu.
+human_rights_un_inz_mb_64kb_0020	Pasal 4
+human_rights_un_inz_mb_64kb_0021	Tidak seorang pun boleh diperbudak atau diperhambakan, perbudakan dan perdagangan budak dalam bentuk apapun mesti dilarang.
+human_rights_un_inz_mb_64kb_0022	Pasal 5
+human_rights_un_inz_mb_64kb_0023	Tidak seorang pun boleh disiksa atau diperlakukan secara kejam, memperoleh perlakuan atau dihukum secara tidak manusiawi atau direndahkan martabatnya.
+human_rights_un_inz_mb_64kb_0024	Pasal 6
+human_rights_un_inz_mb_64kb_0025	Setiap orang berhak atas pengakuan di depan hukum sebagai pribadi di mana saja ia berada.
+human_rights_un_inz_mb_64kb_0026	Pasal 7
+human_rights_un_inz_mb_64kb_0027	Semua orang sama di depan hukum dan berhak atas perlindungan hukum yang sama tanpa diskriminasi.
+human_rights_un_inz_mb_64kb_0028	Semua berhak atas perlindungan yang sama terhadap setiap bentuk diskriminasi yang bertentangan dengan Pernyataan ini dan terhadap segala hasutan yang mengarah pada diskriminasi semacam itu.
+human_rights_un_inz_mb_64kb_0029	Pasal 8
+human_rights_un_inz_mb_64kb_0030	Setiap orang berhak atas bantuan yang efektif dari pengadilan nasional yang kompeten untuk tindakan pelanggaran hak-hak dasar yang diberikan kepadanya oleh undang-undang dasar atau hukum.
+human_rights_un_inz_mb_64kb_0031	Pasal 9
+human_rights_un_inz_mb_64kb_0032	Tak seorang pun boleh ditangkap, ditahan atau dibuang dengan sewenang-wenang.
+human_rights_un_inz_mb_64kb_0033	Pasal 10
+human_rights_un_inz_mb_64kb_0034	Setiap orang, dalam persamaan yang penuh, berhak atas pengadilan yang adil dan terbuka oleh pengadilan yang bebas dan tidak memihak, dalam menetapkan hak dan kewajiban-kewajibannya serta dalam setiap tuntutan pidana yang dijatuhkan kepadanya.
+human_rights_un_inz_mb_64kb_0035	Pasal 11
+human_rights_un_inz_mb_64kb_0036	Setiap orang yang dituntut karena disangka melakukan suatu pelanggaran hukum dianggap tidak bersalah, sampai dibuktikan kesalahannya menurut hukum dalam suatu pengadilan yang terbuka, di mana dia memperoleh semua jaminan yang diperlukan untuk pembelaannya.
+human_rights_un_inz_mb_64kb_0037	Tidak seorang pun boleh dipersalahkan melakukan pelanggaran hukum karena perbuatan atau kelalaian yang tidak merupakan suatu pelanggaran hukum menurut undang-undang nasional atau internasional, ketika perbuatan tersebut dilakukan.
+human_rights_un_inz_mb_64kb_0038	Juga tidak diperkenankan menjatuhkan hukuman lebih berat daripada hukuman yang seharusnya dikenakan ketika pelanggaran hukum itu dilakukan.
+human_rights_un_inz_mb_64kb_0039	Pasal 12
+human_rights_un_inz_mb_64kb_0040	Tidak seorang pun dapat diganggu dengan sewenang-wenang urusan pribadinya, keluarganya, rumah-tangganya atau hubungan surat-menyuratnya, juga tak diperkenankan pelanggaran atas kehormatannya dan nama baiknya.
+human_rights_un_inz_mb_64kb_0041	Setiap orang berhak mendapat perlindungan hukum terhadap gangguan atau pelanggaran seperti itu.
+human_rights_un_inz_mb_64kb_0042	Pasal 13
+human_rights_un_inz_mb_64kb_0043	Setiap orang berhak atas kebebasan bergerak dan berdiam di dalam batas-batas setiap negara.
+human_rights_un_inz_mb_64kb_0044	Setiap orang berhak meninggalkan sesuatu negeri, termasuk negerinya sendiri, dan berhak kembali ke negerinya.
+human_rights_un_inz_mb_64kb_0045	Pasal 14
+human_rights_un_inz_mb_64kb_0046	Setiap orang berhak mencari dan menikmati suaka di negeri lain untuk melindungi diri dari pengejaran.
+human_rights_un_inz_mb_64kb_0047	Hak ini tidak berlaku untuk kasus pengejaran yang benar-benar timbul karena kejahatan-kejahatan yang tak berhubungan dengan politik, atau karena perbuatan-perbuatan yang bertentangan dengan tujuan dan dasar Perserikatan Bangsa-Bangsa.
+human_rights_un_inz_mb_64kb_0048	Pasal 15
+human_rights_un_inz_mb_64kb_0049	Setiap orang berhak atas sesuatu kewarga-negaraan.
+human_rights_un_inz_mb_64kb_0050	Tidak seorang pun dengan semena-mena dapat dicabut kewarga-negaraannya atau ditolak haknya untuk mengganti kewarga-negaraan.
+human_rights_un_inz_mb_64kb_0051	Pasal 16
+human_rights_un_inz_mb_64kb_0052	Pria dan wanita yang sudah dewasa, dengan tidak dibatasi kebangsaan, kewarga-negaraan atau agama, berhak untuk nikah dan untuk membentuk keluarga.
+human_rights_un_inz_mb_64kb_0053	Mereka mempunyai hak yang sama dalam soal perkawinan, di dalam masa perkawinan dan pada saat perceraian.
+human_rights_un_inz_mb_64kb_0054	Perkawinan hanya dapat dilaksanakan berdasarkan pilihan bebas dan persetujuan penuh oleh kedua mempelai.
+human_rights_un_inz_mb_64kb_0055	Keluarga adalah kesatuan alamiah dan fundamental dari masyarakat dan berhak mendapat perlindungan dari masyarakat dan Negara.
+human_rights_un_inz_mb_64kb_0056	Pasal 17
+human_rights_un_inz_mb_64kb_0057	Setiap orang berhak memiliki harta, baik sendiri maupun bersama-sama dengan orang lain.
+human_rights_un_inz_mb_64kb_0058	Tak seorang pun boleh dirampas hartanya dengan semena-mena.
+human_rights_un_inz_mb_64kb_0059	Pasal 18
+human_rights_un_inz_mb_64kb_0060	Setiap orang berhak atas kebebasan pikiran, hati nurani dan agama;
+human_rights_un_inz_mb_64kb_0061	dalam hal ini termasuk kebebasan berganti agama atau kepercayaan, dan kebebasan untuk menyatakan agama atau kepercayaan dengan cara mengajarkannya, mempraktekkannya, melaksanakan ibadahnya dan mentaatinya, baik sendiri maupun bersama-sama dengan orang lain, di muka umum maupun sendiri.
+human_rights_un_inz_mb_64kb_0062	Pasal 19
+human_rights_un_inz_mb_64kb_0063	Setiap orang berhak atas kebebasan mempunyai dan mengeluarkan pendapat;
+human_rights_un_inz_mb_64kb_0064	dalam hak ini termasuk kebebasan memiliki pendapat tanpa gangguan, dan untuk mencari, menerima dan menyampaikan informasi dan buah pikiran melalui media apa saja dan dengan tidak memandang batas-batas (wilayah).
+human_rights_un_inz_mb_64kb_0065	Pasal 20
+human_rights_un_inz_mb_64kb_0066	Setiap orang mempunyai hak atas kebebasan berkumpul dan berserikat secara damai.
+human_rights_un_inz_mb_64kb_0067	Tidak seorang pun boleh dipaksa untuk memasuki sesuatu perkumpulan.
+human_rights_un_inz_mb_64kb_0068	Pasal 21
+human_rights_un_inz_mb_64kb_0069	Setiap orang berhak turut serta dalam pemerintahan negerinya, secara langsung atau melalui wakil-wakil yang dipilih dengan bebas.
+human_rights_un_inz_mb_64kb_0070	Setiap orang berhak atas kesempatan yang sama untuk diangkat dalam jabatan pemerintahan negerinya.
+human_rights_un_inz_mb_64kb_0071	Kehendak rakyat harus menjadi dasar kekuasaan pemerintah;
+human_rights_un_inz_mb_64kb_0072	kehendak ini harus dinyatakan dalam pemilihan umum yang dilaksanakan secara berkala dan jujur dan yang dilakukan menurut hak pilih yang bersifat umum dan yang tidak membeda-bedakan, dan dengan pemungutan suara yang rahasia ataupun menurut cara-cara lain yang menjamin kebebasan memberikan suara.
+human_rights_un_inz_mb_64kb_0073	Pasal 22
+human_rights_un_inz_mb_64kb_0074	Setiap orang, sebagai anggota masyarakat, berhak atas jaminan sosial dan berhak melaksanakan dengan perantaraan usaha-usaha nasional dan kerjasama internasional, dan sesuai dengan organisasi serta sumber-sumber kekayaan dari setiap Negara, hak-hak ekonomi, sosial dan kebudayaan yang sangat diperlukan untuk martabat dan pertumbuhan bebas pribadinya.
+human_rights_un_inz_mb_64kb_0075	Pasal 23
+human_rights_un_inz_mb_64kb_0076	Setiap orang berhak atas pekerjaan, berhak dengan bebas memilih pekerjaan, berhak atas syarat-syarat perburuhan yang adil serta baik, dan berhak atas perlindungan dari pengangguran.
+human_rights_un_inz_mb_64kb_0077	Setiap orang, tanpa diskriminasi, berhak atas pengupahan yang sama untuk pekerjaan yang sama.
+human_rights_un_inz_mb_64kb_0078	Setiap orang yang melakukan pekerjaan berhak atas pengupahan yang adil dan baik yang menjamin kehidupannya dan keluarganya, suatu kehidupan yang pantas untuk manusia yang bermartabat, dan jika perlu ditambah dengan perlindungan sosial lainnya.
+human_rights_un_inz_mb_64kb_0079	Setiap orang berhak mendirikan dan memasuki serikat-serikat pekerja untuk melindungi kepentingannya.
+human_rights_un_inz_mb_64kb_0080	Pasal 24
+human_rights_un_inz_mb_64kb_0081	Setiap orang berhak atas istirahat dan liburan, termasuk pembatasan-pembatasan jam kerja yang layak dan hari libur berkala, dengan menerima upah.
+human_rights_un_inz_mb_64kb_0082	Pasal 25
+human_rights_un_inz_mb_64kb_0083	Setiap orang berhak atas taraf hidup yang menjamin kesehatan dan kesejahteraan untuk dirinya dan keluarganya, termasuk pangan, pakaian, perumahan dan perawatan kesehatannya serta pelayanan sosial yang diperlukan, dan berhak atas jaminan pada saat menganggur, menderita sakit, cacat, menjadi janda, mencapai usia lanjut atau mengalami kekurangan mata pencarian yang lain karena keadaan yang berada di luar kekuasaannya.
+human_rights_un_inz_mb_64kb_0084	Para ibu dan anak-anak berhak mendapat perawatan dan bantuan istimewa.
+human_rights_un_inz_mb_64kb_0085	Semua anak, baik yang dilahirkan di dalam maupun di luar perkawinan, harus mendapat perlindungan sosial yang sama.
+human_rights_un_inz_mb_64kb_0086	Pasal 26
+human_rights_un_inz_mb_64kb_0087	Setiap orang berhak mendapat pendidikan.
+human_rights_un_inz_mb_64kb_0088	Pendidikan harus gratis, setidak-tidaknya untuk tingkat sekolah rendah dan pendidikan dasar.
+human_rights_un_inz_mb_64kb_0089	Pendidikan rendah harus diwajibkan.
+human_rights_un_inz_mb_64kb_0090	Pendidikan teknik dan jurusan secara umum harus terbuka bagi semua orang, dan pengajaran tinggi harus secara adil dapat diakses oleh semua orang, berdasarkan kepantasan.
+human_rights_un_inz_mb_64kb_0091	Pendidikan harus ditujukan ke arah perkembangan pribadi yang seluas-luasnya serta memperkokoh rasa penghargaan terhadap hak-hak manusia dan kebebasan asasi.
+human_rights_un_inz_mb_64kb_0092	Pendidikan harus menggalakkan saling pengertian, toleransi dan persahabatan di antara semua bangsa, kelompok ras maupun agama, serta harus memajukan kegiatan Perserikatan Bangsa-Bangsa dalam memelihara perdamaian.
+human_rights_un_inz_mb_64kb_0093	Orang-tua mempunyai hak utama untuk memilih jenis pendidikan yang akan diberikan kepada anak-anak mereka.
+human_rights_un_inz_mb_64kb_0094	Pasal 27
+human_rights_un_inz_mb_64kb_0095	Setiap orang berhak untuk turut serta dengan bebas dalam kehidupan kebudayaan masyarakat, untuk mengecap kenikmatan kesenian dan berbagi dalam kemajuan ilmu pengetahuan dan manfaatnya.
+human_rights_un_inz_mb_64kb_0096	Setiap orang berhak untuk memperoleh perlindungan atas kepentingan-kepentingan moril dan material yang diperoleh sebagai hasil dari sesuatu produksi ilmiah, kesusasteraan atau kesenian yang diciptakannya.
+human_rights_un_inz_mb_64kb_0097	Pasal 28
+human_rights_un_inz_mb_64kb_0098	Setiap orang berhak atas suatu tatanan sosial dan internasional di mana hak-hak dan kebebasan-kebebasan yang termaktub di dalam Pernyataan ini dapat dilaksanakan sepenuhnya.
+human_rights_un_inz_mb_64kb_0099	Pasal 29
+human_rights_un_inz_mb_64kb_0100	Setiap orang mempunyai kewajiban terhadap masyarakat tempat satu-satunya di mana ia memperoleh kesempatan untuk mengembangkan pribadinya dengan penuh dan leluasa.
+human_rights_un_inz_mb_64kb_0101	Dalam menjalankan hak-hak dan kebebasan-kebebasannya, setiap orang harus tunduk hanya pada pembatasan-pembatasan yang ditetapkan oleh undang-undang dengan maksud semata-mata untuk menjamin pengakuan serta penghormatan yang layak terhadap hak-hak dan kebebasan-kebebasan orang lain, dan untuk memenuhi syarat-syarat yang adil dalam hal kesusilaan, ketertiban dan kesejahteraan umum dalam suatu masyarakat yang demokratis.
+human_rights_un_inz_mb_64kb_0102	Hak-hak dan kebebasan-kebebasan ini dengan jalan bagaimana pun sekali-kali tidak boleh dilaksanakan bertentangan dengan tujuan dan dasar Perserikatan Bangsa-Bangsa.
+human_rights_un_inz_mb_64kb_0103	Pasal 30
+human_rights_un_inz_mb_64kb_0104	Tidak satu pun di dalam Pernyataan ini boleh ditafsirkan memberikan sesuatu Negara, kelompok ataupun seseorang, hak untuk terlibat di dalam kegiatan apa pun atau melakukan perbuatan yang bertujuan untuk merusak hak-hak dan kebebasan-kebebasan yang mana pun yang termaktub di dalam Pernyataan ini.

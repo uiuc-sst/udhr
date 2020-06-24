@@ -1,139 +1,105 @@
 human_rights_un_mli_rh_64kb_0001	
 human_rights_un_mli_rh_64kb_0002	
-human_rights_un_mli_rh_64kb_0003	ahawəsəɲa peŋekterafan kɪʊtʊhən kəmoleaan dən hək samarətə sərtə əsəsijaŋ tək tɪrpisah baɡɪ sɪlorʊh ʊmət mənʊsɪə ədələh əsəs kəbebasankɛadɪlandan kɛdamaiən dunɪa
-human_rights_un_mli_rh_64kb_0004	ahawəsəɲa pəŋəbaiən sərtə pəŋhinəən terhadəp hək asəse mənʊsɪə teləhpun meŋəkebətkan tɪndakən tɛrkʊtok jaŋ teləh mɪlaŋɡari perəsaan hatɪ omətmanosiə dən montʃolɲə səbuəh dunɪa di məna mənʊsɪə əkən mɪnɪkmətekɛbəbəsan bərutʃap dən məŋənut kɪpərtʃajaan sərtə kebɪbasan darɪ rasətakʊtdən tʃitarəsə teləh pun deɪʃtɪhərkan sɪbəɡai asperasi tʊraɡuŋ sɪlorʊh omətmanosiə
-human_rights_un_mli_rh_64kb_0005	ɛkɪrəɲə keta tedak mahʊ mɛndoroŋ mənʊsɪə dəlam kɛadaən terdɛsəksɪbəɡai pɪlɪhan teraxɪr membɪrɔntak məmɪntaŋ kɪzəlɪmən sərtə penendəsanmakə ədələh pɛntiŋ baɡɪ hək asəse mənʊsɪə depərtəhənkan oləh kɛdaulətənʊndəŋondaŋ
-human_rights_un_mli_rh_64kb_0006	ahawəsəɲa ədələh pɛntiŋ baɡɪ mɪmadʒukən pərkɛmbəŋan pɛrhobʊŋənpersahəbatan di antərə nɛɡarəneɡarə
-human_rights_un_mli_rh_64kb_0007	ahawəsəɲa rakjat əŋsaəŋsə ɪrsətʊ dəlam iaɡamɲə teləh sekaleləɡɪ mɛnɛɡəskan kɪpərtʃajaan mɛrəkə terhadəp hək asəse mənʊsɪə tɛrhədəpkɛmoliəən sərtə nilaidire mənʊsɪə dən terhadəp hək samarətə lɛlake danperɪmpʊan dən teləh mɛnɛtəpkan kɛəsamən ontok mɪmadʒukən pɛrkəmbəŋənsosɪal dən təraf hɪdʊp jaŋ lebɪh sɛmpurnə dəlam soəsanə kebɪbasan jəŋləbih loas
-human_rights_un_mli_rh_64kb_0008	ahawəsəɲa ɪɡaraɪɡəra ŋɡʊtə teləh bɛrɪkrar ontok məsiŋmasɪŋmɪntʃapai dɪŋən kerdʒəsəma əŋsaəŋsə ɪrsətʊ pəŋʊtərəən kehɔrmətansɪdʒaɡat terhadəp sərtə pɪmatuhən hək asəse mənʊsɪə dən kebɪbasan asəse
-human_rights_un_mli_rh_64kb_0009	ahawəsəɲa satʊ fəhəmən bɪrsəma terhadəp hək sərtə kebɪbasan enisɪlurʊhɲa ədələh terpəntiŋ demi mɛndʒadɪkən ɪkrər ene kɪɲətaan səpənuhɲa
+human_rights_un_mli_rh_64kb_0003	ahawəsəɲa peŋekterafan kɪʊtʊhən kəmoleaan dən hək samarətə sərtə asəse jaŋ tək tɪrpisah baɡɪ sɪlorʊh ʊmət mənʊsɪə ədələh əsəs kebɛbasənkeadelən dən kɛdamaiən dunɪa
+human_rights_un_mli_rh_64kb_0004	ahawəsəɲa pəŋəbaiən sərtə pəŋhinəən terhadəp hək asəse mənʊsɪə teləh pun meŋəkebətkan tɪndakən tɛrkʊtok jaŋ teləh mɪlaŋɡari perəsaan hatɪ ʊmət mənʊsɪə dən montʃolɲə səbuəh dunɪa di məna mənʊsɪə əkən mɪnɪkməte kebɪbasan bərutʃap dən məŋənut kɪpərtʃajaan sərtə kebɪbasan darɪ rasətəkut dən tʃitarəsə teləh pun deɪʃtɪhərkan sɪbəɡai asperasi tʊraɡuŋ sɪlorʊh ʊmət mənʊsɪə
+human_rights_un_mli_rh_64kb_0005	ɛkɪrəɲə keta tedak mahʊ mɛndoroŋ mənʊsɪə dəlam kɛadaən tɪrdəsək sɪbəɡai pɪlɪhan teraxɪr membɪrɔntak məmɪntaŋ kɪzəlɪmən sərtə pɛnendasən məka ədələh pɛntiŋ baɡɪ hək asəse mənʊsɪə depərtəhənkan oləh kədaulatən ondaŋundəŋ
+human_rights_un_mli_rh_64kb_0006	ahawəsəɲa ədələh pɛntiŋ baɡɪ mɪmadʒukən pərkɛmbəŋan pərhubuŋən pɛrsahəbətan di antərə nɛɡarəneɡarə
+human_rights_un_mli_rh_64kb_0007	ahawəsəɲa rakjat əŋsaəŋsə ɪrsətʊ dəlam iaɡamɲə teləh sɛkale laɡɪ mɛnɛɡəskan kɪpərtʃajaan mɛrəkə terhadəp hək asəse mənʊsɪə terhadəp kəmoleaan sərtə nilaidire mənʊsɪə dən terhadəp hək samarətə lɛlake dən pərəmpʊən dən teləh mɛnɛtəpkan kɛəsamən ontok mɪmadʒukən pərkɛmbəŋan sʊseəl dən təraf hɪdʊp jaŋ lebɪh sɛmpurnə dəlam soəsanə kebɪbasan jaŋ lebɪh loas
+human_rights_un_mli_rh_64kb_0008	ahawəsəɲa ɪɡaraɪɡəra ŋɡʊtə teləh bɛrɪkrar ontok məseŋmaseŋ mɪntʃəpai dɪŋən kerdʒəsəma əŋsaəŋsə ɪrsətʊ pəŋʊtərəən kɛhormatən sedʒəɡat terhadəp sərtə pɪmatuhən hək asəse mənʊsɪə dən kebɪbasan asəse
+human_rights_un_mli_rh_64kb_0009	ahawəsəɲa satʊ fəhəmən bɪrsəma terhadəp hək sərtə kebɪbasan ene sɛlorohɲa ədələh terpəntiŋ demi mɛndʒadɪkən ɪkrər ene kɪɲətaan səpənuhɲa
 human_rights_un_mli_rh_64kb_0010	
 human_rights_un_mli_rh_64kb_0011	erhimpunən aɡoŋ mɛŋiʃtehərkən
-human_rights_un_mli_rh_64kb_0012	ɛriʃtɪharən sedʒəɡat hək asəse mənʊsɪə ene sɪbəɡai soatu ʊkorən bersəmətɛrhadap pəntʃapaian oləh sɪlorʊh ʊmət mənʊsɪə dən kesəmoə nɪɡərə dəŋantodʒʊan sʊpaja sətiəp indɪvɪdo dən sətiəp bədan maʃarəkət dɪŋən senanteasəməŋiŋəte ɛriʃtɪharən ene həndəklah berəzəm mɛlalʊe pɛŋədʒarən dənpɪndɪdikən baɡɪ mɪmadʒukən səndʒuŋən terhadəp sɪlorʊh haxək dənkɛbəbasan ene dən sɪtʃərə laŋkahlaŋkəh bərpəreŋkətpɛrɪŋkat di bidaŋneɡərə dən antərabəŋsa baɡɪ mɛndʒamɪnkən peŋkitɪrəfan dən pematuhənsədʒaɡatɲa jaŋ bɪrkəsən kɛdoaduəɲa di antərə nɛɡarəneɡarə aŋɡɔtaməsiŋməsɪŋ dən rakjat wɪləjahwɪlajah di bəwah bidaŋkoəsa mɛrəkə
+human_rights_un_mli_rh_64kb_0012	ɛriʃtɪharən sedʒəɡat hək asəse mənʊsɪə ene sɪbəɡai soatu ʊkorən bɪrsəma terhadəp pəntʃapaian oləh sɪlorʊh ʊmət mənʊsɪə dən kesəmoə nɪɡərə dɪŋən tʊdʒoən sʊpaja sətiəp indɪvɪdo dən sətiəp bədan maʃarəkət dɪŋən senanteəsa mɛŋiŋətɪ ɛriʃtɪharən ene həndəklah berəzəm mɛlalʊe pɛŋədʒarən dən pəndedekən baɡɪ mɪmadʒukən səndʒuŋən terhadəp sɪlorʊh haxək dən kebɪbasan ene dən sɪtʃərə laŋkahlaŋkəh bərpəreŋkətpɛrɪŋkat di bidəŋ nɪɡərə dən antərabəŋsa baɡɪ mɛndʒamɪnkən peŋkitɪrəfan dən pɪmatuhən sədʒəɡətɲə jaŋ bɪrkəsən kɛdoaduəɲa di antərə nɛɡarəneɡarə əŋɡota məseŋmaseŋ dən rakjat wɪləjahwɪlajah di bəwah bidaŋkoəsa mɛrəkə
 human_rights_un_mli_rh_64kb_0013	ərkarə
 human_rights_un_mli_rh_64kb_0014	əmʊə mənʊsɪə dɪlahɪrkən bebəs dən samarətə darɪ seɡi kəmoleaan dən haxək
-human_rights_un_mli_rh_64kb_0015	erəkə mɛmpʊɲai pɪmikɪrən dən perəsaan hatɪ dən həndəklah bərtɪndakde antərə satʊ səma lain dɪŋən seməŋət pərsaudarəən
+human_rights_un_mli_rh_64kb_0015	erəkə mɛmpʊɲai pɪmikɪrən dən perəsaan hatɪ dən həndəklah bɛrtɪndak di antərə satʊ səma lain dɪŋən seməŋət pərsaudarəən
 human_rights_un_mli_rh_64kb_0016	ərkarə
-human_rights_un_mli_rh_64kb_0017	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə sɪmoa haxək dən kebɪbasan jaŋtərməktʊb dəlam ɛriʃtɪharən ene tənpa sɪbaraŋ əpə dʒoa pəmbɪsəən səpertebəŋsa wərna kʊlɪt dʒəntena bahəsa oɡamə fəham pʊletik atau lainlainfəhamən asəlʊsʊl bəŋsa kɪturʊnən atau sʊseəl hartəbendə kɪlahirən atauəpaəpə təraf lain
-human_rights_un_mli_rh_64kb_0018	ɪtɪrosɲa teadə sɪbaraŋ pəmbɪsəən bʊləh dɪboət berəsəskan pəda tarəfpʊlitɪk atau bidaŋkoəsa ataupun antərabəŋsa sɛsəbuəh nɪɡərə atau wɪlajəhdətaŋɲə sɪsɛɔrəŋ eto səma ɪəɲa merdɛka bərəənəh tənpa pɛmerentəhənsɪndɪre atau bɪrədə di bəwah əpaəpa sekətan kədaulatən lainɲə
+human_rights_un_mli_rh_64kb_0017	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə sɪmoa haxək dən kebɪbasan jaŋ tɛrmaktob dəlam ɛriʃtɪharən ene tənpa sɪbaraŋ əpə dʒoa pəmbɪsəən səpɛrti bəŋsa wərna kʊlɪt dʒəntena bahəsa oɡamə fəham pʊletik atau lainlain fəhəmən asəlʊsʊl bəŋsa kɪturʊnən atau sʊseəl hartəbendə kɪlahirən atau əpaəpa təraf lain
+human_rights_un_mli_rh_64kb_0018	ɪtɪrosɲa teadə sɪbaraŋ pəmbɪsəən bʊləh dɪboət berəsəskan pəda təraf pʊletik atau bidaŋkoəsa ataupun antərabəŋsa sɛsəbuəh nɪɡərə atau welajəh dataŋɲa sɪsɛɔrəŋ eto səma ɪəɲa merdɛka bərəənəh tənpa pɛmɛrintahan sɛndere atau bɪrədə di bəwah əpaəpa sekətan kədaulatən lainɲə
 human_rights_un_mli_rh_64kb_0019	ərkarə
 human_rights_un_mli_rh_64kb_0020	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə ɲəwə kebɪbasan dən kɪsəlamatan dɪri
 human_rights_un_mli_rh_64kb_0021	ərkarə
 human_rights_un_mli_rh_64kb_0022	ɪada seseəpa pun bʊləh dɪperhamba atau deperəbdekan
-human_rights_un_mli_rh_64kb_0023	kəəbdɪən dən daɡaŋanhamba abdi həndəklah dɪlaraŋ dəlam sɪmoa bəntukɲə
+human_rights_un_mli_rh_64kb_0023	kəəbdɪən dən dəɡaŋən həmba abdi həndəklah dɪlaraŋ dəlam sɪmoa bəntukɲə
 human_rights_un_mli_rh_64kb_0024	ərkarə
-human_rights_un_mli_rh_64kb_0025	ɪada seseəpa pun bʊləh dekenəkan səksəən atau ləjənən atau hʊkʊman jəŋzəlɪm tedak bɛrpərɪkɛmanoseaən atau mənxinakan
+human_rights_un_mli_rh_64kb_0025	ɪada seseəpa pun bʊləh dekenəkan səksəən atau ləjənən atau hʊkʊman jaŋ zalɪm tedak bɛrpərɪkɛmanoseaən atau mənxinakan
 human_rights_un_mli_rh_64kb_0026	ərkarə
-human_rights_un_mli_rh_64kb_0027	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə peŋekterafan di məna dʒoa sɪbəɡai seʊraŋinsən di sɪsi ondaŋundəŋ
+human_rights_un_mli_rh_64kb_0027	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə peŋekterafan di məna dʒoa sɪbəɡai sɪɔrəŋ ɪnsən di sɪsi ondaŋundəŋ
 human_rights_un_mli_rh_64kb_0028	ərkarə
-human_rights_un_mli_rh_64kb_0029	əmʊə ʊraŋ ədələh samarətə di sɪsi ondaŋundəŋ dən bɛrhək tənpa əpaapapɪmbɛsaan kɪpədə perlɪndoŋan jaŋ samarətə di sɪsi ondaŋundəŋ
-human_rights_un_mli_rh_64kb_0030	əmuəʊraŋ ədələh bɛrhək kɪpədə perlɪndoŋan jaŋ samarətə darepəda səbərəŋpembasəən jaŋ məlaŋɡər ɛriʃtɪharən ene dən darepəda sɪbaraŋ hasutantərhədap pəmbɪsəən sɛdɛmekiən
+human_rights_un_mli_rh_64kb_0029	əmʊə ʊraŋ ədələh samarətə di sɪsi ondaŋundəŋ dən bɛrhək tənpa əpaəpa pəmbɪsəən kɪpədə perlɪndoŋan jaŋ samarətə di sɪsi ondaŋundəŋ
+human_rights_un_mli_rh_64kb_0030	əmʊə ʊraŋ ədələh bɛrhək kɪpədə perlɪndoŋan jaŋ samarətə darepəda sɪbaraŋ pembəzəan jaŋ məlaŋɡər ɛriʃtɪharən ene dən darepəda sɪbaraŋ hasʊtən terhadəp pəmbɪsəən sɛdɛmekiən
 human_rights_un_mli_rh_64kb_0031	ərkarə
-human_rights_un_mli_rh_64kb_0032	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə pɪmulɪhən jaŋ bɪrkəsən oləh trebunəltrɪbonəl kəbaŋsəən jaŋ kɔmpətɪn terhadəp tendakantendakan jaŋ mɛlaŋɡərhəxak asəse jaŋ dɪberekanɲa oləh pɪrlɪmbaɡaan atau oləh ondaŋundəŋ
+human_rights_un_mli_rh_64kb_0032	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə pɪmulɪhən jaŋ bɪrkəsən oləh trebunəltrɪbonəl kəbaŋsəən jaŋ kɔmpətɪn terhadəp tendakantendakan jaŋ məlaŋɡər haxək asəse jaŋ dɪberekanɲa oləh pɪrlɪmbaɡaan atau oləh ondaŋundəŋ
 human_rights_un_mli_rh_64kb_0033	ərkarə
-human_rights_un_mli_rh_64kb_0034	ɪada seseəpa pun bʊləh dekenəkan taŋkəpan təhənən atau pemboaŋannɪɡəre sɪtʃərə səwənəŋwenəŋɲa
+human_rights_un_mli_rh_64kb_0034	ɪada seseəpa pun bʊləh dekenəkan taŋkəpan təhənən atau pɪmbuəŋən neɡere sɪtʃərə səwənəŋwenəŋɲa
 human_rights_un_mli_rh_64kb_0035	ərkarə
-human_rights_un_mli_rh_64kb_0036	ətɪəp ʊraŋ ədələh bɛrhək dɪŋən samarətə səpənuhɲa kɪpədə pɪmbetʃərəanadil dən tɛrbʊka oləh soatu trɪbunal bebəs dən saksəmə dəlam penɪtapan haxək dən təŋɡuŋənɲa dən sɪbaraŋ tʊdʊhan dʒenəjah tɛrhədəpɲə
+human_rights_un_mli_rh_64kb_0036	ətɪəp ʊraŋ ədələh bɛrhək dɪŋən samarətə səpənuhɲa kɪpədə pembitʃərəən adil dən tɛrbʊka oləh soatu trɪbunal bebəs dən saksəmə dəlam penɪtapan haxək dən təŋɡuŋənɲa dən sɪbaraŋ tʊdʊhan dʒenəjah tɛrhədəpɲə
 human_rights_un_mli_rh_64kb_0037	ərkarə
-human_rights_un_mli_rh_64kb_0038	
-human_rights_un_mli_rh_64kb_0039	ətɪəp ʊraŋ jaŋ dɪtoduh dɪŋən kəsələhan kəsəksaan ədələh berhəkdɪəŋɡap tedak səlah sɛhɪŋɡə debuktikən səlah mɪnorʊt ondəŋondəŋdɪ dəlam perbitʃərəən tɛrbʊka di məna dea teləh debɪrikən sɪɡələ dʒəmɪnaɲaŋ pɪrlʊ ontok pɛmbɪlaənɲa
-human_rights_un_mli_rh_64kb_0040	
-human_rights_un_mli_rh_64kb_0041	ɪada seseəpa pun bʊləh deputuskən bersaləh ətəs sɪbaraŋ kəsaləhankɪseksəan oləh kɪrənə sɪbaraŋ tɪndakən atau ketɪŋɡalan jaŋ tɪdəkmɛrupakan soatu kəsələhan keseksaan di sɪsi undaŋundəŋkɛbəŋsəən atau antərabəŋsa pəda məsa ɪəɲa dɪlakʊkən
-human_rights_un_mli_rh_64kb_0042	ɪada puləbʊləh dekenəkan sɪbaraŋ hʊkʊman jaŋ lebɪh berət darɪ hʊkʊman jəŋtərpakai ketekə kəsələhan kəsəksaan eto dɪlakʊkən
-human_rights_un_mli_rh_64kb_0043	ərkarə
-human_rights_un_mli_rh_64kb_0044	ɪada seseəpa pun jaŋ bʊləh dekenəkan kɪpədə sɪbaraŋ ɡaŋɡʊənsɛwɪnaŋwɛnaŋɲa terhadəp kɛadaən pɪrɪbədi kɪloarɡə roməhtaŋɡa ətausurətmɛɲuratɲa atau pɛrtʃɛrobɔhən kɪ ətəs marʊəh dən nəma baikɲə
-human_rights_un_mli_rh_64kb_0045	ətɪəp ʊraŋ bɛrhək kɪpədə perlɪndoŋan ondaŋundəŋ terhadəp ɡəŋɡʊanatau pɛrtʃɛrobɔhən sɛdɛmekiən
-human_rights_un_mli_rh_64kb_0046	ərkarə
-human_rights_un_mli_rh_64kb_0047	
-human_rights_un_mli_rh_64kb_0048	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə kebɪbasan bɪrɡərək danberməstauten di dəlam sempadən sɛsəbuəh nɪɡərə
-human_rights_un_mli_rh_64kb_0049	
-human_rights_un_mli_rh_64kb_0050	ətɪəp ʊraŋ bɛrhək mɪniŋɡəlkan manamənə nɪɡərə tərməsoknəɡərəɲa sənderedən kəmbalɪ semolə kɪ nɪɡərəɲa
-human_rights_un_mli_rh_64kb_0051	ərkarə
-human_rights_un_mli_rh_64kb_0052	
-human_rights_un_mli_rh_64kb_0053	ətɪəp ʊraŋ bɛrhək mɪmohʊn dən mɪnɪkməte perlɪndoŋan pʊletik dəlamnəɡəra lain darepəda sɪbaraŋ ənɪaja
-human_rights_un_mli_rh_64kb_0054	
-human_rights_un_mli_rh_64kb_0055	ək ene tedak bʊləh ditʊntʊt baɡɪ pendakwaan jaŋ bɛnarbenar timbuldərepadə kəsələhan bokan pʊletik atau darepəda tɪndakən jaŋbertəntaŋan dɪŋən todʒuəntʊdʒoən dən prinsipprinsep əŋsaəŋsə
-human_rights_un_mli_rh_64kb_0056	ɪrsətʊ
-human_rights_un_mli_rh_64kb_0057	ərkarə
-human_rights_un_mli_rh_64kb_0058	
-human_rights_un_mli_rh_64kb_0059	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə soatu kɛwərɡənɛɡəraən
-human_rights_un_mli_rh_64kb_0060	
-human_rights_un_mli_rh_64kb_0061	ɪada seseəpa pun bʊləh delutʃutkən kɛwərɡanɛɡaraanɲa sɛtʃarəsəwɛnəŋwənəŋɲa atau dɪnafɪkən hək mənukar kɛwərɡənɪɡarəəɲa
-human_rights_un_mli_rh_64kb_0062	ərkarə
-human_rights_un_mli_rh_64kb_0063	
-human_rights_un_mli_rh_64kb_0064	ɪlaki dən pərəmpʊən dɪwəsə tənpa mɪŋerə bəŋsa kɪwərɡanəɡarəənətau oɡamə bɛrhək bɛrkahwen dən mənubuhkan kɪloarɡə
-human_rights_un_mli_rh_64kb_0065	ɪrɪkəadələh bɛrhək kɪpədə haxək samarətə bɛrhoboŋ dəŋanperkəhwɪnan dəlam təmpʊh məsa pɛrkəhwinan dən padəpɪmbobaranɲə
-human_rights_un_mli_rh_64kb_0066	
-human_rights_un_mli_rh_64kb_0067	erkahwinən haɲə bʊləh dɪləksənakan dɪŋən pɛrsɛtodʒuən bebəs dənsepənʊhɲa oləh pɪhakpɪhək jaŋ bərtʃadəŋ ontok bɛrkahwen
-human_rights_un_mli_rh_64kb_0068	
-human_rights_un_mli_rh_64kb_0069	ɛloarɡa ədələh jʊnɪt kʊmpulən semuladʒadi dən asəse dəlam maʃarakətdan ədələh bɛrhək kɪpədə perlɪndoŋan oləh maʃarəkət dən ɛɡarə
+human_rights_un_mli_rh_64kb_0038	ətɪəp ʊraŋ jaŋ dɪtoduh dɪŋən kəsələhan kəsəksaan ədələh bɛrhək dɪaŋɡap tedak səlah sɛhɪŋɡə debuktikən səlah mɪnorʊt ondaŋundəŋ di dəlam perbitʃərəən tɛrbʊka di məna dea teləh debɪrikən sɪɡələ dʒamɪnən jaŋ pɪrlʊ ontok pɛmbɪlaənɲa
+human_rights_un_mli_rh_64kb_0039	ɪada seseəpa pun bʊləh deputuskən bersaləh ətəs sɪbaraŋ kəsələhan kəsəksaan oləh kɪrənə sɪbaraŋ tɪndakən atau ketɪŋɡalan jaŋ tedak mɛropəkan soatu kəsələhan keseksaan di sɪsi ondaŋundəŋ kəbaŋsəən atau antərabəŋsa pəda məsa ɪəɲa dɪlakʊkən
+human_rights_un_mli_rh_64kb_0040	ɪada pola bʊləh dekenəkan sɪbaraŋ hʊkʊman jaŋ lebɪh berət darɪ hʊkʊman jaŋ tɪrpəkai ketekə kəsələhan kəsəksaan eto dɪlakʊkən
+human_rights_un_mli_rh_64kb_0041	ərkarə
+human_rights_un_mli_rh_64kb_0042	ɪada seseəpa pun jaŋ bʊləh dekenəkan kɪpədə sɪbaraŋ ɡəŋɡuan səwənəŋwenəŋɲa terhadəp kɛadaən pɪrɪbədi kɪloarɡə roməhtaŋɡa atau surətməɲʊratɲə atau pɛrtʃɛrobɔhən kɪ ətəs marʊəh dən nəma baikɲə
+human_rights_un_mli_rh_64kb_0043	ətɪəp ʊraŋ bɛrhək kɪpədə perlɪndoŋan ondaŋundəŋ terhadəp ɡəŋɡuan atau pɛrtʃɛrobɔhən sɛdɛmekiən
+human_rights_un_mli_rh_64kb_0044	ərkarə
+human_rights_un_mli_rh_64kb_0045	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə kebɪbasan bɪrɡərək dən bɛrməstautɪn di dəlam sempadən sɛsəbuəh nɪɡərə
+human_rights_un_mli_rh_64kb_0046	ətɪəp ʊraŋ bɛrhək mɪniŋɡəlkan manamənə nɪɡərə tərməsʊk nɪɡərəɲa sənderedən kəmbalɪ semolə kɪ nɪɡərəɲa
+human_rights_un_mli_rh_64kb_0047	ərkarə
+human_rights_un_mli_rh_64kb_0048	ətɪəp ʊraŋ bɛrhək mɪmohʊn dən mɪnɪkməte perlɪndoŋan pʊletik dəlam nɪɡərə lain darepəda sɪbaraŋ ənɪaja
+human_rights_un_mli_rh_64kb_0049	ək ene tedak bʊləh ditʊntʊt baɡɪ pendakwaan jaŋ bɛnarbenar tembʊl darepəda kəsələhan bokan pʊletik atau darepəda tɪndakən jaŋ bərtɛntəŋan dɪŋən todʒuəntʊdʒoən dən prinsipprinsep əŋsaəŋsə ɪrsətʊ
+human_rights_un_mli_rh_64kb_0050	ərkarə
+human_rights_un_mli_rh_64kb_0051	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə soatu kɛwərɡənɛɡəraən
+human_rights_un_mli_rh_64kb_0052	ɪada seseəpa pun bʊləh delutʃutkən kɛwərɡanɛɡaraanɲa sɪtʃərə səwənəŋwenəŋɲa atau dɪnafɪkən hək mənukar kɛwərɡənɪɡarəəɲa
+human_rights_un_mli_rh_64kb_0053	ərkarə
+human_rights_un_mli_rh_64kb_0054	ɪlaki dən pərəmpʊən dɪwəsə tənpa mɪŋerə bəŋsa kɛwərɡənɛɡəraən atau oɡamə bɛrhək bɛrkahwen dən mənubuhkan kɪloarɡə
+human_rights_un_mli_rh_64kb_0055	erəkə ədələh bɛrhək kɪpədə haxək samarətə bɛrhoboŋ dɪŋən pɛrkəhwinan dəlam təmpʊh məsa pɛrkəhwinan dən pəda pembʊbaranɲə
+human_rights_un_mli_rh_64kb_0056	erkahwinən haɲə bʊləh dɪləksənakan dɪŋən pɛrsɛtodʒuən bebəs dən səpənuhɲa oləh pɪhakpɪhək jaŋ bərtʃadəŋ ontok bɛrkahwen
+human_rights_un_mli_rh_64kb_0057	ɛloarɡa ədələh jʊnɪt kʊmpulən semuladʒadi dən asəse dəlam maʃarəkət dən ədələh bɛrhək kɪpədə perlɪndoŋan oləh maʃarəkət dən ɛɡarə
+human_rights_un_mli_rh_64kb_0058	ərkarə
+human_rights_un_mli_rh_64kb_0059	ətɪəp ʊraŋ bɛrhək mɪmileke hərta sɪtʃərə bɛrsendirɪan sərtə sɪtʃərə bərkoŋsi dɪŋən ʊraŋ lain
+human_rights_un_mli_rh_64kb_0060	ɪada seseəpa pun bʊləh delutʃutkən hartəbɛndəɲa sɪtʃərə səwənəŋwenəŋɲa
+human_rights_un_mli_rh_64kb_0061	ərkarə
+human_rights_un_mli_rh_64kb_0062	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə kebɪbasan bɛrfɪker perəsaan hatɪ dən oɡamə
+human_rights_un_mli_rh_64kb_0063	hək ene tɛrmasʊkləh kebɪbasan mənukar oɡamə atau kɪpɪrtʃajaanɲa dən kebɪbasan saməda sɪtʃərə bɛrsendirɪan atau sɪtʃərə bɛrsaməsəma dɪŋən oraŋoraŋ lain dən sɪtʃərə tɛrbʊka atau bersendɪrɪ meŋənʊti oɡamə atau kɪpɪrtʃajaanɲa mɛlalʊe pɛŋədʒarən əmələn pemʊdʒəən dən pɪmatuhən
+human_rights_un_mli_rh_64kb_0064	ərkarə
+human_rights_un_mli_rh_64kb_0065	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə kebɪbasan pendapət dən məŋeluərkan fɪkɪran
+human_rights_un_mli_rh_64kb_0066	hək ene tɛrmasʊkləh kebɪbasan mɛmɛɡaŋ pendapət tənpa ɡəŋɡuan dən mɪnontut mɪnɪremə dən məɲɪbarkən məklumat dən boah fɪkɪran mɛlalʊe sɪbaraŋ mɪdea dən tənpa mɪŋerə sempadən
+human_rights_un_mli_rh_64kb_0067	ərkarə
+human_rights_un_mli_rh_64kb_0068	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə kebɪbasan berhimpun sɪtʃərə əmən dən mənubuhkan pərsatʊan
+human_rights_un_mli_rh_64kb_0069	ɪada seseəpa pun bʊləh dipaksə məndʒadɪ ahli manamənə pərtobohən
 human_rights_un_mli_rh_64kb_0070	ərkarə
-human_rights_un_mli_rh_64kb_0071	
-human_rights_un_mli_rh_64kb_0072	ətɪəp ʊraŋ bɛrhək mɪmileke hərta sɪtʃərə bɛrsendirɪan sərtə sɪtʃarəbərkoŋsɪ dɪŋən ʊraŋ lain
-human_rights_un_mli_rh_64kb_0073	
-human_rights_un_mli_rh_64kb_0074	ɪada seseəpa pun bʊləh delutʃutkən hartəbɛndəɲa sɪtʃərə səwənəŋwenəŋɲa
+human_rights_un_mli_rh_64kb_0071	ətɪəp ʊraŋ bɛrhək meŋambɪl bahaɡiən dəlam kerədʒaan nɪɡərəɲa sɪtʃərə laŋsoŋ atau mɛlalʊe wakilwakɪl jaŋ dɪpelih dɪŋən bebəs
+human_rights_un_mli_rh_64kb_0072	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə pəlʊəŋ samarətə kɪpədə pɪrxedmatən əwəm dəlam nɪɡərəɲa
+human_rights_un_mli_rh_64kb_0073	əmahʊan rakjat həndəklah məndʒadɪ əsəs kewebawəan kerədʒaan
+human_rights_un_mli_rh_64kb_0074	kɪməhʊən ene həndəklah debuktikən mɛlalʊe pɪlehənrəjə bɪrkəla jaŋ sɛdʒate jaŋ məna həndəklah deədəkən sɪtʃərə sedʒəɡat dən samarətə dən həndəklah deədəkən sɪtʃərə onde sʊlɪt atau mɛlalʊe ətʃara pəŋundɪan bebəs jaŋ kɪtərə
 human_rights_un_mli_rh_64kb_0075	ərkarə
-human_rights_un_mli_rh_64kb_0076	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə kebɪbasan bɛrfɪker perəsaan hatɪ danoɡəma
-human_rights_un_mli_rh_64kb_0077	hək ene tɛrmasʊkləh kebɪbasan mənukar oɡamə atau kepɪrtʃajəanɲədan kebɪbasan saməda sɪtʃərə bɛrsendirɪan atau sɪtʃərə bɪrsəmasəmədɪŋan oraŋoraŋ lain dən sɪtʃərə tɛrbʊka atau bersendɪrɪ meŋənʊti ʊɡamaatau kɪpɪrtʃajaanɲa mɛlalʊe pɛŋədʒarən əmələn pemʊdʒəən dən pɪmatuhən
-human_rights_un_mli_rh_64kb_0078	ərkarə
-human_rights_un_mli_rh_64kb_0079	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə kebɪbasan pendapət dən məŋɛlʊərkənfekiran
-human_rights_un_mli_rh_64kb_0080	hək ene tɛrmasʊkləh kebɪbasan mɛmɛɡaŋ pendapət tənpa ɡəŋɡoandən mɪnontut mɪnɪremə dən məɲɪbarkən məklumat dən boah fɪkɪran mɪlaloesɛbaraŋ mɪdea dən tənpa mɪŋerə sempadən
-human_rights_un_mli_rh_64kb_0081	ərkarə
-human_rights_un_mli_rh_64kb_0082	
-human_rights_un_mli_rh_64kb_0083	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə kebɪbasan berhimpun sɪtʃərə əməndən mənubuhkan pərsatʊan
-human_rights_un_mli_rh_64kb_0084	
-human_rights_un_mli_rh_64kb_0085	ɪada seseəpa pun bʊləh dipaksə məndʒadɪ ahli manamənə pərtobohən
-human_rights_un_mli_rh_64kb_0086	ərkarə
-human_rights_un_mli_rh_64kb_0087	
-human_rights_un_mli_rh_64kb_0088	ətɪəp ʊraŋ bɛrhək meŋambɪl bahaɡiən dəlam kerədʒaan nəɡarəɲəsətʃərə laŋsoŋ atau mɛlalʊe wakilwakɪl jaŋ dɪpelih dɪŋən bebəs
-human_rights_un_mli_rh_64kb_0089	
-human_rights_un_mli_rh_64kb_0090	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə pəlʊəŋ samarətə kɛpadapɛrxɪdmətan əwəm dəlam nɪɡərəɲa
-human_rights_un_mli_rh_64kb_0091	
-human_rights_un_mli_rh_64kb_0092	əmahʊan rakjat həndəklah məndʒadɪ əsəs kewebawəan kerədʒaan
-human_rights_un_mli_rh_64kb_0093	kɪməhʊən ene həndəklah debuktikən mɛlalʊe pɪlehənrəjə bɪrkəla jaŋ sədʒatejaŋ məna həndəklah deədəkən sɪtʃərə sedʒəɡat dən samarətə danhendəklah deədəkən sɪtʃərə onde sʊlɪt atau mɛlalʊe ətʃara peŋʊndiənbebas jaŋ kɪtərə
-human_rights_un_mli_rh_64kb_0094	ərkarə
-human_rights_un_mli_rh_64kb_0095	ətɪəp ʊraŋ sɪbəɡai əŋɡota maʃarəkət ədələh bɛrhək kɪpədə kəseləmətansʊsiəl dəns bɛrhək mɛndʒadɪkən soatu kɪɲətaan mɛlalʊe osahə nɪɡərə dənkɪrdʒəsama antərabəŋsa dən mɪnorʊt orɡənɪsai dən sombɛrsʊmbɪr dəlamnəɡəra məseŋmaseŋ haxək əkʊnʊmɪ sʊseəl dən kebodajəan jaŋ tɛrmestibaɡi kɛmoleaanɲə dən pərkɛmbəŋan bebəs kepəribədɪanɲə
-human_rights_un_mli_rh_64kb_0096	ərkarə
-human_rights_un_mli_rh_64kb_0097	
-human_rights_un_mli_rh_64kb_0098	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə pəkərdʒaan kɪpədə pɪmilehənpɛkɪrdʒaanɲə sɪtʃərə bebəs kɪpədə kɪədaənkeadəən pəkərdʒaan jaŋadil dən bɪrfəədəh baɡɪɲa dən kɪpədə perlɪndoŋan darepadəpeŋəŋɡʊran
-human_rights_un_mli_rh_64kb_0099	
-human_rights_un_mli_rh_64kb_0100	ətɪəp ʊraŋ tənpa sɪbaraŋ pəmbɪsəən ədələh bɛrhək kepədəpɪŋɡadʒɪan jaŋ səma baɡɪ kərdʒə jaŋ səma
-human_rights_un_mli_rh_64kb_0101	
-human_rights_un_mli_rh_64kb_0102	ətɪəp ʊraŋ jaŋ bekərdʒa ədələh bɛrhək kɪpədə pembəjarən səraaɲaŋ adil dən bɪrfəədəh baɡɪɲa jaŋ məna mɛmpəstikan boat dɪri dənkəloarɡəɲə soatu kɪhidʊpən səsoai dɪŋən kəmoleaan mənʊsɪə dəɲəŋ məna ditəmbah dʒeka pɪrtʊ oləh tʃaratʃərə perlɪndoŋan sʊseəl jəŋlainɲə
-human_rights_un_mli_rh_64kb_0103	
-human_rights_un_mli_rh_64kb_0104	ətɪəp ʊraŋ bɛrhək mɪnobʊh dən məndʒadɪ ahli kɪsətʊən sekərdʒa baɡiməmpərlindʊŋi kɪpentiŋənkɛpəntɪŋanɲa
-human_rights_un_mli_rh_64kb_0105	ərkarə
-human_rights_un_mli_rh_64kb_0106	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə rehat dən məsa lapaŋ tərməsʊk bətasanmunəsəbah keətas məsa bekərdʒa dən tʃʊti bərɡadʒɪ jaŋ bɪrkəla
-human_rights_un_mli_rh_64kb_0107	ərkarə
-human_rights_un_mli_rh_64kb_0108	
-human_rights_un_mli_rh_64kb_0109	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə soatu təraf hɪdʊp jaŋ mɪmədai bəɡikesehatən dən kɪbadʒikən dɪri dən kelʊərɡaɲə tɛrmasʊkləh məkənanpəkaian pɛroməhan dən pɛŋəwasən pɛrobətan sərtə perxɪdmətənsosɪəl jaŋ pɪrlʊ dən bɛrhək kɪpədə perlɪndoŋan ketekə bɪrləkʊɲapeŋaŋɡorən kɪsakitən kɪtidəkʊpajaan depərdʒandəan kəʊsʊrən ataulainlain kɪkurəŋən kɪhidʊpən dəlam kɛadaən di loar kəwəlanɲa
-human_rights_un_mli_rh_64kb_0110	
-human_rights_un_mli_rh_64kb_0111	bu dən ənək ədələh bɛrhək kɪpədə dʒaɡəan sərtə bantʊən xəs
-human_rights_un_mli_rh_64kb_0112	emoakənəkkənak saməda dɪlahɪrkən di dəlam maupun di loar nekahhɪndaklah mɪnɪkməte perlɪndoŋan sʊseəl jaŋ səma
-human_rights_un_mli_rh_64kb_0113	ərkarə
-human_rights_un_mli_rh_64kb_0114	
-human_rights_un_mli_rh_64kb_0115	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə pələdʒəran
-human_rights_un_mli_rh_64kb_0116	əladʒərən həndaklahdɪberikan pɛrtʃʊma səkʊraŋkurəŋɲa pəda pɪrɪŋkət əwəl dənəsasɲa
-human_rights_un_mli_rh_64kb_0117	əladʒərən pɪrɪŋkət əwəl həndəklah dɪwadʒɪbkən
-human_rights_un_mli_rh_64kb_0118	əladʒaranteknekəl sərtə prʊfɛseɔnəl həndəklah desɪdiakan ontok omom dənpɛladʒəran tiŋɡe həndəklah mɛmpʊɲai akses jaŋ samarətə kɛpədəsɪmʊə ʊraŋ ətəs dəsar kəboləhən
-human_rights_un_mli_rh_64kb_0119	
-human_rights_un_mli_rh_64kb_0120	əladʒərən həndəklah dɪtodʒokan kɪpədə pərkɛmbəŋan səpɪnohɲəkepɛrebədɪən mənʊsɪə dən kɪ ərəh mɛmpɛrkʊkohkan laɡɪ rəsa hʊrmatbaɡe haxək dən kebɪbasan asəse mənʊsɪə laɲə həndəklah mɛmupʊkpɛrsəfəhamən kəsəbəran dən pɛrsahəbətan di kəlaŋən sɪmoa nɛɡərəbəŋsə atau kumpulənkompolan oɡamə dən həndəklah memədʒʊkanseɡala kɪɡɪatən əŋsaəŋsə ɪrsətʊ demi mɛmelehərə kəəmənən
-human_rights_un_mli_rh_64kb_0121	
-human_rights_un_mli_rh_64kb_0122	bʊbapa mɛmpʊɲai hək tɛrdahulo ontok mɪmelɪh dʒenɪs pələdʒəran jaŋəkan debɪrikən kɪpədə ənakanak mɛrəkə
-human_rights_un_mli_rh_64kb_0123	ərkarə
-human_rights_un_mli_rh_64kb_0124	
-human_rights_un_mli_rh_64kb_0125	ətɪəp ʊraŋ bɛrhək sɪtʃərə bebəs meŋambɪl bahaɡiən dəlam kəɡɪətankɪbodəjaan maʃarakatɲə mɪnɪkməte kɛsəniən dən saməsəməmɛrasai kɪmədʒʊən sains dən fəɛdahfaədahɲə
-human_rights_un_mli_rh_64kb_0126	
-human_rights_un_mli_rh_64kb_0127	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə perlɪndoŋan kɛpɪnteŋankepentɪŋan moral dən kəbəndaan hasil darɪ sɪbaraŋ pɪnxəselan sainskɛsʊsastɪrəən atau kɛsəniən jaŋ məna ɪəɲa ədələh pəntʃeptaɲə
-human_rights_un_mli_rh_64kb_0128	ərkarə
-human_rights_un_mli_rh_64kb_0129	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə soatu sʊsʊnan sʊseəl dən əntərabəŋsədaləm məna haxək asəse dən kebɪbasan jaŋ tɛrmaktob dəlam ərɪʃtehəranenɪ bʊləh dɪdʒadɪkən kɪɲətaan səpənuhɲa
-human_rights_un_mli_rh_64kb_0130	ərkarə
-human_rights_un_mli_rh_64kb_0131	
-human_rights_un_mli_rh_64kb_0132	ətɪəp ʊraŋ mɛmpʊɲai kɪwadʒipən terhadəp maʃarəkət haɲə dələmmana pərkɛmbəŋan kepəribədɪanɲə sɪtʃərə bebəs dən selurʊhɲətɛrmʊŋkin
-human_rights_un_mli_rh_64kb_0133	
-human_rights_un_mli_rh_64kb_0134	ələm məŋəməlkan haxək dən kɛbəbasanɲə sətiəp ʊraŋ tɛrtəkluxəɲa kɪpədə batəsənbatəsan səpɛrti jaŋ dɪtəntʊkən oləh ondaŋundəŋ sɛmətəməta baɡɪ tʊdʒoən məndʒəmɪn peŋekterafan dənpɛŋhɔrmətən jaŋ sepətutɲə terhadəp haxək dən kebɪbasan ʊrəŋlain dən ontok mɪndɪkəti kepɪrluankeperluan sepətutɲə baɡɪ əxlakketɪntɛraman əwəm dən kɪbadʒikən omom dəlam soatu maʃarəkət jəŋdəmʊkratɪk
-human_rights_un_mli_rh_64kb_0135	
-human_rights_un_mli_rh_64kb_0136	əxak dən kebɪbasan ene tedak bʊləh səma sɛkale deəməlkən sɛtʃərəbɪrtentaŋən dɪŋən todʒuəntʊdʒoən dən prinsipprinsep əŋsaəŋsə
-human_rights_un_mli_rh_64kb_0137	ɪrsətʊ
-human_rights_un_mli_rh_64kb_0138	ərkarə
-human_rights_un_mli_rh_64kb_0139	ɪada əpaəpa dʒoa dəlam ɛriʃtɪharən ene bʊləh dɪtafsɪrkən sɛbaɡe sɪdea tɪrserətməmbərɪkan kɪpədə manamənə nɪɡərə kʊmpulən atau pɪrsəɔrəŋensɪbarəŋ hək ontok mɛlibətkan dɪri dəlam əpaəpa kɪɡɪatən atau melakʊkənəpəapa pɪrboətən dɪŋən tʊdʒoən mɛmʊsnahkan əpaəpa hək dən kɛbɪbəsəɲaŋ tɛrmaktob dəlam ɛriʃtɪharən ene
+human_rights_un_mli_rh_64kb_0076	ətɪəp ʊraŋ sɪbəɡai əŋɡota maʃarəkət ədələh bɛrhək kɪpədə kɪsəlamatan sʊseəl dəns bɛrhək mɛndʒadɪkən soatu kɪɲətaan mɛlalʊe osahə nɪɡərə dən kerdʒəsəma antərabəŋsa dən mɪnorʊt orɡənɪsai dən sombɛrsʊmbɪr dəlam nɪɡərə məseŋmaseŋ haxək əkʊnʊmɪ sʊseəl dən kebodajəan jaŋ termesti baɡɪ kɛmoleaanɲə dən pərkɛmbəŋan bebəs kepəribədɪanɲə
+human_rights_un_mli_rh_64kb_0077	ərkarə
+human_rights_un_mli_rh_64kb_0078	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə pəkərdʒaan kɪpədə pɪmilɪhən pɛkɪrdʒəanɲa sɪtʃərə bebəs kɪpədə kɪədaənkeadəən pəkərdʒaan jaŋ adil dən bɪrfəədəh baɡɪɲa dən kɪpədə perlɪndoŋan darepəda pɪŋaŋɡʊrən
+human_rights_un_mli_rh_64kb_0079	ətɪəp ʊraŋ tənpa sɪbaraŋ pəmbɪsəən ədələh bɛrhək kɪpədə pəŋɡədʒean jaŋ səma baɡɪ kərdʒə jaŋ səma
+human_rights_un_mli_rh_64kb_0080	ətɪəp ʊraŋ jaŋ bekərdʒa ədələh bɛrhək kɪpədə pembəjarən sarəan jaŋ adil dən bɪrfəədəh baɡɪɲa jaŋ məna mɛmpəstikan boat dɪri dən kelʊərɡaɲə soatu kɪhidʊpən səsoai dɪŋən kəmoleaan mənʊsɪə dən jaŋ məna ditəmbah dʒeka pɪrtʊ oləh tʃaratʃərə perlɪndoŋan sʊseəl jaŋ lainɲə
+human_rights_un_mli_rh_64kb_0081	ətɪəp ʊraŋ bɛrhək mɪnobʊh dən məndʒadɪ ahli kɪsətʊən sekərdʒa baɡɪ mɛmperlinduŋi kɪpentiŋənkɛpəntɪŋanɲa
+human_rights_un_mli_rh_64kb_0082	ərkarə
+human_rights_un_mli_rh_64kb_0083	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə rehat dən məsa lapaŋ tərməsʊk bətəsən munasabəh keətas məsa bekərdʒa dən tʃʊti bərɡadʒɪ jaŋ bɪrkəla
+human_rights_un_mli_rh_64kb_0084	ərkarə
+human_rights_un_mli_rh_64kb_0085	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə soatu təraf hɪdʊp jaŋ mɪmədai baɡɪ kɛsehətan dən kɪbadʒikən dɪri dən kelʊərɡaɲə tɛrmasʊkləh məkənən pakaian pɛroməhan dən pɛŋəwasən pɛrobətan sərtə pɪrxedmatən sʊseəl jaŋ pɪrlʊ dən bɛrhək kɪpədə perlɪndoŋan ketekə berlakoɲə pɪŋaŋɡʊrən kɪsakitən kɪtidəkʊpajaan depərdʒandəan kəʊsʊrən atau lainlain kɪkurəŋən kɪhidʊpən dəlam kɛadaən di loar kəwəlanɲa
+human_rights_un_mli_rh_64kb_0086	bu dən ənək ədələh bɛrhək kɪpədə dʒaɡəan sərtə bantʊən xəs
+human_rights_un_mli_rh_64kb_0087	əmʊə kanakkənək saməda dɪlahɪrkən di dəlam maupun di loar nekah həndəklah mɪnɪkməte perlɪndoŋan sʊseəl jaŋ səma
+human_rights_un_mli_rh_64kb_0088	ərkarə
+human_rights_un_mli_rh_64kb_0089	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə pələdʒəran
+human_rights_un_mli_rh_64kb_0090	əladʒərən həndəklah debɪrikən pɛrtʃʊma səkʊraŋkurəŋɲa pəda pɪrɪŋkət əwəl dən asəsɲə
+human_rights_un_mli_rh_64kb_0091	əladʒərən pɪrɪŋkət əwəl həndəklah dɪwadʒɪbkən
+human_rights_un_mli_rh_64kb_0092	əladʒərən tɪknikal sərtə prʊfɛseɔnəl həndəklah desɪdiakan ontok omom dən pələdʒəran tiŋɡe həndəklah mɛmpʊɲai akses jaŋ samarətə kɪpədə sɪmoa ʊraŋ ətəs dəsar kəboləhən
+human_rights_un_mli_rh_64kb_0093	əladʒərən həndəklah dɪtodʒokan kɪpədə pərkɛmbəŋan səpənuhɲa kəpɛribadiən mənʊsɪə dən kɪ ərəh mɛmpɛrkʊkohkan laɡɪ rəsa hormat baɡɪ haxək dən kebɪbasan asəse mənʊsɪə laɲə həndəklah mɪmopʊk pɪrsəfahaman kəsəbəran dən pɛrsahəbətan di kəlaŋən sɪmoa nɪɡərə bəŋsa atau kumpulənkompolan oɡamə dən həndəklah mɪmadʒukən sɪɡələ kɪɡɪatən əŋsaəŋsə ɪrsətʊ demi mɛmelehərə kəəmənən
+human_rights_un_mli_rh_64kb_0094	bʊbapa mɛmpʊɲai hək tɛrdahulo ontok mɪmelɪh dʒenɪs pələdʒəran jaŋ əkən debɪrikən kɪpədə ənakanak mɛrəkə
+human_rights_un_mli_rh_64kb_0095	ərkarə
+human_rights_un_mli_rh_64kb_0096	ətɪəp ʊraŋ bɛrhək sɪtʃərə bebəs meŋambɪl bahaɡiən dəlam kɪɡɪatən kebodajəan maʃarakatɲə mɪnɪkməte kɛsəniən dən samasəmə mɪrəsai kɪmədʒʊən sains dən fəɛdahfaədahɲə
+human_rights_un_mli_rh_64kb_0097	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə perlɪndoŋan kɛpɪnteŋankepentɪŋan moral dən kəbəndaan hasil darɪ sɪbaraŋ pɪnxəselan sains kɛsusəsterəən atau kɛsəniən jaŋ məna ɪəɲa ədələh pəntʃeptaɲə
+human_rights_un_mli_rh_64kb_0098	ərkarə
+human_rights_un_mli_rh_64kb_0099	ətɪəp ʊraŋ ədələh bɛrhək kɪpədə soatu sʊsʊnan sʊseəl dən antərabəŋsa dəlam məna haxək asəse dən kebɪbasan jaŋ tɛrmaktob dəlam ɛriʃtɪharən ene bʊləh dɪdʒadɪkən kɪɲətaan səpənuhɲa
+human_rights_un_mli_rh_64kb_0100	ərkarə
+human_rights_un_mli_rh_64kb_0101	ətɪəp ʊraŋ mɛmpʊɲai kɪwadʒipən terhadəp maʃarəkət haɲə dəlam məna pərkɛmbəŋan kepəribədɪanɲə sɪtʃərə bebəs dən sɛlorohɲa tɪrmʊŋkin
+human_rights_un_mli_rh_64kb_0102	ələm məŋəməlkan haxək dən kɛbəbasanɲə sətiəp ʊraŋ tɛrtaklok haɲə kɪpədə batəsənbatəsan səpɛrti jaŋ dɪtəntʊkən oləh ondaŋundəŋ sɛmətəməta baɡɪ tʊdʒoən məndʒəmɪn peŋekterafan dən pɪnxɔrmatən jaŋ sepətutɲə terhadəp haxək dən kebɪbasan ʊraŋ lain dən ontok mɪndɪkəti kepɪrluankeperluan sepətutɲə baɡɪ axlək kɛtɛntɪramən əwəm dən kɪbadʒikən omom dəlam soatu maʃarəkət jaŋ dəmʊkratek
+human_rights_un_mli_rh_64kb_0103	əxak dən kebɪbasan ene tedak bʊləh səma sɛkale deəməlkən sɪtʃərə bərtɛntəŋan dɪŋən todʒuəntʊdʒoən dən prinsipprinsep əŋsaəŋsə ɪrsətʊ
+human_rights_un_mli_rh_64kb_0104	ərkarə
+human_rights_un_mli_rh_64kb_0105	ɪada əpaəpa dʒoa dəlam ɛriʃtɪharən ene bʊləh dɪtafsɪrkən sɛbaɡe sɪdea tɪrsirat memberɪkan kɪpədə manamənə nɪɡərə kʊmpulən atau pɪrseʊraŋen sɪbaraŋ hək ontok mɛlibətkan dɪri dəlam əpaəpa kɪɡɪatən atau mɪlakukən əpaəpa pɪrboətən dɪŋən tʊdʒoən mɛmʊsnahkan əpaəpa hək dən kebɪbasan jaŋ tɛrmaktob dəlam ɛriʃtɪharən ene

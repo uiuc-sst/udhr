@@ -1,0 +1,58 @@
+# This file maps ISO 639-3 codes to the model names provided in the languagenet archive.
+# In many cases, a language is being mapped to a closely related language or dialect,
+# because we don't have the right one.
+#
+eng-GB	english_4_2_2
+eng-US	american-english_8_2_2
+eng-AU	american-english_8_2_2
+ace	malay_2_4_4
+afr	dutch_8_3_2
+arz	egyptian-arabic_4_2_2
+ban	indonesian_2_4_4
+por-BR	portuguese_8_4_2
+bug	indonesian_2_4_4
+bul	bulgarian_2_4_4
+cat	spanish_2_4_2
+cmn	mandarin_2_4_4
+ces	czech_4_4_4
+dan	danish_2_4_4
+nld	dutch_8_3_2
+epo	italian_8_2_3
+fao	norwegian_2_4_4
+fil	filipino_4_4_4
+fin	finnish_2_4_4
+fry	dutch_8_3_2
+fra	french_8_4_2
+deu	german_8_4_2
+ell	greek_2_2_2
+heb	hebrew_2_4_4
+hin	hindi_4_2_2
+hun	hungarian_2_4_2
+ind	indonesian_2_4_4
+ita	italian_8_2_3
+jav	javanese_4_2_2
+jpn	japanese_4_4_4
+kor	korean_2_4_4
+lat-v1	italian_8_2_3
+lat-v2	italian_8_2_3
+lav	latvian_2_4_4
+ltz	german_8_4_2
+min	javanese_4_2_2
+zlm	malay_2_4_4
+nno	norwegian_2_4_4
+oci	french_8_4_2
+pol	polish_2_2_2
+pam	filipino_4_4_4
+por-PT	portuguese_8_4_2
+ron	romanian_2_3_3
+rus	russian_8_2_2
+slk	slovak_4_4_4
+spa	spanish_2_4_2
+sun	sundanese_2_4_4
+swe	swedish_4_4_4
+tam	tamil_2_3_3
+ukr	ukrainian_4_4_4
+urd	urdu_2_4_4
+wln	french_8_4_2
+yid	hebrew_2_4_4
+

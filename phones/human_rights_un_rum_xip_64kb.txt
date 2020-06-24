@@ -1,140 +1,106 @@
-human_rights_un_rum_xip_64kb_0001	deklaraia universalə a drepturilor omului
+human_rights_un_rum_xip_64kb_0001	deklaratsia universalə a drepturilor omului
 human_rights_un_rum_xip_64kb_0002	preambul
-human_rights_un_rum_xip_64kb_0003	konsiderɨnd kə rekunoaterea demnitəi inerente tuturor membrilor familieiumane i a drepturilor lor egale i inalienabile konstituie fundamentul libertəidreptəi i pətʃi ɨn lume
-human_rights_un_rum_xip_64kb_0004	konsiderɨnd kə ignorarea i dispreuirea drepturilor omului au dus la akte debarbarie kare revoltə kontina omeniri i kə fəurirea unei lumi ɨn kare fineleumane se vor bukura de libertatea kuvɨntului i a konvindʒerilor i vor fi eliberatede teamə i mizerie a fost proklamatə drept kea mai ɨnaltə aspiraie a oamenilor
-human_rights_un_rum_xip_64kb_0005	konsiderɨnd kə este esenial ka drepturile omului sə fie okrotite de autoritatealedʒi pentru ka omul sə nu fie silit sə rekurgə ka soluie ekstremə la revoltəɨmpotriva tiraniei i asupriri
-human_rights_un_rum_xip_64kb_0006	konsiderɨnd kə este esenial a se ɨnkuraʒa dezvoltarea relaiilor prieteneti ɨntrenaiuni
-human_rights_un_rum_xip_64kb_0007	konsiderɨnd kə ɨn kartə popoarele organizaiei naiunilor unite au proklamat dinou kredina lor ɨn drepturile fundamentale ale omului ɨn demnitatea i ɨnvaloarea persoanei umane drepturi egale pentru bərbai i femei i kə au hotərɨtsə favorizeze progresul sotʃial i ɨmbunətəirea kondiilor de viaə ɨn kadrul uneilibertəi mai mari
-human_rights_un_rum_xip_64kb_0008	konsiderɨnd kə statele membre sau angaʒat sə promoveze ɨn kolaborare ku
-human_rights_un_rum_xip_64kb_0009	organizaia naiunilor unite respektul universal i efektiv faə de drepturileomului i libertəile fundamentale prekum i respektarea lor universalə iefektivə
-human_rights_un_rum_xip_64kb_0010	konsiderɨnd kə o konkepie komunə despre akeste drepturi i libertəi este dekea mai mare importanə pentru realizarea deplinə a akestui angaʒament
-human_rights_un_rum_xip_64kb_0011	adunearea generala proklaməprezenta deklaraie universalə a drepturilor omului ka idealkomun spre kare trebuie sə tində toate popoarele i toate naiunile pentru katoate persoanele i toate organele sotʃietəi sə se strəduiaskə avɨnd akeastə
-human_rights_un_rum_xip_64kb_0012	deklaraie permanent ɨn minte ka prin ɨnvəturə i edukaie sə dezvolterespektul pentru akeste drepturi i liberəi i sə asigure prin məsuri progresivede ordin naional i internaional rekunoaterea i aplikarea lor universalə iefektivə atɨt ɨn sɨnul popoarelor statelor membre kɨt i al kelor din teritorile aflatesub ʒurisdikia lor
-human_rights_un_rum_xip_64kb_0013	artikolul
-human_rights_un_rum_xip_64kb_0014	toate finele umane se nask libere i egale ɨn demnitate i ɨn drepturi
-human_rights_un_rum_xip_64kb_0015	eleɨnzestrae ku raiune i kontinə i trebuie sə se komporte uni faə de altele ɨnspiritul fraternitəii
-human_rights_un_rum_xip_64kb_0016	artikolul
-human_rights_un_rum_xip_64kb_0017	fiekare om se poate prevala de toate drepturile i libertəile proklamate ɨnprezenta deklaraie fərə nitʃi un fel de deosebire ka de pildə deosebirea derasə kuloare seks limbə relidʒie opinie politikə sau orike altə opinie de oridʒinenaionalə sau sotʃialə avere natere sau orike alte ɨmpreʒurəri
-human_rights_un_rum_xip_64kb_0018	ɨn afarə de akeasta nu se va fake nitʃi o deosebire dupə statutul politik ʒuridiksau internaional al tsəri sau al teritoriului de kare ine o persoanə fie kə akeastəarə sau teritoriu sɨnt independente sub tutelə neautonome sau supuse vreuneialte limitəri a suveranitəte
+human_rights_un_rum_xip_64kb_0003	konsiderɨnd kə rekunoaʃterea demnitətsi inerente tuturor membrilor familiei umane ʃi a drepturilor lor egale ʃi inalienabile konstituie fundamentul libertətsi dreptətsi ʃi pətʃi ɨn lume
+human_rights_un_rum_xip_64kb_0004	konsiderɨnd kə ignorarea ʃi dispretsuirea drepturilor omului au dus la akte de barbarie kare revoltə konʃtintsa omeniri ʃi kə fəurirea unei lumi ɨn kare fintsele umane se vor bukura de libertatea kuvɨntului ʃi a konvindʒerilor ʃi vor fi eliberate de teamə ʃi mizerie a fost proklamatə drept kea mai ɨnaltə aspiratsie a oamenilor
+human_rights_un_rum_xip_64kb_0005	konsiderɨnd kə este esentsial ka drepturile omului sə fie okrotite de autoritatea ledʒi pentru ka omul sə nu fie silit sə rekurgə ka solutsie ekstremə la revoltə ɨmpotriva tiraniei ʃi asupriri
+human_rights_un_rum_xip_64kb_0006	konsiderɨnd kə este esentsial a se ɨnkuraʒa dezvoltarea relatsilor prieteneʃti ɨntre natsiuni
+human_rights_un_rum_xip_64kb_0007	konsiderɨnd kə ɨn kartə popoarele organizatsiei natsiunilor unite au proklamat din nou kredintsa lor ɨn drepturile fundamentale ale omului ɨn demnitatea ʃi ɨn valoarea persoanei umane drepturi egale pentru bərbatsi ʃi femei ʃi kə au hotərɨt sə favorizeze progresul sotʃial ʃi ɨmbunətətsirea konditsilor de viatsə ɨn kadrul unei libertətsi mai mari
+human_rights_un_rum_xip_64kb_0008	konsiderɨnd kə statele membre sau angaʒat sə promoveze ɨn kolaborare ku organizatsia natsiunilor unite respektul universal ʃi efektiv fatsə de drepturile omului ʃi libertətsile fundamentale prekum ʃi respektarea lor universalə ʃi efektivə
+human_rights_un_rum_xip_64kb_0009	konsiderɨnd kə o konkeptsie komunə despre akeste drepturi ʃi libertətsi este de kea mai mare importantsə pentru realizarea deplinə a akestui angaʒament
+human_rights_un_rum_xip_64kb_0010	adunarea generalə proklaməprezenta deklaratsie universalə a drepturilor omului ka ideal komun spre kare trebuie sə tində toate popoarele ʃi toate natsiunile pentru ka toate persoanele ʃi toate organele sotʃietətsi sə se strəduiaskə avɨnd akeastə deklaratsie permanent ɨn minte ka prin ɨnvətsəturə ʃi edukatsie sə dezvolte respektul pentru akeste drepturi ʃi libertətsi ʃi sə asigure prin məsuri progresive de ordin natsional ʃi internatsional rekunoaʃterea ʃi aplikarea lor universalə ʃi efektivə atɨt ɨn sɨnul popoarelor statelor membre kɨt ʃi al kelor din teritorile aflate sub ʒurisdiktsia lor
+human_rights_un_rum_xip_64kb_0011	artikolul
+human_rights_un_rum_xip_64kb_0012	toate fintsele umane se nask libere ʃi egale ɨn demnitate ʃi ɨn drepturi
+human_rights_un_rum_xip_64kb_0013	ele sunt ɨnzestrate ku ratsiune ʃi konʃtintsə ʃi trebuie sə se komporte unele fatsə de altele ɨn spiritul fraternitətsi
+human_rights_un_rum_xip_64kb_0014	artikolul
+human_rights_un_rum_xip_64kb_0015	fiekare om se poate prevala de toate drepturile ʃi libertətsile proklamate ɨn prezenta deklaratsie fərə nitʃiun fel de deosebire ka de pildə deosebirea de rasə kuloare seks limbə relidʒie opinie politikə sau orike altə opinie de oridʒine natsionalə sau sotʃialə avere naʃtere sau orike alte ɨmpreʒurəri
+human_rights_un_rum_xip_64kb_0016	ɨn afarə de akeasta nu se va fake nitʃio deosebire dupə statutul politik ʒuridik sau internatsional al tsəri sau al teritoriului de kare tsine o persoanə fie kə akeastə tsarə sau teritoriu sunt independente sub tutelə neautonome sau supuse vreunei alte limitəri a suveranitətsi
+human_rights_un_rum_xip_64kb_0017	artikolul
+human_rights_un_rum_xip_64kb_0018	orike fintsə umanə are dreptul la viatsə la libertate ʃi la sekuritatea persoanei sale
 human_rights_un_rum_xip_64kb_0019	artikolul
-human_rights_un_rum_xip_64kb_0020	orike finə umanə are dreptul la viaə la libertate i la sekuritatea persoaneisale
-human_rights_un_rum_xip_64kb_0021	artikolul
-human_rights_un_rum_xip_64kb_0022	nimeni nu va fi inut ɨn sklavie nitʃi ɨn servitute
-human_rights_un_rum_xip_64kb_0023	sklavaʒul i komerul ku sklavi sɨntinterzise sub toate formele lor
+human_rights_un_rum_xip_64kb_0020	nimeni nu va fi tsinut ɨn sklavie nitʃi ɨn servitute
+human_rights_un_rum_xip_64kb_0021	sklavaʒul ʃi komertsul ku sklavi sunt interzise sub toate formele lor
+human_rights_un_rum_xip_64kb_0022	artikolul
+human_rights_un_rum_xip_64kb_0023	nimeni nu va fi supus la torturi nitʃi la pedepse sau tratamente krude inumane sau degradante
 human_rights_un_rum_xip_64kb_0024	artikolul
-human_rights_un_rum_xip_64kb_0025	nimeni nu va fi supus torturi nitʃi la pedepse sau tratamente krude inumane saudegradante
+human_rights_un_rum_xip_64kb_0025	fiekare om are dreptul sə i se rekunoaskə pretutindeni personalitatea ʒuridikə
 human_rights_un_rum_xip_64kb_0026	artikolul
-human_rights_un_rum_xip_64kb_0027	fiekare om are dreptul sə i se rekunoaka pretutindeni personalitatea ʒuridikə
-human_rights_un_rum_xip_64kb_0028	artikolul
-human_rights_un_rum_xip_64kb_0029	toi oameni sɨnt egali ɨn faa ledʒi i au fərə nitʃi o deosebire dreptul la o egaləprotekie a legi
-human_rights_un_rum_xip_64kb_0030	toi oameni au dreptul la o protekie egalə ɨmpotriva orikəreidiskriminəri kare ar viola prezenta deklaraie i ɨmpotriva orikərei provokəri la oasemenea diskriminare
+human_rights_un_rum_xip_64kb_0027	totsi oameni sunt egali ɨn fatsa ledʒi ʃi au fərə nitʃio deosebire dreptul la o egalə protektsie a legi
+human_rights_un_rum_xip_64kb_0028	totsi oameni au dreptul la o protektsie egalə ɨmpotriva orikərei diskriminəri kare ar viola prezenta deklaratsie ʃi ɨmpotriva orikərei provokəri la o asemenea diskriminare
+human_rights_un_rum_xip_64kb_0029	artikolul
+human_rights_un_rum_xip_64kb_0030	orike persoanə are dreptul la satisfaktsia efektivə din partea instantselor ʒuridike natsionale kompetente ɨmpotriva aktelor kare violeazə drepturile fundamentale kei sunt rekunoskute prin konstitutsie sau lege
 human_rights_un_rum_xip_64kb_0031	artikolul
-human_rights_un_rum_xip_64kb_0032	orike persoana are dreptul la satisfakia efektivə din partea instanelor ʒuridikenaionale kompetente ɨmpotriva aktelor kare violeazə drepturile fundamentale kei sɨnt rekunoskute prin konstituie sau lege
+human_rights_un_rum_xip_64kb_0032	nimeni nu trebuie sə fie arestat detsinut sau eksilat ɨn mod arbitrar
 human_rights_un_rum_xip_64kb_0033	artikolul
-human_rights_un_rum_xip_64kb_0034	nimeni nu trebuie sə fie arestat deinut sau eksilat ɨn mod arbitrar
+human_rights_un_rum_xip_64kb_0034	orike persoanə are dreptul ɨn deplinə egalitate de a fi audiatə ɨn mod ekitabil ʃi publik de kətre un tribunal independent ʃi impartsial kare va hotərɨ fie asupra drepturilor ʃi obligatsilor sale fie asupra temeinitʃiei orikərei akuzəri ɨn materie penalə ɨndreptatə ɨmpotriva sa
 human_rights_un_rum_xip_64kb_0035	artikolul
-human_rights_un_rum_xip_64kb_0036	orike persoanə are dreptul ɨn deplinə egalitate de a fi audiatə ɨn mod ekitabil ipublik de kətre un tribunal independent i imparial kare va hotərɨ fie asupradrepturilor i obligaiilor sale fie asupra temeinitʃiei orikərei akuzəri ɨn materiepenalə ɨndreptatə ɨmpotriva sa
-human_rights_un_rum_xip_64kb_0037	artikolul
-human_rights_un_rum_xip_64kb_0038	
-human_rights_un_rum_xip_64kb_0039	orike persoanə akuzatə de komiterea unui akt ku karakter penal aredreptul sə fie presupusə nevinovatə pɨnə kɨnd vinovəia sa va fi stabilitə ɨnmod legal ɨn kursul unui prokes publik in kare iau fost asigurate toategaranile nekesare apərəri sale
-human_rights_un_rum_xip_64kb_0040	
-human_rights_un_rum_xip_64kb_0041	nimeni nu va fi kondamnat pentru akiuni sau omisiuni kare nuikonstituiau ɨn momentul kɨnd au fost komise un akt ku karakter penalkonform dreptului internaional sau naional
-human_rights_un_rum_xip_64kb_0042	de asemenea nu se vaplika nitʃi o pedeapsə mai grea dekɨt akea kare era aplikabilə ɨnmomentul kɨnd a fost səvɨrit aktul ku karakter penal
-human_rights_un_rum_xip_64kb_0043	artikolul
-human_rights_un_rum_xip_64kb_0044	nimeni nu va fi supus la imikstiuni arbitrare ɨn via sa personalə ɨn familia sa ɨndomitʃiliul lui sau ɨn korespondena sa nitʃi la atindʒeri aduse onoarei i reputaieisale
-human_rights_un_rum_xip_64kb_0045	orike persoanə are dreptul la protekia ledʒi ɨmpotriva unor asemeneaimikstiuni sau atindʒeri
-human_rights_un_rum_xip_64kb_0046	artikolul
-human_rights_un_rum_xip_64kb_0047	
-human_rights_un_rum_xip_64kb_0048	orike persoanə are dreptul de a tʃirkula ɨn mod liber i de ai aledʒeredina ɨn interiorul granielor unui stat
-human_rights_un_rum_xip_64kb_0049	
-human_rights_un_rum_xip_64kb_0050	orike persoanə are dreptul de a pərəsi orike arə inklusiv a sa i dereveni ɨn ara sa
+human_rights_un_rum_xip_64kb_0036	orike persoanə akuzatə de komiterea unui akt ku karakter penal are dreptul sə fie presupusə nevinovatə pɨnə kɨnd vinovətsia sa va fi stabilitə ɨn mod legal ɨn kursul unui prokes publik ɨn kare iau fost asigurate toate garantsile nekesare apərəri sale
+human_rights_un_rum_xip_64kb_0037	nimeni nu va fi kondamnat pentru aktsiuni sau omisiuni kare nu konstituiau ɨn momentul kɨnd au fost komise un akt ku karakter penal konform dreptului internatsional sau natsional
+human_rights_un_rum_xip_64kb_0038	de asemenea nu se va aplika nitʃio pedeapsə mai grea dekɨt akea kare era aplikabilə ɨn momentul kɨnd a fost səvɨrʃit aktul ku karakter penal
+human_rights_un_rum_xip_64kb_0039	artikolul
+human_rights_un_rum_xip_64kb_0040	nimeni nu va fi supus la imikstiuni arbitrare ɨn viatsa sa personalə ɨn familia sa ɨn domitʃiliul lui sau ɨn korespondentsa sa nitʃi la atindʒeri aduse onoarei ʃi reputatsiei sale
+human_rights_un_rum_xip_64kb_0041	orike persoanə are dreptul la protektsia ledʒi ɨmpotriva unor asemenea imikstiuni sau atindʒeri
+human_rights_un_rum_xip_64kb_0042	artikolul
+human_rights_un_rum_xip_64kb_0043	orike persoanə are dreptul de a tʃirkula ɨn mod liber ʃi de aʃi aledʒe reʃedintsa ɨn interiorul granitselor unui stat
+human_rights_un_rum_xip_64kb_0044	orike persoanə are dreptul de a pərəsi orike tsarə inklusiv a sa ʃi de reveni ɨn tsara sa
+human_rights_un_rum_xip_64kb_0045	artikolul
+human_rights_un_rum_xip_64kb_0046	ɨn kaz de persekutsie orike persoanə are dreptul de a kəuta azil ʃi de a benefitʃia de azil ɨn alte tsəri
+human_rights_un_rum_xip_64kb_0047	akest drept nu poate fi invokat ɨn kaz de urmərire ke rezultə ɨn mod real dintro krimə de drept komun sau din aktsiuni kontrare skopurilor ʃi printʃipilor organizatsiei natsiunilor unite
+human_rights_un_rum_xip_64kb_0048	artikolul a
+human_rights_un_rum_xip_64kb_0049	orike persoanə are dreptul la o ketətsenie
+human_rights_un_rum_xip_64kb_0050	nimeni nu poate fi lipsit ɨn mod arbitrar de ketətsenia sa sau de dreptul de aʃi skimba ketətsenia
 human_rights_un_rum_xip_64kb_0051	artikolul
-human_rights_un_rum_xip_64kb_0052	
-human_rights_un_rum_xip_64kb_0053	ɨn kaz de persekuie orike persoanə are dreptul de a kəuta azil i de abenefitʃia de azil ɨn alte tsəri
-human_rights_un_rum_xip_64kb_0054	
-human_rights_un_rum_xip_64kb_0055	akest drept nu poate fi invokat ɨn kaz de urmərire ke rezultə ɨn mod realdintro krimə de drept komun sau din akiuni kontrare skopurilor iprintʃipilor organizaiei naiunilor unite
-human_rights_un_rum_xip_64kb_0056	artikolul a
-human_rights_un_rum_xip_64kb_0057	
-human_rights_un_rum_xip_64kb_0058	orike persoanə are dreptul la o ketəeme
-human_rights_un_rum_xip_64kb_0059	
-human_rights_un_rum_xip_64kb_0060	nimeni nu poate fi lipsit ɨn mod arbitrar de ketəenia sa sau de dreptul deai skimba ketəema
-human_rights_un_rum_xip_64kb_0061	artikolul
-human_rights_un_rum_xip_64kb_0062	
-human_rights_un_rum_xip_64kb_0063	ku ɨnkepere de la ɨmplinirea vɨrstei legale bərbətul i femeia fərə nitʃi orestrikie ɨn ke privete rasa naionalitatea sau relidʒa au dreptul de a sekəsətori i de a ɨntemeia o familie
-human_rights_un_rum_xip_64kb_0064	ei au drepturi egale la kontraktareakəsətoriei ɨn dekursul kəsətoriei i la desfakerea ei
-human_rights_un_rum_xip_64kb_0065	
-human_rights_un_rum_xip_64kb_0066	kəsətoria nu poate fi ɨnkeiatə dekɨt ku konsimtsəmɨntul liber i deplin alvitorilor soi
-human_rights_un_rum_xip_64kb_0067	
-human_rights_un_rum_xip_64kb_0068	familia konstituie elementul natural i fundamental al sotʃietəi i aredreptul la okrotire din partea sotʃietəi i a statului
-human_rights_un_rum_xip_64kb_0069	artikolul
-human_rights_un_rum_xip_64kb_0070	
-human_rights_un_rum_xip_64kb_0071	orike persoanə are dreptul la proprietate atɨt singurə kɨt i ɨn asotʃiaie kuali
-human_rights_un_rum_xip_64kb_0072	
-human_rights_un_rum_xip_64kb_0073	nimeni nu poate fi lipsit ɨn mod arbitrar de proprietatea sa
-human_rights_un_rum_xip_64kb_0074	artikolul
-human_rights_un_rum_xip_64kb_0075	orike om are dreptul la libertatea gɨndiri de kontintə i relidʒie
-human_rights_un_rum_xip_64kb_0076	akest dreptinklude libertatea de ai skimba relidʒia sau konvindʒerea prekum i libertateade ai manifesta relidʒia sau konvindʒerea singur sau ɨmpreunə ku ali atɨt ɨnmod publik kɨt i privat prin ɨnvəturə praktitʃi relidʒioase kult i ɨndeplinireariturilor
-human_rights_un_rum_xip_64kb_0077	artikolul
-human_rights_un_rum_xip_64kb_0078	orike om are dreptul la libertatea opinilor i ekspriməri
-human_rights_un_rum_xip_64kb_0079	akest drept inkludelibertatea de a avea opini fərə fərə imikstiune din afarəprekum i libertatea de akəuta de a primi i de a rəspɨndi informai i idei prin orike miʒloake sindependent de frontierele de stat
-human_rights_un_rum_xip_64kb_0080	artikolul
-human_rights_un_rum_xip_64kb_0081	
-human_rights_un_rum_xip_64kb_0082	orike persoanə are dreptul la libertatea de ɨntrunire i de asotʃierepanikə
-human_rights_un_rum_xip_64kb_0083	
-human_rights_un_rum_xip_64kb_0084	nimeni nu poate fi silit sə fəkə parte dintro asotʃiaie
-human_rights_un_rum_xip_64kb_0085	artikolul
-human_rights_un_rum_xip_64kb_0086	
-human_rights_un_rum_xip_64kb_0087	orike persoanə are dreptul de a lua parte la kondukerea treburilor publikeale tsəri sale fie direkt fie prin reprezentani liber alei
-human_rights_un_rum_xip_64kb_0088	
-human_rights_un_rum_xip_64kb_0089	orike persoanə are dreptul de akes egal la funkiile publike din tsəra sa
-human_rights_un_rum_xip_64kb_0090	
-human_rights_un_rum_xip_64kb_0091	voina poporului trebuie sə konstituie baza puteri de stat
-human_rights_un_rum_xip_64kb_0092	akeastə voinətrebuie sə fie eksprimatə prin aledʒeri nefalsifikate kare sə aibə lok ɨn modperiodik prin sufradʒiu universal egal i eksprimat prin vot sekret sau urmɨndo prokedurə ekivalentə kare sə asigure libertatea votului
-human_rights_un_rum_xip_64kb_0093	artikolul
-human_rights_un_rum_xip_64kb_0094	orike persoanə ɨn kalitatea sa de membru al sotʃietəi are dreptul la sekuritateasotʃialə
-human_rights_un_rum_xip_64kb_0095	ea este ɨndreptəitə ka prin efortul national i kolaborarea internaionaləinɨnduse seama de organizarea i resursele fiekərei tsəri sə obinə realizareadrepturilor ekonomike sotʃiale i kulturale indispensabile pentru demnitatea sa ilibera dezvoltare a personalitəi sale
+human_rights_un_rum_xip_64kb_0052	ku ɨnkepere de la ɨmplinirea vɨrstei legale bərbətul ʃi femeia fərə nitʃio restriktsie ɨn ke priveʃte rasa natsionalitatea sau relidʒa au dreptul de a se kəsətori ʃi de a ɨntemeia o familie
+human_rights_un_rum_xip_64kb_0053	ei au drepturi egale la kontraktarea kəsətoriei ɨn dekursul kəsətoriei ʃi la desfakerea ei
+human_rights_un_rum_xip_64kb_0054	kəsətoria nu poate fi ɨnkeiatə dekɨt ku konsimtsəmɨntul liber ʃi deplin al vitorilor sotsi
+human_rights_un_rum_xip_64kb_0055	familia konstituie elementul natural ʃi fundamental al sotʃietətsi ʃi are dreptul la okrotire din partea sotʃietətsi ʃi a statului
+human_rights_un_rum_xip_64kb_0056	artikolul
+human_rights_un_rum_xip_64kb_0057	orike persoanə are dreptul la proprietate atɨt singurə kɨt ʃi ɨn asotʃiatsie ku altsi
+human_rights_un_rum_xip_64kb_0058	nimeni nu poate fi lipsit ɨn mod arbitrar de proprietatea sa
+human_rights_un_rum_xip_64kb_0059	artikolul
+human_rights_un_rum_xip_64kb_0060	orike om are dreptul la libertatea gɨndiri de konʃtintsə ʃi relidʒie
+human_rights_un_rum_xip_64kb_0061	akest drept inklude libertatea de aʃi skimba relidʒia sau konvindʒerea prekum ʃi libertatea de aʃi manifesta relidʒia sau konvindʒerea singur sau ɨmpreunə ku altsi atɨt ɨn mod publik kɨt ʃi privat prin ɨnvətsəturə praktitʃi relidʒioase kult ʃi ɨndeplinirea riturilor
+human_rights_un_rum_xip_64kb_0062	artikolul
+human_rights_un_rum_xip_64kb_0063	orike om are dreptul la libertatea opinilor ʃi ekspriməri
+human_rights_un_rum_xip_64kb_0064	akest drept inklude libertatea de a avea opini fərə imikstiune din afarə prekum ʃi libertatea de a kəuta de a primi ʃi de a rəspɨndi informatsi ʃi idei prin orike miʒloake ʃi independent de frontierele de stat
+human_rights_un_rum_xip_64kb_0065	artikolul
+human_rights_un_rum_xip_64kb_0066	orike persoanə are dreptul la libertatea de ɨntrunire ʃi de asotʃiere paʃnikə
+human_rights_un_rum_xip_64kb_0067	nimeni nu poate fi silit sə fəkə parte dintro asotʃiatsie
+human_rights_un_rum_xip_64kb_0068	artikolul
+human_rights_un_rum_xip_64kb_0069	orike persoanə are dreptul de a lua parte la kondukerea treburilor publike ale tsəri sale fie direkt fie prin reprezentantsi liber aleʃi
+human_rights_un_rum_xip_64kb_0070	orike persoanə are dreptul de akes egal la funktsile publike din tsara sa
+human_rights_un_rum_xip_64kb_0071	vointsa poporului trebuie sə konstituie baza puteri de stat
+human_rights_un_rum_xip_64kb_0072	akeastə vointsə trebuie sə fie eksprimatə prin aledʒeri nefalsifikate kare sə aibə lok ɨn mod periodik prin sufradʒiu universal egal ʃi eksprimat prin vot sekret sau urmɨnd o prokedurə ekivalentə kare sə asigure libertatea votului
+human_rights_un_rum_xip_64kb_0073	artikolul
+human_rights_un_rum_xip_64kb_0074	orike persoanə ɨn kalitatea sa de membru al sotʃietətsi are dreptul la sekuritatea sotʃialə
+human_rights_un_rum_xip_64kb_0075	ea este ɨndreptətsitə ka prin efortul natsional ʃi kolaborarea internatsionalə tsinɨnduse seama de organizarea ʃi resursele fiekərei tsəri sə obtsinə realizarea drepturilor ekonomike sotʃiale ʃi kulturale indispensabile pentru demnitatea sa ʃi libera dezvoltare a personalitətsi sale
+human_rights_un_rum_xip_64kb_0076	artikolul
+human_rights_un_rum_xip_64kb_0077	orike persoanə are dreptul la munkə la libera aledʒere a muntʃi sale la konditsi ekitabile ʃi satisfəkətoare de munkə prekum ʃi la okrotirea ɨmpotriva ʃomaʒului
+human_rights_un_rum_xip_64kb_0078	totsi oameni fərə nitʃio diskriminare au dreptul la salariu egal pentru munkə egalə
+human_rights_un_rum_xip_64kb_0079	orike om kare munkeʃte are dreptul la o retribuire ekitabilə ʃi satisfəkətoare kare səi asigure atɨt lui kɨt ʃi familiei sale o eksistentsə konformə ku demnitatea umanə ʃi kompletatə la nevoie prin alte miʒloake de protektsie sotʃialə
+human_rights_un_rum_xip_64kb_0080	orike persoanə are dreptul de a ɨntemeia sindikate ʃi de a se afilia la sindikate pentru apərarea intereselelor sale
+human_rights_un_rum_xip_64kb_0081	artikolul
+human_rights_un_rum_xip_64kb_0082	orike persoanə are dreptul la odihnə ʃi rekreatsie inklusiv la o limitare rezonabilə a zilei de munkə ʃi la konkedi periodike plətite
+human_rights_un_rum_xip_64kb_0083	artikolul
+human_rights_un_rum_xip_64kb_0084	orike om are dreptul la un nivel de trai kare sə asigure sənətatea ʃi bunəstarea lui ʃi familiei sale kuprinzɨnd hrana ɨmbrəkəmintea lokuintsa ɨngriʒirea medikalə prekum ʃi servitʃile sotʃiale nekesare
+human_rights_un_rum_xip_64kb_0085	el are dreptul la asigurare ɨn kaz de ʃomaʒ boalə invaliditate vəduvie bətrɨnetse sau ɨn kelelalte kazuri de pierdere a miʒloakelor de subzistentsə ɨn urma unor ɨmpreʒurəri independente de vointsa sa
+human_rights_un_rum_xip_64kb_0086	mama ʃi kopilul au dreptul la aʒutor ʃi okrotire deosebite
+human_rights_un_rum_xip_64kb_0087	totsi kopi fie kə sunt nəskutsi ɨn kadrul kəsətoriei sau ɨn afara akesteia se bukurə de akeaʃi protektsie sotʃialə
+human_rights_un_rum_xip_64kb_0088	artikolul
+human_rights_un_rum_xip_64kb_0089	orike persoanə are dreptul la ɨnvətsəturə
+human_rights_un_rum_xip_64kb_0090	ɨnvətsəmɨntul trebuie sə fie gratuit kel putsin ɨn kea ke priveʃte ɨnvətsəmɨntul elementar ʃi dʒeneral
+human_rights_un_rum_xip_64kb_0091	ɨnvətsəmɨntul elementar trebuie sə fie obligatoriu
+human_rights_un_rum_xip_64kb_0092	ɨnvətsəmɨntul tehnik ʃi profesional trebuie sə fie la ɨndemɨna tuturor iar ɨnvətsəmɨntul superior trebuie sə fie de asemenea egal akesibil tuturora pe bazə de merit
+human_rights_un_rum_xip_64kb_0093	ɨnvətsəmɨntul trebuie sə urməreaskə dezvoltarea deplinə a personalitətsi umane ʃi ɨntərirea respektului fatsə de drepturile omului ʃi libertətsile fundamentale
+human_rights_un_rum_xip_64kb_0094	el trebuie sə promoveze ɨntseledʒerea tolerantsa prietenia ɨntre toate popoarele ʃi toate grupurile rasiale sau relidʒioase prekum ʃi dezvoltarea aktivitətsi organizatsiei natsiunilor unite pentru mentsinerea pətʃii
+human_rights_un_rum_xip_64kb_0095	pərintsi au dreptul de prioritate ɨn aledʒerea felului de ɨnvətsəmɨnt pentru kopi lor minori
 human_rights_un_rum_xip_64kb_0096	artikolul
-human_rights_un_rum_xip_64kb_0097	
-human_rights_un_rum_xip_64kb_0098	orike persoanə are dreptul la munkə la libera aledʒere a muntʃi sale lakondii ekitabile i satisfəkətoare de munkə prekum i la okrotireaɨmpotriva omaʒului
-human_rights_un_rum_xip_64kb_0099	
-human_rights_un_rum_xip_64kb_0100	toi oameni farə nitʃi o diskriminare au dreptul la salariu egal pentrumunkə egalə
-human_rights_un_rum_xip_64kb_0101	
-human_rights_un_rum_xip_64kb_0102	orike om kare munkete are dreptul la o retribuire ekitabilə isatisfəkətoare kare səi asigure atɨt lui kɨt i familiei sale o eksistenəkonformə ku demnitatea umanə i kompletatə la nevoie prin alte miʒloakede protekie sotʃialə
-human_rights_un_rum_xip_64kb_0103	
-human_rights_un_rum_xip_64kb_0104	orike persoanə are dreptul de a ɨntemeia sindikate i de a se afilia lasindikate pentru apərarea intereselelor sale
+human_rights_un_rum_xip_64kb_0097	orike persoanə are dreptul de a lua parte ɨn mod liber la viatsa kulturalə a kolektivitətsi de a se bukura de arte ʃi de a partitʃipa la progresul ʃtintsifik ʃi la binefakerile lui
+human_rights_un_rum_xip_64kb_0098	fiekare om are dreptul la okrotirea intereselor morale ʃi materiale kare dekurg din orike lukrare ʃtintsifikə literarə sau artistikə al kərei autor este
+human_rights_un_rum_xip_64kb_0099	artikolul
+human_rights_un_rum_xip_64kb_0100	orike persoanə are dreptul la o orɨnduire sotʃialə ʃi internatsionalə ɨn kare drepturile ʃi libertətsile ekspuse ɨn prezenta deklaratsie pot fi pe deplin ɨnfəptuite
+human_rights_un_rum_xip_64kb_0101	artikolul
+human_rights_un_rum_xip_64kb_0102	orike persoanə are ɨndatoriri fatsə de kolektivitate deoareke numai ɨn kadrul akesteia este posibilə dezvoltarea liberə ʃi deplinə a personalitətsi sale
+human_rights_un_rum_xip_64kb_0103	ɨn eksertʃitarea drepturilor ʃi libertətsilor sale fiekare om nu este supus dekɨt numai ɨngrədirilor stabilite prin ledʒe eksklusiv ɨn skopul de a asigura kuvenita rekunoaʃtere ʃi respektare a drepturilor ʃi libertətsilor altora ʃi ka sə fie satisfəkute ʒustele kerintse ale moralei ordini publike ʃi bunəstəri dʒenerale ɨntro sotʃietate demokratikə
+human_rights_un_rum_xip_64kb_0104	akeste drepturi ʃi libertətsi nu vor putea fi ɨn nitʃiun kaz eksertʃitate kontrar skopurilor ʃi printʃipilor organizatsiei natsiunilor unite
 human_rights_un_rum_xip_64kb_0105	artikolul
-human_rights_un_rum_xip_64kb_0106	orike persoanə are dreptul la odihnə i rekreaie inklusiv la o limitare rezonabiləa zilei de munkə i la konkedi periodike plətite
-human_rights_un_rum_xip_64kb_0107	artikolul
-human_rights_un_rum_xip_64kb_0108	
-human_rights_un_rum_xip_64kb_0109	orike om are dreptul la un nivel de trai kare səi asigure sənətatea ibunəstarea lui i familiei sale kuprinzɨnd hrana ɨmbrəkəmintea lokuinaɨngriʒirea medikalə prekum i servitʃile sotʃiale nekesare
-human_rights_un_rum_xip_64kb_0110	el are dreptul lasigurare ɨn kaz de omaʒ boalə invaliditate vəduvie bətrɨne sau ɨnkelelalte kazuri de pierdere a miʒloakelor de subzistenə ɨn urma unorɨmpreʒurəri independente de voina sa
-human_rights_un_rum_xip_64kb_0111	
-human_rights_un_rum_xip_64kb_0112	mama i kopilul au dreptul la aʒutor i okrotire deosebite
-human_rights_un_rum_xip_64kb_0113	toi kopi fie kəsɨnt nəskui ɨn kadrul kəsətori sau ɨn afara akesteia se bukurə akeaiprotekie sotʃialə
-human_rights_un_rum_xip_64kb_0114	artikolul
-human_rights_un_rum_xip_64kb_0115	
-human_rights_un_rum_xip_64kb_0116	orike persoana are dreptul la ɨnvəturə
-human_rights_un_rum_xip_64kb_0117	invəmɨntul trebuie sə fiegratuit kel puin ɨn kea ke privete invəmɨntul elementar i dʒeneral
-human_rights_un_rum_xip_64kb_0118	invəmɨntul elementar trebuie sə fie obligatoriu
-human_rights_un_rum_xip_64kb_0119	invəmɨntul tehnik iprofesional trebuie sə fie la ɨndemɨna tuturor iar ɨnvəmɨntul superiortrebuie sə fie de asemenea egal akesibil tuturora pe bazə de merit
-human_rights_un_rum_xip_64kb_0120	
-human_rights_un_rum_xip_64kb_0121	ɨnvəmɨntul trebuie sə urməreaskə dezvoltarea deplinə a personalitəiumane i ɨntərirea respektului faə de drepturile omului i libertəilefundamentale
-human_rights_un_rum_xip_64kb_0122	el trebuie sə promoveze ɨneledʒerea tolerana prieteniaɨntre toate popoarele i toate grupurile rasiale sau relidʒioase prekum involtarea aktivitəi organizaiei naiunilor unite pentru menireneapətʃii
-human_rights_un_rum_xip_64kb_0123	
-human_rights_un_rum_xip_64kb_0124	pərini au dreptul de prioritate ɨn aledʒerea felului de ɨnvəmɨnt pentrukopi lor minori
-human_rights_un_rum_xip_64kb_0125	artikolul
-human_rights_un_rum_xip_64kb_0126	
-human_rights_un_rum_xip_64kb_0127	orike persoanə are dreptul de a lua parte ɨn mod liber la via kulturalə akolektivitəi de a se bukura de arte i de a partitʃipa la progresul tinifiki la binefakerile lui
-human_rights_un_rum_xip_64kb_0128	
-human_rights_un_rum_xip_64kb_0129	fiekare om are dreptul la okrotirea intereselor morale i materiale karedekurg din orike lukrare tinifikə literarə sau artistikə al kərei autor este
-human_rights_un_rum_xip_64kb_0130	artikolul
-human_rights_un_rum_xip_64kb_0131	orike persoanə are dreptul la o orɨnduir sotʃialə i internaionalə ɨn kare drepturilei libertəile ekspuse ɨn prezenta deklaraie pot fi pe deplin ɨnfəptuite
-human_rights_un_rum_xip_64kb_0132	artikolul
-human_rights_un_rum_xip_64kb_0133	
-human_rights_un_rum_xip_64kb_0134	orike persoanə are ɨndatoriri fatə de kolektivitate deoareke numai ɨnkadrul akesteia este posibilə dezvoltarea liberə i deplinə a personalitəisale
-human_rights_un_rum_xip_64kb_0135	
-human_rights_un_rum_xip_64kb_0136	in eksertʃitarea drepturilor i libertəilor sale fiekare om nu este supus dekɨtnumai ɨngrədirilor stabilite prin ledʒe eksklusiv ɨn skopul de a asigurakuvenita rekunoatere i respektare a drepturilor i libertailor altora i kasə fie satisfəkute ʒustele kerine ale moralei ordini publike i bunəstəridʒenerale ɨntro sotʃietate demokratikə
-human_rights_un_rum_xip_64kb_0137	
-human_rights_un_rum_xip_64kb_0138	akeste drepturi i libertəi nu vor putea fi ɨn nitʃi un kaz eksertʃitate kontrarskopurilor i printʃipilor organizaiei naiunilor unite
-human_rights_un_rum_xip_64kb_0139	artikolul
-human_rights_un_rum_xip_64kb_0140	nitʃi o dispozie a prezentei deklarai nu poate fi interpretatə ka implikɨnd pentruvreun stat grupare sau persoanə dreptul de a se deda la vreo aktivitate sau de asəvɨri vreun akt ɨndreptat spre desfinarea unor drepturi sau libertəi enunate ɨnprezenta deklaraie
+human_rights_un_rum_xip_64kb_0106	nitʃio dispozitsie a prezentei deklaratsi nu poate fi interpretatə ka implikɨnd pentru vreun stat grupare sau persoanə dreptul de a se deda la vreo aktivitate sau de a səvɨrʃi vreun akt ɨndreptat spre desfintsarea unor drepturi sau libertətsi enuntsate ɨn prezenta deklaratsie

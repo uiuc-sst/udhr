@@ -1,149 +1,116 @@
 human_rights_un_pmp_dm_64kb_0001	Ding Pang Universung Karapatang Pantau A Miproklama Para Ipakilala
 human_rights_un_pmp_dm_64kb_0002	Yang Lalung Simple
-human_rights_un_pmp_dm_64kb_0003	Uling ing pamangilala king likas a karangalan at king pante at ding e alingad akarapatan ding sablang lahi ding tau iyang pundasyun na ning kalayaan,hustisiya at kapayapan king yatu.
-human_rights_un_pmp_dm_64kb_0004	Dapat aintingdian ding sablang bibilug karing sablang pamilya king atin la namankarapatan kalupa ra ding aliwang tau.
-human_rights_un_pmp_dm_64kb_0005	Anggang iti e tamu aintindian, e miral ingkalayan, hustisiya at kapayapan.
-human_rights_un_pmp_dm_64kb_0006	Uling e tamu pa maie ulaga at pamanamak karing karapatang pantaumamungang pamaglapastangan labag king konsensiya da ring sablang tau, atdasan mu rin king yatu king atamasa ring tau ing kalayan king pamagsalita atpamaniwala at kalayan king pamagnasa, pamikakunu at kasakitan a iyangpapakilala nang pekamatas a kapagnasan ning karaniwang tau.
+human_rights_un_pmp_dm_64kb_0003	Uling ing pamangilala king likas a karangalan at king pante at ding e alingad a karapatan ding sablang lahi ding tau iyang pundasyun na ning kalayaan, hustisiya at kapayapan king yatu.
+human_rights_un_pmp_dm_64kb_0004	Dapat aintingdian ding sablang bibilug karing sablang pamilya king atin la naman karapatan kalupa ra ding aliwang tau.
+human_rights_un_pmp_dm_64kb_0005	Anggang iti e tamu aintindian, e miral ing kalayan, hustisiya at kapayapan.
+human_rights_un_pmp_dm_64kb_0006	Uling e tamu pa maie ulaga at pamanamak karing karapatang pantau mamungang pamaglapastangan labag king konsensiya da ring sablang tau, at dasan mu rin king yatu king atamasa ring tau ing kalayan king pamagsalita at pamaniwala at kalayan king pamagnasa, pamikakunu at kasakitan a iyang papakilala nang pekamatas a kapagnasan ning karaniwang tau.
 human_rights_un_pmp_dm_64kb_0007	Lebagan do ring karapatang pantau ding dakal a tau.
-human_rights_un_pmp_dm_64kb_0008	Ding gera at aliwa pangkararaptanan ilang bibie pasakit karing tau agpang king istorya at king mabilug ayatu.
-human_rights_un_pmp_dm_64kb_0009	Ing yatu a nung nokaring ding tau atamasa ra ing karapatang magsalitananu man ing a isip da, mamili king sarili rang kapaniwalan, at mangabiyayangalang takut at alang pamikakunu king nanu mang kaburian yang dapat mag-ingpeka maulaga king keka tamung kapagnasan.
-human_rights_un_pmp_dm_64kb_0010	Uling tune maulaga, bang ing tau e mapilitang gumerang lumaban king kalupitanat pamanapi, a ding karapatang pantau dapat proteksyunan la kapamilatan ningbatas.
+human_rights_un_pmp_dm_64kb_0008	Ding gera at aliwa pang kararaptanan ilang bibie pasakit karing tau agpang king istorya at king mabilug a yatu.
+human_rights_un_pmp_dm_64kb_0009	Ing yatu a nung nokaring ding tau atamasa ra ing karapatang magsalita nanu man ing a isip da, mamili king sarili rang kapaniwalan, at mangabiyayang alang takut at alang pamikakunu king nanu mang kaburian yang dapat mag-ing peka maulaga king keka tamung kapagnasan.
+human_rights_un_pmp_dm_64kb_0010	Uling tune maulaga, bang ing tau e mapilitang gumerang lumaban king kalupitan at pamanapi, a ding karapatang pantau dapat proteksyunan la kapamilatan ning batas.
 human_rights_un_pmp_dm_64kb_0011	Ding karapatang pantau dapat proteksyunan no ning batas.
 human_rights_un_pmp_dm_64kb_0012	Uling tune maulagang paunlakan ing pami ugnaugnayan da ring bansa.
 human_rights_un_pmp_dm_64kb_0013	Ding sablang bansa kailangan lang dinang ayudang mikakalapit la.
-human_rights_un_pmp_dm_64kb_0014	Uling ding maemalen da ring Mesasanmetung a Bansa menalakaran la kingkarelang sariling karta king karelang kapanaligan karing karapatang pantau, kingdangal a kaulagan na ning pangatau at king pante rang karapatan ning lalaki’tbabi at pinilmi neng teguyud ing pamanasensung pang lipunan at ing mayap akabilyan a bie a ating malawak a karapatan.
-human_rights_un_pmp_dm_64kb_0015	Kapamilatan na ning kartang iti, ding makaanib karing Mesasanmetung a Bansapasiwala da ing karelang kapaniwalan karing karapatang pantau, king kaulagan,at ulaga ning balang tau at king pante karapatan ning lalaki’t babai.
-human_rights_un_pmp_dm_64kb_0016	Mikasundu larin pasikapan dang atamasa ing kaunlarang pang lipunan at ing mayap a pamibie-bie.
-human_rights_un_pmp_dm_64kb_0017	Uling ding kaanib a bansa mengaku la kinng makisaupan la karing
-human_rights_un_pmp_dm_64kb_0018	Misasanmetung a Bansa, a sikapan dang kamtan ing pamitaguyud kingpamangalang at pamanupad ding sabla karing karapatang pantau at karingmaulagang kalayan.
-human_rights_un_pmp_dm_64kb_0019	Ding bansang kabilang karing Bansang Misasanmetung megaku lang misaup-saupan la king nanu mang paralan bang in karapatan at kalayan ding sablangtau keting yatu proteksyunan da at igalang.
-human_rights_un_pmp_dm_64kb_0020	Uling maulagang abalu ra ding sabla ding karapatan at kalayang iti bang pilmingmatupad ing pangakung iti.
-human_rights_un_pmp_dm_64kb_0021	At muna kaulagang aintindian da ring sablang bansa nung nanu la ringkarapatan at kalayan a reti bang atuparan la ding pangaku.
-human_rights_un_pmp_dm_64kb_0022	Pauli na niti, papasiwala na ning pangalaganap a kapulungan ing pamisiwalamabilug a yatu ding karapatang pantau anting metung a pangalaganap adalerayan ning tagumpe para karing sablang tau at ding sabla nang parting panglipunan ding memalen, a palagi rang isipan ing pamipasiwalang iti, masikap laking kapamilatan na ning pamanuru at pamagaral at aguyud da ingpamanggalang karing karapatan at kalayan a iti at kapamilatan da ringmasasanting a dalerayan, pambansa at pangyatu man, tiyakan ing panglaganapat mabisang pamipaalaga at pamanupad kareti, karing memalen ding musmungkaanib a Estado at karing memalen ding teritoryung sasakupan da.
-human_rights_un_pmp_dm_64kb_0023	Pepasiwala na ning Panglaganap a Kapulungan ding Mesasanmetung a Bansaiting pangyatung pangalaganap a dalerayan ning tagumpe para karing sablangtau at karing sablang bansa.
-human_rights_un_pmp_dm_64kb_0024	Aduan da karing sablang tau at karing angganggrupu ding lipunan a isundung pagsikapang akamtan ding kapakayan a retikapamilatan ning pamanuru king pamangglalang karing karapatang pantau atkalayan at king kapamilatan ning pamipatibe ding batas a bibie migit a masantinga proteksyun karing karapatang kalayang iti.
-human_rights_un_pmp_dm_64kb_0025	Artikulo 1
-human_rights_un_pmp_dm_64kb_0026	Ding sablang tau mibait lang malaya at pante-pante king karangalan atkarapatan.
-human_rights_un_pmp_dm_64kb_0027	Ila mipagkaluban lang katuliran at konsensiya ay dapat misaupanking diwang pamikapatiran.
-human_rights_un_pmp_dm_64kb_0028	Artikulo 2
-human_rights_un_pmp_dm_64kb_0029	Ing balang metung atin iyang karapatan karing anggang karapatan at kalayangtikda na ning Proklamasyun a iti, king alang lalon ninu mang lahi, kule, pangatau,salita, reliyun, kapaniwalan king pulitika o aliwa pang pamaniwala penibatangbansa o lipunan, pibandian, kepaitan o aliwa pang kabilyan.
-human_rights_un_pmp_dm_64kb_0030	Maliban pa kareta, ing pamialiwang paglalawe tungkul king pulitika e dapatmagawa agpang king kabilyang pulitikal, sakup o pangyatu ning bansa o teritoryua nung nokarin iya ing tau magsasarili iya man iti, mamasa, e magsarili o kinglalam ning aliwang mitakdang pamaggobierno.
-human_rights_un_pmp_dm_64kb_0031	Artikulo 3
-human_rights_un_pmp_dm_64kb_0032	Ding balang metung atin lang karapatang mie kalayan at kaligtasan antimongtau.
-human_rights_un_pmp_dm_64kb_0033	Artikulo 4
-human_rights_un_pmp_dm_64kb_0034	Alang ninu man ing dapat gawan alipan o busabus;
-human_rights_un_pmp_dm_64kb_0035	makabawal la ding sablangbage pamanalipa at pamangalakal alipan.
-human_rights_un_pmp_dm_64kb_0036	Artikulo 5
-human_rights_un_pmp_dm_64kb_0037	Alang ninu man ing mipailalam ya king labis a pamipasakit o pamagmalupit, a emakatau mababang pamanuring o pamamarusa.
-human_rights_un_pmp_dm_64kb_0038	Artikulo 6
-human_rights_un_pmp_dm_64kb_0039	Ing balang metung atin iyang karapatang kilalanan, nokarin man, anting metunga tau king arap ning batas.
-human_rights_un_pmp_dm_64kb_0040	Artikulo 7
-human_rights_un_pmp_dm_64kb_0041	Ding sabla pante-pante la king arap ning atas at atin lang karapatan king pante-pante proteksyun ning batas a alang pipilinan.
-human_rights_un_pmp_dm_64kb_0042	Ding sabla atin lang karapatanking pante-pante laban king nanu mang pamimili a labag king Proklamasyun a itiat laban king nanu mang pamanulsul king mesabing pamamili.
-human_rights_un_pmp_dm_64kb_0043	Artikulo 8
-human_rights_un_pmp_dm_64kb_0044	Ing balang metung atin iyang karapatan king mabisang atul ning karapat-dapat apambansang huwes agpang karing lalabag karing panimulang karapatan aipagkalub na kaya ning konstitusyun o ning batas.
-human_rights_un_pmp_dm_64kb_0045	Artikulo 9
-human_rights_un_pmp_dm_64kb_0046	Alang ninu man ing mipailalam ya king e makaturlirang pangarakap,pamipakulung o pamipaugse.
-human_rights_un_pmp_dm_64kb_0047	Artikulo 10
-human_rights_un_pmp_dm_64kb_0048	Balang metung atin lang lubus a pante-panteng karapatan king makatuliran atlantad a pamaglitis ning metung a malaya at alang kikilingang usgadu kingpamaniguru na karing kayang karapatan at pakibatan at nanu mang dimandangkriminal laban kaya.
-human_rights_un_pmp_dm_64kb_0049	Artikulo 11
-human_rights_un_pmp_dm_64kb_0050	1.
-human_rights_un_pmp_dm_64kb_0051	Ing balang metung a akusadu king kasalanan a miparusan at ingkarapatan ning ninu mang taung mi akusang linabag karing batas atiniyang karapatang ituring inosenti o alang sala anggang e mipatunayangmikasala agpang king batas king makalantad a pamaglitis atilu kaya dingsablang grantiyang kailangan king kayang dispensa.
-human_rights_un_pmp_dm_64kb_0052	2.
-human_rights_un_pmp_dm_64kb_0053	Alang ninu mang miyatulang mikasala a nanu man pamikasalamipaparusan pauli na ning nanu mang gewa o pamangulung a e tuturingpamikasalang mipaparusan, agpang king batas a pambansa o pangyatu,inyanga awan da ita.
-human_rights_un_pmp_dm_64kb_0054	At e dapat miparatangang mas mabayat a parusakesa kanitang bibie na ning batas iniyang megawa ing pamikasalangmipaparusan.
-human_rights_un_pmp_dm_64kb_0055	Artikulo 12
-human_rights_un_pmp_dm_64kb_0056	Alang ninu man ing mipailalam ya keng e makatulirang pamakialam da kingkayang sarili, pamilya, bale o karing sulat o pamanamak king kayang dangal atlagyu.
-human_rights_un_pmp_dm_64kb_0057	Ing balang metung ating iyang karapatan king proteksyun ning batas labanking makanyan a pamakialam o pamanamak.
-human_rights_un_pmp_dm_64kb_0058	Artikulo 13
-human_rights_un_pmp_dm_64kb_0059	1.
-human_rights_un_pmp_dm_64kb_0060	Atin iyang karapatang lumipat ing balang metung at manuknangan kilubning sasakupan naning balang Estado.
-human_rights_un_pmp_dm_64kb_0061	2.
-human_rights_un_pmp_dm_64kb_0062	Atin iyang karapatang mako ing balang metung karing sanu mang bansa,maging king sariling bansa, at mibalik king kayang bansa.
-human_rights_un_pmp_dm_64kb_0063	Artikulo 14
-human_rights_un_pmp_dm_64kb_0064	1.
-human_rights_un_pmp_dm_64kb_0065	Ing balang metung atin iyang karapatan a maniawad at tanggap asaylumking aliwang bansa nung iti pasakitan de.
-human_rights_un_pmp_dm_64kb_0066	2.
-human_rights_un_pmp_dm_64kb_0067	Ing karapatan a iti eya magamit nung ing pamipasakit sadya lang bungading pamikasalang e pulitikal o pemangawang salungat karing kapakayanat tuntunan da ding Misasanmetung a Bansa.
-human_rights_un_pmp_dm_64kb_0068	Artikulo 15
-human_rights_un_pmp_dm_64kb_0069	1.
-human_rights_un_pmp_dm_64kb_0070	Ing balang metung atin iyang karapatan anting memalen.
-human_rights_un_pmp_dm_64kb_0071	2.
-human_rights_un_pmp_dm_64kb_0072	Alang ninu mang e makatulirang lako ra ing kayang papangamemalen opagkaitang karapatang mamalit king kayang pangamemalen.
-human_rights_un_pmp_dm_64kb_0073	Artikulo 16
-human_rights_un_pmp_dm_64kb_0074	1.
-human_rights_un_pmp_dm_64kb_0075	Ding lalaki’t babai a atiyu na king ustung idad, a alang mitakdang lahipangamemalen o reliyun, ating iyang karapatang maki-asawa at mika-atiniyang pamilya.
-human_rights_un_pmp_dm_64kb_0076	Iia ating lang pante karapatan king kasal kabang miasawala at king pamipalako nang bisa niti.
-human_rights_un_pmp_dm_64kb_0077	2.
-human_rights_un_pmp_dm_64kb_0078	Ing kasal magawa mu king malaya at lubus dang kaburian ding ikakasal.
-human_rights_un_pmp_dm_64kb_0079	3.
-human_rights_un_pmp_dm_64kb_0080	Ing Pamilya likas iyang batayan parti ning lipunan at ating karapatan kingproteksyun ning lipinan at estado.
-human_rights_un_pmp_dm_64kb_0081	Artikulo 17
-human_rights_un_pmp_dm_64kb_0082	1.
-human_rights_un_pmp_dm_64kb_0083	Ing balang metung atin iyang karapatang mika-bandi pibandian a magsa-sarili at kayabe ding aliwa.
-human_rights_un_pmp_dm_64kb_0084	2.
-human_rights_un_pmp_dm_64kb_0085	Alang ninu mang makatuliran para ilako ra ing kayang pibandian.
-human_rights_un_pmp_dm_64kb_0086	Artikulo 18
-human_rights_un_pmp_dm_64kb_0087	Ing balang metung ating iyang karapatan king pami-isip, konsensiya at reliyun;
-human_rights_un_pmp_dm_64kb_0088	kayabe king karapatang iti ing kalayan a mamalit king kayang reliyun okapaniwalan, ing kalayan a mag dili-dili man o kayabe ding aliwa at king publikuo pribabdo, a pamalinawan king aral, gawa pamanyamba at pamagdiwang.
-human_rights_un_pmp_dm_64kb_0089	Artikulo 19
-human_rights_un_pmp_dm_64kb_0090	Ing balang metung atin yang karapatan at kalayan at mamye at magsiwalat aopinyun, kayabe ding karapatang deni atin tamung kalayan a alang maialam opamintuan man, tanggap at mamie impormasyun o kaisipan keng nanumangklasing paralan a e makatarungan kareng limitasyun da reng kalayan a reti.
-human_rights_un_pmp_dm_64kb_0091	Artikulo 20
-human_rights_un_pmp_dm_64kb_0092	1.
-human_rights_un_pmp_dm_64kb_0093	Ding balang tau atin lang karapatan at kalayan at makiaguman at maki-alu-bilu.
-human_rights_un_pmp_dm_64kb_0094	2.
-human_rights_un_pmp_dm_64kb_0095	Ita mu era kata apilit makiabe king nanu pa mang grupo o pami-abe-abe alabag king kekang kaburian.
-human_rights_un_pmp_dm_64kb_0096	Artikulo 21
-human_rights_un_pmp_dm_64kb_0097	1.
-human_rights_un_pmp_dm_64kb_0098	Ing balang metung atin iyang karapatang ganap parti king gobiernu naning kayang bansa, diretsuan o king kapamilatan ning kalayang pamilikaring maging peka katawan.
-human_rights_un_pmp_dm_64kb_0099	2.
-human_rights_un_pmp_dm_64kb_0100	Ing balang metung atin iyang karapatan king pareung pamagserbisyungpambalen king kayang bansa.
-human_rights_un_pmp_dm_64kb_0101	3.
-human_rights_un_pmp_dm_64kb_0102	Ing kaburian ding memalen iya dapat maging batayan ning upaya ninggobiernu;
-human_rights_un_pmp_dm_64kb_0103	ing kaburiang iti dapat ipabalu ya king pana-panaun at tunenghalalan king kapamilatan ning panglaganap at pante-panteng pamagbotua magawa iya king sikretung paralan a pamagbotu o king kapamilatanning katumbas a malayang pamiparalang pamagbotu.
-human_rights_un_pmp_dm_64kb_0104	Artikulo 22
-human_rights_un_pmp_dm_64kb_0105	Ing balang metung anting parti na ning lipunan atin yang katuliran kingkapayapan na ning lipunan at ating karapatan king katuparan, king kapamilatanna ning pamagsikap na ning bansa at king pami saup-saup pang kabilugangbansa at makanayun iya king kaayusan at pibandian ding balang Estado, dingkarapatang pangkabiayayan, pang masa, at pang kulturang karapatan at tunekailangan ne ning kayang dangal at ning malayang pangabuu na ning kayangpangatau.
-human_rights_un_pmp_dm_64kb_0106	Artikulo 23
-human_rights_un_pmp_dm_64kb_0107	1.
-human_rights_un_pmp_dm_64kb_0108	Ing balang metung atin iyang karapatang magobra, malayang mamilingobra, makatuliran at masanting a kabilyan king pamagobra at proteksyunlaban king obra.
-human_rights_un_pmp_dm_64kb_0109	2.
-human_rights_un_pmp_dm_64kb_0110	Ing balang metung, a alang tatangian, ating iyang katuliran kingsuweldung katumbas ning kayang pipagalan.
-human_rights_un_pmp_dm_64kb_0111	3.
-human_rights_un_pmp_dm_64kb_0112	Ing balang metung a magobra atin iyang karapatan king makatuliran atsapat a bayad a titiyakan na king kayang sarili at king kayang pamilya ingpamangabiyayan a marangal, dagdagan pa nung kailangan, ing aliwapang paralan ning prteksyung paniupunan.
-human_rights_un_pmp_dm_64kb_0113	4.
-human_rights_un_pmp_dm_64kb_0114	Ing balang metung atin iyang karapatan mitatag at maki-abe karing unyunking pamangawa para protektahan ing kayang kapakanan.
-human_rights_un_pmp_dm_64kb_0115	Artikulo 24
-human_rights_un_pmp_dm_64kb_0116	Ing balang metung atin iyan karapatang magpaynawa at maglibang kabilang ingmakatuliran oras ning pamaobra at ding pana-panaung piestang opisyal a atingbayad.
-human_rights_un_pmp_dm_64kb_0117	Artikulo 25
-human_rights_un_pmp_dm_64kb_0118	1.
-human_rights_un_pmp_dm_64kb_0119	Ing balang metung atin iyang karapatan king antas ning pamangabiyayansapat para king masikan a pamikakatawan at ikasanting na ning kayangsarili at ing kayang pamilya kayabe ing pamangan baru, pambale at ingpamanesang medikal at ding kailangang pangserbisyung panlipunan, atating karapatan king sekyuridad nuna milako iva obra, mikasakit, mabalu,tumwa o mawala ka bie o nung datang la ding maliaring e dapat asaan.
-human_rights_un_pmp_dm_64kb_0120	2.
-human_rights_un_pmp_dm_64kb_0121	Ding inda at anak atin lang karapatan king pamanese at kasaupan.
-human_rights_un_pmp_dm_64kb_0122	Dinganggang anak, kasal la man ding pengari o ali, magtamasa lang pare-pareung proteksyung panlipunan.
-human_rights_un_pmp_dm_64kb_0123	Artikulo 26
-human_rights_un_pmp_dm_64kb_0124	1.
-human_rights_un_pmp_dm_64kb_0125	Ing balang metungatin lang karapatan king pamag-aral.
-human_rights_un_pmp_dm_64kb_0126	Ing pamag-araldapat iyang libri, anggang king elementarya mu man at pamag-umpisangantas.
-human_rights_un_pmp_dm_64kb_0127	Ing pamag-aral king primera dapat sapilitan iya.
-human_rights_un_pmp_dm_64kb_0128	Ing edukasyungteknikal at propesyunal dapat makatagulaling karing sabla at ating matasa edukasyun atamasa ding sabla agpang king meritu.
-human_rights_un_pmp_dm_64kb_0129	2.
-human_rights_un_pmp_dm_64kb_0130	Ing pamag-aral dapat idirekta iya king ganap nang pamgabuu ning ketaunat king pamipatibe ning pamanggalang karing karapatang pantau at karingkalayan pang konstitusyun.
-human_rights_un_pmp_dm_64kb_0131	Itaguyud na niti ing pamikamtindi ing midinanat pamikaluguran karing sablang bansa, ding grupu agpang king lahi oreliyun, at paunlaran la ding obraan da ding Mesasanmetung a Bansabang papanatilyna ing kapayapan.
-human_rights_un_pmp_dm_64kb_0132	3.
-human_rights_un_pmp_dm_64kb_0133	Peka mumuna rang karapatan ding pengari ing pamamili king klasi ningpamag-aral a ipaglalub karing karelang anak.
-human_rights_un_pmp_dm_64kb_0134	Artikulo 27
-human_rights_un_pmp_dm_64kb_0135	1.
-human_rights_un_pmp_dm_64kb_0136	Ing balang metung atin iyang karapatang malayang makiabe king biepang kultura ning komunidad, bang atamasa ing arti at munie kaganapanking pamipaunlad king siyensa at karing makinabang na niti.
-human_rights_un_pmp_dm_64kb_0137	2.
-human_rights_un_pmp_dm_64kb_0138	Ing balang metung atin iyang karapatan king proteksyun king kapakanangmoral at materyal a ibat king siyentipiku, panliterature o artistiko a iya ingginawa.
-human_rights_un_pmp_dm_64kb_0139	Artikulo 28
-human_rights_un_pmp_dm_64kb_0140	Ing balang metung atin iyang karapatan king kaayusang pangkapaligiran atpangyatu a ding karapatan a kalayang makatakda king pamisiwalat a iti lubusaniyang akamtan.
-human_rights_un_pmp_dm_64kb_0141	Artikulo 29
-human_rights_un_pmp_dm_64kb_0142	1.
-human_rights_un_pmp_dm_64kb_0143	Ing balang metung atin lang tungkulan a dapat gampanan king komunidadat iya kabud ing bibie laya at lubus a kaganapan king panga tau na.
-human_rights_un_pmp_dm_64kb_0144	2.
-human_rights_un_pmp_dm_64kb_0145	King pamanupad na king kayang karapatan at kalayan ing balang metungmipailalam iya karing limitasyung sasaglawayan na ning batas parabangkanita akamtan ing karapad-dapat pamangilala at paggalang karingkarapatan at kalayan ding aliwa at apakibatan ing makatulirangpamangailangan ning moralidad, kaayusang pambalen at panlaganap akapakanan king metung a demokratikung lipunan.
-human_rights_un_pmp_dm_64kb_0146	3.
-human_rights_un_pmp_dm_64kb_0147	Ding karapatan at kalayan a iti, ela kapilan man magamit a makasalungatkaring kapagnasan at tuntunan ding Misasanmetung a Bansa.
-human_rights_un_pmp_dm_64kb_0148	Artikulo 30
-human_rights_un_pmp_dm_64kb_0149	Alang nanu mang parti king Proklamasyung iti a tuturing mangabaldugan kingsanu mang Estado, grupo o tau, ing karapatang makiabe kingnanu manggagawan o kimut o bibie paralan para siran na ing sanu mang karapatan atkalayan mitakda keni.
+human_rights_un_pmp_dm_64kb_0014	Uling ding maemalen da ring Mesasanmetung a Bansa menalakaran la king karelang sariling karta king karelang kapanaligan karing karapatang pantau, king dangal a kaulagan na ning pangatau at king pante rang karapatan ning lalaki't babi at pinilmi neng teguyud ing pamanasensung pang lipunan at ing mayap a kabilyan a bie a ating malawak a karapatan.
+human_rights_un_pmp_dm_64kb_0015	Kapamilatan na ning kartang iti, ding makaanib karing Mesasanmetung a Bansa pasiwala da ing karelang kapaniwalan karing karapatang pantau, king kaulagan, at ulaga ning balang tau at king pante karapatan ning lalaki't babai.
+human_rights_un_pmp_dm_64kb_0016	Mikasundu la rin pasikapan dang atamasa ing kaunlarang pang lipunan at ing mayap a pami bie-bie.
+human_rights_un_pmp_dm_64kb_0017	Uling ding kaanib a bansa mengaku la kinng makisaupan la karing Misasanmetung a Bansa, a sikapan dang kamtan ing pamitaguyud king pamangalang at pamanupad ding sabla karing karapatang pantau at karing maulagang kalayan.
+human_rights_un_pmp_dm_64kb_0018	Ding bansang kabilang karing Bansang Misasanmetung megaku lang misaup-saupan la king nanu mang paralan bang in karapatan at kalayan ding sablang tau keting yatu proteksyunan da at igalang.
+human_rights_un_pmp_dm_64kb_0019	Uling maulagang abalu ra ding sabla ding karapatan at kalayang iti bang pilming matupad ing pangakung iti.
+human_rights_un_pmp_dm_64kb_0020	At muna kaulagang aintindian da ring sablang bansa nung nanu la ring karapatan at kalayan a reti bang atuparan la ding pangaku.
+human_rights_un_pmp_dm_64kb_0021	Pauli na niti, papasiwala na ning pangalaganap a kapulungan ing pamisiwala mabilug a yatu ding karapatang pantau anting metung a pangalaganap a dalerayan ning tagumpe para karing sablang tau at ding sabla nang parting pang lipunan ding memalen, a palagi rang isipan ing pamipasiwalang iti, masikap la king kapamilatan na ning pamanuru at pamagaral at aguyud da ing pamanggalang karing karapatan at kalayan a iti at kapamilatan da ring masasanting a dalerayan, pambansa at pangyatu man, tiyakan ing panglaganap at mabisang pamipaalaga at pamanupad kareti, karing memalen ding musmung kaanib a Estado at karing memalen ding teritoryung sasakupan da.
+human_rights_un_pmp_dm_64kb_0022	Pepasiwala na ning Panglaganap a Kapulungan ding Mesasanmetung a Bansa iting pangyatung pangalaganap a dalerayan ning tagumpe para karing sablang tau at karing sablang bansa.
+human_rights_un_pmp_dm_64kb_0023	Aduan da karing sablang tau at karing anggang grupu ding lipunan a isundung pagsikapang akamtan ding kapakayan a reti kapamilatan ning pamanuru king pamangglalang karing karapatang pantau at kalayan at king kapamilatan ning pamipatibe ding batas a bibie migit a masanting a proteksyun karing karapatang kalayang iti.
+human_rights_un_pmp_dm_64kb_0024	Artikulo 1
+human_rights_un_pmp_dm_64kb_0025	Ding sablang tau mibait lang malaya at pante-pante king karangalan at karapatan.
+human_rights_un_pmp_dm_64kb_0026	Ila mipagkaluban lang katuliran at konsensiya ay dapat misaupan king diwang pamikapatiran.
+human_rights_un_pmp_dm_64kb_0027	Artikulo 2
+human_rights_un_pmp_dm_64kb_0028	Ing balang metung atin iyang karapatan karing anggang karapatan at kalayang tikda na ning Proklamasyun a iti, king alang lalon ninu mang lahi, kule, pangatau, salita, reliyun, kapaniwalan king pulitika o aliwa pang pamaniwala penibatang bansa o lipunan, pibandian, kepaitan o aliwa pang kabilyan.
+human_rights_un_pmp_dm_64kb_0029	Maliban pa kareta, ing pamialiwang paglalawe tungkul king pulitika e dapat magawa agpang king kabilyang pulitikal, sakup o pangyatu ning bansa o teritoryu a nung nokarin iya ing tau magsasarili iya man iti, mamasa, e magsarili o king lalam ning aliwang mitakdang pamaggobierno.
+human_rights_un_pmp_dm_64kb_0030	Artikulo 3
+human_rights_un_pmp_dm_64kb_0031	Ding balang metung atin lang karapatang mie kalayan at kaligtasan antimong tau.
+human_rights_un_pmp_dm_64kb_0032	Artikulo 4
+human_rights_un_pmp_dm_64kb_0033	Alang ninu man ing dapat gawan alipan o busabus;
+human_rights_un_pmp_dm_64kb_0034	makabawal la ding sablang bage pamanalipa at pamangalakal alipan.
+human_rights_un_pmp_dm_64kb_0035	Artikulo 5
+human_rights_un_pmp_dm_64kb_0036	Alang ninu man ing mipailalam ya king labis a pamipasakit o pamagmalupit, a e makatau mababang pamanuring o pamamarusa.
+human_rights_un_pmp_dm_64kb_0037	Artikulo 6
+human_rights_un_pmp_dm_64kb_0038	Ing balang metung atin iyang karapatang kilalanan, nokarin man, anting metung a tau king arap ning batas.
+human_rights_un_pmp_dm_64kb_0039	Artikulo 7
+human_rights_un_pmp_dm_64kb_0040	Ding sabla pante-pante la king arap ning atas at atin lang karapatan king pante-pante proteksyun ning batas a alang pipilinan.
+human_rights_un_pmp_dm_64kb_0041	Ding sabla atin lang karapatan king pante-pante laban king nanu mang pamimili a labag king Proklamasyun a iti at laban king nanu mang pamanulsul king mesabing pamamili.
+human_rights_un_pmp_dm_64kb_0042	Artikulo 8
+human_rights_un_pmp_dm_64kb_0043	Ing balang metung atin iyang karapatan king mabisang atul ning karapat-dapat a pambansang huwes agpang karing lalabag karing panimulang karapatan a ipagkalub na kaya ning konstitusyun o ning batas.
+human_rights_un_pmp_dm_64kb_0044	Artikulo 9
+human_rights_un_pmp_dm_64kb_0045	Alang ninu man ing mipailalam ya king e makaturlirang pangarakap, pamipakulung o pamipaugse.
+human_rights_un_pmp_dm_64kb_0046	Artikulo 10
+human_rights_un_pmp_dm_64kb_0047	Balang metung atin lang lubus a pante-panteng karapatan king makatuliran at lantad a pamaglitis ning metung a malaya at alang kikilingang usgadu king pamaniguru na karing kayang karapatan at pakibatan at nanu mang dimandang kriminal laban kaya.
+human_rights_un_pmp_dm_64kb_0048	Artikulo 11
+human_rights_un_pmp_dm_64kb_0049	Ing balang metung a akusadu king kasalanan a miparusan at ing karapatan ning ninu mang taung mi akusang linabag karing batas atin iyang karapatang ituring inosenti o alang sala anggang e mipatunayang mikasala agpang king batas king makalantad a pamaglitis atilu kaya ding sablang grantiyang kailangan king kayang dispensa.
+human_rights_un_pmp_dm_64kb_0050	Alang ninu mang miyatulang mikasala a nanu man pamikasala mipaparusan pauli na ning nanu mang gewa o pamangulung a e tuturing pamikasalang mipaparusan, agpang king batas a pambansa o pangyatu, inyanga awan da ita.
+human_rights_un_pmp_dm_64kb_0051	At e dapat miparatangang mas mabayat a parusa kesa kanitang bibie na ning batas iniyang megawa ing pamikasalang mipaparusan.
+human_rights_un_pmp_dm_64kb_0052	Artikulo 12
+human_rights_un_pmp_dm_64kb_0053	Alang ninu man ing mipailalam ya keng e makatulirang pamakialam da king kayang sarili, pamilya, bale o karing sulat o pamanamak king kayang dangal at lagyu.
+human_rights_un_pmp_dm_64kb_0054	Ing balang metung ating iyang karapatan king proteksyun ning batas laban king makanyan a pamakialam o pamanamak.
+human_rights_un_pmp_dm_64kb_0055	Artikulo 13
+human_rights_un_pmp_dm_64kb_0056	Atin iyang karapatang lumipat ing balang metung at manuknangan kilub ning sasakupan naning balang Estado.
+human_rights_un_pmp_dm_64kb_0057	Atin iyang karapatang mako ing balang metung karing sanu mang bansa, maging king sariling bansa, at mibalik king kayang bansa.
+human_rights_un_pmp_dm_64kb_0058	Artikulo 14
+human_rights_un_pmp_dm_64kb_0059	Ing balang metung atin iyang karapatan a maniawad at tanggap asaylum king aliwang bansa nung iti pasakitan de.
+human_rights_un_pmp_dm_64kb_0060	Ing karapatan a iti eya magamit nung ing pamipasakit sadya lang bunga ding pamikasalang e pulitikal o pemangawang salungat karing kapakayan at tuntunan da ding Misasanmetung a Bansa.
+human_rights_un_pmp_dm_64kb_0061	Artikulo 15
+human_rights_un_pmp_dm_64kb_0062	Ing balang metung atin iyang karapatan anting memalen.
+human_rights_un_pmp_dm_64kb_0063	Alang ninu mang e makatulirang lako ra ing kayang papangamemalen o pagkaitang karapatang mamalit king kayang pangamemalen.
+human_rights_un_pmp_dm_64kb_0064	Artikulo 16
+human_rights_un_pmp_dm_64kb_0065	Ding lalaki't babai a atiyu na king ustung idad, a alang mitakdang lahi pangamemalen o reliyun, ating iyang karapatang maki-asawa at mika-atin iyang pamilya.
+human_rights_un_pmp_dm_64kb_0066	Iia ating lang pante karapatan king kasal kabang miasawa la at king pamipalako nang bisa niti.
+human_rights_un_pmp_dm_64kb_0067	Ing kasal magawa mu king malaya at lubus dang kaburian ding ikakasal.
+human_rights_un_pmp_dm_64kb_0068	Ing Pamilya likas iyang batayan parti ning lipunan at ating karapatan king proteksyun ning lipinan at estado.
+human_rights_un_pmp_dm_64kb_0069	Artikulo 17
+human_rights_un_pmp_dm_64kb_0070	Ing balang metung atin iyang karapatang mika-bandi pibandian a magsa-sarili at kayabe ding aliwa.
+human_rights_un_pmp_dm_64kb_0071	Alang ninu mang makatuliran para ilako ra ing kayang pibandian.
+human_rights_un_pmp_dm_64kb_0072	Artikulo 18
+human_rights_un_pmp_dm_64kb_0073	Ing balang metung ating iyang karapatan king pami-isip, konsensiya at reliyun;
+human_rights_un_pmp_dm_64kb_0074	kayabe king karapatang iti ing kalayan a mamalit king kayang reliyun o kapaniwalan, ing kalayan a mag dili-dili man o kayabe ding aliwa at king publiku o pribabdo, a pamalinawan king aral, gawa pamanyamba at pamagdiwang.
+human_rights_un_pmp_dm_64kb_0075	Artikulo 19
+human_rights_un_pmp_dm_64kb_0076	Ing balang metung atin yang karapatan at kalayan at mamye at magsiwalat a opinyun, kayabe ding karapatang deni atin tamung kalayan a alang maialam o pamintuan man, tanggap at mamie impormasyun o kaisipan keng nanumang klasing paralan a e makatarungan kareng limitasyun da reng kalayan a reti.
+human_rights_un_pmp_dm_64kb_0077	Artikulo 20
+human_rights_un_pmp_dm_64kb_0078	Ding balang tau atin lang karapatan at kalayan at makiaguman at maki-alu-bilu.
+human_rights_un_pmp_dm_64kb_0079	Ita mu era kata apilit makiabe king nanu pa mang grupo o pami-abe-abe a labag king kekang kaburian.
+human_rights_un_pmp_dm_64kb_0080	Artikulo 21
+human_rights_un_pmp_dm_64kb_0081	Ing balang metung atin iyang karapatang ganap parti king gobiernu na ning kayang bansa, diretsuan o king kapamilatan ning kalayang pamili karing maging peka katawan.
+human_rights_un_pmp_dm_64kb_0082	Ing balang metung atin iyang karapatan king pareung pamagserbisyung pambalen king kayang bansa.
+human_rights_un_pmp_dm_64kb_0083	Ing kaburian ding memalen iya dapat maging batayan ning upaya ning gobiernu;
+human_rights_un_pmp_dm_64kb_0084	ing kaburiang iti dapat ipabalu ya king pana-panaun at tuneng halalan king kapamilatan ning panglaganap at pante-panteng pamagbotu a magawa iya king sikretung paralan a pamagbotu o king kapamilatan ning katumbas a malayang pamiparalang pamagbotu.
+human_rights_un_pmp_dm_64kb_0085	Artikulo 22
+human_rights_un_pmp_dm_64kb_0086	Ing balang metung anting parti na ning lipunan atin yang katuliran king kapayapan na ning lipunan at ating karapatan king katuparan, king kapamilatan na ning pamagsikap na ning bansa at king pami saup-saup pang kabilugang bansa at makanayun iya king kaayusan at pibandian ding balang Estado, ding karapatang pangkabiayayan, pang masa, at pang kulturang karapatan at tune kailangan ne ning kayang dangal at ning malayang pangabuu na ning kayang pangatau.
+human_rights_un_pmp_dm_64kb_0087	Artikulo 23
+human_rights_un_pmp_dm_64kb_0088	Ing balang metung atin iyang karapatang magobra, malayang mamiling obra, makatuliran at masanting a kabilyan king pamagobra at proteksyun laban king obra.
+human_rights_un_pmp_dm_64kb_0089	Ing balang metung, a alang tatangian, ating iyang katuliran king suweldung katumbas ning kayang pipagalan.
+human_rights_un_pmp_dm_64kb_0090	Ing balang metung a magobra atin iyang karapatan king makatuliran at sapat a bayad a titiyakan na king kayang sarili at king kayang pamilya ing pamangabiyayan a marangal, dagdagan pa nung kailangan, ing aliwa pang paralan ning prteksyung paniupunan.
+human_rights_un_pmp_dm_64kb_0091	Ing balang metung atin iyang karapatan mitatag at maki-abe karing unyun king pamangawa para protektahan ing kayang kapakanan.
+human_rights_un_pmp_dm_64kb_0092	Artikulo 24
+human_rights_un_pmp_dm_64kb_0093	Ing balang metung atin iyan karapatang magpaynawa at maglibang kabilang ing makatuliran oras ning pamaobra at ding pana-panaung piestang opisyal a ating bayad.
+human_rights_un_pmp_dm_64kb_0094	Artikulo 25
+human_rights_un_pmp_dm_64kb_0095	Ing balang metung atin iyang karapatan king antas ning pamangabiyayan sapat para king masikan a pamikakatawan at ikasanting na ning kayang sarili at ing kayang pamilya kayabe ing pamangan baru, pambale at ing pamanesang medikal at ding kailangang pangserbisyung panlipunan, at ating karapatan king sekyuridad nuna milako iva obra, mikasakit, mabalu, tumwa o mawala ka bie o nung datang la ding maliaring e dapat asaan.
+human_rights_un_pmp_dm_64kb_0096	Ding inda at anak atin lang karapatan king pamanese at kasaupan.
+human_rights_un_pmp_dm_64kb_0097	Ding anggang anak, kasal la man ding pengari o ali, magtamasa lang pare-pareung proteksyung panlipunan.
+human_rights_un_pmp_dm_64kb_0098	Artikulo 26
+human_rights_un_pmp_dm_64kb_0099	Ing balang metungatin lang karapatan king pamag-aral.
+human_rights_un_pmp_dm_64kb_0100	Ing pamag-aral dapat iyang libri, anggang king elementarya mu man at pamag-umpisang antas.
+human_rights_un_pmp_dm_64kb_0101	Ing pamag-aral king primera dapat sapilitan iya.
+human_rights_un_pmp_dm_64kb_0102	Ing edukasyung teknikal at propesyunal dapat makatagulaling karing sabla at ating matas a edukasyun atamasa ding sabla agpang king meritu.
+human_rights_un_pmp_dm_64kb_0103	Ing pamag-aral dapat idirekta iya king ganap nang pamgabuu ning ketaun at king pamipatibe ning pamanggalang karing karapatang pantau at karing kalayan pang konstitusyun.
+human_rights_un_pmp_dm_64kb_0104	Itaguyud na niti ing pamikamtindi ing midinan at pamikaluguran karing sablang bansa, ding grupu agpang king lahi o reliyun, at paunlaran la ding obraan da ding Mesasanmetung a Bansa bang papanatilyna ing kapayapan.
+human_rights_un_pmp_dm_64kb_0105	Peka mumuna rang karapatan ding pengari ing pamamili king klasi ning pamag-aral a ipaglalub karing karelang anak.
+human_rights_un_pmp_dm_64kb_0106	Artikulo 27
+human_rights_un_pmp_dm_64kb_0107	Ing balang metung atin iyang karapatang malayang makiabe king bie pang kultura ning komunidad, bang atamasa ing arti at munie kaganapan king pamipaunlad king siyensa at karing makinabang na niti.
+human_rights_un_pmp_dm_64kb_0108	Ing balang metung atin iyang karapatan king proteksyun king kapakanang moral at materyal a ibat king siyentipiku, panliterature o artistiko a iya ing ginawa.
+human_rights_un_pmp_dm_64kb_0109	Artikulo 28
+human_rights_un_pmp_dm_64kb_0110	Ing balang metung atin iyang karapatan king kaayusang pangkapaligiran at pangyatu a ding karapatan a kalayang makatakda king pamisiwalat a iti lubusan iyang akamtan.
+human_rights_un_pmp_dm_64kb_0111	Artikulo 29
+human_rights_un_pmp_dm_64kb_0112	Ing balang metung atin lang tungkulan a dapat gampanan king komunidad at iya kabud ing bibie laya at lubus a kaganapan king panga tau na.
+human_rights_un_pmp_dm_64kb_0113	King pamanupad na king kayang karapatan at kalayan ing balang metung mipailalam iya karing limitasyung sasaglawayan na ning batas para bangkanita akamtan ing karapad-dapat pamangilala at paggalang karing karapatan at kalayan ding aliwa at apakibatan ing makatulirang pamangailangan ning moralidad, kaayusang pambalen at panlaganap a kapakanan king metung a demokratikung lipunan.
+human_rights_un_pmp_dm_64kb_0114	Ding karapatan at kalayan a iti, ela kapilan man magamit a makasalungat karing kapagnasan at tuntunan ding Misasanmetung a Bansa.
+human_rights_un_pmp_dm_64kb_0115	Artikulo 30
+human_rights_un_pmp_dm_64kb_0116	Alang nanu mang parti king Proklamasyung iti a tuturing mangabaldugan king sanu mang Estado, grupo o tau, ing karapatang makiabe kingnanu mang gagawan o kimut o bibie paralan para siran na ing sanu mang karapatan at kalayan mitakda keni.

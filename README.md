@@ -8,19 +8,18 @@ acquire readings of the UDHR in as many languages as possible.
 The site you are looking at right now exists for the purpose of
 segmenting the librivox recordings, into chunks amenable for the
 training and testing of automatic speech recognizers and synthesizers,
-and then aligning them to the corresponding texts.
+and then aligning them to the corresponding texts. 
 
 ## How to use the corpus
 
 Segmented text and automatically generated phone transcriptions are distributed with the
 corpus (in the "text" and "phones" subdirectories, respectively).
 Audio is not distributed with the corpus.  To get it, you'll need
-to have wget, unzip, ffmpeg, and python >=3.7 installed; then try the
+to have wget, unzip, ffmpeg, and python installed; then try the
 following steps:
 
 ```bash
 pip install pycountry
-pip install pdfminer
 pip install praatio
 python scripts/prepare_data.py --audio
 ```
@@ -37,7 +36,7 @@ rest of exp.
 ## How to download the original text sources
 
 If you want to download the original source texts from
-United Nations:
+the UDHR in Unicode project, do this:
 ```bash
 python scripts/prepare_data.py --text
 ```
@@ -49,23 +48,17 @@ Then you can type
 ```bash
 python scripts/prepare_data.py --phones
 ```
-
 The source URLs are listed in the files in the conf subdirectory.
 
 ## How to contribute
 
-1. If the UN doesn't have a written version of the UDHR in your
-   language, please consider donating a translation to
-   https://www.ohchr.org/EN/UDHR/Pages/SubmissionGuide.aspx.
+1. If the UDHR in Unicode project (https://www.unicode.org/udhr/)
+   doesn't yet have text of the UDHR in your  language, please
+   donate a translation at https://www.unicode.org/udhr/contributing.html.
 
-2. If the UN has a translation in your language, but only in the form
-   of an image, with no corresponding unicode text document, please
-   consider transcribing the image to text, and donating it to them
-   and/or to me. Languages in this situation currently
-   include Hebrew, Oriya, Tamil, Urdu, Yiddish.
-
-3. If librivox doesn't have an audio recording in your language, please
+2. If librivox doesn't have an audio recording in your language, please
    consider donating one.  Register for a librivox account at
    https://forum.librivox.org/ucp.php?mode=register, then
-   go to https://forum.librivox.org/viewtopic.php?f=60&t=62306 to read.
+   mention your language ability on the "newbie forum,"
+   or search "Universal Declaration of Human Rights."
 

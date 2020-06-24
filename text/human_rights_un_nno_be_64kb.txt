@@ -1,134 +1,101 @@
 human_rights_un_nno_be_64kb_0001	DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE
 human_rights_un_nno_be_64kb_0002	INNLEIING
-human_rights_un_nno_be_64kb_0003	Då det å godkjenne det naturlege menneskeverdet med like og umissande rettarfor alle menneske på jorda er grunnlaget for fridom, rettferd og fred i verda,og då hån og vørdsløyse mot menneskerettane har ført til barbariske handlingarsom har skaka samvitet til menneskeretta, er framvoksteren i den verda dermenneska skal ha talefridom og trusfridom og vere løyste frå otte og naud,kunngjord som det høgste målet for kvart menneske,og då det er nødvendig at menneskerettane blir verna om av lover slik atmenneska ikkje blir tvinga til å finne den siste utvegen i å gjere opprør mottyranni og trælekår,og då det er nødvendig å arbeide for betre tilhøve mellom nasjonane,og då folka i Dei Sameinte Nasjonane har stadfest trua si i denne pakta, pågrunnleggjande menneskerettar, på menneskeverd og på same rett for mann ogkvinne, og har vedteke å arbeide for sosiale framsteg og betre levevilkår i størrefridom,og då medlemsstatane har bunde seg til å fremje allmenn vørdnad for pakta oghalde seg etter menneskerettane og den grunnleggjande fridomen i samarbeidmed Dei Sameinte Nasjonane,og då denne retten og fridomen må bli godkjend av alle dersom pakta skal blirøyndom,
+human_rights_un_nno_be_64kb_0003	Då det å godkjenne det naturlege menneskeverdet med like og umissande rettar for alle menneske på jorda er grunnlaget for fridom, rettferd og fred i verda,og då hån og vørdsløyse mot menneskerettane har ført til barbariske handlingar som har skaka samvitet til menneskeretta, er framvoksteren i den verda der menneska skal ha talefridom og trusfridom og vere løyste frå otte og naud, kunngjord som det høgste målet for kvart menneske,og då det er nødvendig at menneskerettane blir verna om av lover slik at menneska ikkje blir tvinga til å finne den siste utvegen i å gjere opprør mot tyranni og trælekår,og då det er nødvendig å arbeide for betre tilhøve mellom nasjonane,og då folka i Dei Sameinte Nasjonane har stadfest trua si i denne pakta, på grunnleggjande menneskerettar, på menneskeverd og på same rett for mann og kvinne, og har vedteke å arbeide for sosiale framsteg og betre levevilkår i større fridom,og då medlemsstatane har bunde seg til å fremje allmenn vørdnad for pakta og halde seg etter menneskerettane og den grunnleggjande fridomen i samarbeid med Dei Sameinte Nasjonane,og då denne retten og fridomen må bli godkjend av alle dersom pakta skal bli røyndom,
 human_rights_un_nno_be_64kb_0004	KUNNGJER
 human_rights_un_nno_be_64kb_0005	GENERALFORSAMLINGA
-human_rights_un_nno_be_64kb_0006	DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE, som skalpeike mot eit sams mål for alle folk og nasjonar.
-human_rights_un_nno_be_64kb_0007	Fråsegna må alltid vere itankane til den einskilde og dei styrande og få dei til å styrkje vørdnaden for rettog fridom gjennom undervisning og oppseding.
-human_rights_un_nno_be_64kb_0008	Dei skal syte for at fråsegna blirallment kjend og etterlevd både i medlemslanda og i tilsynsområda, og arbeidetrufast med dette både på nasjonalt og internasjonalt grunnlag.
+human_rights_un_nno_be_64kb_0006	DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE, som skal peike mot eit sams mål for alle folk og nasjonar.
+human_rights_un_nno_be_64kb_0007	Fråsegna må alltid vere i tankane til den einskilde og dei styrande og få dei til å styrkje vørdnaden for rett og fridom gjennom undervisning og oppseding.
+human_rights_un_nno_be_64kb_0008	Dei skal syte for at fråsegna blir allment kjend og etterlevd både i medlemslanda og i tilsynsområda, og arbeide trufast med dette både på nasjonalt og internasjonalt grunnlag.
 human_rights_un_nno_be_64kb_0009	Artikkel 1.
-human_rights_un_nno_be_64kb_0010	Alle menneske er fødde til fridom og med same menneskeverd ogmenneskerettar.
-human_rights_un_nno_be_64kb_0011	Dei har fått fornuft og samvit og skal leve med kvarandre sombrør.
+human_rights_un_nno_be_64kb_0010	Alle menneske er fødde til fridom og med same menneskeverd og menneskerettar.
+human_rights_un_nno_be_64kb_0011	Dei har fått fornuft og samvit og skal leve med kvarandre som brør.
 human_rights_un_nno_be_64kb_0012	Artikkel 2.
-human_rights_un_nno_be_64kb_0013	Kvar einskild har krav på all den rett og fridom som fråsegna nemner, utanskilnad av noko slag på grunn av rase, farge, kjønn, språk, religion, politisk syneller anna meining, nasjonalt eller sosialt opphav, eigedom, fødsel eller andretilhøve.
-human_rights_un_nno_be_64kb_0014	Den politiske stoda, lovverket eller dei internasjonale påboda eit land lever under,kan ikkje vere påskott til at det blir gjort skilnad på nokon i det landet ellerområdet han høyrer til, anten landet har sjølvstende, står under tilsyn, er ikkje-sjølvstyrt eller sjølvstyret er avgrensa på nokon annan måte.
+human_rights_un_nno_be_64kb_0013	Kvar einskild har krav på all den rett og fridom som fråsegna nemner, utan skilnad av noko slag på grunn av rase, farge, kjønn, språk, religion, politisk syn eller anna meining, nasjonalt eller sosialt opphav, eigedom, fødsel eller andre tilhøve.
+human_rights_un_nno_be_64kb_0014	Den politiske stoda, lovverket eller dei internasjonale påboda eit land lever under, kan ikkje vere påskott til at det blir gjort skilnad på nokon i det landet eller området han høyrer til, anten landet har sjølvstende, står under tilsyn, er ikkje-sjølvstyrt eller sjølvstyret er avgrensa på nokon annan måte.
 human_rights_un_nno_be_64kb_0015	Artikkel 3.
 human_rights_un_nno_be_64kb_0016	Alle har rett til liv, fridom og personleg tryggleik.
 human_rights_un_nno_be_64kb_0017	Artikkel 4.
 human_rights_un_nno_be_64kb_0018	Ingen skal haldast i slaveri eller trældom.
-human_rights_un_nno_be_64kb_0019	Slaveri og slavehandel av alle slag erforbode.
+human_rights_un_nno_be_64kb_0019	Slaveri og slavehandel av alle slag er forbode.
 human_rights_un_nno_be_64kb_0020	Artikkel 5.
-human_rights_un_nno_be_64kb_0021	Ingen må torturerast, pinast eller straffast på umenneskeleg eller nedsetjandevis.
+human_rights_un_nno_be_64kb_0021	Ingen må torturerast, pinast eller straffast på umenneskeleg eller nedsetjande vis.
 human_rights_un_nno_be_64kb_0022	Artikkel 6.
-human_rights_un_nno_be_64kb_0023	Alle menneske har krav på at domstolane alle stader godtek dei somrettssubjekt.
+human_rights_un_nno_be_64kb_0023	Alle menneske har krav på at domstolane alle stader godtek dei som rettssubjekt.
 human_rights_un_nno_be_64kb_0024	Artikkel 7.
 human_rights_un_nno_be_64kb_0025	Alle er like for lova og har krav på same rettsvern, utan skilnad av noko slag.
-human_rights_un_nno_be_64kb_0026	Allehar krav på same vern mot at det blir gjort skilnad på folk i strid med dennefråsegna, og vern mot tiltak som ber i seg ein slik fare.
+human_rights_un_nno_be_64kb_0026	Alle har krav på same vern mot at det blir gjort skilnad på folk i strid med denne fråsegna, og vern mot tiltak som ber i seg ein slik fare.
 human_rights_un_nno_be_64kb_0027	Artikkel 8.
-human_rights_un_nno_be_64kb_0028	Alle har rett til å få fullgod hjelp frå dei lovlege nasjonale domstolane når det gjeldhandlingar som krenkjer den retten den einskilde har fått i grunnlova ellerlovverket elles.
+human_rights_un_nno_be_64kb_0028	Alle har rett til å få fullgod hjelp frå dei lovlege nasjonale domstolane når det gjeld handlingar som krenkjer den retten den einskilde har fått i grunnlova eller lovverket elles.
 human_rights_un_nno_be_64kb_0029	Artikkel 9.
 human_rights_un_nno_be_64kb_0030	Ingan må utan lov og rett arresterast, setjast i fengsel eller visast ut or landet.
 human_rights_un_nno_be_64kb_0031	Artikkel 10.
-human_rights_un_nno_be_64kb_0032	Alle har same rett til å få saka si rettferdig og offentleg granska av einsjølvstendig og upartisk domstol, både når det er pliktene og retten til deneinskilde som skal fastsetjast, og når det er reist klagemål mot han.
+human_rights_un_nno_be_64kb_0032	Alle har same rett til å få saka si rettferdig og offentleg granska av ein sjølvstendig og upartisk domstol, både når det er pliktene og retten til den einskilde som skal fastsetjast, og når det er reist klagemål mot han.
 human_rights_un_nno_be_64kb_0033	Artikkel 11.
-human_rights_un_nno_be_64kb_0034	1.
-human_rights_un_nno_be_64kb_0035	Den som er klaga for ei straffbar handling, har rett til å bli rekna somskuldlaus til ein offentleg domstol, der han har fått full trygd for retten til åforsvare seg, har prova at han er skuldig etter lova.
-human_rights_un_nno_be_64kb_0036	2.
-human_rights_un_nno_be_64kb_0037	Ingen skal kjennast skuldig i ei straffbar handling når det han har gjort ellerforsømt ikkje streid mot nasjonal lov eller folkeretten på den tida dethende.
-human_rights_un_nno_be_64kb_0038	Han må heller ikkje dømast hardare enn det lova gav høve til dåden straffbare handlinga vart utførd.
-human_rights_un_nno_be_64kb_0039	Artikkel 12.
-human_rights_un_nno_be_64kb_0040	Ingen skal lide under vilkårleg innblanding frå andre, anten det gjeld hans eigenperson, familie, heim, brevskifte, eller åtak på ære og omdøme.
-human_rights_un_nno_be_64kb_0041	Alle har krav påat lova vernar dei mot slik innblanding eller slike åtak.
-human_rights_un_nno_be_64kb_0042	Artikkel 13.
-human_rights_un_nno_be_64kb_0043	1.
-human_rights_un_nno_be_64kb_0044	Alle menneske har rett til å ferdast fritt og til å velje bustad innaforgrensene i sitt eige land.
-human_rights_un_nno_be_64kb_0045	2.
-human_rights_un_nno_be_64kb_0046	Det skal også vere full rett til å reise ut or det landet ein bur i, same kvaland det er, og til å vende attende til sitt eige land.
-human_rights_un_nno_be_64kb_0047	Artikkel 14.
-human_rights_un_nno_be_64kb_0048	1.
-human_rights_un_nno_be_64kb_0049	Alle som blir forfølgde har rett til å søkje og ta imot asyl i eit anna land.
-human_rights_un_nno_be_64kb_0050	2.
-human_rights_un_nno_be_64kb_0051	Denne retten gjeld ikkje i rettssakar som har røynleg grunnlag i upolitiskebrotsverk eller handlingar som strir mot formålet og prinsippet til Dei
-human_rights_un_nno_be_64kb_0052	Sameinte Nasjonane.
-human_rights_un_nno_be_64kb_0053	Artikkel 15.
-human_rights_un_nno_be_64kb_0054	1.
-human_rights_un_nno_be_64kb_0055	Alle har rett til eit statsborgarskap.
-human_rights_un_nno_be_64kb_0056	2.
-human_rights_un_nno_be_64kb_0057	Ingen skal misse statsborgarskapet sitt vilkårleg, eller bli nekta retten til åendre det.
-human_rights_un_nno_be_64kb_0058	Artikkel 16.
-human_rights_un_nno_be_64kb_0059	1.
-human_rights_un_nno_be_64kb_0060	Vaksne menn og kvinner har rett til å gifte seg og skipe familie utanavgrensing av noko slag på grunn av rase, nasjonalitet eller religion.
-human_rights_un_nno_be_64kb_0061	Deihar krav på dei same rettane når det gjeld ekteskapet, både så lengeekteskapet varer og medan det blir løyst opp.
-human_rights_un_nno_be_64kb_0062	2.
-human_rights_un_nno_be_64kb_0063	Ekteskapet må berre kome i stand etter fritt og fullt samtykke frå beggepartar.
-human_rights_un_nno_be_64kb_0064	3.
-human_rights_un_nno_be_64kb_0065	Familien er den naturlege og grunnleggjande eininga i samfunnet og harkrav på at staten og samfunnet vernar om det.
-human_rights_un_nno_be_64kb_0066	Artikkel 17.
-human_rights_un_nno_be_64kb_0067	1.
-human_rights_un_nno_be_64kb_0068	Alle har rett til å ha eigedom åleine og saman med andre.
-human_rights_un_nno_be_64kb_0069	2.
-human_rights_un_nno_be_64kb_0070	Ingen skal vilkårleg bli fråteken eigedomen sin.
-human_rights_un_nno_be_64kb_0071	Artikkel 18.
-human_rights_un_nno_be_64kb_0072	Alle har rett til tankefridom, samvitsfridom og religionfridom.
-human_rights_un_nno_be_64kb_0073	Denne retten gjeldfridom til å endre religion eller tru, og fridom til å målbere sin eigen religion eller sieiga truslære i gjerning og framferd, anten åleine eller saman med andre,offentleg eller privat.
-human_rights_un_nno_be_64kb_0074	Artikkel 19.
-human_rights_un_nno_be_64kb_0075	Alle skal ha meinings- og ytringsfridom.
-human_rights_un_nno_be_64kb_0076	Denne retten gjeld fridom til å hameiningar utan innblanding, til å søkje, ta imot og gjere kjent opplysningar ogidear gjennom alle dei informasjonskanalar som finst, og på tvers av alle grenser.
-human_rights_un_nno_be_64kb_0077	Artikkel 20.
-human_rights_un_nno_be_64kb_0078	1.
-human_rights_un_nno_be_64kb_0079	Alle har rett til fritt å vere med på møte og i organisasjonar med fredelegeformål.
-human_rights_un_nno_be_64kb_0080	2.
-human_rights_un_nno_be_64kb_0081	Ingen kan tvingast inn i ein organisasjon.
-human_rights_un_nno_be_64kb_0082	Artikkel 21.
-human_rights_un_nno_be_64kb_0083	1.
-human_rights_un_nno_be_64kb_0084	Alle skal ha rett til å vere med på å styre landet sitt, beinveges ellergjennom talsmenn som er peika ut i frie val.
-human_rights_un_nno_be_64kb_0085	2.
-human_rights_un_nno_be_64kb_0086	Alle skal ha same retten til å gjere teneste i offentlege ombod i landet sitt.
-human_rights_un_nno_be_64kb_0087	3.
-human_rights_un_nno_be_64kb_0088	Folkeviljen skal vere grunnlaget for den makta som er lagd tilstyremaktene.
-human_rights_un_nno_be_64kb_0089	Folkeviljen skal kome til syne gjennom regelfaste ogrøynlege val, som er grunna på allmenn og lik røysterett i løynlege valeller på annan jamgod røystemåte.
-human_rights_un_nno_be_64kb_0090	Artikkel 22.
-human_rights_un_nno_be_64kb_0091	Kvar einskild medlem i samfunnet har rett til sosial tryggleik, og har krav på at deiøkonomiske, sosiale og kulturelle godane, som han ikkje kan vere utan om hanskal ha vørdnad for seg sjølv og styrke den personlege karakteren sin, blir løystegjennom nasjonale tiltak og internasjonalt samarbeid i samsvar med det kvar statmaktar.
-human_rights_un_nno_be_64kb_0092	Artikkel 23.
-human_rights_un_nno_be_64kb_0093	1.
-human_rights_un_nno_be_64kb_0094	Alle har rett til arbeid, til fritt å velje yrke, til rettferdige og godearbeidstilhøve og vern mot arbeidsløyse.
-human_rights_un_nno_be_64kb_0095	2.
-human_rights_un_nno_be_64kb_0096	Alle har same rett til å få lik betaling for likt arbeid, utan skilnad av nokoslag.
-human_rights_un_nno_be_64kb_0097	3.
-human_rights_un_nno_be_64kb_0098	Den som arbeider har krav på rettferdig og god betaling, så han kan sytefor familien sin og seg sjølv på ein menneskeverdig måte, og om dettrengst, få hjelp gjennom andre og utfyllande sosiale midlar.
-human_rights_un_nno_be_64kb_0099	4.
-human_rights_un_nno_be_64kb_0100	Alle har rett til å skipe og melde seg inn i fagforeningar for å verneinteressene sine.
-human_rights_un_nno_be_64kb_0101	Artikkel 24.
-human_rights_un_nno_be_64kb_0102	Alle har rett til kvile og fritid, og dermed til ei rimeleg avgrensa arbeidstid, og tilferie med løn.
-human_rights_un_nno_be_64kb_0103	Artikkel 25.
-human_rights_un_nno_be_64kb_0104	1.
-human_rights_un_nno_be_64kb_0105	Alle har rett til ein levestandard som kan tryggje helsa og velværet tilforsytaren og familien hans, og gje dei mat, klede, hus, helsestell ognødvendige sosiale trygder ved arbeidsløyse, uføre, dødsfall, alderdomeller andre tilhøve som skiplar livskåra, og som forsytaren ikkje er herreover.
-human_rights_un_nno_be_64kb_0106	2.
-human_rights_un_nno_be_64kb_0107	Mor og barn har rett til særskild omsorg og hjelp.
-human_rights_un_nno_be_64kb_0108	Alle barn skal ha samesosiale vern, anten dei er fødde i eller utafor ekteskapet.
-human_rights_un_nno_be_64kb_0109	Artikkel 26.
-human_rights_un_nno_be_64kb_0110	1.
-human_rights_un_nno_be_64kb_0111	Alle har rett til undervisning.
-human_rights_un_nno_be_64kb_0112	Opplæringa skal vere kostnadsfri, i det minstei den allmenne grunnskulen.
-human_rights_un_nno_be_64kb_0113	Den elementære undervisninga skal verepliktig for alle.
-human_rights_un_nno_be_64kb_0114	Alle skal ha høve til å få fagopplæring, og det skal vere likevilkår for alle til å få høgre utdaning, alt etter dei evnene dei har.
-human_rights_un_nno_be_64kb_0115	2.
-human_rights_un_nno_be_64kb_0116	Undervisninga skal ha til mål å styrkje den menneskelegepersonlegdomen og auke vørdnaden for menneskerettane og dengrunnleggjande fridomen, fremje skjønsemd, toleranse og venskapmellom alle nasjonar, folkeslag og religiøse grupper og stø fredsarbeidettil Dei Sameinte Nasjonane.
-human_rights_un_nno_be_64kb_0117	3.
-human_rights_un_nno_be_64kb_0118	Foreldra har førsteretten til å velje kva slag opplæring barna deira skal få.
-human_rights_un_nno_be_64kb_0119	Artikkel 27.
-human_rights_un_nno_be_64kb_0120	1.
-human_rights_un_nno_be_64kb_0121	Alle har rett til fritt å vere med i det kulturelle livet i samfunnet, til å nytekunst og til å få sin part av dei vitskaplege nyvinningane og godane somfølgjer med dei.
-human_rights_un_nno_be_64kb_0122	2.
-human_rights_un_nno_be_64kb_0123	Kvar einskild har rett til å få verna dei moralske og materielle interessenesom han har skapt seg gjennom vitskapleg, litterært eller kunstnarlegarbeid.
-human_rights_un_nno_be_64kb_0124	Artikkel 28.
-human_rights_un_nno_be_64kb_0125	Alle har krav på å få leve under slike sosiale kår og internasjonale tilhøve at deifullt ut kan gjere til røyndom retten og fridomen i denne fråsegna.
-human_rights_un_nno_be_64kb_0126	Artikkel 29.
-human_rights_un_nno_be_64kb_0127	1.
-human_rights_un_nno_be_64kb_0128	Alle har plikter andsynes samfunnet, då personlegdomen til den einskildeeinast der kan få frie og fullgode voksterkår.
-human_rights_un_nno_be_64kb_0129	2.
-human_rights_un_nno_be_64kb_0130	Retten og fridomen til den einskilde skal ikkje vere avgrensa av anna enndet lova tydeleg slår fast for å tryggje den vørdnaden alle andre har kravpå når det gjeld rett og fridom, og dei krav som eit demokratisk samfunnmed rette kan setje til moral, offentleg orden og allmenn velferd.
-human_rights_un_nno_be_64kb_0131	3.
-human_rights_un_nno_be_64kb_0132	Denne retten og fridomen kan ikkje i noko høve nyttast i strid med formåletog prinsippet til Dei Sameinte Nasjonane.
-human_rights_un_nno_be_64kb_0133	Artikkel 30.
-human_rights_un_nno_be_64kb_0134	Ikkje noko i denne fråsegna må tolkast slik at det gjev stat, grupper ellereinskildmenneske rett til å vere med på tiltak eller handlingar av noko slag somhar til mål å øydeleggje den retten og fridomen som denne fråsegna stadfester.
+human_rights_un_nno_be_64kb_0034	Den som er klaga for ei straffbar handling, har rett til å bli rekna som skuldlaus til ein offentleg domstol, der han har fått full trygd for retten til å forsvare seg, har prova at han er skuldig etter lova.
+human_rights_un_nno_be_64kb_0035	Ingen skal kjennast skuldig i ei straffbar handling når det han har gjort eller forsømt ikkje streid mot nasjonal lov eller folkeretten på den tida det hende.
+human_rights_un_nno_be_64kb_0036	Han må heller ikkje dømast hardare enn det lova gav høve til då den straffbare handlinga vart utførd.
+human_rights_un_nno_be_64kb_0037	Artikkel 12.
+human_rights_un_nno_be_64kb_0038	Ingen skal lide under vilkårleg innblanding frå andre, anten det gjeld hans eigen person, familie, heim, brevskifte, eller åtak på ære og omdøme.
+human_rights_un_nno_be_64kb_0039	Alle har krav på at lova vernar dei mot slik innblanding eller slike åtak.
+human_rights_un_nno_be_64kb_0040	Artikkel 13.
+human_rights_un_nno_be_64kb_0041	Alle menneske har rett til å ferdast fritt og til å velje bustad innafor grensene i sitt eige land.
+human_rights_un_nno_be_64kb_0042	Det skal også vere full rett til å reise ut or det landet ein bur i, same kva land det er, og til å vende attende til sitt eige land.
+human_rights_un_nno_be_64kb_0043	Artikkel 14.
+human_rights_un_nno_be_64kb_0044	Alle som blir forfølgde har rett til å søkje og ta imot asyl i eit anna land.
+human_rights_un_nno_be_64kb_0045	Denne retten gjeld ikkje i rettssakar som har røynleg grunnlag i upolitiske brotsverk eller handlingar som strir mot formålet og prinsippet til Dei Sameinte Nasjonane.
+human_rights_un_nno_be_64kb_0046	Artikkel 15.
+human_rights_un_nno_be_64kb_0047	Alle har rett til eit statsborgarskap.
+human_rights_un_nno_be_64kb_0048	Ingen skal misse statsborgarskapet sitt vilkårleg, eller bli nekta retten til å endre det.
+human_rights_un_nno_be_64kb_0049	Artikkel 16.
+human_rights_un_nno_be_64kb_0050	Vaksne menn og kvinner har rett til å gifte seg og skipe familie utan avgrensing av noko slag på grunn av rase, nasjonalitet eller religion.
+human_rights_un_nno_be_64kb_0051	Dei har krav på dei same rettane når det gjeld ekteskapet, både så lenge ekteskapet varer og medan det blir løyst opp.
+human_rights_un_nno_be_64kb_0052	Ekteskapet må berre kome i stand etter fritt og fullt samtykke frå begge partar.
+human_rights_un_nno_be_64kb_0053	Familien er den naturlege og grunnleggjande eininga i samfunnet og har krav på at staten og samfunnet vernar om det.
+human_rights_un_nno_be_64kb_0054	Artikkel 17.
+human_rights_un_nno_be_64kb_0055	Alle har rett til å ha eigedom åleine og saman med andre.
+human_rights_un_nno_be_64kb_0056	Ingen skal vilkårleg bli fråteken eigedomen sin.
+human_rights_un_nno_be_64kb_0057	Artikkel 18.
+human_rights_un_nno_be_64kb_0058	Alle har rett til tankefridom, samvitsfridom og religionfridom.
+human_rights_un_nno_be_64kb_0059	Denne retten gjeld fridom til å endre religion eller tru, og fridom til å målbere sin eigen religion eller si eiga truslære i gjerning og framferd, anten åleine eller saman med andre, offentleg eller privat.
+human_rights_un_nno_be_64kb_0060	Artikkel 19.
+human_rights_un_nno_be_64kb_0061	Alle skal ha meinings- og ytringsfridom.
+human_rights_un_nno_be_64kb_0062	Denne retten gjeld fridom til å ha meiningar utan innblanding, til å søkje, ta imot og gjere kjent opplysningar og idear gjennom alle dei informasjonskanalar som finst, og på tvers av alle grenser.
+human_rights_un_nno_be_64kb_0063	Artikkel 20.
+human_rights_un_nno_be_64kb_0064	Alle har rett til fritt å vere med på møte og i organisasjonar med fredelege formål.
+human_rights_un_nno_be_64kb_0065	Ingen kan tvingast inn i ein organisasjon.
+human_rights_un_nno_be_64kb_0066	Artikkel 21.
+human_rights_un_nno_be_64kb_0067	Alle skal ha rett til å vere med på å styre landet sitt, beinveges eller gjennom talsmenn som er peika ut i frie val.
+human_rights_un_nno_be_64kb_0068	Alle skal ha same retten til å gjere teneste i offentlege ombod i landet sitt.
+human_rights_un_nno_be_64kb_0069	Folkeviljen skal vere grunnlaget for den makta som er lagd til styremaktene.
+human_rights_un_nno_be_64kb_0070	Folkeviljen skal kome til syne gjennom regelfaste og røynlege val, som er grunna på allmenn og lik røysterett i løynlege val eller på annan jamgod røystemåte.
+human_rights_un_nno_be_64kb_0071	Artikkel 22.
+human_rights_un_nno_be_64kb_0072	Kvar einskild medlem i samfunnet har rett til sosial tryggleik, og har krav på at dei økonomiske, sosiale og kulturelle godane, som han ikkje kan vere utan om han skal ha vørdnad for seg sjølv og styrke den personlege karakteren sin, blir løyste gjennom nasjonale tiltak og internasjonalt samarbeid i samsvar med det kvar stat maktar.
+human_rights_un_nno_be_64kb_0073	Artikkel 23.
+human_rights_un_nno_be_64kb_0074	Alle har rett til arbeid, til fritt å velje yrke, til rettferdige og gode arbeidstilhøve og vern mot arbeidsløyse.
+human_rights_un_nno_be_64kb_0075	Alle har same rett til å få lik betaling for likt arbeid, utan skilnad av noko slag.
+human_rights_un_nno_be_64kb_0076	Den som arbeider har krav på rettferdig og god betaling, så han kan syte for familien sin og seg sjølv på ein menneskeverdig måte, og om det trengst, få hjelp gjennom andre og utfyllande sosiale midlar.
+human_rights_un_nno_be_64kb_0077	Alle har rett til å skipe og melde seg inn i fagforeningar for å verne interessene sine.
+human_rights_un_nno_be_64kb_0078	Artikkel 24.
+human_rights_un_nno_be_64kb_0079	Alle har rett til kvile og fritid, og dermed til ei rimeleg avgrensa arbeidstid, og til ferie med løn.
+human_rights_un_nno_be_64kb_0080	Artikkel 25.
+human_rights_un_nno_be_64kb_0081	Alle har rett til ein levestandard som kan tryggje helsa og velværet til forsytaren og familien hans, og gje dei mat, klede, hus, helsestell og nødvendige sosiale trygder ved arbeidsløyse, uføre, dødsfall, alderdom eller andre tilhøve som skiplar livskåra, og som forsytaren ikkje er herre over.
+human_rights_un_nno_be_64kb_0082	Mor og barn har rett til særskild omsorg og hjelp.
+human_rights_un_nno_be_64kb_0083	Alle barn skal ha same sosiale vern, anten dei er fødde i eller utafor ekteskapet.
+human_rights_un_nno_be_64kb_0084	Artikkel 26.
+human_rights_un_nno_be_64kb_0085	Alle har rett til undervisning.
+human_rights_un_nno_be_64kb_0086	Opplæringa skal vere kostnadsfri, i det minste i den allmenne grunnskulen.
+human_rights_un_nno_be_64kb_0087	Den elementære undervisninga skal vere pliktig for alle.
+human_rights_un_nno_be_64kb_0088	Alle skal ha høve til å få fagopplæring, og det skal vere like vilkår for alle til å få høgre utdaning, alt etter dei evnene dei har.
+human_rights_un_nno_be_64kb_0089	Undervisninga skal ha til mål å styrkje den menneskelege personlegdomen og auke vørdnaden for menneskerettane og den grunnleggjande fridomen, fremje skjønsemd, toleranse og venskap mellom alle nasjonar, folkeslag og religiøse grupper og stø fredsarbeidet til Dei Sameinte Nasjonane.
+human_rights_un_nno_be_64kb_0090	Foreldra har førsteretten til å velje kva slag opplæring barna deira skal få.
+human_rights_un_nno_be_64kb_0091	Artikkel 27.
+human_rights_un_nno_be_64kb_0092	Alle har rett til fritt å vere med i det kulturelle livet i samfunnet, til å nyte kunst og til å få sin part av dei vitskaplege nyvinningane og godane som følgjer med dei.
+human_rights_un_nno_be_64kb_0093	Kvar einskild har rett til å få verna dei moralske og materielle interessene som han har skapt seg gjennom vitskapleg, litterært eller kunstnarleg arbeid.
+human_rights_un_nno_be_64kb_0094	Artikkel 28.
+human_rights_un_nno_be_64kb_0095	Alle har krav på å få leve under slike sosiale kår og internasjonale tilhøve at dei fullt ut kan gjere til røyndom retten og fridomen i denne fråsegna.
+human_rights_un_nno_be_64kb_0096	Artikkel 29.
+human_rights_un_nno_be_64kb_0097	Alle har plikter andsynes samfunnet, då personlegdomen til den einskilde einast der kan få frie og fullgode voksterkår.
+human_rights_un_nno_be_64kb_0098	Retten og fridomen til den einskilde skal ikkje vere avgrensa av anna enn det lova tydeleg slår fast for å tryggje den vørdnaden alle andre har krav på når det gjeld rett og fridom, og dei krav som eit demokratisk samfunn med rette kan setje til moral, offentleg orden og allmenn velferd.
+human_rights_un_nno_be_64kb_0099	Denne retten og fridomen kan ikkje i noko høve nyttast i strid med formålet og prinsippet til Dei Sameinte Nasjonane.
+human_rights_un_nno_be_64kb_0100	Artikkel 30.
+human_rights_un_nno_be_64kb_0101	Ikkje noko i denne fråsegna må tolkast slik at det gjev stat, grupper eller einskildmenneske rett til å vere med på tiltak eller handlingar av noko slag som har til mål å øydeleggje den retten og fridomen som denne fråsegna stadfester.

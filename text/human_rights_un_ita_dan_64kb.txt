@@ -1,143 +1,107 @@
-human_rights_un_ita_dan_64kb_0001	Il 10 dicembre 1948, l'Assemblea Generale delle Nazioni Unite approvò e proclamò la Dichiarazione Universale dei Diritti Umani, il cui testo completo èstampato nelle pagine seguenti.
-human_rights_un_ita_dan_64kb_0002	Dopo questa solenne deliberazione,l'Assemblea delle Nazioni Unite diede istruzioni al Segretario Generale diprovvedere a diffondere ampiamente questa Dichiarazione e, a tal fine, dipubblicarne e distribuirne il testo non soltanto nelle cinque lingue ufficialidell'Organizzazione internazionale, ma anche in quante altre lingue fossepossibile usando ogni mezzo a sua disposizione.
-human_rights_un_ita_dan_64kb_0003	Il testo ufficiale della
-human_rights_un_ita_dan_64kb_0004	Dichiarazione è disponibile nelle lingue ufficiali delle Nazioni Unite, cioècinese, francese, inglese, russo e spagnolo.
-human_rights_un_ita_dan_64kb_0005	______________________________________________________________
-human_rights_un_ita_dan_64kb_0006	DICHIARAZIONE UNIVERSALE DEI DIRITTI UMANI
-human_rights_un_ita_dan_64kb_0007	Preambolo
-human_rights_un_ita_dan_64kb_0008	Considerato che il riconoscimento della dignità inerente a tutti i membri dellafamiglia umana e dei loro diritti, uguali ed inalienabili, costituisce il fondamentodella libertà, della giustizia e della pace nel mondo;
-human_rights_un_ita_dan_64kb_0009	Considerato che il disconoscimento e il disprezzo dei diritti umani hannoportato ad atti di barbarie che offendono la coscienza dell'umanità, e chel'avvento di un mondo in cui gli esseri umani godano della libertà di parola e dicredo e della libertà dal timore e dal bisogno è stato proclamato come la piùalta aspirazione dell'uomo;
-human_rights_un_ita_dan_64kb_0010	Considerato che è indispensabile che i diritti umani siano protetti da normegiuridiche, se si vuole evitare che l'uomo sia costretto a ricorrere, come ultimaistanza, alla ribellione contro la tirannia e l'oppressione;
-human_rights_un_ita_dan_64kb_0011	Considerato che è indispensabile promuovere lo sviluppo di rapportiamichevoli tra le Nazioni;
-human_rights_un_ita_dan_64kb_0012	Considerato che i popoli delle Nazioni Unite hanno riaffermato nello Statuto laloro fede nei diritti umani fondamentali, nella dignità e nel valore della personaumana, nell'uguaglianza dei diritti dell'uomo e della donna, ed hanno deciso dipromuovere il progresso sociale e un miglior tenore di vita in una maggiorelibertà;
-human_rights_un_ita_dan_64kb_0013	Considerato che gli Stati membri si sono impegnati a perseguire, incooperazione con le Nazioni Unite, il rispetto e l'osservanza universale deidiritti umani e delle libertà fondamentali;
-human_rights_un_ita_dan_64kb_0014	Considerato che una concezione comune di questi diritti e di questa libertà èdella massima importanza per la piena realizzazione di questi impegni;
-human_rights_un_ita_dan_64kb_0015	L'ASSEMBLEA GENERALEproclamala presente dichiarazione universale dei diritti umani come ideale comune daraggiungersi da tutti i popoli e da tutte le Nazioni, al fine che ogni individuo edogni organo della società, avendo costantemente presente questa
-human_rights_un_ita_dan_64kb_0016	Dichiarazione, si sforzi di promuovere, con l'insegnamento e l'educazione, ilrispetto di questi diritti e di queste libertà e di garantirne, mediante misureprogressive di carattere nazionale e internazionale, l'universale ed effettivoriconoscimento e rispetto tanto fra i popoli degli stessi Stati membri, quantofra quelli dei territori sottoposti alla loro giurisdizione.
-human_rights_un_ita_dan_64kb_0017	Articolo 1
-human_rights_un_ita_dan_64kb_0018	Tutti gli esseri umani nascono liberi ed eguali in dignità e diritti.
-human_rights_un_ita_dan_64kb_0019	Essi sonodotati di ragione e di coscienza e devono agire gli uni verso gli altri in spirito difratellanza.
-human_rights_un_ita_dan_64kb_0020	Articolo 2
-human_rights_un_ita_dan_64kb_0021	Ad ogni individuo spettano tutti i diritti e tutte le libertà enunciate nellapresente Dichiarazione, senza distinzione alcuna, per ragioni di razza, dicolore, di sesso, di lingua, di religione, di opinione politica o di altro genere, diorigine nazionale o sociale, di ricchezza, di nascita o di altra condizione.
-human_rights_un_ita_dan_64kb_0022	Nessuna distinzione sarà inoltre stabilita sulla base dello statuto politico,giuridico o internazionale del paese o del territorio cui una persona appartiene,sia indipendente, o sottoposto ad amministrazione fiduciaria o non autonomo,o soggetto a qualsiasi limitazione di sovranità.
-human_rights_un_ita_dan_64kb_0023	Articolo 3
-human_rights_un_ita_dan_64kb_0024	Ogni individuo ha diritto alla vita, alla libertà ed alla sicurezza della propriapersona.
-human_rights_un_ita_dan_64kb_0025	Articolo 4
-human_rights_un_ita_dan_64kb_0026	Nessun individuo potrà essere tenuto in stato di schiavitù o di servitù;
-human_rights_un_ita_dan_64kb_0027	laschiavitù e la tratta degli schiavi saranno proibite sotto qualsiasi forma.
-human_rights_un_ita_dan_64kb_0028	Articolo 5
-human_rights_un_ita_dan_64kb_0029	Nessun individuo potrà essere sottoposto a tortura o a trattamento o apunizione crudeli, inumani o degradanti.
-human_rights_un_ita_dan_64kb_0030	Articolo 6
-human_rights_un_ita_dan_64kb_0031	Ogni individuo ha diritto, in ogni luogo, al riconoscimento della sua personalitàgiuridica.
-human_rights_un_ita_dan_64kb_0032	Articolo 7
-human_rights_un_ita_dan_64kb_0033	Tutti sono eguali dinanzi alla legge e hanno diritto, senza alcunadiscriminazione, ad una eguale tutela da parte della legge.
-human_rights_un_ita_dan_64kb_0034	Tutti hanno dirittoad una eguale tutela contro ogni discriminazione che violi la presente
-human_rights_un_ita_dan_64kb_0035	Dichiarazione come contro qualsiasi incitamento a tale discriminazione.
-human_rights_un_ita_dan_64kb_0036	Articolo 8
-human_rights_un_ita_dan_64kb_0037	Ogni individuo ha diritto ad un'effettiva possibilità di ricorso a competentitribunali contro atti che violino i diritti fondamentali a lui riconosciuti dallacostituzione o dalla legge.
-human_rights_un_ita_dan_64kb_0038	Articolo 9
-human_rights_un_ita_dan_64kb_0039	Nessun individuo potrà essere arbitrariamente arrestato, detenuto o esiliato.
-human_rights_un_ita_dan_64kb_0040	Articolo 10
-human_rights_un_ita_dan_64kb_0041	Ogni individuo ha diritto, in posizione di piena uguaglianza, ad una equa epubblica udienza davanti ad un tribunale indipendente e imparziale, al finedella determinazione dei suoi diritti e dei suoi doveri, nonché della fondatezzadi ogni accusa penale che gli venga rivolta.
-human_rights_un_ita_dan_64kb_0042	Articolo 11
-human_rights_un_ita_dan_64kb_0043	1.
-human_rights_un_ita_dan_64kb_0044	Ogni individuo accusato di un reato è presunto innocente sino a che lasua colpevolezza non sia stata provata legalmente in un pubblicoprocesso nel quale egli abbia avuto tutte le garanzie necessarie per lasua difesa.
-human_rights_un_ita_dan_64kb_0045	Nessun individuo sarà condannato per un comportamento commissivood omissivo che, al momento in cui sia stato perpetuato, noncostituisse reato secondo il diritto interno o secondo il dirittointernazionale.
-human_rights_un_ita_dan_64kb_0046	Non potrà del pari essere inflitta alcuna pena superiorea quella applicabile al momento in cui il reato sia stato commesso.
-human_rights_un_ita_dan_64kb_0047	2.
-human_rights_un_ita_dan_64kb_0048	Articolo 12
-human_rights_un_ita_dan_64kb_0049	Nessun individuo potrà essere sottoposto ad interferenze arbitrarie nella suavita privata, nella sua famiglia, nella sua casa, nella sua corrispondenza, né alesione del suo onore e della sua reputazione.
-human_rights_un_ita_dan_64kb_0050	Ogni individuo ha diritto adessere tutelato dalla legge contro tali interferenze o lesioni.
-human_rights_un_ita_dan_64kb_0051	Articolo 13
-human_rights_un_ita_dan_64kb_0052	1.
-human_rights_un_ita_dan_64kb_0053	Ogni individuo ha diritto alla libertà di movimento e di residenza entro iconfini di ogni Stato.
-human_rights_un_ita_dan_64kb_0054	2.
-human_rights_un_ita_dan_64kb_0055	Ogni individuo ha diritto di lasciare qualsiasi paese, incluso il proprio, edi ritornare nel proprio paese.
-human_rights_un_ita_dan_64kb_0056	Articolo 14
-human_rights_un_ita_dan_64kb_0057	1.
-human_rights_un_ita_dan_64kb_0058	2.
-human_rights_un_ita_dan_64kb_0059	Ogni individuo ha il diritto di cercare e di godere in altri paesi asilo dallepersecuzioni.
-human_rights_un_ita_dan_64kb_0060	Questo diritto non potrà essere invocato qualora l'individuo siarealmente ricercato per reati non politici o per azioni contrarie ai fini e aiprincipi delle Nazioni Unite.
-human_rights_un_ita_dan_64kb_0061	Articolo 15
-human_rights_un_ita_dan_64kb_0062	1.
-human_rights_un_ita_dan_64kb_0063	2.
-human_rights_un_ita_dan_64kb_0064	Ogni individuo ha diritto ad una cittadinanza.
-human_rights_un_ita_dan_64kb_0065	Nessun individuo potrà essere arbitrariamente privato della suacittadinanza, né del diritto di mutare cittadinanza.
-human_rights_un_ita_dan_64kb_0066	Articolo 16
-human_rights_un_ita_dan_64kb_0067	1.
-human_rights_un_ita_dan_64kb_0068	Uomini e donne in età adatta hanno il diritto di sposarsi e di fondareuna famiglia, senza alcuna limitazione di razza, cittadinanza o religione.
-human_rights_un_ita_dan_64kb_0069	Essi hanno eguali diritti riguardo al matrimonio, durante il matrimonio eall'atto del suo scioglimento.
-human_rights_un_ita_dan_64kb_0070	Il matrimonio potrà essere concluso soltanto con il libero e pienoconsenso dei futuri coniugi.
-human_rights_un_ita_dan_64kb_0071	La famiglia è il nucleo naturale e fondamentale della società e ha dirittoad essere protetta dalla società e dallo Stato.
-human_rights_un_ita_dan_64kb_0072	2.
-human_rights_un_ita_dan_64kb_0073	3.
-human_rights_un_ita_dan_64kb_0074	2.
-human_rights_un_ita_dan_64kb_0075	Articolo 17
-human_rights_un_ita_dan_64kb_0076	1.
-human_rights_un_ita_dan_64kb_0077	Ogni individuo ha il diritto ad avere una proprietà sua personale o incomune con altri.
-human_rights_un_ita_dan_64kb_0078	Nessun individuo potrà essere arbitrariamente privato della suaproprietà.
-human_rights_un_ita_dan_64kb_0079	Articolo 18
-human_rights_un_ita_dan_64kb_0080	Ogni individuo ha diritto alla libertà di pensiero, di coscienza e di religione;
-human_rights_un_ita_dan_64kb_0081	talediritto include la libertà di cambiare di religione o di credo, e la libertà dimanifestare, isolatamente o in comune, e sia in pubblico che in privato, lapropria religione o il proprio credo nell'insegnamento, nelle pratiche, nel cultoe nell'osservanza dei riti.
-human_rights_un_ita_dan_64kb_0082	Articolo 19
-human_rights_un_ita_dan_64kb_0083	Ogni individuo ha diritto alla libertà di opinione e di espressione incluso ildiritto di non essere molestato per la propria opinione e quello di cercare,ricevere e diffondere informazioni e idee attraverso ogni mezzo e senzariguardo a frontiere.
-human_rights_un_ita_dan_64kb_0084	Articolo 20
-human_rights_un_ita_dan_64kb_0085	1.
-human_rights_un_ita_dan_64kb_0086	Ogni individuo ha diritto alla libertà di riunione e di associazionepacifica.
-human_rights_un_ita_dan_64kb_0087	Nessuno può essere costretto a far parte di un'associazione.
-human_rights_un_ita_dan_64kb_0088	2.
-human_rights_un_ita_dan_64kb_0089	Articolo 21
-human_rights_un_ita_dan_64kb_0090	1.
-human_rights_un_ita_dan_64kb_0091	2.
-human_rights_un_ita_dan_64kb_0092	3.
-human_rights_un_ita_dan_64kb_0093	Ogni individuo ha diritto di partecipare al governo del proprio paese, siadirettamente, sia attraverso rappresentanti liberamente scelti.
-human_rights_un_ita_dan_64kb_0094	Ogni individuo ha diritto di accedere in condizioni di eguaglianza aipubblici impieghi del proprio paese.
-human_rights_un_ita_dan_64kb_0095	La volontà popolare è il fondamento dell'autorità del governo;
-human_rights_un_ita_dan_64kb_0096	talevolontà deve essere espressa attraverso periodiche e veritiere elezioni,effettuate a suffragio universale ed eguale, ed a voto segreto, osecondo una procedura equivalente di libera votazione.
-human_rights_un_ita_dan_64kb_0097	Articolo 22
-human_rights_un_ita_dan_64kb_0098	Ogni individuo, in quanto membro della società, ha diritto alla sicurezzasociale, nonché alla realizzazione attraverso lo sforzo nazionale e lacooperazione internazionale ed in rapporto con l'organizzazione e le risorse diogni Stato, dei diritti economici, sociali e culturali indispensabili alla suadignità ed al libero sviluppo della sua personalità.
-human_rights_un_ita_dan_64kb_0099	Articolo 23
-human_rights_un_ita_dan_64kb_0100	1.
-human_rights_un_ita_dan_64kb_0101	Ogni individuo ha diritto al lavoro, alla libera scelta dell'impiego, agiuste e soddisfacenti condizioni di lavoro ed alla protezione contro ladisoccupazione.
-human_rights_un_ita_dan_64kb_0102	Ogni individuo, senza discriminazione, ha diritto ad eguale retribuzioneper eguale lavoro.
-human_rights_un_ita_dan_64kb_0103	Ogni individuo che lavora ha diritto ad una rimunerazione equa esoddisfacente che assicuri a lui stesso e alla sua famiglia unaesistenza conforme alla dignità umana ed integrata, se necessario, daaltri mezzi di protezione sociale.
-human_rights_un_ita_dan_64kb_0104	Ogni individuo ha diritto di fondare dei sindacati e di aderirvi per ladifesa dei propri interessi.
-human_rights_un_ita_dan_64kb_0105	2.
-human_rights_un_ita_dan_64kb_0106	3.
-human_rights_un_ita_dan_64kb_0107	4.
-human_rights_un_ita_dan_64kb_0108	Articolo 24
-human_rights_un_ita_dan_64kb_0109	Ogni individuo ha diritto al riposo ed allo svago, comprendendo in ciò unaragionevole limitazione delle ore di lavoro e ferie periodiche retribuite.
-human_rights_un_ita_dan_64kb_0110	Articolo 25
-human_rights_un_ita_dan_64kb_0111	1.
-human_rights_un_ita_dan_64kb_0112	Ogni individuo ha diritto ad un tenore di vita sufficiente a garantire lasalute e il benessere proprio e della sua famiglia, con particolareriguardo all'alimentazione, al vestiario, all'abitazione, e alle curemediche e ai servizi sociali necessari;
-human_rights_un_ita_dan_64kb_0113	ed ha diritto alla sicurezza incaso di disoccupazione, malattia, invalidità, vedovanza, vecchiaia o inaltro caso di perdita di mezzi di sussistenza per circostanzeindipendenti dalla sua volontà.
-human_rights_un_ita_dan_64kb_0114	2.
-human_rights_un_ita_dan_64kb_0115	La maternità e l'infanzia hanno diritto a speciali cure ed assistenza.
-human_rights_un_ita_dan_64kb_0116	Tutti i bambini, nati nel matrimonio o fuori di esso, devono godere dellastessa protezione sociale.
-human_rights_un_ita_dan_64kb_0117	Articolo 26
-human_rights_un_ita_dan_64kb_0118	1.
-human_rights_un_ita_dan_64kb_0119	2.
-human_rights_un_ita_dan_64kb_0120	3.
-human_rights_un_ita_dan_64kb_0121	2.
-human_rights_un_ita_dan_64kb_0122	Articolo 27
-human_rights_un_ita_dan_64kb_0123	1.
-human_rights_un_ita_dan_64kb_0124	Ogni individuo ha diritto all'istruzione.
-human_rights_un_ita_dan_64kb_0125	L'istruzione deve essere gratuitaalmeno per quanto riguarda le classi elementari e fondamentali.
-human_rights_un_ita_dan_64kb_0126	L'istruzione elementare deve essere obbligatoria.
-human_rights_un_ita_dan_64kb_0127	L'istruzione tecnica eprofessionale deve essere messa alla portata di tutti e l'istruzionesuperiore deve essere egualmente accessibile a tutti sulla base delmerito.
-human_rights_un_ita_dan_64kb_0128	L'istruzione deve essere indirizzata al pieno sviluppo della personalitàumana ed al rafforzamento del rispetto dei diritti umani e delle libertàfondamentali.
-human_rights_un_ita_dan_64kb_0129	Essa deve promuovere la comprensione, la tolleranza,l'amicizia fra tutte le Nazioni, i gruppi razziali e religiosi, e deve favorirel'opera delle Nazioni Unite per il mantenimento della pace.
-human_rights_un_ita_dan_64kb_0130	I genitori hanno diritto di priorità nella scelta del genere di istruzione daimpartire ai loro figli.
-human_rights_un_ita_dan_64kb_0131	Ogni individuo ha diritto di prendere parte liberamente alla vita culturaledella comunità, di godere delle arti e di partecipare al progressoscientifico ed ai suoi benefici.
-human_rights_un_ita_dan_64kb_0132	Ogni individuo ha diritto alla protezione degli interessi morali e materialiderivanti da ogni produzione scientifica, letteraria e artistica di cui eglisia autore.
-human_rights_un_ita_dan_64kb_0133	Articolo 28
-human_rights_un_ita_dan_64kb_0134	Ogni individuo ha diritto ad un ordine sociale e internazionale nel quale i dirittie le libertà enunciati in questa Dichiarazione possano essere pienamenterealizzati.
-human_rights_un_ita_dan_64kb_0135	Articolo 29
-human_rights_un_ita_dan_64kb_0136	1.
-human_rights_un_ita_dan_64kb_0137	Ogni individuo ha dei doveri verso la comunità, nella quale soltanto èpossibile il libero e pieno sviluppo della sua personalità.
-human_rights_un_ita_dan_64kb_0138	Nell'esercizio dei suoi diritti e delle sue libertà, ognuno deve esseresottoposto soltanto a quelle limitazioni che sono stabilite dalla leggeper assicurare il riconoscimento e il rispetto dei diritti e delle libertàdegli altri e per soddisfare le giuste esigenze della morale, dell'ordinepubblico e del benessere generale in una società democratica.
-human_rights_un_ita_dan_64kb_0139	Questi diritti e queste libertà non possono in nessun caso essereesercitati in contrasto con i fini e principi delle Nazioni Unite.
-human_rights_un_ita_dan_64kb_0140	2.
-human_rights_un_ita_dan_64kb_0141	3.
-human_rights_un_ita_dan_64kb_0142	Articolo 30
-human_rights_un_ita_dan_64kb_0143	Nulla nella presente Dichiarazione può essere interpretato nel senso diimplicare un diritto di un qualsiasi Stato, gruppo o persona di esercitareun'attività o di compiere un atto mirante alla distruzione di alcuno dei diritti edelle libertà in essa enunciati.
+human_rights_un_ita_dan_64kb_0001	Il 10 dicembre 1948, l'Assemblea Generale delle Nazioni Unite approvò e proclamò la Dichiarazione Universale dei Diritti Umani, il cui testo completo è stampato nelle pagine seguenti.
+human_rights_un_ita_dan_64kb_0002	Dopo questa solenne deliberazione, l'Assemblea delle Nazioni Unite diede istruzioni al Segretario Generale di provvedere a diffondere ampiamente questa Dichiarazione e, a tal fine, di pubblicarne e distribuirne il testo non soltanto nelle cinque lingue ufficiali dell'Organizzazione internazionale, ma anche in quante altre lingue fosse possibile usando ogni mezzo a sua disposizione.
+human_rights_un_ita_dan_64kb_0003	Il testo ufficiale della Dichiarazione è disponibile nelle lingue ufficiali delle Nazioni Unite, cioè cinese, francese, inglese, russo e spagnolo.
+human_rights_un_ita_dan_64kb_0004	DICHIARAZIONE UNIVERSALE DEI DIRITTI UMANI
+human_rights_un_ita_dan_64kb_0005	Preambolo
+human_rights_un_ita_dan_64kb_0006	Considerato che il riconoscimento della dignità inerente a tutti i membri della famiglia umana e dei loro diritti, uguali ed inalienabili, costituisce il fondamento della libertà, della giustizia e della pace nel mondo;
+human_rights_un_ita_dan_64kb_0007	Considerato che il disconoscimento e il disprezzo dei diritti umani hanno portato ad atti di barbarie che offendono la coscienza dell'umanità, e che l'avvento di un mondo in cui gli esseri umani godano della libertà di parola e di credo e della libertà dal timore e dal bisogno è stato proclamato come la più alta aspirazione dell'uomo;
+human_rights_un_ita_dan_64kb_0008	Considerato che è indispensabile che i diritti umani siano protetti da norme giuridiche, se si vuole evitare che l'uomo sia costretto a ricorrere, come ultima istanza, alla ribellione contro la tirannia e l'oppressione;
+human_rights_un_ita_dan_64kb_0009	Considerato che è indispensabile promuovere lo sviluppo di rapporti amichevoli tra le Nazioni;
+human_rights_un_ita_dan_64kb_0010	Considerato che i popoli delle Nazioni Unite hanno riaffermato nello Statuto la loro fede nei diritti umani fondamentali, nella dignità e nel valore della persona umana, nell'uguaglianza dei diritti dell'uomo e della donna, ed hanno deciso di promuovere il progresso sociale e un miglior tenore di vita in una maggiore libertà;
+human_rights_un_ita_dan_64kb_0011	Considerato che gli Stati membri si sono impegnati a perseguire, in cooperazione con le Nazioni Unite, il rispetto e l'osservanza universale dei diritti umani e delle libertà fondamentali;
+human_rights_un_ita_dan_64kb_0012	Considerato che una concezione comune di questi diritti e di questa libertà è della massima importanza per la piena realizzazione di questi impegni;
+human_rights_un_ita_dan_64kb_0013	L'ASSEMBLEA GENERALEproclamala presente dichiarazione universale dei diritti umani come ideale comune da raggiungersi da tutti i popoli e da tutte le Nazioni, al fine che ogni individuo ed ogni organo della società, avendo costantemente presente questa Dichiarazione, si sforzi di promuovere, con l'insegnamento e l'educazione, il rispetto di questi diritti e di queste libertà e di garantirne, mediante misure progressive di carattere nazionale e internazionale, l'universale ed effettivo riconoscimento e rispetto tanto fra i popoli degli stessi Stati membri, quanto fra quelli dei territori sottoposti alla loro giurisdizione.
+human_rights_un_ita_dan_64kb_0014	Articolo 1
+human_rights_un_ita_dan_64kb_0015	Tutti gli esseri umani nascono liberi ed eguali in dignità e diritti.
+human_rights_un_ita_dan_64kb_0016	Essi sono dotati di ragione e di coscienza e devono agire gli uni verso gli altri in spirito di fratellanza.
+human_rights_un_ita_dan_64kb_0017	Articolo 2
+human_rights_un_ita_dan_64kb_0018	Ad ogni individuo spettano tutti i diritti e tutte le libertà enunciate nella presente Dichiarazione, senza distinzione alcuna, per ragioni di razza, di colore, di sesso, di lingua, di religione, di opinione politica o di altro genere, di origine nazionale o sociale, di ricchezza, di nascita o di altra condizione.
+human_rights_un_ita_dan_64kb_0019	Nessuna distinzione sarà inoltre stabilita sulla base dello statuto politico, giuridico o internazionale del paese o del territorio cui una persona appartiene, sia indipendente, o sottoposto ad amministrazione fiduciaria o non autonomo, o soggetto a qualsiasi limitazione di sovranità.
+human_rights_un_ita_dan_64kb_0020	Articolo 3
+human_rights_un_ita_dan_64kb_0021	Ogni individuo ha diritto alla vita, alla libertà ed alla sicurezza della propria persona.
+human_rights_un_ita_dan_64kb_0022	Articolo 4
+human_rights_un_ita_dan_64kb_0023	Nessun individuo potrà essere tenuto in stato di schiavitù o di servitù;
+human_rights_un_ita_dan_64kb_0024	la schiavitù e la tratta degli schiavi saranno proibite sotto qualsiasi forma.
+human_rights_un_ita_dan_64kb_0025	Articolo 5
+human_rights_un_ita_dan_64kb_0026	Nessun individuo potrà essere sottoposto a tortura o a trattamento o a punizione crudeli, inumani o degradanti.
+human_rights_un_ita_dan_64kb_0027	Articolo 6
+human_rights_un_ita_dan_64kb_0028	Ogni individuo ha diritto, in ogni luogo, al riconoscimento della sua personalità giuridica.
+human_rights_un_ita_dan_64kb_0029	Articolo 7
+human_rights_un_ita_dan_64kb_0030	Tutti sono eguali dinanzi alla legge e hanno diritto, senza alcuna discriminazione, ad una eguale tutela da parte della legge.
+human_rights_un_ita_dan_64kb_0031	Tutti hanno diritto ad una eguale tutela contro ogni discriminazione che violi la presente Dichiarazione come contro qualsiasi incitamento a tale discriminazione.
+human_rights_un_ita_dan_64kb_0032	Articolo 8
+human_rights_un_ita_dan_64kb_0033	Ogni individuo ha diritto ad un'effettiva possibilità di ricorso a competenti tribunali contro atti che violino i diritti fondamentali a lui riconosciuti dalla costituzione o dalla legge.
+human_rights_un_ita_dan_64kb_0034	Articolo 9
+human_rights_un_ita_dan_64kb_0035	Nessun individuo potrà essere arbitrariamente arrestato, detenuto o esiliato.
+human_rights_un_ita_dan_64kb_0036	Articolo 10
+human_rights_un_ita_dan_64kb_0037	Ogni individuo ha diritto, in posizione di piena uguaglianza, ad una equa e pubblica udienza davanti ad un tribunale indipendente e imparziale, al fine della determinazione dei suoi diritti e dei suoi doveri, nonché della fondatezza di ogni accusa penale che gli venga rivolta.
+human_rights_un_ita_dan_64kb_0038	Articolo 11
+human_rights_un_ita_dan_64kb_0039	Ogni individuo accusato di un reato è presunto innocente sino a che la sua colpevolezza non sia stata provata legalmente in un pubblico processo nel quale egli abbia avuto tutte le garanzie necessarie per la sua difesa.
+human_rights_un_ita_dan_64kb_0040	Nessun individuo sarà condannato per un comportamento commissivo od omissivo che, al momento in cui sia stato perpetuato, non costituisse reato secondo il diritto interno o secondo il diritto internazionale.
+human_rights_un_ita_dan_64kb_0041	Non potrà del pari essere inflitta alcuna pena superiore a quella applicabile al momento in cui il reato sia stato commesso.
+human_rights_un_ita_dan_64kb_0042	Articolo 12
+human_rights_un_ita_dan_64kb_0043	Nessun individuo potrà essere sottoposto ad interferenze arbitrarie nella sua vita privata, nella sua famiglia, nella sua casa, nella sua corrispondenza, né a lesione del suo onore e della sua reputazione.
+human_rights_un_ita_dan_64kb_0044	Ogni individuo ha diritto ad essere tutelato dalla legge contro tali interferenze o lesioni.
+human_rights_un_ita_dan_64kb_0045	Articolo 13
+human_rights_un_ita_dan_64kb_0046	Ogni individuo ha diritto alla libertà di movimento e di residenza entro i confini di ogni Stato.
+human_rights_un_ita_dan_64kb_0047	Ogni individuo ha diritto di lasciare qualsiasi paese, incluso il proprio, e di ritornare nel proprio paese.
+human_rights_un_ita_dan_64kb_0048	Articolo 14
+human_rights_un_ita_dan_64kb_0049	Ogni individuo ha il diritto di cercare e di godere in altri paesi asilo dalle persecuzioni.
+human_rights_un_ita_dan_64kb_0050	Questo diritto non potrà essere invocato qualora l'individuo sia realmente ricercato per reati non politici o per azioni contrarie ai fini e ai principi delle Nazioni Unite.
+human_rights_un_ita_dan_64kb_0051	Articolo 15
+human_rights_un_ita_dan_64kb_0052	Ogni individuo ha diritto ad una cittadinanza.
+human_rights_un_ita_dan_64kb_0053	Nessun individuo potrà essere arbitrariamente privato della sua cittadinanza, né del diritto di mutare cittadinanza.
+human_rights_un_ita_dan_64kb_0054	Articolo 16
+human_rights_un_ita_dan_64kb_0055	Uomini e donne in età adatta hanno il diritto di sposarsi e di fondare una famiglia, senza alcuna limitazione di razza, cittadinanza o religione.
+human_rights_un_ita_dan_64kb_0056	Essi hanno eguali diritti riguardo al matrimonio, durante il matrimonio e all'atto del suo scioglimento.
+human_rights_un_ita_dan_64kb_0057	Il matrimonio potrà essere concluso soltanto con il libero e pieno consenso dei futuri coniugi.
+human_rights_un_ita_dan_64kb_0058	La famiglia è il nucleo naturale e fondamentale della società e ha diritto ad essere protetta dalla società e dallo Stato.
+human_rights_un_ita_dan_64kb_0059	Articolo 17
+human_rights_un_ita_dan_64kb_0060	Ogni individuo ha il diritto ad avere una proprietà sua personale o in comune con altri.
+human_rights_un_ita_dan_64kb_0061	Nessun individuo potrà essere arbitrariamente privato della sua proprietà.
+human_rights_un_ita_dan_64kb_0062	Articolo 18
+human_rights_un_ita_dan_64kb_0063	Ogni individuo ha diritto alla libertà di pensiero, di coscienza e di religione;
+human_rights_un_ita_dan_64kb_0064	tale diritto include la libertà di cambiare di religione o di credo, e la libertà di manifestare, isolatamente o in comune, e sia in pubblico che in privato, la propria religione o il proprio credo nell'insegnamento, nelle pratiche, nel culto e nell'osservanza dei riti.
+human_rights_un_ita_dan_64kb_0065	Articolo 19
+human_rights_un_ita_dan_64kb_0066	Ogni individuo ha diritto alla libertà di opinione e di espressione incluso il diritto di non essere molestato per la propria opinione e quello di cercare, ricevere e diffondere informazioni e idee attraverso ogni mezzo e senza riguardo a frontiere.
+human_rights_un_ita_dan_64kb_0067	Articolo 20
+human_rights_un_ita_dan_64kb_0068	Ogni individuo ha diritto alla libertà di riunione e di associazione pacifica.
+human_rights_un_ita_dan_64kb_0069	Nessuno può essere costretto a far parte di un'associazione.
+human_rights_un_ita_dan_64kb_0070	Articolo 21
+human_rights_un_ita_dan_64kb_0071	Ogni individuo ha diritto di partecipare al governo del proprio paese, sia direttamente, sia attraverso rappresentanti liberamente scelti.
+human_rights_un_ita_dan_64kb_0072	Ogni individuo ha diritto di accedere in condizioni di eguaglianza ai pubblici impieghi del proprio paese.
+human_rights_un_ita_dan_64kb_0073	La volontà popolare è il fondamento dell'autorità del governo;
+human_rights_un_ita_dan_64kb_0074	tale volontà deve essere espressa attraverso periodiche e veritiere elezioni, effettuate a suffragio universale ed eguale, ed a voto segreto, o secondo una procedura equivalente di libera votazione.
+human_rights_un_ita_dan_64kb_0075	Articolo 22
+human_rights_un_ita_dan_64kb_0076	Ogni individuo, in quanto membro della società, ha diritto alla sicurezza sociale, nonché alla realizzazione attraverso lo sforzo nazionale e la cooperazione internazionale ed in rapporto con l'organizzazione e le risorse di ogni Stato, dei diritti economici, sociali e culturali indispensabili alla sua dignità ed al libero sviluppo della sua personalità.
+human_rights_un_ita_dan_64kb_0077	Articolo 23
+human_rights_un_ita_dan_64kb_0078	Ogni individuo ha diritto al lavoro, alla libera scelta dell'impiego, a giuste e soddisfacenti condizioni di lavoro ed alla protezione contro la disoccupazione.
+human_rights_un_ita_dan_64kb_0079	Ogni individuo, senza discriminazione, ha diritto ad eguale retribuzione per eguale lavoro.
+human_rights_un_ita_dan_64kb_0080	Ogni individuo che lavora ha diritto ad una rimunerazione equa e soddisfacente che assicuri a lui stesso e alla sua famiglia una esistenza conforme alla dignità umana ed integrata, se necessario, da altri mezzi di protezione sociale.
+human_rights_un_ita_dan_64kb_0081	Ogni individuo ha diritto di fondare dei sindacati e di aderirvi per la difesa dei propri interessi.
+human_rights_un_ita_dan_64kb_0082	Articolo 24
+human_rights_un_ita_dan_64kb_0083	Ogni individuo ha diritto al riposo ed allo svago, comprendendo in ciò una ragionevole limitazione delle ore di lavoro e ferie periodiche retribuite.
+human_rights_un_ita_dan_64kb_0084	Articolo 25
+human_rights_un_ita_dan_64kb_0085	Ogni individuo ha diritto ad un tenore di vita sufficiente a garantire la salute e il benessere proprio e della sua famiglia, con particolare riguardo all'alimentazione, al vestiario, all'abitazione, e alle cure mediche e ai servizi sociali necessari;
+human_rights_un_ita_dan_64kb_0086	ed ha diritto alla sicurezza in caso di disoccupazione, malattia, invalidità, vedovanza, vecchiaia o in altro caso di perdita di mezzi di sussistenza per circostanze indipendenti dalla sua volontà.
+human_rights_un_ita_dan_64kb_0087	La maternità e l'infanzia hanno diritto a speciali cure ed assistenza.
+human_rights_un_ita_dan_64kb_0088	Tutti i bambini, nati nel matrimonio o fuori di esso, devono godere della stessa protezione sociale.
+human_rights_un_ita_dan_64kb_0089	Articolo 26
+human_rights_un_ita_dan_64kb_0090	Ogni individuo ha diritto all'istruzione.
+human_rights_un_ita_dan_64kb_0091	L'istruzione deve essere gratuita almeno per quanto riguarda le classi elementari e fondamentali.
+human_rights_un_ita_dan_64kb_0092	L'istruzione elementare deve essere obbligatoria.
+human_rights_un_ita_dan_64kb_0093	L'istruzione tecnica e professionale deve essere messa alla portata di tutti e l'istruzione superiore deve essere egualmente accessibile a tutti sulla base del merito.
+human_rights_un_ita_dan_64kb_0094	L'istruzione deve essere indirizzata al pieno sviluppo della personalità umana ed al rafforzamento del rispetto dei diritti umani e delle libertà fondamentali.
+human_rights_un_ita_dan_64kb_0095	Essa deve promuovere la comprensione, la tolleranza, l'amicizia fra tutte le Nazioni, i gruppi razziali e religiosi, e deve favorire l'opera delle Nazioni Unite per il mantenimento della pace.
+human_rights_un_ita_dan_64kb_0096	I genitori hanno diritto di priorità nella scelta del genere di istruzione da impartire ai loro figli.
+human_rights_un_ita_dan_64kb_0097	Articolo 27
+human_rights_un_ita_dan_64kb_0098	Ogni individuo ha diritto di prendere parte liberamente alla vita culturale della comunità, di godere delle arti e di partecipare al progresso scientifico ed ai suoi benefici.
+human_rights_un_ita_dan_64kb_0099	Ogni individuo ha diritto alla protezione degli interessi morali e materiali derivanti da ogni produzione scientifica, letteraria e artistica di cui egli sia autore.
+human_rights_un_ita_dan_64kb_0100	Articolo 28
+human_rights_un_ita_dan_64kb_0101	Ogni individuo ha diritto ad un ordine sociale e internazionale nel quale i diritti e le libertà enunciati in questa Dichiarazione possano essere pienamente realizzati.
+human_rights_un_ita_dan_64kb_0102	Articolo 29
+human_rights_un_ita_dan_64kb_0103	Ogni individuo ha dei doveri verso la comunità, nella quale soltanto è possibile il libero e pieno sviluppo della sua personalità.
+human_rights_un_ita_dan_64kb_0104	Nell'esercizio dei suoi diritti e delle sue libertà, ognuno deve essere sottoposto soltanto a quelle limitazioni che sono stabilite dalla legge per assicurare il riconoscimento e il rispetto dei diritti e delle libertà degli altri e per soddisfare le giuste esigenze della morale, dell'ordine pubblico e del benessere generale in una società democratica.
+human_rights_un_ita_dan_64kb_0105	Questi diritti e queste libertà non possono in nessun caso essere esercitati in contrasto con i fini e principi delle Nazioni Unite.
+human_rights_un_ita_dan_64kb_0106	Articolo 30
+human_rights_un_ita_dan_64kb_0107	Nulla nella presente Dichiarazione può essere interpretato nel senso di implicare un diritto di un qualsiasi Stato, gruppo o persona di esercitare un'attività o di compiere un atto mirante alla distruzione di alcuno dei diritti e delle libertà in essa enunciati.

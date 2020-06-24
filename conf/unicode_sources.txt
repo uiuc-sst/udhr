@@ -1,0 +1,57 @@
+# This file lists source files for unicode texts of the Universal Declaration of Human Rights.
+#
+# Filenames (first column) need to match ISO codes in long2iso.txt.
+#
+ace.txt	https://www.unicode.org/udhr/d/udhr_ace.txt
+afr.txt	https://www.unicode.org/udhr/d/udhr_afr.txt
+arz.txt	https://www.unicode.org/udhr/d/udhr_arb.txt
+ban.txt	https://www.unicode.org/udhr/d/udhr_ban.txt
+bug.txt	https://www.unicode.org/udhr/d/udhr_bug.txt
+bul.txt	https://www.unicode.org/udhr/d/udhr_bul.txt
+cat.txt	https://www.unicode.org/udhr/d/udhr_cat.txt
+ces.txt	https://www.unicode.org/udhr/d/udhr_ces.txt
+cmn.txt	https://www.unicode.org/udhr/d/udhr_cmn_hans.txt
+dan.txt	https://www.unicode.org/udhr/d/udhr_dan.txt
+deu.txt	https://www.unicode.org/udhr/d/udhr_deu_1996.txt
+ell.txt	https://www.unicode.org/udhr/d/udhr_ell_monotonic.txt
+eng-AU.txt	https://www.unicode.org/udhr/d/udhr_eng.txt
+eng-GB.txt	https://www.unicode.org/udhr/d/udhr_eng.txt
+eng-US.txt	https://www.unicode.org/udhr/d/udhr_eng.txt
+epo.txt		https://www.unicode.org/udhr/d/udhr_epo.txt
+fao.txt		https://www.unicode.org/udhr/d/udhr_fao.txt
+fil.txt		https://www.unicode.org/udhr/d/udhr_tgl.txt
+fin.txt		https://www.unicode.org/udhr/d/udhr_fin.txt
+fra.txt		https://www.unicode.org/udhr/d/udhr_fra.txt
+fry.txt		https://www.unicode.org/udhr/d/udhr_fri.txt
+heb.txt		https://www.unicode.org/udhr/d/udhr_heb.txt
+hin.txt		https://www.unicode.org/udhr/d/udhr_hin.txt
+hun.txt		https://www.unicode.org/udhr/d/udhr_hun.txt
+ind.txt		https://www.unicode.org/udhr/d/udhr_ind.txt
+ita.txt		https://www.unicode.org/udhr/d/udhr_ita.txt
+jav.txt		https://www.unicode.org/udhr/d/udhr_jav.txt
+jpn.txt		https://www.unicode.org/udhr/d/udhr_jpn.txt
+kor.txt		https://www.unicode.org/udhr/d/udhr_kor.txt
+lat-v1.txt	https://www.unicode.org/udhr/d/udhr_lat.txt
+lat-v2.txt	https://www.unicode.org/udhr/d/udhr_lat_1.txt
+lav.txt		https://www.unicode.org/udhr/d/udhr_lav.txt
+ltz.txt		https://www.unicode.org/udhr/d/udhr_ltz.txt
+min.txt		https://www.unicode.org/udhr/d/udhr_min.txt
+nld.txt		https://www.unicode.org/udhr/d/udhr_nld.txt
+nno.txt		https://www.unicode.org/udhr/d/udhr_nno.txt
+oci.txt		https://www.unicode.org/udhr/d/udhr_prv.txt
+pam.txt		https://www.unicode.org/udhr/d/udhr_pam.txt
+pol.txt		https://www.unicode.org/udhr/d/udhr_pol.txt
+por-BR.txt	https://www.unicode.org/udhr/d/udhr_por_BR.txt
+por-PT.txt	https://www.unicode.org/udhr/d/udhr_por_PT.txt
+ron.txt		https://www.unicode.org/udhr/d/udhr_ron_2006.txt
+rus.txt		https://www.unicode.org/udhr/d/udhr_rus.txt
+slk.txt		https://www.unicode.org/udhr/d/udhr_slk.txt
+spa.txt		https://www.unicode.org/udhr/d/udhr_spa.txt
+sun.txt		https://www.unicode.org/udhr/d/udhr_sun.txt
+swe.txt		https://www.unicode.org/udhr/d/udhr_swe.txt
+tam.txt		https://www.unicode.org/udhr/d/udhr_tam.txt
+ukr.txt		https://www.unicode.org/udhr/d/udhr_ukr.txt
+urd.txt		https://www.unicode.org/udhr/d/udhr_urd.txt
+wln.txt		https://www.unicode.org/udhr/d/udhr_wln.txt
+yid.txt		https://www.unicode.org/udhr/d/udhr_ydd.txt
+zlm.txt		https://www.unicode.org/udhr/d/udhr_mly_latn.txt

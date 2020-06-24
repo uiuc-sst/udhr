@@ -1,149 +1,110 @@
 human_rights_un_pl_km_64kb_0001	w
-human_rights_un_pl_km_64kb_0002	rɛambl
-human_rights_un_pl_km_64kb_0003	ʐɛtɕa ɛsja ɡulnɛɡɔ ɡrɔmadzɛɲa ɔbradujɔ̃ɲtsa v arɨʐu uxˈɨvaliwa ɡruɲa rɔku jˈɛn̪ɔmˈɨɕlɲɛ̝ ɔˈɨvʂɛxn̪ɔ̃ɲ ɛklˈat̪ratsjɛ̃ rav zwɔvʲjˈɛ̝ka
-human_rights_un_pl_km_64kb_0004	ɔkumɛn̪t tɛn saɲɔvʲ ɲɛ̝ˈɨvɔ̃ɲtplivʲjˈɛ̝ jˈɛn̪ɔ z najvʲɛ̃kʂɨx i najtʂˈɨvalʂɨxɔɕˈɔ̃ŋɡɲɛ̃tɕ
-human_rights_un_pl_km_64kb_0005	ʐɛtwumatʂɔn̪a na vʲˈɛ̃nkʂɔɕtɕ jˈɛ̃nʂɛɨkˈu ɕvʲˈat̪a ɔvʂɛxɲa
-human_rights_un_pl_km_64kb_0006	ɛklˈat̪ratsja rav zwɔvʲjˈɛ̝ka zbɛ̝ra ɔraz pɔʐɔ̃ɲˈidʑkujɛ ɔɕʲˈɔ̃ŋɡɲɛ̃tɕa i pɔstulˈat̪tɨtʂwɔvʲjˈɛ̝ka kturɨ ɔd vʲjˈɛ̝lu sɛtɛk lˈat̪t tɔtʂɨ ɲɛ̝ skɲtʂɔn̪ɔ̃ɲ jɛʂtʂɛ ˈɨvalkɛ̃ ɔ sˈɨvɔjɔ̃ɲvɔlnɔˈɨɕtɕ i svɔjɔ̃ɲ ɡɔpxn̪n̪ɔˈɨɕtɕ
-human_rights_un_pl_km_64kb_0007	ʐ ˈɛʐɛ uznaɲɛ̝ pʐɨrɔdʑɔn̪ɛj ɡɔˈidʑnɔɕtɕ ɔraz rˈun̪ɨx i ɲɛ̝w̃z̪bɨˈɨvalnɨxprav vʂɨstkʲx tʂwɔn̪kˈu vs̪ːpulɲɔtɨ ludzkʲɛj jɛst pɔpxn̪savɔ̃ɲ vɔlɲɔɕtɕis̪pravʲˈɛliˈɨvɔɕtɕ i pɔkju ɕvʲˈat̪a
-human_rights_un_pl_km_64kb_0008	ʐ ˈɛʐɛ ɲɛ̝pɔʂan̪ɔˈɨvaɲɛ̝ i ɲɛ̝pʐɛstʐɛɲtɕn̪ˈɔʐɲɛ̝ prav tʂwɔvʲjˈɛ̝kapxn̪ɔprɔˈɨvadʑwɔ dɔ aktˈu barbaʐɨɲstˈɨva kturɛ vstʐɔ̃ɲsnɛ̃w sumɛ̝ɲɛ̝m ludzkɕtɕ iˈɛʐɛ ɔɡwɔʂɔˈɨ̃n̪ɔ urɔtʂɨɕtɕɛ jak najˈɨvʂɨ̃ɲɔˈɨɕlɛjʂɨ tsɛl ludzkɕtɕ dɔ̃ɲˈɛʐɛɲɛ̝ dɔʂɛˈabʲuɔˈɨvaɲa akʲɛɡɔ ɕvʲˈat̪a v kturm ludʑɛ̝ kʐɨstatɕ bˈɛ̃ndɔ̃ɲ z vɔlnɔɕtɕ swɔˈɨva ipʐɛkˈɨ̃n̪aɲ ɔraz z vɔlnɔɕtɕ ɔd stʂaxu i nˈɛ̃ndzɨ
-human_rights_un_pl_km_64kb_0009	ʐ ˈɛʐɛ kɲɛ̝tʂɲɛ jɛst z̪ˈɨvarɔˈɨvaɲɛ̝ prav tʂwɔvʲjˈɛ̝ka pʐɛpʲamipraˈɨva abɨ ɲɛ̝ muɕʲaw pxn̪ɔprɔˈɨvadzɔˈɨ̃n̪ɨ dɔ ɔsatɛtʂɲɔɕtɕ utɕɛkatɕ ɕɛ̃ dɔ buɲtupʐɛtɕv tɨraɲi i utɕis̪kvʲ
-human_rights_un_pl_km_64kb_0010	ʐ ˈɛʐɛ kɲɛ̝tʂɲɛ jɛst pɔpʲɛraɲɛ̝ rɔzvɔju pʐɨjazn̪ɨx stɔs̪ːunkˈumiɛ̃dzɨ narɔdami
-human_rights_un_pl_km_64kb_0011	ʐ ˈɛʐɛ arɔdɨ jˈɛɲɔtʂɔnɛ pʐɨvrutɕw svɔ̃ɲ vʲarɛ̃ v pɔpxn̪s̪ːavɔˈɨvɛpraˈɨva tʂwɔvʲjˈɛ̝ka ɡɔpxn̪n̪ɔˈɨɕtɕ i ˈɨvartɔɕtɕ jˈɛnɔstkʲ ɔraz v rˈuˈɨ̃n̪ɔupravɲɛ̝ɲɛ̝mɛ̃ˈɛʐtʂɨʂɨ̃n i kbɛ̝t ɔraz vɨradʑw svɛ zdɛtsɨdɔˈɨvaɲɛ̝ pɔpʲɛraɲa pɔstɛ̃puis̪pɔwɛtʂɲɛɡɔ i pɔpravɨ ˈɨvarunkˈu ʐɨtɕa v vʲɛ̃kʂɛj vɔlnɔɕtɕ
-human_rights_un_pl_km_64kb_0012	ʐ ˈɛʐɛ aɲstˈɨva zwɔnkvis̪kɛ̝ pɔˈidʑjɛ̃w ɕɛ̃ vɛ vspuwpratsɨ z
-human_rights_un_pl_km_64kb_0013	rɲtɕn̪ˈɔʐɲz̪tsjɔ̃ɲ arɔdˈu jˈɛn̪ɔtʂɔn̪ɨx z̪pɛvɲtɕ pɔˈɨvʂɛxnɛ pɔʂaɲɔˈɨvaɲɛ̝ ipʐɛstʐɛɲtɕn̪ˈɔʐɲɛ̝ prav tʂwɔvʲjˈɛ̝ka i pɔdsaˈɨvɔvɨx vɔlnɔɕtɕ
-human_rights_un_pl_km_64kb_0014	ʐ ˈɛʐɛ jˈɛˈɨ̃n̪akvɛ rɔʂɛumɛ̝ɲɛ̝ tɨx prav i vɔlnɔɕtɕ ma ɔlˈabʲʐmɛ̝w̃z̪n̪atʂɛɲɛ̝ dlˈat̪ ix pɛwɲɛj rɛaliz̪tsji
-human_rights_un_pl_km_64kb_0015	u
-human_rights_un_pl_km_64kb_0016	ɡwaʂa rɔtʂɨɕtɕɛ ɲɲɛ̝jʂɔ̃ɲ ɔˈɨvʂɛxn̪ɔ̃ɲ ɛklˈat̪ratsjɛ̃ rav zwɔvʲjˈɛ̝ka jakvspuln̪ɨ najˈɨvɨˈɛʐʂɨ tsɛl vʂɨstkʲx luˈu i vʂɨstkʲx narɔpxn̪ˈu abɨ vʂɨstsɨludʑɛ̝ i vʂɨstkʲɛ ɔrɲtɕn̪ˈɔʐnɨ spɔwɛtʂɛɲstˈɨva majɔ̃ɲts sal v pamiɛ̃tɕ ɲɲɛ̝jʂɔ̃ɲ
-human_rights_un_pl_km_64kb_0017	ɛklˈat̪ratsjɛ̃ dɔ̃ɲʐɨw v d̪ɔdzɛ nautʂaɲa i vɨxɔvɨˈɨvaɲa dɔ rɔw̃z̪vʲjaɲrˈapɔʂaˈɨ̃n̪ɔˈɨvaɲa tɨx prav i vɔlnɔɕtɕ i abɨ z̪pɛvɲw z̪ pɔmɔtsɔ̃ɲ pɔstɛ̃pɔˈɨvɨxˈɨɕrɔpxn̪kˈu ɔ z̪ɕʲɛ̃ɡu krajɔvm i miɛ̃dzɨˈɨ̃n̪arɔdɔvm pɔˈɨvʂɛxnɛ i is̪kutɛtʂɲɛuʂɛˈɨ̃n̪aɲɛ̝ i stɔis̪ɔˈɨvaɲɛ̝ tɛj ɛklˈat̪ratsji z̪rˈun̪ɔ vɕrud narɔpxn̪ˈu aɲstv
-human_rights_un_pl_km_64kb_0018	zwɔɲkˈɨvis̪kʲx jak i vɕrud narɔpxn̪ˈu z̪mɛ̝ʂkujɔ̃ɲtsɨx ɔbʂarɨ pɔdlɡwɛ ixˈɨvwadzɨ
-human_rights_un_pl_km_64kb_0019	rtɨkuw
-human_rights_un_pl_km_64kb_0020	ʂɨstsɨ ludʑɛ̝ rɔdzɔ̃ɲ ɕɛ̃ vɔlɲ i rˈuɲ pɔd vʂɨ̃ɡlɛ̃ˈidʑɛm svɛj ɡɔˈidʑnɔɕtɕ i svɨxprav
-human_rights_un_pl_km_64kb_0021	ɔ̃ ɔɲ ɔˈabʲpxn̪aʐɛɲ rɔzumɛm i sumɛ̝ɲɛ̝m i pɔvʲɲɲ pɔstɛ̃pɔˈɨvatɕ vɔˈabʲɛtɕˈɨ̃n̪nɨx v duxu bratɛrstˈɨva
-human_rights_un_pl_km_64kb_0022	rtɨkuw
-human_rights_un_pl_km_64kb_0023	aʐdɨ tʂwɔvʲjˈɛ̝k pɔɕʲaˈidʑa vʂɨstkʲɛ praˈɨva i vɔlnɔɕtɕ z̪ˈɨvartɛ v ɲɲɛ̝jʂɛj
-human_rights_un_pl_km_64kb_0024	ɛklˈat̪ratsji bɛz vʂɨ̃ɡlɛ̃pxn̪u na jakʲɛklvʲjˈɛ̝k ruʐɲtsɛ rasɨ klɔru pwtɕ jˈɛ̃nzɨkavɨw̃z̪n̪aɲa pɔɡlɔ̃ɲdˈu pɔlitɨtʂɲɨx i iˈɨ̃n̪ˈɨ̃n̪ɨx narɔˈidʑɔvɔɕtɕ pɔxɔdʑɛɲais̪pɔwɛtʂɲɛɡɔ majɔ̃ɲtku urɔdzɛɲa lub jakʲɛɡɔklvʲjˈɛ̝k iɲnɛɡɔ san̪u
-human_rights_un_pl_km_64kb_0025	ɛ̝ vɔlˈɨ̃n̪ɔ pɔn̪apxn̪tɔ tʂɨɲtɕ ʐapxn̪nɛj ruʐɲtsɨ v z̪lˈɛʐˈɨ̃n̪ɔɕtɕ ɔd sɨtuatsji pɔlitɨtʂɲɛjpravɲɛj lub miɛ̃dzɨnarɔˈidʑɔˈɨvɛj kraju lub ɔbʂaru dɔ kturɛɡɔ daɲa ɔs̪ːɔˈabʲrˈapʐɨɲalˈɛʐɨ bɛz vʂɨ̃ɡlɛ̃pxn̪u na tɔ tʂɨ daɲɨ kraj lub ɔbʂar jɛst ɲɛ̝pɔˈidʑlɡw tʂɨ tɛʐpɔdlɲtɕn̪ˈɔʐ sɨstɛmɔvʲ pɔvʲjˈɛ̝rɲtstˈɨva ɲɛ̝ ʐɔ̃ɲdʑ ɕɛ̃ amɔdʑɛ̝lɲɛ̝ lub jɛst vjakʲklvʲjˈɛ̝k spɔs̪ːub ɔɡraɲtʂɔˈɨ̃n̪ɨ v svɛj ɲɛ̝pɔpxn̪lɡwɔɕtɕ
+human_rights_un_pl_km_64kb_0002	ʐɛtɕa ɛsja ɡulnɛɡɔ ɡrɔmadzɛɲa ɔbradujɔ̃ɲtsa v arɨʐu uxˈɨvaliwa ɡruɲa rɔku jˈɛn̪ɔmˈɨɕlɲɛ̝ ɔˈɨvʂɛxn̪ɔ̃ɲ ɛklˈat̪ratsjɛ̃ rav zwɔvʲjˈɛ̝ka
+human_rights_un_pl_km_64kb_0003	ɔkumɛn̪t tɛn saɲɔvʲ ɲɛ̝ˈɨvɔ̃ɲtplivʲjˈɛ̝ jˈɛn̪ɔ z najvʲɛ̃kʂɨx i najtʂˈɨvalʂɨx ɔɕʲˈɔ̃ŋɡɲɛ̃tɕ
+human_rights_un_pl_km_64kb_0004	ʐɛtwumatʂɔn̪a na vʲˈɛ̃nkʂɔɕtɕ jˈɛ̃nʂɛɨkˈu ɕvʲˈat̪a ɔvʂɛxɲa ɛklˈat̪ratsja rav zwɔvʲjˈɛ̝ka zbɛ̝ra ɔraz pɔʐɔ̃ɲˈidʑkujɛ ɔɕʲˈɔ̃ŋɡɲɛ̃tɕa i pɔstulˈat̪tɨ tʂwɔvʲjˈɛ̝ka kturɨ ɔd vʲjˈɛ̝lu sɛtɛk lˈat̪t tɔtʂɨ ɲɛ̝ skɲtʂɔn̪ɔ̃ɲ jɛʂtʂɛ ˈɨvalkɛ̃ ɔ svɔjɔ̃ɲ vɔlˈɨ̃n̪ɔɕtɕ i svɔjɔ̃ɲ ɡɔpxn̪n̪ɔˈɨɕtɕ
+human_rights_un_pl_km_64kb_0005	rɛambuwa
+human_rights_un_pl_km_64kb_0006	ʐ ˈɛʐɛ uznaɲɛ̝ pʐɨrɔdʑɔn̪ɛj ɡɔˈidʑnɔɕtɕ ɔraz rˈun̪ɨx i ɲɛ̝ʂɨ̃ˈabʲɨˈɨvalnɨx prav vʂɨstkʲx tʂwɔn̪kˈu vs̪ːpulɲɔtɨ ludzkʲɛj jɛst pɔpxn̪savɔ̃ɲ vɔlnɔɕtɕ spravʲˈɛlivɔɕtɕ i pɔkju ɕvʲˈat̪a
+human_rights_un_pl_km_64kb_0007	ʐ ˈɛʐɛ ɲɛ̝pɔʂan̪ɔˈɨvaɲɛ̝ i ɲɛ̝pʐɛstʐɛɲtɕn̪ˈɔʐɲɛ̝ prav tʂwɔvʲjˈɛ̝ka dɔprɔˈɨvadʑwɔ dɔ aktˈu barbaʐɨɲstˈɨva kturɛ vstʐɔ̃ɲsnɛ̃w sumɛ̝ɲɛ̝m ludzkɕtɕ i ˈɛʐɛ ɔɡwɔʂɔˈɨ̃n̪ɔ urɔtʂɨɕtɕɛ jak najˈɨvʂɨ̃ɲɔˈɨɕlɛjʂɨ tsɛl ludzkɕtɕ dɔ̃ɲˈɛʐɛɲɛ̝ dɔ zbuɔˈɨvaɲa akʲɛɡɔ ɕvʲˈat̪a v kturm ludʑɛ̝ kʐɨstatɕ bˈɛ̃ndɔ̃ɲ z vɔlnɔɕtɕ swɔˈɨva i pʐɛkn̪aɲ ɔraz z vɔlnɔɕtɕ ɔd stʂaxu i nˈɛ̃ndzɨ
+human_rights_un_pl_km_64kb_0008	ʐ ˈɛʐɛ kɲɛ̝tʂɲɛ jɛst z̪ˈɨvarɔˈɨvaɲɛ̝ prav tʂwɔvʲjˈɛ̝ka pʐɛpʲami praˈɨva abɨ ɲɛ̝ muɕʲaw pxn̪ɔprɔˈɨvadzɔˈɨ̃n̪ɨ dɔ ɔsatɛtʂɲɔɕtɕ utɕɛkatɕ ɕɛ̃ dɔ buɲtu pʐɛtɕv tɨraɲi i utɕis̪kvʲ
+human_rights_un_pl_km_64kb_0009	ʐ ˈɛʐɛ kɲɛ̝tʂɲɛ jɛst pɔpʲɛraɲɛ̝ rɔzvɔju pʐɨjazn̪ɨx stɔs̪ːun̪kˈu mvʲiˈɛ̃ndʑɨ narɔdami
+human_rights_un_pl_km_64kb_0010	ʐ ˈɛʐɛ arɔdɨ jˈɛɲɔtʂɔnɛ pʐɨvrutɕw svɔ̃ɲ vʲarɛ̃ v pɔˈidʑsavɔˈɨvɛ praˈɨva tʂwɔvʲjˈɛ̝ka ɡɔpxn̪n̪ɔˈɨɕtɕ i ˈɨvartɔɕtɕ jˈɛnɔstkʲ ɔraz v rˈunɔupraˈɨvɲɛ̝ɲɛ̝ mˈɛ̃nˈɛʐtʂɨʂɛn i kbɛ̝t ɔraz vɨradʑw svɛ zdɛtsɨdɔˈɨvaɲɛ̝ pɔpʲɛraɲa pɔstɛ̃pu spɔwɛtʂɲɛɡɔ i pɔpravɨ ˈɨvarunkˈu ʐɨtɕa v vʲɛ̃kʂɛj vɔlnɔɕtɕ
+human_rights_un_pl_km_64kb_0011	ʐ ˈɛʐɛ aɲstˈɨva zwɔnkvis̪kɛ̝ pɔˈidʑjɛ̃w ɕɛ̃ vɛ vspuwpratsɨ z rɲtɕn̪ˈɔʐɲz̪tsjɔ̃ɲ arɔdˈu jˈɛn̪ɔtʂɔn̪ɨx z̪pɛvɲtɕ pɔˈɨvʂɛxnɛ pɔʂaɲɔˈɨvaɲɛ̝ i pʐɛstʐɛɲtɕn̪ˈɔʐɲɛ̝ prav tʂwɔvʲjˈɛ̝ka i pɔdsaˈɨvɔvɨx vɔlnɔɕtɕ
+human_rights_un_pl_km_64kb_0012	ʐ ˈɛʐɛ jˈɛˈɨ̃n̪akvɛ rɔʂɛumɛ̝ɲɛ̝ tɨx prav i vɔlnɔɕtɕ ma ɔlbʐmɛ̝ zɲatʂɛɲɛ̝ dlˈat̪ ix pɛwɲɛj rɛaliz̪tsji
+human_rights_un_pl_km_64kb_0013	u
+human_rights_un_pl_km_64kb_0014	ɡwaʂa rɔtʂɨɕtɕɛ ɲɲɛ̝jʂɔ̃ɲ ɔˈɨvʂɛxn̪ɔ̃ɲ ɛklˈat̪ratsjɛ̃ rav zwɔvʲjˈɛ̝ka jak vs̪ːpulɲɨ najˈɨvɨˈɛʐʂɨ tsɛl vʂɨstkʲx luˈu i vʂɨstkʲx narɔpxn̪ˈu abɨ vʂɨstsɨ ludʑɛ̝ i vʂɨstkʲɛ ɔrɲtɕn̪ˈɔʐnɨ spɔwɛtʂɛɲstˈɨva majɔ̃ɲts sal v pamiɛ̃tɕ ɲɲɛ̝jʂɔ̃ɲ ɛklˈat̪ratsjɛ̃ dɔ̃ɲʐɨw v d̪ɔdzɛ nautʂaɲa i vɨxɔvɨˈɨvaɲa dɔ rɔw̃z̪vʲjaɲa pɔʂaɲɔˈɨvaɲa tɨx prav i vɔlnɔɕtɕ i abɨ z̪pɛvɲw z̪ pɔmɔtsɔ̃ɲ pɔstɛ̃pɔvɨx ɕrɔdkˈu ɔ z̪ɕʲɛ̃ɡu krajɔvm i miɛ̃dzɨˈɨ̃n̪arɔdɔvm pɔˈɨvʂɛxnɛ i is̪kutɛtʂɲɛ uznaɲɛ̝ i stɔis̪ɔˈɨvaɲɛ̝ tɛj ɛklˈat̪ratsji z̪rˈun̪ɔ vɕrud narɔpxn̪ˈu aɲstv zwɔɲkˈɨvis̪kʲx jak i vɕrud narɔpxn̪ˈu z̪mɛ̝ʂkujɔ̃ɲtsɨx ɔbʂarɨ pɔdlɡwɛ ix vwadzɨ
+human_rights_un_pl_km_64kb_0015	rtɨkuw
+human_rights_un_pl_km_64kb_0016	ʂɨstsɨ ludʑɛ̝ rɔdzɔ̃ɲ ɕɛ̃ vɔlɲ i rˈuɲ pɔd vʂɨ̃ɡlɛ̃ˈidʑɛm svɛj ɡɔˈidʑnɔɕtɕ i svɨx prav
+human_rights_un_pl_km_64kb_0017	ɔ̃ ɔɲ ɔˈabʲpxn̪aʐɛɲ rɔzumɛm i sumɛ̝ɲɛ̝m i pɔvʲɲɲ pɔstɛ̃pɔˈɨvatɕ vɔbɛts iˈɨ̃n̪ˈɨ̃n̪ɨx v duxu bratɛrstˈɨva
+human_rights_un_pl_km_64kb_0018	rtɨkuw
+human_rights_un_pl_km_64kb_0019	aʐdɨ tʂwɔvʲjˈɛ̝k pɔɕʲaˈidʑa vʂɨstkʲɛ praˈɨva i vɔlnɔɕtɕ z̪ˈɨvartɛ v ɲɲɛ̝jʂɛj ɛklˈat̪ratsji bɛz vʂɨ̃ɡlɛ̃pxn̪u na jakʲɛklvʲjˈɛ̝k ruʐɲtsɛ rasɨ klɔru pwtɕ jˈɛ̃nʂɛɨka vɨw̃z̪ɲaɲa pɔɡlɔ̃ɲdˈu pɔlitɨtʂɲɨx i iˈɨ̃n̪ˈɨ̃n̪ɨx narɔˈidʑɔvɔɕtɕ pɔxɔdzɛɲa spɔwɛtʂɲɛɡɔ majɔ̃ɲtku urɔdzɛɲa lub jakʲɛɡɔklvʲjˈɛ̝k iɲnɛɡɔ san̪u
+human_rights_un_pl_km_64kb_0020	ɛ̝ vɔlˈɨ̃n̪ɔ pɔn̪apxn̪tɔ tʂɨɲtɕ ʐapxn̪nɛj ruʐɲtsɨ v z̪lˈɛʐˈɨ̃n̪ɔɕtɕ ɔd sɨtuatsji pɔlitɨtʂɲɛj praˈɨvˈɨ̃n̪ɛj lub miɛ̃dzɨnarɔˈidʑɔˈɨvɛj kraju lub ɔbʂaru dɔ kturɛɡɔ daɲa ɔs̪ːɔba pʐɨɲalˈɛʐɨ bɛz vʂɨ̃ɡlɛ̃pxn̪u na tɔ tʂɨ daɲɨ kraj lub ɔbʂar jɛst ɲɛ̝pɔˈidʑlɡw tʂɨ tɛʐ pɔdlɲtɕn̪ˈɔʐ sɨstɛmɔvʲ pɔvʲjˈɛ̝rɲtstˈɨva ɲɛ̝ ʐɔ̃ɲdʑ ɕɛ̃ amɔdʑɛ̝lɲɛ̝ lub jɛst v jakʲklvʲjˈɛ̝k spɔs̪ːub ɔɡraɲtʂɔˈɨ̃n̪ɨ v svɛj ɲɛ̝pɔpxn̪lɡwɔɕtɕ
+human_rights_un_pl_km_64kb_0021	rtɨkuw
+human_rights_un_pl_km_64kb_0022	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ ʐɨtɕa vɔlnɔɕtɕ i bɛw̃z̪pʲɛtʂɛɲstˈɨva svɛj ɔs̪ːɔbɨ
+human_rights_un_pl_km_64kb_0023	rtɨkuw
+human_rights_un_pl_km_64kb_0024	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ tʂɨɲtɕ ɲɛ̝vɔlɲkʲɛm aɲ nakwapxn̪atɕ na ɲkɡɔ swuˈɛʐɛˈabʲn̪ɔɕtɕ
+human_rights_un_pl_km_64kb_0025	ɲɛ̝vɔlɲtstvɔ i xanˈidʑɛl ɲɛ̝vɔlɲkami sɔ̃ɲ z̪kaz̪ˈɨ̃n̪ɛ vɛ vʂɨstkʲx svɨx pɔsatɕax
 human_rights_un_pl_km_64kb_0026	rtɨkuw
-human_rights_un_pl_km_64kb_0027	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ ʐɨtɕa vɔlnɔɕtɕ i bɛw̃z̪pʲɛtʂɛɲstˈɨva svɛj ɔs̪ːɔbɨ
+human_rights_un_pl_km_64kb_0027	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ tɔrturɔˈɨvatɕ aɲ karatɕ lub tʂaktɔˈɨvatɕ v spɔs̪ːub ɔkrutn̪ɨ ɲɛ̝ludzkʲ lub pɔɲʐajɔ̃ɲtsɨ
 human_rights_un_pl_km_64kb_0028	rtɨkuw
-human_rights_un_pl_km_64kb_0029	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ tʂɨɲtɕ ɲɛ̝vɔlɲkʲɛm aɲ nakwapxn̪atɕ na ɲkɡɔ swuˈɛʐɛˈabʲn̪ɔɕtɕ
-human_rights_un_pl_km_64kb_0030	ɲɛ̝vɔlɲtstvɔ i xanˈidʑɛl ɲɛ̝vɔlɲkami sɔ̃ɲ z̪kaz̪ˈɨ̃n̪ɛ vɛ vʂɨstkʲx sˈɨvɨxpɔsatɕax
-human_rights_un_pl_km_64kb_0031	rtɨkuw
-human_rights_un_pl_km_64kb_0032	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ tɔrturɔˈɨvatɕ aɲ karatɕ lub tʂaktɔˈɨvatɕ v spɔs̪ːub ɔkrutn̪ɨ ɲɛ̝ludzkʲlub pɔɲʐajɔ̃ɲtsɨ
+human_rights_un_pl_km_64kb_0029	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ uw̃z̪n̪aˈɨvaɲa vʂɛ̃dʑɛ̝ jɛɡɔ ɔis̪ɔˈabʲɔˈɨvɔɕtɕ praˈɨvˈɨ̃n̪ɛj
+human_rights_un_pl_km_64kb_0030	rtɨkuw
+human_rights_un_pl_km_64kb_0031	ʂɨstsɨ sɔ̃ɲ rˈuɲ vɔbɛts praˈɨva i majɔ̃ɲ pravɔ bɛz jakʲɛjklvʲjˈɛ̝k ruʐɲtsɨ dɔ jˈɛɲakˈɨvɛj ɔxrɔɲɨ praˈɨvˈɨ̃n̪ɛj
+human_rights_un_pl_km_64kb_0032	ʂɨstsɨ majɔ̃ɲ pravɔ dɔ jˈɛɲakˈɨvɛj ɔxrɔɲɨ pʐˈɛ jakɔ̃ɲklvʲjˈɛ̝k dɨis̪krmvʲiɲatsjɔ̃ɲ bˈɛ̃nˈidʑɔ̃ɲtsɔ̃ɲ pɔɡˈɨvawtsɛɲɛ̝m ɲɲɛ̝jʂɛj ɛklˈat̪ratsji i pʐˈɛ jakʲmklvʲjˈɛ̝k naraˈɛʐɛɲɛ̝m na akɔ̃ɲ dɨis̪krmiɲatsjɛ̃
 human_rights_un_pl_km_64kb_0033	rtɨkuw
-human_rights_un_pl_km_64kb_0034	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ uw̃z̪n̪aˈɨvaɲa vʂɛ̃dʑɛ̝ jɛɡɔ ɔis̪ɔˈabʲɔˈɨvɔɕtɕ praˈɨvˈɨ̃n̪ɛj
+human_rights_un_pl_km_64kb_0034	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ is̪kutɛtʂɲɛɡɔ ɔpxn̪ˈɨvɔwˈɨvaɲa ɕɛ̃ dɔ kmpɛtɛˈɨ̃n̪tnɨx sɔ̃ɲdˈu krajɔvɨx pʐɛtɕv tʂɨˈɨ̃n̪ɔm san̪ɔvʲjˈɔ̃tsm pɔɡˈɨvawtsɛɲɛ̝ pɔdsaˈɨvɔvɨx prav pʐɨʂɨ̃naˈɨ̃n̪ɨx mu pʐɛz kɲstɨtutsjɛ̃ lub pʐɛz pravɔ
 human_rights_un_pl_km_64kb_0035	rtɨkuw
-human_rights_un_pl_km_64kb_0036	ʂɨstsɨ sɔ̃ɲ rˈuɲ vɔbɛts praˈɨva i majɔ̃ɲ pravɔ bɛz jakʲɛjklvʲjˈɛ̝k ruʐɲtsɨ pxn̪ɔjˈɛn̪akˈɨvɛj ɔxrɔɲɨ praˈɨvˈɨ̃n̪ɛj
-human_rights_un_pl_km_64kb_0037	ʂɨstsɨ majɔ̃ɲ pravɔ dɔ jˈɛɲakˈɨvɛj ɔxrɔɲɨ pʐˈɛjakɔ̃ɲklvʲjˈɛ̝k dɨis̪krmvʲiɲatsjɔ̃ɲ bˈɛ̃nˈidʑɔ̃ɲtsɔ̃ɲ pɔɡˈɨvawtsɛɲɛ̝m ɲɲɛ̝jʂɛj ɛklˈat̪ratsji i pʐˈɛjakʲmklvʲjˈɛ̝k naraˈɛʐɛɲɛ̝m na akɔ̃ɲ dɨis̪krmiɲatsjɛ̃
-human_rights_un_pl_km_64kb_0038	rtɨkuw
-human_rights_un_pl_km_64kb_0039	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ is̪kutɛtʂɲɛɡɔ ɔpxn̪ˈɨvɔwˈɨvaɲa ɕɛ̃ dɔ kmpɛtɛˈɨ̃n̪tnɨxsɔ̃ɲpxn̪ˈu krajɔvɨx pʐɛtɕv tʂɨˈɨ̃n̪ɔm san̪ɔvʲjˈɔ̃tsm pɔɡˈɨvawtsɛɲɛ̝ pɔˈidʑs̪ːavɔˈɨvɨxprav pʐɨʂɨ̃naˈɨ̃n̪ɨx mu pʐɛz kɲstɨtutsjɛ̃ lub pʐɛz pravɔ
-human_rights_un_pl_km_64kb_0040	rtɨkuw
-human_rights_un_pl_km_64kb_0041	ikɡɔ ɲɛ̝ vɔlˈɨ̃n̪ɔ amɔvɔlɲɛ̝ arɛʂtɔˈɨvatɕ z̪tʂʂɨ̃matɕ lub vɨɡn̪atɕ z kraju
-human_rights_un_pl_km_64kb_0042	rtɨkuw
-human_rights_un_pl_km_64kb_0043	aʐdɨ tʂwɔvʲjˈɛ̝k ma na ˈɨvarun̪kax tsawkvʲtɛj rˈuˈɨ̃n̪ɔɕtɕ pravɔ abɨ pʐɨrɔzstʐɨɲtɕn̪ˈɔʐɲu ɔ jɛɡɔ praˈɨvax i zɔbɔvʲjˈɔ̃w̃z̪aɲax lub ɔ z̪apxn̪n̪ɔɕtɕ vɨsuˈɨvaɲɛɡɔpʐɛtɕv ɲɛ̝mu ɔis̪karˈɛʐɛɲa ɔ pɔpɛwɲɛ̝ɲɛ̝ pʐɛstɛ̃pstˈɨva bɨtɕ swuxanmspravʲˈɛlivʲjˈɛ̝ i publvʲitʂɲɛ̝ pʐɛz ɲɛ̝z̪lˈɛʐn̪ɨ i bɛzstʂɔˈɨ̃n̪ˈɨ̃n̪ɨ sɔ̃ɲd
-human_rights_un_pl_km_64kb_0044	rtɨkuw
-human_rights_un_pl_km_64kb_0045	
-human_rights_un_pl_km_64kb_0046	aʐdɨ tʂwɔvʲjˈɛ̝k ɔis̪karʐɔˈɨ̃n̪ɨ ɔ pɔpɛwɲɛ̝ɲɛ̝ pʐɛstjpstˈɨva ma pravɔ aˈabʲɨuʂɛˈɨ̃n̪aˈɨvanɔ ɡɔ z̪ ɲɛ̝vʲnn̪ɛɡɔ dɔputɨ dɔpukʲ ɲɛ̝ uɔvɔdɲ mu ɕɛ̃ vʲnɨʂɛɡɔpxn̪ɲɛ̝ z pravɛm pɔdtʂas publitʂɲɛɡɔ prɔtsɛs̪ːu v kturm z̪pɛvɲɔnɔmu vʂɨstkʲɛ kɲɛ̝tʂɲɛ ɕrɔdkʲ ɔbrɔn̪ɨ
-human_rights_un_pl_km_64kb_0047	
-human_rights_un_pl_km_64kb_0048	ikt ɲɛ̝ mɔˈɛʐɛ bɨtɕ is̪kaz̪n̪ɨ z̪ pʐɛstɛ̃pstˈɨvɔ z pɔvɔpxn̪u dʑawaɲa lubz̪ɲɛ̝xaɲa ɲɛ̝ san̪ɔvʲjˈɔ̃tsɛɡɔ v xvʲli jɛɡɔ pxn̪ɔknaɲa pʐɛstˈɛ̃npstˈɨvaˈɨvˈɛwuɡ praˈɨva krajɔvɛɡɔ lub mvʲiˈɛ̃ndʑɨɲarɔdɔvɛɡɔ
-human_rights_un_pl_km_64kb_0049	ɛ̝ vɔlˈɨ̃n̪ɔ akˈɛʐɛvmɛ̝ʐatɕ karɨ vɨʐʂɛj ɲʐ a ktura bɨwa pʐɛvʲˈidʑɛ̝ana v xvʲlipɔpɛwɲɛ̝ɲa pʐɛstɛ̃pstˈɨva
-human_rights_un_pl_km_64kb_0050	rtɨkuw
-human_rights_un_pl_km_64kb_0051	ɛ̝ vɔlˈɨ̃n̪ɔ in̪ɡɛrɔˈɨvatɕ amɔvɔlɲɛ̝ v tʂɨjɛklvʲjˈɛ̝k ʐɨtɕɛ prɨˈɨvatˈɨ̃n̪ɛ rɔdʑn̪n̪ˈɛɔmɔˈɨvɛ aɲ v jɛɡɔ krɛspɔˈɨ̃n̪ˈidʑɛˈɨ̃n̪tsjɛ̃ aɲ tɛʐ uvwatʂatɕ jɛɡɔ xɔˈɨ̃n̪ɔrɔvʲ luˈabʲˈidʑɔbrɛmu imɛ̝ɲu
-human_rights_un_pl_km_64kb_0052	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ ɔxrɔɲɨ praˈɨvˈɨ̃n̪ɛj pʐɛtɕvk akʲɛjvʲiˈɨ̃n̪ɡɛrɛɲtsji lub uvwatʂaɲu
-human_rights_un_pl_km_64kb_0053	rtɨkuw
-human_rights_un_pl_km_64kb_0054	
-human_rights_un_pl_km_64kb_0055	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ svɔˈabʲɔdˈɨ̃n̪ɛɡɔ pɔruʂaɲa ɕɛ̃ i vɨbɔru mɛ̝jstsaz̪mɛ̝ʂkaɲa v ɡraɲtsax kaˈɛʐˈidʑɛɡɔ aɲstˈɨva
-human_rights_un_pl_km_64kb_0056	
-human_rights_un_pl_km_64kb_0057	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ ɔpuɕtɕtɕ jakʲklvʲjˈɛ̝k kraj vwɔ̃ɲtʂajɔ̃ɲts v tɔ sˈɨvujvwasˈɨ̃n̪ɨ i pɔvrutɕtɕ dɔ svɛɡɔ kraju
-human_rights_un_pl_km_64kb_0058	rtɨkuw
-human_rights_un_pl_km_64kb_0059	
-human_rights_un_pl_km_64kb_0060	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ ubɛ̝ɡatɕ ɕɛ̃ ɔ aʂɨ̃ɨl i kʐɨstatɕ z ɲɛ̝ɡɔ v iˈɨ̃n̪n̪mkraju v radʑɛ pʐɛˈɨɕlˈat̪pxn̪ɔˈɨvaɲa
-human_rights_un_pl_km_64kb_0061	
-human_rights_un_pl_km_64kb_0062	ɛ̝ mɔʐɲa pɔvɔwˈɨvatɕ ɕɛ̃ na tɔ pravɔ v pʐɨˈɔpadku ɕtɕɲtɕn̪ˈɔʐɲa vʂtʂɛ̃tɛɡɔʐɛtʂɨvʲɕtɕɛ z pɔvɔpxn̪u pɔpɛwɲɛ̝ɲa pʐɛstɛ̃pstˈɨva pɔspɔlitɛɡɔ lub tʂɨnuis̪pʐɛtʂɲɛɡɔ z tsɛlˈat̪mi i z̪apxn̪ami rɲtɕn̪ˈɔʐɲz̪tsji arɔdˈu jˈɛn̪ɔtʂɔn̪ɨx
+human_rights_un_pl_km_64kb_0036	ikɡɔ ɲɛ̝ vɔlˈɨ̃n̪ɔ amɔvɔlɲɛ̝ arɛʂtɔˈɨvatɕ z̪tʂʂɨ̃matɕ lub vɨɡn̪atɕ z kraju
+human_rights_un_pl_km_64kb_0037	rtɨkuw
+human_rights_un_pl_km_64kb_0038	aʐdɨ tʂwɔvʲjˈɛ̝k ma na ˈɨvarun̪kax tsawkvʲtɛj rˈuˈɨ̃n̪ɔɕtɕ pravɔ abɨ pʐɨ rɔʂɛstʐɨɲtɕn̪ˈɔʐɲu ɔ jɛɡɔ praˈɨvax i zɔbɔvʲjˈɔ̃w̃z̪aɲax lub ɔ z̪apxn̪n̪ɔɕtɕ vɨs̪ːuˈɨvanɛɡɔ pʐɛtɕv ɲɛ̝mu ɔis̪karˈɛʐɛɲa ɔ pɔpɛwɲɛ̝ɲɛ̝ pʐɛstɛ̃pstˈɨva bɨtɕ swuxaɲm spravʲˈɛlivʲjˈɛ̝ i publvʲitʂɲɛ̝ pʐɛz ɲɛ̝z̪lˈɛʐn̪ɨ i bɛzstʂɔˈɨ̃n̪ˈɨ̃n̪ɨ sɔ̃ɲd
+human_rights_un_pl_km_64kb_0039	rtɨkuw
+human_rights_un_pl_km_64kb_0040	aʐdɨ tʂwɔvʲjˈɛ̝k ɔis̪karʐɔˈɨ̃n̪ɨ ɔ pɔpɛwɲɛ̝ɲɛ̝ pʐɛstɛ̃pstˈɨva ma pravɔ abɨ uzˈɨ̃n̪aˈɨvanɔ ɡɔ z̪ ɲɛ̝vʲnn̪ɛɡɔ dɔputɨ dɔpukʲ ɲɛ̝ uɔvɔdɲ mu ɕɛ̃ vʲn̪ɨ zɡɔdɲɛ̝ z pravɛm pɔdtʂas publitʂɲɛɡɔ prɔtsɛs̪ːu v kturm z̪pɛvɲɔn̪ɔ mu vʂɨstkʲɛ kɲɛ̝tʂɲɛ ɕrɔdkʲ ɔbrɔn̪ɨ
+human_rights_un_pl_km_64kb_0041	ikt ɲɛ̝ mɔˈɛʐɛ bɨtɕ is̪kaz̪n̪ɨ z̪ pʐɛstɛ̃pstˈɨvɔ z pɔvɔpxn̪u dʑawaɲa lub z̪ɲɛ̝xaɲa ɲɛ̝ san̪ɔvʲjˈɔ̃tsɛɡɔ v xvʲli jɛɡɔ pxn̪ɔknaɲa pʐɛstɛ̃pstˈɨva vˈɛwuɡ praˈɨva krajɔvɛɡɔ lub mvʲiˈɛ̃ndʑɨɲarɔdɔvɛɡɔ
+human_rights_un_pl_km_64kb_0042	ɛ̝ vɔlˈɨ̃n̪ɔ akˈɛʐɛ vmɛ̝ʐatɕ karɨ vɨʐʂɛj ɲʐ a ktura bɨwa pʐɛvʲˈidʑɛ̝ana v xvʲli pɔpɛwɲɛ̝ɲa pʐɛstɛ̃pstˈɨva
+human_rights_un_pl_km_64kb_0043	rtɨkuw
+human_rights_un_pl_km_64kb_0044	ɛ̝ vɔlˈɨ̃n̪ɔ in̪ɡɛrɔˈɨvatɕ amɔvɔlɲɛ̝ v tʂɨjɛklvʲjˈɛ̝k ʐɨtɕɛ prɨˈɨvatˈɨ̃n̪ɛ rɔdʑɲɲɛ dɔmɔˈɨvɛ aɲ v jɛɡɔ krɛspɔˈɨ̃n̪ˈidʑɛˈɨ̃n̪tsjɛ̃ aɲ tɛʐ uvwatʂatɕ jɛɡɔ xɔˈɨ̃n̪ɔrɔvʲ lub dɔbrɛmu imɛ̝ɲu
+human_rights_un_pl_km_64kb_0045	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ ɔxrɔɲɨ praˈɨvˈɨ̃n̪ɛj pʐɛtɕvk akʲɛj iˈɨ̃n̪ɡɛrɛˈɨ̃n̪tsji lub uvwatʂaɲu
+human_rights_un_pl_km_64kb_0046	rtɨkuw
+human_rights_un_pl_km_64kb_0047	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ svɔˈabʲɔdˈɨ̃n̪ɛɡɔ pɔruʂaɲa ɕɛ̃ i vɨbɔru mɛ̝jstsa z̪mɛ̝ʂkaɲa v ɡraɲtsax kaˈɛʐˈidʑɛɡɔ aɲstˈɨva
+human_rights_un_pl_km_64kb_0048	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ ɔpuɕtɕtɕ jakʲklvʲjˈɛ̝k kraj vwɔ̃ɲtʂajɔ̃ɲts v tɔ svuj vwasˈɨ̃n̪ɨ i pɔvrutɕtɕ dɔ svɛɡɔ kraju
+human_rights_un_pl_km_64kb_0049	rtɨkuw
+human_rights_un_pl_km_64kb_0050	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ ubɛ̝ɡatɕ ɕɛ̃ ɔ aʂɨ̃ɨl i kʐɨstatɕ z ɲɛ̝ɡɔ v iˈɨ̃n̪ˈɨ̃n̪m kraju v radʑɛ pʐɛˈɨɕlˈat̪pxn̪ɔˈɨvaɲa
+human_rights_un_pl_km_64kb_0051	ɛ̝ mɔʐɲa pɔvɔwˈɨvatɕ ɕɛ̃ na tɔ pravɔ v pʐɨˈɔpadku ɕtɕɲtɕn̪ˈɔʐɲa vʂtʂɛ̃tɛɡɔ ʐɛtʂɨvʲɕtɕɛ z pɔvɔpxn̪u pɔpɛwɲɛ̝ɲa pʐɛstɛ̃pstˈɨva pɔspɔlitɛɡɔ lub tʂɨn̪u spʐɛtʂɲɛɡɔ z tsɛlˈat̪mi i z̪apxn̪ami rɲtɕn̪ˈɔʐɲz̪tsji arɔdˈu jˈɛn̪ɔtʂɔn̪ɨx
+human_rights_un_pl_km_64kb_0052	rtɨkuw
+human_rights_un_pl_km_64kb_0053	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ pɔɕʲaˈidʑaɲa ɔbɨˈɨvatɛlstˈɨva
+human_rights_un_pl_km_64kb_0054	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ pɔzbavʲatɕ amɔvɔlɲɛ̝ ɔbɨˈɨvatɛlstˈɨva aɲ ɲkmu ɔdmavʲatɕ praˈɨva dɔ zmianɨ ɔbɨˈɨvatɛlstˈɨva
+human_rights_un_pl_km_64kb_0055	rtɨkuw
+human_rights_un_pl_km_64kb_0056	ɛ̃ʐtʂɨʑɲ i kbɛ̝tɨ bɛz vʂɨ̃ɡlɛ̃pxn̪u na jakʲɛklvʲjˈɛ̝k ruʐɲtsɛ rasɨ narɔˈidʑɔvɔɕtɕ lub vɨw̃z̪ɲaɲa majɔ̃ɲ pravɔ pɔ ɔɕʲˈɔ̃ŋɡɲɛ̃tɕu pɛwɲɔltˈɨ̃n̪ɔɕtɕ dɔ z̪ˈɨvartɕa mawˈɛʐɛɲstˈɨva i z̪wɔˈɛʐɛɲa rɔdʑɲɨ
+human_rights_un_pl_km_64kb_0057	ajɔ̃ɲ ɔɲ rˈuɲɛ praˈɨva v ɔpxn̪ɲɛ̝ɕɛɲu dɔ z̪vʲjˈɛ̝raɲa mawˈɛʐɛɲstˈɨva pɔdtʂas jɛɡɔ tʂˈɨvaɲa i pɔ jɛɡɔ usaɲu
+human_rights_un_pl_km_64kb_0058	awˈɛʐɛɲstvɔ mɔˈɛʐɛ bɨtɕ z̪ˈɨvartɛ jˈɛɨɲɛ̝ z̪ svɔbɔˈidʑɲɛ̝ vɨraʐɔˈɨ̃n̪ɔ̃ɲ pɛwn̪ɔ̃ɲ zɡɔpxn̪ɔ̃ɲ pʐɨʂwx mawʐɔn̪kˈu
+human_rights_un_pl_km_64kb_0059	ɔdʑɲa jɛst naturaln̪ɔ̃ɲ i pɔpxn̪savɔvɔ̃ɲ kmurkɔ̃ɲ spɔwɛtʂɛɲstˈɨva i ma pravɔ dɔ ɔxrɔɲɨ zɛ stʂɔn̪ɨ spɔwɛtʂɛɲstˈɨva i aɲstˈɨva
+human_rights_un_pl_km_64kb_0060	rtɨkuw
+human_rights_un_pl_km_64kb_0061	aʐdɨ tʂwɔvʲjˈɛ̝k z̪rˈun̪ɔ am jak i vɛis̪puw z iˈɨ̃n̪ˈɨ̃n̪mi ma pravɔ dɔ pɔɕʲaˈidʑaɲa vwasˈɨ̃n̪ɔɕtɕ
+human_rights_un_pl_km_64kb_0062	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ amɔvɔlɲɛ̝ pɔzbavʲatɕ jɛɡɔ vwasˈɨ̃n̪ɔɕtɕ
 human_rights_un_pl_km_64kb_0063	rtɨkuw
-human_rights_un_pl_km_64kb_0064	
-human_rights_un_pl_km_64kb_0065	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ pɔɕʲaˈidʑaɲa ɔbɨˈɨvatɛlstˈɨva
-human_rights_un_pl_km_64kb_0066	
-human_rights_un_pl_km_64kb_0067	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ pɔzbavʲatɕ amɔvɔlɲɛ̝ ɔbɨˈɨvatɛlstˈɨva aɲ ɲkmuɔdmavʲatɕ praˈɨva dɔ zmianɨ ɔbɨˈɨvatɛlstˈɨva
-human_rights_un_pl_km_64kb_0068	rtɨkuw
-human_rights_un_pl_km_64kb_0069	
-human_rights_un_pl_km_64kb_0070	ɛ̃ʐtʂɨʑɲ i kbɛ̝tɨ bɛz vʂɨ̃ɡlɛ̃pxn̪u na jakʲɛklvʲjˈɛ̝k ruʐɲtsɛ rasɨnarɔpxn̪ɔˈɨvɔɕtɕ lub vɨw̃z̪ɲaɲa majɔ̃ɲ pravɔ pɔ ɔɕʲˈɔ̃ŋɡɲɛ̃tɕu pɛwɲɔltˈɨ̃n̪ɔɕtɕ dɔz̪ˈɨvartɕa mawˈɛʐɛɲstˈɨva i z̪wɔˈɛʐɛɲa rɔdʑɲɨ
-human_rights_un_pl_km_64kb_0071	ajɔ̃ɲ ɔɲ rˈuɲɛ praˈɨva vɔdɲɛ̝ɕɛɲu dɔ z̪vʲjˈɛ̝raɲa mawˈɛʐɛɲstˈɨva pɔdtʂas jɛɡɔ tʂˈɨvaɲa i pɔ jɛɡɔuis̪aɲu
-human_rights_un_pl_km_64kb_0072	
-human_rights_un_pl_km_64kb_0073	awˈɛʐɛɲstvɔ mɔˈɛʐɛ bɨtɕ z̪ˈɨvartɛ jˈɛɨɲɛ̝ z̪ svɔbɔˈidʑɲɛ̝ vɨraʐɔˈɨ̃n̪ɔ̃ɲ pɛwˈɨ̃n̪ɔ̃ɲʂɛɡɔˈidʑɔ̃ɲ pʐɨʂwx mawʐɔn̪kˈu
-human_rights_un_pl_km_64kb_0074	
-human_rights_un_pl_km_64kb_0075	ɔdʑɲa jɛst naturaln̪ɔ̃ɲ i pɔpxn̪savɔvɔ̃ɲ kmurkɔ̃ɲ spɔwɛtʂɛɲstˈɨva i ma pravɔpxn̪ɔ ɔxrɔɲɨ zɛ stʂɔn̪ɨ spɔwɛtʂɛɲstˈɨva i aɲstˈɨva
-human_rights_un_pl_km_64kb_0076	rtɨkuw
-human_rights_un_pl_km_64kb_0077	
-human_rights_un_pl_km_64kb_0078	aʐdɨ tʂwɔvʲjˈɛ̝k z̪rˈun̪ɔ am jak i vɛis̪puw z iˈɨ̃n̪ˈɨ̃n̪mi ma pravɔ dɔpɔɕʲadaɲa vwasˈɨ̃n̪ɔɕtɕ
-human_rights_un_pl_km_64kb_0079	
-human_rights_un_pl_km_64kb_0080	ɛ̝ vɔlˈɨ̃n̪ɔ ɲkɡɔ amɔvɔlɲɛ̝ pɔzbavʲatɕ jɛɡɔ vwasˈɨ̃n̪ɔɕtɕ
-human_rights_un_pl_km_64kb_0081	rtɨkuw
-human_rights_un_pl_km_64kb_0082	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ vɔlnɔɕtɕ mˈɨɕli sumɛ̝ɲa i vɨw̃z̪ɲaɲa
-human_rights_un_pl_km_64kb_0083	pravɔ tɔɔbɛjmujɛ svɔbɔdɛ̃ zmianɨ vɨw̃z̪ɲaɲa lub vʲarɨ ɔraz svɔbɔdɛ̃ ɡwɔʂɛɲa svɛɡɔˈɨvɨzɲaɲa lub vʲarɨ bɔ̃ɲdʑ indɨvʲˈidʑualɲɛ̝ bɔ̃ɲdʑ vɛis̪puw z iˈɨ̃n̪ˈɨ̃n̪mi ludʑmi publvʲitʂɲɛ̝ iprɨˈɨvatɲɛ̝ pɔpʐɛz nautʂaɲɛ̝ praktɨkˈɨvaɲɛ̝ upravʲaɲɛ̝ kultu i pʐɛstʐɛɲtɕn̪ˈɔʐɲɛ̝ɔbɨtʂajˈu
-human_rights_un_pl_km_64kb_0084	rtɨkuw
-human_rights_un_pl_km_64kb_0085	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ vɔlnɔɕtɕ ɔpʲɲi i vɨraʐaɲa jɛj
-human_rights_un_pl_km_64kb_0086	pravɔ tɔ ɔˈabʲɛjmujɛs̪ːvɔbɔpxn̪ɛ̃ pɔɕʲaˈidʑaɲa ɲɛ̝z̪lˈɛʐɲɛj ɔpʲɲi pɔʂukʲˈɨvaɲa ɔtʂʂɨ̃mɨˈɨvaɲa irɔʂɨ̃pɔvʂɛxɲaɲa iˈɨ̃n̪fɔrmatsji i pɔɡlɔ̃ɲdˈu vʂɛlkʲmi ɕrɔdkami bɛz vʂɨ̃ɡlɛ̃pxn̪u naɡraɲtsɛ
+human_rights_un_pl_km_64kb_0064	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ vɔlnɔɕtɕ mˈɨɕli sumɛ̝ɲa i vɨw̃z̪ɲaɲa
+human_rights_un_pl_km_64kb_0065	pravɔ tɔ ɔbɛjmujɛ svɔbɔdɛ̃ zmianɨ vɨw̃z̪ɲaɲa lub vʲarɨ ɔraz svɔbɔdɛ̃ ɡwɔʂɛɲa svɛɡɔ vɨw̃z̪ɲaɲa lub vʲarɨ bɔ̃ɲdʑ indɨvʲˈidʑualɲɛ̝ bɔ̃ɲdʑ vɛis̪puw z iˈɨ̃n̪ˈɨ̃n̪mi ludʑmi publvʲitʂɲɛ̝ i prɨˈɨvatɲɛ̝ pɔpʐɛz nautʂaɲɛ̝ praktɨkˈɨvaɲɛ̝ upravʲaɲɛ̝ kultu i pʐɛstʐɛɲtɕn̪ˈɔʐɲɛ̝ ɔbɨtʂajˈu
+human_rights_un_pl_km_64kb_0066	rtɨkuw
+human_rights_un_pl_km_64kb_0067	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ vɔlnɔɕtɕ ɔpʲɲi i vɨraʐaɲa jɛj
+human_rights_un_pl_km_64kb_0068	pravɔ tɔ ɔbɛjmujɛ svɔbɔdɛ̃ pɔɕʲaˈidʑaɲa ɲɛ̝z̪lˈɛʐɲɛj ɔpʲɲi pɔʂukʲˈɨvaɲa ɔtʂʂɨ̃mɨˈɨvaɲa i rɔʂɛpɔvʂɛxɲaɲa iˈɨ̃n̪fɔrmatsji i pɔɡlɔ̃ɲdˈu vʂɛlkʲmi ɕrɔdkami bɛz vʂɨ̃ɡlɛ̃pxn̪u na ɡraɲtsɛ
+human_rights_un_pl_km_64kb_0069	rtɨkuw
+human_rights_un_pl_km_64kb_0070	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ spɔkjn̪ɛɡɔ zɡrɔmadzaɲa i stɔˈɨvaʐɨʂaɲa ɕɛ̃
+human_rights_un_pl_km_64kb_0071	ikɡɔ ɲɛ̝ mɔʐɲa zmuʂatɕ dɔ nalˈɛʐɛɲa dɔ jakʲɛɡɔɕ stɔˈɨvaʐɨʂɛɲa
+human_rights_un_pl_km_64kb_0072	rtɨkuw
+human_rights_un_pl_km_64kb_0073	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ utʂɛstɲtʂɛɲa v ʐɔ̃ɲdzɛɲu svm krajɛm bɛʂɛpɔɕrˈɛɲɔ lub pɔpʐɛz svɔbɔˈidʑɲɛ̝ vɨbranɨx pʐˈɛis̪avʲtɕɛli
+human_rights_un_pl_km_64kb_0074	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ rˈunɛɡɔ dɔstɛ̃pu dɔ swuˈɛʐˈabʲɨ puˈabʲlitʂɲɛj v svm kraju
+human_rights_un_pl_km_64kb_0075	ɔlˈat̪ luu jɛst pɔpxn̪savɔ̃ɲ vwadzɨ ʐɔ̃ɲˈidʑu
+human_rights_un_pl_km_64kb_0076	vɔlˈat̪ a vɨraʐa ɕɛ̃ v pʐɛprɔˈɨvadʑan̪ɨx ɔkrɛis̪ɔvɔ ʐɛtɛlnɨx vɨbɔrax ɔˈɔpartɨx na z̪adʑɛ̝ pɔvʂɛxn̪ɔɕtɕ rˈuˈɨ̃n̪ɔɕtɕ i ajnɔɕtɕ lub na iˈɨ̃n̪ɲɛj rˈun̪ɔʐɛ̃pxn̪ɲɛj prɔtsˈɛuʐɛ z̪pɛvɲajɔ̃ɲtsɛj vɔlˈɨ̃n̪ɔɕtɕ vɨbɔrˈu
+human_rights_un_pl_km_64kb_0077	rtɨkuw
+human_rights_un_pl_km_64kb_0078	aʐdɨ tʂwɔvʲjˈɛ̝k ma jak tʂwɔn̪ɛk spɔwɛtʂɛɲstˈɨva pravɔ dɔ ubɛzpʲɛtʂɛɲ spɔwɛtʂɲɨx
+human_rights_un_pl_km_64kb_0079	ma rˈuɲɛ̝ʐ pravɔ dɔ uʐɛtʂɨvʲstɲaɲa pɔpʐɛz vɨɕʲwɛk narɔpxn̪ɔˈɨvɨ i vspuwpratsɛ̃ miɛ̃dʑɨˈɨ̃n̪arɔˈidʑɔˈɨvɔ̃ɲ ɔraz zɡɔdɲɛ̝ z ɔrɲtɕn̪ˈɔʐɲz̪tsjɔ̃ɲ i z̪sɔˈabʲami kaˈɛʐˈidʑɛɡɔ aɲstˈɨva svɨx prav ɡɔis̪pɔˈidʑartʂɨx spɔwɛtʂɲɨx i kulturalɲɨx ɲɛ̝ʂɛbɛ̃ˈidʑnɨx dlˈat̪ jɛɡɔ ɡɔˈidʑnɔɕtɕ i svɔˈabʲɔdˈɨ̃n̪ɛɡɔ rɔzvɔju jɛɡɔ ɔis̪ɔˈabʲɔˈɨvɔɕtɕ
+human_rights_un_pl_km_64kb_0080	rtɨkuw
+human_rights_un_pl_km_64kb_0081	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ pratsɨ dɔ svɔˈabʲɔdˈɨ̃n̪ɛɡɔ vɨbɔru pratsɨ dɔ ɔdpɔvʲˈɛɲx i z̪ˈidʑɔˈɨvalˈat̪jɔ̃ɲtsɨx ˈɨvarunkˈu pratsɨ ɔraz dɔ ɔxrɔɲɨ pʐˈɛ bɛʂɛrɔbɔtɕɛm
+human_rights_un_pl_km_64kb_0082	aʐdɨ tʂwɔvʲjˈɛ̝k bɛz vʂɨ̃ɡlɛ̃pxn̪u na jakʲɛklvʲjˈɛ̝k ruʐɲtsɛ ma pravɔ dɔ rˈuˈɨ̃n̪ɛj pwatsɨ z̪ rˈun̪ɔ̃ɲ pratsɛ̃
+human_rights_un_pl_km_64kb_0083	aʐdɨ pratsujɔ̃ɲtsɨ ma pravɔ dɔ ɔpxn̪pɔvʲˈɛɲɛ̝ɡɔ i z̪dɔˈɨvalˈat̪jɔ̃ɲtsɛɡɔ vɨˈɨ̃n̪aɡrɔdʑɛɲa z̪pɛvɲajɔ̃ɲtsɛɡɔ jɛmu i jɛɡɔ rɔdʑɲɛ̝ ɛɡw̃z̪ɨstɛɲtsjɛ̃ ɔdpɔvʲapxn̪ajɔ̃ɲtsɔ̃ɲ ɡɔˈidʑnɔɕtɕ ludzkʲɛj i uw̃z̪upɛwɲan̪ɛɡɔ v radʑɛ pɔtʂʂɛɛˈabʲɨ iˈɨ̃n̪ˈɨ̃n̪mi ɕrɔdkami pɔmɔtsɨ spɔwɛtʂɲɛj
+human_rights_un_pl_km_64kb_0084	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ tvɔʐɛɲa zvʲjˈɔ̃w̃z̪kˈu z̪ˈɨvɔˈidʑɔˈɨvɨx i dɔ pʐɨstɛ̃pɔˈɨvaɲa dɔ zvʲjˈɔ̃w̃z̪kˈu z̪ˈɨvɔˈidʑɔˈɨvɨx dlˈat̪ ɔxrɔɲɨ svɨx in̪tɛrɛsˈu
+human_rights_un_pl_km_64kb_0085	rtɨkuw
+human_rights_un_pl_km_64kb_0086	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ urlɔpu i vɨpɔtʂɨˈɨ̃n̪ku vwɔ̃ɲtʂajɔ̃ɲts v tɔ rɔw̃z̪is̪ɔ̃ɲˈidʑˈɨ̃n̪ɛ ɔɡraɲtʂɛɲɛ̝ ɡɔdʑn pratsɨ i ɔkrɛis̪ɔvɛ pwatnɛ urlɔpɨ
 human_rights_un_pl_km_64kb_0087	rtɨkuw
-human_rights_un_pl_km_64kb_0088	
-human_rights_un_pl_km_64kb_0089	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ spɔkjn̪ɛɡɔ zɡrɔmadzaɲa i stɔˈɨvaʐɨʂaɲa ɕɛ̃
-human_rights_un_pl_km_64kb_0090	
-human_rights_un_pl_km_64kb_0091	ikɡɔ ɲɛ̝ mɔʐɲa zmuʂatɕ dɔ nalˈɛʐɛɲa dɔ jakʲɛɡɔɕ stɔˈɨvaʐɨʂɛɲa
-human_rights_un_pl_km_64kb_0092	rtɨkuw
-human_rights_un_pl_km_64kb_0093	
-human_rights_un_pl_km_64kb_0094	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ utʂɛstɲtʂɛɲa v ʐɔ̃ɲdzɛɲu svm krajɛmˈabʲɛzpɔˈɨɕrˈɛɲɔ lub pɔpʐɛz svɔbɔˈidʑɲɛ̝ vɨbranɨx pʐˈɛis̪avʲtɕɛli
-human_rights_un_pl_km_64kb_0095	
-human_rights_un_pl_km_64kb_0096	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ rˈunɛɡɔ dɔstɛ̃pu dɔ swuˈɛʐˈabʲɨ puˈabʲlitʂɲɛj v svmkraju
-human_rights_un_pl_km_64kb_0097	
-human_rights_un_pl_km_64kb_0098	ɔlˈat̪ luu jɛst pɔpxn̪savɔ̃ɲ vwadzɨ ʐɔ̃ɲˈidʑu
-human_rights_un_pl_km_64kb_0099	vɔlˈat̪ a vɨraʐa ɕɛ̃ vpʐɛprɔˈɨvadzaɲɨx ɔkrɛis̪ɔvɔ ʐɛtɛlnɨx vɨbɔrax ɔˈɔpartɨx na z̪adʑɛ̝pɔˈɨvʂɛxnɔɕtɕ rˈuˈɨ̃n̪ɔɕtɕ i ajnɔɕtɕ lub na iˈɨ̃n̪ɲɛj rˈun̪ɔʐɛ̃pxn̪ɲɛj prɔtsˈɛuʐɛz̪pɛvɲajɔ̃ɲtsɛj vɔlˈɨ̃n̪ɔɕtɕ vɨbɔrˈu
+human_rights_un_pl_km_64kb_0088	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ stɔpɨ ʐɨtɕɔvɛj z̪pɛvɲajɔ̃ɲtsɛj zd̪ɔvʲjˈɛ̝ i dɔbrɔˈabʲɨt jɛɡɔ i jɛɡɔ rɔdʑɲɨ vwɔ̃ɲtʂajɔ̃ɲts v tɔ vɨʐɨvʲjˈɛ̝ɲɛ̝ ɔdʑɛ̝ʐ mɛ̝ʂkaɲɛ̝ ɔpʲɛkɛ̃ lkaris̪kɔ̃ɲ i kɲɛ̝tʂɲɛ ɕvʲapxn̪tʂɛɲa sɔtsjalɲɛ ɔraz pravɔ dɔ ubɛʂɛpʲɛtʂɛɲa na vɨˈɔpadɛk bɛʂɛrɔbɔtɕa xɔrɔbɨ ɲɛ̝zdɔln̪ɔɕtɕ dɔ pratsɨ vdɔvʲjˈɛ̝ɲstˈɨva sarɔɕtɕ lub utʂatɨ ɕrɔdkˈu dɔ ʐɨtɕa v inn̪ɨ spɔs̪ːub ɔd ɲɛ̝ɡɔ ɲɛ̝z̪lˈɛʐn̪ɨ
+human_rights_un_pl_km_64kb_0089	atka i dʑɛ̝tsk majɔ̃ɲ pravɔ dɔ spɛtsjaln̪ɛj ɔpʲɛkʲ i pɔmɔtsɨ
+human_rights_un_pl_km_64kb_0090	ʂɨstkʲɛ dʑɛ̝tɕ z̪rˈun̪ɔ mawˈɛʐɛɲis̪kɛ̝ jak i pɔz̪mawˈɛʐɛɲis̪kɛ̝ kʐɨs̪ːajɔ̃ɲ z jˈɛɲakˈɨvɛj ɔxrɔɲɨ spɔwɛtʂɲɛj
+human_rights_un_pl_km_64kb_0091	rtɨkuw
+human_rights_un_pl_km_64kb_0092	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ naukʲ
+human_rights_un_pl_km_64kb_0093	auka jɛst bɛw̃z̪pwatn̪a pʐɨnajmɲɛ̝j na stɔpɲu pɔpxn̪s̪ːaˈɨvɔvm
+human_rights_un_pl_km_64kb_0094	auka pɔˈidʑs̪ːavɔˈɨva jɛst ɔbɔvʲjˈɔ̃w̃z̪kˈɨva
+human_rights_un_pl_km_64kb_0095	ɕvʲˈat̪a tɛxɲtʂɲa i z̪vɔdɔˈɨva jɛst pɔvʂɛxɲɛ̝ dɔstˈɛ̃npna a stuia vɨʐʂɛ sɔ̃ɲ dɔstˈɛ̃npnɛ dlˈat̪ vʂɨstkʲx na z̪adʑɛ̝ rˈuˈɨ̃n̪ɔɕtɕ v z̪lˈɛʐˈɨ̃n̪ɔɕtɕ ɔd z̪lt ɔis̪ɔˈabʲvʲistɨx
+human_rights_un_pl_km_64kb_0096	ɛlm nautʂaɲa jɛst pɛwn̪ɨ rɔzvuj ɔis̪ɔˈabʲɔˈɨvɔɕtɕ ludzkʲɛj i uɡruˈɨ̃n̪tɔˈɨvaɲɛ̝ pɔʂaɲɔˈɨvaɲa prav tʂwɔvʲjˈɛ̝ka i pɔdsaˈɨvɔvɨx vɔlnɔɕtɕ
+human_rights_un_pl_km_64kb_0097	ʐɛvʲ ɔn̪ɔ zrɔw̃z̪umɛ̝ɲɛ̝ tɔlrantsjɛ̃ i pʐɨjaɔ̃ɲ mvʲiˈɛ̃ndʑɨ vʂɨstkʲmi narɔdami ɡruˈɔpami rasɔvmi lub rɛliɡiˈɨ̃n̪mi
+human_rights_un_pl_km_64kb_0098	pɔpʲɛra dʑawaln̪ɔɕtɕ rɲtɕn̪ˈɔʐɲz̪tsji arɔdˈu jˈɛn̪ɔtʂɔn̪ɨx zmɛ̝ʐajɔ̃ɲtsɔ̃ɲ dɔ utʂʂɨ̃maɲa pɔkju
+human_rights_un_pl_km_64kb_0099	ɔdʑtsɛ majɔ̃ɲ pravɔ pɛ̝rvʂɛɲstˈɨva v vɨbɔʐɛ nautʂaɲa kturɛ ma bɨtɕ danɛ ix dʑɛ̝tɕɔm
 human_rights_un_pl_km_64kb_0100	rtɨkuw
-human_rights_un_pl_km_64kb_0101	aʐdɨ tʂwɔvʲjˈɛ̝k ma jak tʂwɔn̪ɛk spɔwɛtʂɛɲstˈɨva pravɔ dɔ ubɛʂɨ̃pʲɛtʂɛɲis̪pɔwɛtʂɲɨx
-human_rights_un_pl_km_64kb_0102	ma rˈuɲɛ̝ʐ pravɔ dɔ uʐɛtʂɨvʲstɲaɲa pɔpʐɛz vɨɕʲwɛknarɔdɔˈɨvɨ i vspuwpratsɛ̃ miɛ̃dʑɨˈɨ̃n̪arɔˈidʑɔˈɨvɔ̃ɲ ɔraz zɡɔdɲɛ̝ z ɔrɲtɕn̪ˈɔʐɲz̪tsjɔ̃ɲ i z̪is̪ɔbamikaʐdɛɡɔ aɲstˈɨva svɨx prav ɡɔis̪pɔˈidʑartʂɨx spɔwɛtʂɲɨx i kulturalˈɨ̃n̪ɨxɲɛ̝ʂɛbɛ̃ˈidʑɲɨx dlˈat̪ jɛɡɔ ɡɔˈidʑnɔɕtɕ i svɔˈabʲɔdˈɨ̃n̪ɛɡɔ rɔzvɔju jɛɡɔ ɔis̪ɔˈabʲɔˈɨvɔɕtɕ
+human_rights_un_pl_km_64kb_0101	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ svɔˈabʲɔdˈɨ̃n̪ɛɡɔ utʂɛstɲtʂɛɲa v ʐɨtɕu kulturalɲm spɔwɛtʂɛɲstˈɨva dɔ kʐɨsaɲa zɛ ʂtukʲ dɔ utʂɛstɲtʂɛɲa v pɔstɛ̃pʲɛ naukʲ i kʐɨsaɲa z jɛɡɔ dɔbrɔdʑɛ̝jstv
+human_rights_un_pl_km_64kb_0102	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ ɔxrɔɲɨ mɔraln̪ɨx i matɛrialn̪ɨx kʐɨɕtɕ vɨɲkajɔ̃ɲtsɨx z jakʲɛjklvʲjˈɛ̝k jɛɡɔ dʑawaln̪ɔɕtɕ naukvɛj litɛratskʲɛj lub artɨstɨtʂɲɛj
 human_rights_un_pl_km_64kb_0103	rtɨkuw
-human_rights_un_pl_km_64kb_0104	
-human_rights_un_pl_km_64kb_0105	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ pratsɨ dɔ svɔˈabʲɔdˈɨ̃n̪ɛɡɔ vɨbɔru pratsɨ dɔɔˈidʑpɔvʲˈɛɲx i z̪ˈidʑɔˈɨvalˈat̪jɔ̃ɲtsɨx ˈɨvarunkˈu pratsɨ ɔraz dɔ ɔxrɔɲɨ pʐˈɛˈabʲɛw̃z̪rɔˈabʲɔtɕɛm
-human_rights_un_pl_km_64kb_0106	
-human_rights_un_pl_km_64kb_0107	aʐdɨ tʂwɔvʲjˈɛ̝k bɛz vʂɨ̃ɡlɛ̃pxn̪u na jakʲɛklvʲjˈɛ̝k ruʐɲtsɛ ma pravɔ pxn̪ɔrˈunɛj pwatsɨ z̪ rˈun̪ɔ̃ɲ pratsj
-human_rights_un_pl_km_64kb_0108	
-human_rights_un_pl_km_64kb_0109	aʐdɨ pratsujɔ̃ɲtsɨ ma pravɔ dɔ ɔpxn̪pɔvʲˈɛɲɛ̝ɡɔ i z̪dɔˈɨvalˈat̪jɔ̃ɲtsɛɡɔvɨn̪aɡrɔdʑɛɲa z̪pɛvɲajɔ̃ɲtsɛɡɔ jɛmu i jɛɡɔ rɔdʑɲɛ̝ ɛɡzɨstɛn̪tsjˈɛ̃nɔdpɔvʲapxn̪ajɔ̃ɲtsɔ̃ɲ ɡɔˈidʑnɔɕtɕ ludzkʲɛj i uw̃z̪upɛwɲan̪ɛɡɔ v radʑɛ pɔtʂʂɛɛˈabʲɨ iˈɨ̃n̪n̪mvʲiˈɨɕrɔˈidʑkami pɔmɔtsɨ spɔwɛtʂɲɛj
-human_rights_un_pl_km_64kb_0110	
-human_rights_un_pl_km_64kb_0111	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ tvɔʐɛɲa zvʲjˈɔ̃w̃z̪kˈu z̪ˈɨvɔˈidʑɔˈɨvɨx i dɔpʐɨstɛ̃pɔˈɨvaɲa dɔ zvʲjˈɔ̃w̃z̪kˈu z̪ˈɨvɔˈidʑɔˈɨvɨx dlˈat̪ ɔxrɔɲɨ svɨx in̪tɛrɛsˈu
-human_rights_un_pl_km_64kb_0112	rtɨkuw
-human_rights_un_pl_km_64kb_0113	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ urlɔpu i vɨpɔtʂɨˈɨ̃n̪ku vwɔ̃ɲtʂajɔ̃ɲts v tɔ rɔw̃z̪sɔ̃ɲˈidʑˈɨ̃n̪ɛɔɡraɲtʂɛɲɛ̝ ɡɔdʑn pratsɨ i ɔkrɛis̪ɔvɛ pwatnɛ urlɔpɨ
-human_rights_un_pl_km_64kb_0114	rtɨkuw
-human_rights_un_pl_km_64kb_0115	
-human_rights_un_pl_km_64kb_0116	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ stɔpɨ ʐɨtɕɔvɛj z̪pɛvɲajɔ̃ɲtsɛj zd̪ɔvʲjˈɛ̝ ipxn̪ɔbrɔbɨt jɛɡɔ i jɛɡɔ rɔdʑɲɨ vwɔ̃ɲtʂajɔ̃ɲts v tɔ vɨʐɨvʲjˈɛ̝ɲɛ̝ ɔdʑɛ̝ʐmɛ̝ʂkaɲɛ̝ ɔpʲɛkj lkaris̪kɔ̃ɲ i kɲɛ̝tʂɲɛ ɕvʲapxn̪tʂɛɲa sɔtsjalɲɛ ɔraz pravɔpxn̪ɔ ubɛʂɛpʲɛtʂɛɲa na vɨˈɔpadɛk bɛʂɛrɔbɔtɕa xɔrɔbɨ ɲɛ̝zdɔln̪ɔɕtɕ dɔpratsɨ vdɔvʲjˈɛ̝ɲstˈɨva sarɔɕtɕ lub utʂatɨ ɕrɔdkˈu dɔ ʐɨtɕa v inn̪ɨ spɔis̪uˈabʲɔd ɲɛ̝ɡɔ ɲɛ̝z̪lˈɛʐn̪ɨ
-human_rights_un_pl_km_64kb_0117	
-human_rights_un_pl_km_64kb_0118	atka i dʑɛ̝tsk majɔ̃ɲ pravɔ dɔ spɛtsjaln̪ɛj ɔpʲɛkʲ i pɔmɔtsɨ
-human_rights_un_pl_km_64kb_0119	ʂɨstkʲˈɛdʑɛtɕ z̪rˈun̪ɔ mawˈɛʐɛɲis̪kɛ̝ jak i pɔz̪mawˈɛʐɛɲis̪kɛ̝ kʐɨs̪ːajɔ̃ɲ z jˈɛˈɨ̃n̪akˈɨvɛjɔxrɔn̪ɨ spɔwɛtʂɲɛj
-human_rights_un_pl_km_64kb_0120	rtɨkuw
-human_rights_un_pl_km_64kb_0121	
-human_rights_un_pl_km_64kb_0122	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ naukʲ
-human_rights_un_pl_km_64kb_0123	auka jɛst bɛw̃z̪pwatn̪a pʐɨnajmɲɛ̝jn̪a stɔpɲu pɔpxn̪s̪ːaˈɨvɔvm
-human_rights_un_pl_km_64kb_0124	auka pɔˈidʑs̪ːavɔˈɨva jɛst ɔbɔvʲjˈɔ̃w̃z̪kˈɨva
-human_rights_un_pl_km_64kb_0125	ɕvʲˈat̪atɛxɲtʂɲa i z̪vɔdɔˈɨva jɛst pɔvʂɛxɲɛ̝ dɔstˈɛ̃npna a stuia vɨʐʂɛ sɔ̃ɲˈidʑɔstɛ̃pnɛ dlˈat̪ vʂɨstkʲx na z̪adʑɛ̝ rˈuˈɨ̃n̪ɔɕtɕ v z̪lˈɛʐˈɨ̃n̪ɔɕtɕ ɔd z̪ltɔs̪ːɔˈabʲvʲistɨx
-human_rights_un_pl_km_64kb_0126	
-human_rights_un_pl_km_64kb_0127	ɛlm nautʂaɲa jɛst pɛwn̪ɨ rɔzvuj ɔis̪ɔˈabʲɔˈɨvɔɕtɕ ludzkʲɛj i uɡruntɔˈɨvaɲɛ̝pɔʂaˈɨ̃n̪ɔˈɨvaɲa prav tʂwɔvʲjˈɛ̝ka i pɔdsaˈɨvɔvɨx vɔlnɔɕtɕ
-human_rights_un_pl_km_64kb_0128	ʐɛvʲ ɔn̪ɔw̃z̪rɔʂɛumɛ̝ɲɛ̝ tɔlrantsjɛ̃ i pʐɨjaɔ̃ɲ mvʲiˈɛ̃ndʑɨ vʂɨstkʲmi narɔdami ɡruˈɔpamirais̪ɔvmi lub rɛliɡiˈɨ̃n̪mi
-human_rights_un_pl_km_64kb_0129	pɔpʲɛra dʑawaln̪ɔɕtɕ rɲtɕn̪ˈɔʐɲz̪tsji arɔdˈu
-human_rights_un_pl_km_64kb_0130	jˈɛn̪ɔtʂɔn̪ɨx zmɛ̝ʐajɔ̃ɲtsɔ̃ɲ dɔ utʂʂɨ̃maɲa pɔkju
-human_rights_un_pl_km_64kb_0131	
-human_rights_un_pl_km_64kb_0132	ɔdʑtsɛ majɔ̃ɲ pravɔ pɛ̝rvʂɛɲstˈɨva v vbɔʐɛ nautʂaɲa kturɛ ma bɨtɕˈidʑaˈɨ̃n̪ɛ ix dʑɛ̝tɕɔm
-human_rights_un_pl_km_64kb_0133	rtɨkuw
-human_rights_un_pl_km_64kb_0134	
-human_rights_un_pl_km_64kb_0135	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ svɔˈabʲɔdˈɨ̃n̪ɛɡɔ utʂɛstɲtʂɛɲa v ʐɨtɕukulturalɲm spɔwɛtʂɛɲstˈɨva dɔ kʐɨsaɲa zɛ ʂtukʲ dɔ utʂɛstɲtʂɛɲa vpɔstɛ̃pʲɛ naukʲ i kʐɨsaɲa z jɛɡɔ dɔbrɔdʑɛ̝jstv
-human_rights_un_pl_km_64kb_0136	
-human_rights_un_pl_km_64kb_0137	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ ɔxrɔɲɨ mɔraln̪ɨx i matɛrialn̪ɨx kʐɨɕtɕvɨɲkajɔ̃ɲtsɨx z jakʲɛjklvʲjˈɛ̝k jɛɡɔ dʑawaln̪ɔɕtɕ naukvɛj litɛratskʲɛj lubartɨstɨtʂɲɛj
-human_rights_un_pl_km_64kb_0138	rtɨkuw
-human_rights_un_pl_km_64kb_0139	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ akʲɛɡɔ pɔʐɔ̃ɲdku spɔwɛtʂɲɛɡɔ imiɛ̃dzɨˈɨ̃n̪arɔˈidʑɔvɛɡɔ v kturm praˈɨva i vɔlnɔɕtɕ z̪ˈɨvartɛ v ɲɲɛ̝jʂɛj ɛklˈat̪ratsjiˈabʲɨwbɨ v pɛwɲ rɛaliʂɛɔˈɨvaˈɨ̃n̪ɛ
-human_rights_un_pl_km_64kb_0140	rtɨkuw
-human_rights_un_pl_km_64kb_0141	
-human_rights_un_pl_km_64kb_0142	aʐdɨ tʂwɔvʲjˈɛ̝k ma ɔbɔvʲjˈɔ̃w̃z̪kʲ vɔbɛts spɔwɛtʂɛɲstˈɨva bɛz kturɛɡɔɲɛ̝mɔˈɛʐlvʲiˈɨvɨ jɛst sˈɨvɔbɔˈidʑnɨ i pɛwn̪ɨ rɔzvuj jɛɡɔ ɔis̪ɔˈabʲɔˈɨvɔɕtɕ
-human_rights_un_pl_km_64kb_0143	
-human_rights_un_pl_km_64kb_0144	kʐɨs̪ːaɲu zɛ svɨx prav i vɔlnɔɕtɕ kaˈɛʐdɨ tʂwɔvʲjˈɛ̝k pɔdlɲtɕn̪ˈɔʐ jˈɛɨɲɛ̝akʲm ɔɡraɲtʂɛɲɔm kturɛ sɔ̃ɲ usalɔˈɨ̃n̪ɛ pʐɛz pravɔ vɨwɔ̃ɲtʂɲɛ̝ v tsɛluz̪pɛvɲɛ̝ɲa ɔpxn̪pɔvʲˈɛɲɛ̝ɡɔ uʂɨ̃naɲa i pɔʂaɲɔˈɨvaɲa prav i vɔln̪ɔɕtɕvʲinɲɨx i v tsɛlu utʂɨɲɛ̝ɲa z̪pxn̪ɔˈɨɕtɕ swuʂn̪m vmɔɡɔm mɔralˈɨ̃n̪ɔɕtɕpɔʐɔ̃ɲpxn̪ku publitʂɲɛɡɔ i pɔˈɨvʂɛxnɛɡɔ dɔbrɔbɨtu dɛmɔkratɨtʂɲɛɡɔspɔwɛtʂɛɲstˈɨva
-human_rights_un_pl_km_64kb_0145	
-human_rights_un_pl_km_64kb_0146	ɲɲɛ̝jʂɨx prav i vɔlnɔɕtɕ ɲɛ̝ vɔlˈɨ̃n̪ɔ v ʐapxn̪ɲm pʐɨˈɔpadku kʐɨstatɕ vs̪ːpɔis̪ub spʐɛtʂɲɨ z tsɛlˈat̪mi i z̪apxn̪ami rɲtɕn̪ˈɔʐɲz̪tsji arɔdˈu
-human_rights_un_pl_km_64kb_0147	jˈɛn̪ɔtʂɔn̪ɨx
-human_rights_un_pl_km_64kb_0148	rtɨkuw
-human_rights_un_pl_km_64kb_0149	ʐapxn̪ˈɨ̃n̪ɛɡɔ z pɔs̪ːanɔvʲjˈɛ̝ɲ ɲɲɛ̝jʂɛj ɛklˈat̪ratsji ɲɛ̝ mɔʐɲa rɔʂɛumɛ̝tɕ jakudʑɛlˈat̪jɔ̃ɲtsɛɡɔ jakʲɛmuklvʲjˈɛ̝k aɲstvu ɡrupʲɛ lub ɔsɔbɛ̝ jakʲɛɡɔklvʲjˈɛ̝k praˈɨvadɔ pɔpxn̪ɛjmɔˈɨvaɲa dʑawaln̪ɔɕtɕ lub vɨdaˈɨvaɲa aktˈu zmɛ̝ʐajɔ̃ɲtsɨx dɔ ɔbalɲakturɛɡɔklvʲjˈɛ̝k z prav i vɔlnɔɕtɕ z̪ˈɨvartɨx v ɲɲɛ̝jʂɛj ɛklˈat̪ratsji
+human_rights_un_pl_km_64kb_0104	aʐdɨ tʂwɔvʲjˈɛ̝k ma pravɔ dɔ akʲɛɡɔ pɔʐɔ̃ɲdku spɔwɛtʂɲɛɡɔ i mvʲiˈɛ̃ndʑɨɲarɔdɔvɛɡɔ v kturm praˈɨva i vɔlnɔɕtɕ z̪ˈɨvartɛ v ɲɲɛ̝jʂɛj ɛklˈat̪ratsji bɨwbɨ v pɛwɲ rɛaliʂɛɔˈɨvaˈɨ̃n̪ɛ
+human_rights_un_pl_km_64kb_0105	rtɨkuw
+human_rights_un_pl_km_64kb_0106	aʐdɨ tʂwɔvʲjˈɛ̝k ma ɔbɔvʲjˈɔ̃w̃z̪kʲ vɔbɛts spɔwɛtʂɛɲstˈɨva bɛz kturɛɡɔ ɲɛ̝mɔˈɛʐlvʲiˈɨvɨ jɛst sˈɨvɔbɔˈidʑnɨ i pɛwn̪ɨ rɔzvuj jɛɡɔ ɔis̪ɔˈabʲɔˈɨvɔɕtɕ
+human_rights_un_pl_km_64kb_0107	kʐɨs̪ːaɲu zɛ svɨx prav i vɔlnɔɕtɕ kaˈɛʐdɨ tʂwɔvʲjˈɛ̝k pɔdlɲtɕn̪ˈɔʐ jˈɛɨɲɛ̝ akʲm ɔɡraɲtʂɛɲɔm kturɛ sɔ̃ɲ usalɔˈɨ̃n̪ɛ pʐɛz pravɔ vɨwɔ̃ɲtʂɲɛ̝ v tsɛlu z̪pɛvɲɛ̝ɲa ɔpxn̪pɔvʲˈɛɲɛ̝ɡɔ uʂɨ̃naɲa i pɔʂaɲɔˈɨvaɲa prav i vɔlnɔɕtɕ iˈɨ̃n̪ˈɨ̃n̪ɨx i v tsɛlu utʂɨɲɛ̝ɲa z̪pxn̪ɔˈɨɕtɕ swuʂn̪m vmɔɡɔm mɔralnɔɕtɕ pɔʐɔ̃ɲdku publitʂɲɛɡɔ i pɔˈɨvʂɛxnɛɡɔ dɔbrɔbɨtu dɛmɔkratɨtʂɲɛɡɔ spɔwɛtʂɛɲstˈɨva
+human_rights_un_pl_km_64kb_0108	ɲɲɛ̝jʂɨx prav i vɔlnɔɕtɕ ɲɛ̝ vɔlˈɨ̃n̪ɔ v ʐapxn̪ɲm pʐɨˈɔpadku kʐɨstatɕ v spɔs̪ːub spʐɛtʂɲɨ z tsɛlˈat̪mi i z̪apxn̪ami rɲtɕn̪ˈɔʐɲz̪tsji arɔdˈu jˈɛn̪ɔtʂɔn̪ɨx
+human_rights_un_pl_km_64kb_0109	rtɨkuw
+human_rights_un_pl_km_64kb_0110	ʐapxn̪ˈɨ̃n̪ɛɡɔ z pɔs̪ːanɔvʲjˈɛ̝ɲ ɲɲɛ̝jʂɛj ɛklˈat̪ratsji ɲɛ̝ mɔʐɲa rɔʂɛumɛ̝tɕ jak udʑɛlˈat̪jɔ̃ɲtsɛɡɔ jakʲɛmuklvʲjˈɛ̝k aɲstvu ɡrupʲɛ lub ɔsɔbɛ̝ jakʲɛɡɔklvʲjˈɛ̝k praˈɨva dɔ pɔpxn̪ɛjmɔˈɨvaɲa dʑawaln̪ɔɕtɕ lub vɨdaˈɨvaɲa aktˈu zmɛ̝ʐajɔ̃ɲtsɨx dɔ ɔbalɲa kturɛɡɔklvʲjˈɛ̝k z prav i vɔlnɔɕtɕ z̪ˈɨvartɨx v ɲɲɛ̝jʂɛj ɛklˈat̪ratsji

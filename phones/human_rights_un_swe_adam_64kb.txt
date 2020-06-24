@@ -1,146 +1,108 @@
-human_rights_un_swe_adam_64kb_0001	œrɛnta ɑːtiːɔnɛrnɑːs jɛneːralføːrsɑːmlɪŋ antɔɡ uːɧ ɕɵnjuːrdeː dɛn dɛsɛmbɛr eːn ɑːllmɛːn føːrklɑːrɪŋ ɔmdeː mɛnɧlɪŋɑː rɛːttɪɡhɛteːrnɑː
+human_rights_un_swe_adam_64kb_0001	œrɛnta ɑːtiːɔnɛrnɑːs jɛneːralføːrsɑːmlɪŋ antɔɡ uːɧ ɕɵnjuːrdeː dɛn dɛsɛmbɛr eːn ɑːllmɛːn føːrklɑːrɪŋ uːm deː mɛnɧlɪŋɑː rɛːttɪɡhɛteːrnɑː
 human_rights_un_swe_adam_64kb_0002	œrklɑːriːŋɛn ɑːntuːjs meːd jarœsteːr
 human_rights_un_swe_adam_64kb_0003	ŋeːt land røːstɑːdeː ɛmuːt
-human_rights_un_swe_adam_64kb_0004	tta lɛːndeːrɑːvstuːd
-human_rights_un_swe_adam_64kb_0005	meːdɛlbart ɛfteːr deːnnɑː hiːstɔriːɧa hɛndɛlseː ʉːppmɑːnadɛ jeːnɛralføːrsamlɪŋeːn ɑːlla mɛdlɛmsstateːr attuːffeːntliːɡjøːrɑː fœrklɑːrɪŋɛns teːkst uːɧ att jœra dɛn spriːdd ɕɛnd lɛst uːɧ fœrstoːdd frɑːmføːr allt ɪ ɧuːlɔr uːɧandrɑː ʉːndɛrvɪsniːŋsiːnstɪtɵtiːɔnɛr ɵtɑːn hɛnsʏn tiːll ɔliːka lɛːndeːrs ɛlleːr rɛjɪɔnɛrs pɔliːtɪɧa fœrhoːllɑːndeːn
-human_rights_un_swe_adam_64kb_0006	œrklarɪŋeːns ɔffiːsiːɛllɑː teːkst fiːnns tɪlljɛŋliːɡ poː s seːks ɔffiːsiːɛllɑː sproːk ɑːrabɪɧa eːŋeːlɧa franɧakiːnɛsiːɧa ryːɧɑː uːɧ spɑːnɧa
-human_rights_un_swe_adam_64kb_0007	ɪdɑːreː har eːn rad eːnɧiːlda mɛdleːmslɛːndeːr høːrsammɑːt jeːnɛrɑːlfœrsɑːmlɪŋɛnsɵppmɑːniːŋ uːɧ øːvɛrsatt føːrklɑːrɪŋeːn
-human_rights_un_swe_adam_64kb_0008	eːn sveːnɧɑː øːvɛrsɛːttnɪŋeːn pɔfœjɑːndeː sɪduːr har juːdkɛːnts av svɛnɧareːjeːrɪŋɛn
-human_rights_un_swe_adam_64kb_0009	iːd hɛnvɛːndeːlsɛ tiːll s nuːrdɪɧa iːnfuːrmɑːtiːɔnɧɔntuːr ɪ œpeːnhamn ɕɑːn jrɑːtɪsɛksɛmplar beːstɛllɑːs ɑːvfœrklɑːrɪŋɛn poː s seːks sproːk sveːnɧɑː uːɧ øːvriːŋa nuːrdɪɧa sproːk samt eːtt beːɡrɛːnsat antɑːl andrɑː sproːk
+human_rights_un_swe_adam_64kb_0004	tta lɛːndeːr ɑːvstuːd
+human_rights_un_swe_adam_64kb_0005	meːdɛlbart ɛfteːr deːnnɑː hiːstɔriːɧa hɛndɛlseː ʉːppmɑːnadɛ jeːnɛralføːrsamlɪŋeːn ɑːlla mɛdlɛmsstateːr att ɔffeːntlɪɡjøːra fœrklɑːrɪŋɛns teːkst uːɧ att jœra dɛn spriːdd ɕɛnd lɛst uːɧ fœrstoːdd frɑːmføːr allt ɪ ɧuːlɔr uːɧ andrɑː ʉːndɛrvɪsniːŋsiːnstɪtɵtiːɔnɛr ɵtɑːn hɛnsʏn tiːll ɔliːka lɛːndeːrs ɛlleːr rɛjɪɔnɛrs pɔliːtɪɧa fœrhoːllɑːndeːn
+human_rights_un_swe_adam_64kb_0006	œrklarɪŋeːns ɔffiːsiːɛllɑː teːkst fiːnns tɪlljɛŋliːɡ poː s seːks ɔffiːsiːɛllɑː sproːk ɑːrabɪɧa eːŋeːlɧa frɑːnɧa ɕɪnɛsiːɧɑː ryːɧɑː uːɧ spɑːnɧa
+human_rights_un_swe_adam_64kb_0007	ɪdɑːreː har eːn rad eːnɧiːlda mɛdleːmslɛːndeːr høːrsammɑːt jɛnɛrɑːlfœrsamliːŋeːns ʉːppmaniːŋ uːɧ øːvɛrsatt føːrklɑːrɪŋeːn
+human_rights_un_swe_adam_64kb_0008	eːn sveːnɧɑː øːvɛrsɛːttnɪŋeːn pɔfœjɑːndeː sɪduːr har juːdkɛːnts av sveːnɧɑː reːjeːrɪŋeːn
+human_rights_un_swe_adam_64kb_0009	iːd hɛnvɛːndeːlsɛ tiːll s nuːrdɪɧa iːnfuːrmɑːtiːɔnɧɔntuːr ɪ œpeːnhamn ɕɑːn jrɑːtɪsɛksɛmplar beːstɛllɑːs av føːrklɑːrɪŋeːn poː s seːks sproːk sveːnɧɑː uːɧ øːvriːŋa nuːrdɪɧa sproːk samt eːtt beːɡrɛːnsat antɑːl andrɑː sproːk
 human_rights_un_swe_adam_64kb_0010	
-human_rights_un_swe_adam_64kb_0011	llmɛn føːrklɑːrɪŋ uːm deː mɛnɧlɪŋɑː rɛːttɪɡhɛteːrnɑː
-human_rights_un_swe_adam_64kb_0012	ŋreːss
-human_rights_un_swe_adam_64kb_0013	ftɛrsuːm eːrkɛnnɑːndɛt av deːt iːnneːbɔɛndɛ vɛrdɛt huːs ɑːlla suːm tɪllhøːr mɛnnɪɧuːslɛkteːt uːɧ av deːrɑːs lɪka ɔɧɔbeːstriːdliːɡɑː rɛttiːjhɛtɛr ɛr jrʉːndvalɛn føːr friːhɛt rɛːttvɪsa uːɧ freːd ɪ vɛːrldeːn
-human_rights_un_swe_adam_64kb_0014	ftɛrsuːm rɪŋɑːktnɪŋ uːɧ føːrɑːkt føːr deː mɛnɧlɪŋɑː rɛːttɪɡhɛteːrnɑː har leːtt tiːll bɑːrbarɪɧa jɛrnɪŋɑːr suːm harʉːpprœrt mɛːnɧliːɡhɛteːns samvɛteː uːɧ doː ɧɑːpɑːndeːt av eːn vɛrld dɛr mɛnnɪɧuːrnɑː ɔtnjɵteːr ʏttrɑːndeːfriːhɛttrɔsfriːheːt uːɧ friːhɛt frɔn frʉːktan uːɧ nøːd har tiːllkɛːnnajiːvɪts suːm fɔlkeːns hœŋstɑː strɛːvan
-human_rights_un_swe_adam_64kb_0015	ftɛrsuːm deːt ɛr vɛseːntliːjt føːr att mɛnnɪɧuːrnɑː ɪnteː suːm eːn sɪsta ʉːtvɛɡ ɧall tvɪŋɑːs att tɪllɡrɪpa ʉːppruːr mɔttyːrɑːnniː uːɧ føːrtryːk att deː mɛnɧlɪŋɑː rɛːttɪɡhɛteːrnɑː ɧʏddɑːs jɛnuːm rɛttsstɑːteːns prɪnsiːpɛr
-human_rights_un_swe_adam_64kb_0016	ftɛrsuːm deːt ɛr vɛseːntliːjt att frɛːmja ɵtveːkliːŋɛn av vɛnɧaplɪŋa føːrbiːndɛlseːr meːllɑːn nɑːtɪuːnɛrna
-human_rights_un_swe_adam_64kb_0017	ftɛrsuːm œrɛnta nɑːtɪuːnɛrnas fuːlk ɪ stɑːdjan ɔteːr har bɛkrɛftɑːt sɪn truː poː deː jrɵndlɛːjjandɛ mɛnɧliːɡarɛttɪɡhɛtɛrnɑː dɛn eːnɧiːlda mɛːnniːɧɑːns vɛːrdiːjhɛt uːɧ vɛːrdeː samt mɛns uːɧ ɕvɪnnɔrs lɪka rɛttiːjhɛtɛr uːɧ hɑːrbɛslʉːtat att frɛːmja sɔsiːalɑː frɑːmsteːɡ uːɧ bɛttrɛ lɛvnadsviːllkuːr ʉːndeːr støːrrɛ friːhɛt
-human_rights_un_swe_adam_64kb_0018	ftɛrsuːm mɛdleːmsstɑːtɛrna har ɔtajiːt siːɡ att ɪ samvɛrkɑːn meːd œrɛnta nɑːtɪuːnɛrna sɛːkeːrstɛːlla eːn ɑːllmɛːn ɔɧfɑːktiːɧ reːspɛkt føːr uːɧ ɛfteːrleːvnɑːd av deː mɛnɧlɪŋɑː rɛːttɪɡhɛteːrnɑː uːɧ deː jrɵndlɛːjjandɛ friːheːtɛrna
-human_rights_un_swe_adam_64kb_0019	ftɛrsuːm eːn jeːmeːnsɑːm ʉːppfattniːŋ uːm iːnnɛbœrdeːn av deːssɑː rɛttiːjhɛtɛr uːɧ frɪhɛteːr ɛr av stœrsta beːtʏdɛlseːfœr att ɵppfʏlla deːttɑː ɔtɑːɡɑːndeːtiːllkɛnnɑːjeːr jeːnɛralføːrsamlɪŋeːn deːnnɑː allmɛːnna føːrklɑːrɪŋ uːm deː mɛnɧlɪŋɑː rɛːttɪɡhɛteːrnɑː suːm ɛŋɛmeːnsam nuːrm føːr ɑːlla fuːlk uːɧ nɑːtɪɔneːr ɪ sʏfteː att ɑːlla mɛːnniːɧɔr uːɧ sɑːmhɛːllsɔrŋɑːn meːd deːnnɑːføːrklariːŋ ɪ stɛːndiːɡ ɔtɑːnkɛ ɧall strɛːva ɛfteːr att jɛnuːm ʉːndɛrvɪsnɪŋ uːɧ ʉːtbiːldnɪŋ frɛːmja reːspɛktɛn føːrdeːssɑː rɛttiːjhɛtɛr uːɧ frɪhɛteːr samt jɛnuːm prɔɡreːssiːvɑː ɔtjɛːrdeːr bɔdeː nɑːtɪɔneːllt uːɧ iːntɛrnɑːtɪɔnɛllt seː tiːll ɑːttdeː eːrkɛnns uːɧ tiːllɛmpɑːs ɑːllmɛnt uːɧ ɛffeːktiːvt bɔdeː bland fɔlkeːn ɪ mɛdleːmsstɑːtɛrna uːɧ bland fɔlkeːn ɪuːmrɔdɛn suːm stoːr ʉːndeːr deːrɑːs jʉːriːsdɪktɪuːn
+human_rights_un_swe_adam_64kb_0011	
+human_rights_un_swe_adam_64kb_0012	nɛr eːrkɛnnɑːndɛt av deːt iːnneːbɔɛndɛ vɛrdɛt huːs ɑːlla meːdlɛmmar av mɛnnɪɧuːslɛkteːt uːɧ av deːrɑːs lɪka uːɧ uːfœrʏttɛrlɪja rɛttiːjhɛtɛr ɛr jrʉːndvalɛn føːr friːhɛt rɛːttvɪsa uːɧ freːd ɪ vɛːrldɛnɛnɛːr rɪŋɑːktnɪŋ uːɧ føːrɑːkt føːr deː mɛnɧlɪŋɑː rɛːttɪɡhɛteːrnɑː leːtt tiːll bɑːrbarɪɧa jɛrnɪŋɑːr suːm ʉːpprøːrt mɛːnɧliːɡhɛteːns samvɛteː uːɧ ɛnɛr ɧɑːpɑːndeːt av eːn vɛrld dɛr mɛnnɪɧuːrnɑː oːtnjɵtɑː ʏttrandeːfrɪheːt trɔsfrɪheːt samt friːhɛt frɔn frʉːktan uːɧ nøːd ɕɵnjuːrts suːm fɔlkeːns hœŋstɑː strɛːvɑːneːnɛr deːt ɛr vɛseːntliːjt føːr att iːkɛ mɛnnɪɧan ɧall tvɪŋɑːs att suːm eːn sɪsta ʉːtvɛɡ tɪllɡrɪpa ʉːppruːr muːt tyːrɑːnniː uːɧ føːrtryːk att deː mɛnɧlɪŋɑː rɛːttɪɡhɛteːrnɑː ɧʏddɑːs jɛnuːm lɑːjeːns øːveːrhœɡheːtɛnɛːr deːt ɛr vɛseːntliːjt att frɛːmja ɵtvɛklɑːndeːt av vɛnɧaplɪŋa føːrbiːndɛlseːr meːllɑːn nɑːtiːuːnɛrnɑːɛnɛːr œrɛnta ɑːtiːɔnɛrnɑːs fuːlk ɪ stɑːdjan ɔnʏuː ʉːttryːkt sɪn truː poː deː jrɵndlɛːjjandɛ mɛnɧlɪŋɑː rɛːttɪɡhɛteːrnɑː dɛn eːnɧiːlda mɛːnniːɧɑːns vɛːrdiːjhɛt uːɧ vɛːrdeː samt mɛːnneːns uːɧ ɕvɪnnuːrnɑːs lɪka rɛttiːjhɛtɛr ɛvɛnsɔm beːslʉːtat frɛːmja sɔsɪɑːlt frɑːmɔtɧrɪdandɛ uːɧ bɛttrɛ lɛvnadsviːllkuːr ʉːndeːr støːrrɛ friːheːtɛnɛr mɛdleːmsstɑːtɛrna ɔtajiːt siːɡ att ɪ samvɛrkɑːn meːd œrɛnta atɪɔneːrnɑː sɛːkeːrstɛːlla ɑːllmɛːn uːɧ ɛffeːktiːv reːspɛkt føːr deː mɛnɧlɪŋɑː rɛːttɪɡhɛteːrnɑː uːɧ deː jrɵndlɛːjjandɛ friːhɛteːrnaeːnɛːr eːn jeːmeːnsɑːm ʉːppfattniːŋ av deːssɑː friː uːɧ rɛttiːjhɛtɛrs ɪnneːbœrd ɛr av stœrsta bɛtyːdɛlseː føːr ʉːppfʏllandɛt av deːttɑː ɔtaŋɑːndɛkɵŋøːr
+human_rights_un_swe_adam_64kb_0013	deːnnɑː sɔsuːm eːn jeːmeːnsɑːm riːktlɪnjeː føːr ɑːlla fuːlk uːɧ ɑːlla nɑːtɪɔneːr poː deːt att vɑːrjeː ɪndiːviːd uːɧ vɑːrjeː sɑːmhɛːllsɔrŋɑːn moː meːd deːnnɑː føːrklɑːrɪŋ ɪ ɔtɑːnkɛ stɛndiːŋt strɛːva ɛfteːr att jɛnuːm ʉːndɛrvɪsnɪŋ uːɧ ʉːppfuːstran beːfɔrdra reːspɛktɛn føːr deːssɑː friː uːɧ rɛttiːjhɛtɛr samt jɛnuːm framsteːŋsfrɛmjɑːndɛ iːnhɛmɧa uːɧ iːntɛrnɑːtiːuːneːlla ɔtjɛːrdeːr sɛːkeːrstɛːlla deːrɑːs allmɛːnna uːɧ vɛrksamma eːrkɛnnandɛ uːɧ tɪlllɛmpnɪŋ sɔvɛl bland fɔlkeːn ɪ mɛdleːmsstɑːtɛrna suːm bland fɔlkeːn ɪ uːmroːdɛn ʉːndeːr deːrɑːs øːvɛrhøːjhɛt
+human_rights_un_swe_adam_64kb_0014	rtiːkɛl
+human_rights_un_swe_adam_64kb_0015	lla mɛːnniːɧɔr ɛːruː føːddɑː frɪa uːɧ lɪka ɪ vɛːrdeː uːɧ rɛttiːjhɛtɛr
+human_rights_un_swe_adam_64kb_0016	ɛ ɛːruː ʉːtrɵstɑːdɛ meːd fœrnɵft uːɧ samvɛteː uːɧ bœra handlɑː jeːntɛmuːt varɑːndra ɪ eːn andɑː av brɔdeːrɧɑːp
+human_rights_un_swe_adam_64kb_0017	rtiːkɛl
+human_rights_un_swe_adam_64kb_0018	nvar ɛr bɛrɛttiːŋad tiːll ɑːlla deː friː uːɧ rɛttiːjhɛtɛr suːm ʉːttalɑːs ɪ deːnnɑː føːrklɑːrɪŋ ɵtɑːn ɔtɧɪllnad av nɔŋɔt slaɡ sɔsuːm ras hʉːdfɛrɡ ɕøːn sproːk rɛlɪjiːɔn pɔliːtɪɧ ɛlleːr annɑːn ʉːppfattniːŋ nɑːtɪɔneːllt ɛlleːr sɔsɪɑːlt ɵrsprʉːŋ eːjɛnduːm bøːrd ɛlleːr stɛllniːŋ ɪ œvriːjt
+human_rights_un_swe_adam_64kb_0019	ŋeːn ɔtɧɪllnad moː viːdɑːrɛ jœras poː jrɵnd av dɛn pɔliːtɪɧa jʉːriːdɪɧa ɛlleːr iːntɛrnɑːtiːuːneːlla stɛllniːŋ suːm ɪntajeːs av deːt land ɛlleːr ɔmroːdɛ tiːll vɪlkeːt eːn peːrsɔn høːr vɑːreː siːɡ deːttɑː land ɛlleːr ɔmroːdɛ ɛr ɔbɛruːɛndɛ stoːr ʉːndeːr føːrvaltɑːrɧap ɛr iːkɛɧɛːlvstyːrɑːndeː ɛlleːr ɛr ɵndɛrkastat noːjuːn annɑːn bɛŋrɛnsnɪŋ av sɪn sʉːvɛrɛːnɪteːt
 human_rights_un_swe_adam_64kb_0020	rtiːkɛl
-human_rights_un_swe_adam_64kb_0021	lla mɛːnniːɧɔr ɛr føːddɑː frɪa uːɧ lɪka ɪ vɛːrdeː uːɧ rɛttiːjhɛtɛr
-human_rights_un_swe_adam_64kb_0022	ɛ har ʉːtrɵstɑːts meːd fœrnɵft uːɧ samvɛteː ɔɧbøːr handlɑː jeːntɛmuːt varɑːndra ɪ eːn andɑː av jeːmeːnɧap
-human_rights_un_swe_adam_64kb_0023	rtiːkɛl
-human_rights_un_swe_adam_64kb_0024	ar uːɧ eːn ɛr bɛrɛttiːŋad tiːll ɑːlla deː rɛttiːjhɛtɛr uːɧ frɪhɛteːr suːm ʉːttalɑːs ɪ deːnnɑː føːrklɑːrɪŋ ɵtɑːn ɔtɧɪllnad ɑːvnɔɡɔt slaɡ sɔsuːm poː jrɵnd av ras hʉːdfɛrɡ ɕøːn sproːk rɛlɪjiːɔn pɔliːtɪɧ ɛlleːr annɑːn ʉːppfattniːŋ nɑːtiːuːneːlltɛllɛr sɔsɪɑːlt ɵrsprʉːŋ eːjɛnduːm bøːrd ɛlleːr stɛllniːŋ ɪ œvriːjt
-human_rights_un_swe_adam_64kb_0025	ŋeːn ɔtɧɪllnad foːr heːllɛr jœras poː jrɵnd avdɛn pɔliːtɪɧa rɛːttsliːja ɛlleːr iːntɛrnɑːtiːuːneːlla stɑːtɵs suːm rɔdeːr ɪ deːt land ɛlleːr deːt ɔmroːdɛ suːm eːn peːrsɔn tɪllhœrvɑːreː siːɡ deːttɑː land ɛlleːr ɔmroːdɛ ɛr ɔbɛruːɛndɛ stoːr ʉːndeːr føːrvaltɑːrɧap ɛr iːkɛɧɛːlvstyːrɑːndeː ɛlleːr ɛrɵndɛrkɑːstat noːjuːn annɑːn bɛŋrɛnsnɪŋ av sɪn sʉːvɛrɛːnɪteːt
-human_rights_un_swe_adam_64kb_0026	rtiːkɛl
-human_rights_un_swe_adam_64kb_0027	ar uːɧ eːn har rɛtt tiːll liːv friːhɛt uːɧ peːrsɔnliːɡ sɛːkeːrhɛt
-human_rights_un_swe_adam_64kb_0028	rtiːkɛl
-human_rights_un_swe_adam_64kb_0029	ŋeːn foːr hɔllas ɪ slavɛriː ɛlleːr trɛːlduːm
-human_rights_un_swe_adam_64kb_0030	slavɛriː uːɧ slavhɑːndeːl ɪ ɑːlla deːss fuːrmɛr ɧall vɑːra fœrbjʉːdna
-human_rights_un_swe_adam_64kb_0031	rtiːkɛl
-human_rights_un_swe_adam_64kb_0032	ŋeːn foːr ʉːtsɛttɑːs føːr tuːrtʏr ɛlleːr jryːm uːmɛːnɧliːɡ ɛlleːr føːrnɛdrandɛ bɛhandlɪŋ ɛlleːr bɛstrɑːffniːŋ
-human_rights_un_swe_adam_64kb_0033	rtiːkɛl
-human_rights_un_swe_adam_64kb_0034	ar uːɧ eːn har rɛtt att øːvɛrallt ɛrkɛːnnas suːm eːn peːrsɔn ɪ lɑːjeːns meːnɪŋ
-human_rights_un_swe_adam_64kb_0035	rtiːkɛl
-human_rights_un_swe_adam_64kb_0036	lla ɛr lɪka ɪnføːr lɑːjeːn uːɧ ɛr beːrɛːttɪjadeː tiːll sɑːmma ɧyːdd av lɑːjeːn ɵtɑːn diːɧriːmiːneːriːŋ av nɔŋɔt slaɡ
-human_rights_un_swe_adam_64kb_0037	llɑːɛr beːrɛːttɪjadeː tiːll sɑːmma ɧyːdd muːt ɑːlla fuːrmɛr av diːɧriːmiːneːriːŋ suːm striːdɛr muːt deːnnɑː føːrklɑːrɪŋ uːɧ muːtvɑːrjɛ ɑːnstiːftan tiːll sɔdɑːn diːɧriːmiːneːriːŋ
+human_rights_un_swe_adam_64kb_0021	nvar har rɛtt tiːll liːv friːhɛt uːɧ peːrsɔnliːɡ sɛːkeːrhɛt
+human_rights_un_swe_adam_64kb_0022	rtiːkɛl
+human_rights_un_swe_adam_64kb_0023	ŋeːn moː hɔllas ɪ slavɛriː ɛlleːr trɛːlduːm
+human_rights_un_swe_adam_64kb_0024	slavɛriː uːɧ slavhɑːndeːl ɪ ɑːlla deːss fuːrmɛr ɛːruː fœrbjʉːdna
+human_rights_un_swe_adam_64kb_0025	rtiːkɛl
+human_rights_un_swe_adam_64kb_0026	ŋeːn moː ʉːtsɛttɑːs føːr tuːrtʏr ɛlleːr jryːm uːmɛːnɧliːɡ ɛlleːr føːrnɛdrandɛ bɛhandlɪŋ ɛlleːr bɛstrɑːffniːŋ
+human_rights_un_swe_adam_64kb_0027	rtiːkɛl
+human_rights_un_swe_adam_64kb_0028	nvar har rɛtt att ɑːlleːstɛdɛs ɛrkɛːnnas suːm peːrsɔn ɪ lɑːjeːns meːnɪŋ
+human_rights_un_swe_adam_64kb_0029	rtiːkɛl
+human_rights_un_swe_adam_64kb_0030	lla ɛːruː lɪka ɪnføːr lɑːjeːn uːɧ ɛːruː ɵtɑːn ɔtɧɪllnad beːrɛːttɪjadeː tiːll lɪka ɧyːdd frɔn lɑːjeːns sɪda
+human_rights_un_swe_adam_64kb_0031	lla ɛːruː beːrɛːttɪjadeː tiːll lɪka ɧyːdd muːt vɑːrjeː ɔtɧɪllnad ɪ striːd meːd deːnnɑː føːrklɑːrɪŋ uːɧ muːt vɑːrjeː frɑːmkɑːllandeː av sɔdɑːn ɔtɧɪllnad
+human_rights_un_swe_adam_64kb_0032	rtiːkɛl
+human_rights_un_swe_adam_64kb_0033	nvar har rɛtt tiːll vɛrksam jɛlp frɔn siːtt lands bɛhøːrɪŋa duːmstuːlar muːt hɑːndlɪŋar suːm ɕrɛːnka deː jrɵndlɛːjjandɛ rɛttiːjhɛtɛr vɪlka tɪllkuːmmɑː hɔnuːm jɛnuːm laɡ ɛlleːr fœrfɑːttniːŋ
+human_rights_un_swe_adam_64kb_0034	rtiːkɛl
+human_rights_un_swe_adam_64kb_0035	ŋeːn moː jɔdtyːkliːŋt ɑːnhoːllɑːs fɛːŋslas ɛlleːr landsføːrviːsas
+human_rights_un_swe_adam_64kb_0036	rtiːkɛl
+human_rights_un_swe_adam_64kb_0037	nvar ɛr ʉːndeːr fɵll lɪkstɛlldhɛt bɛrɛttiːŋad tiːll rɛːttviːs uːɧ uːffɛntliːɡ rɑːnnsaknɪŋ ɪnføːr ɔɑːvhɛːŋɪɡ uːɧ ɔpartɪɧ dɔmstuːl viːd faststɛllɑːndeːt av sɔvɛl hans rɛttiːjhɛtɛr uːɧ ɧʏldɪŋheːteːr suːm vɑːrjeː ɑːnklɑːjeːlseː muːt hɔnuːm føːr bruːtt
 human_rights_un_swe_adam_64kb_0038	rtiːkɛl
-human_rights_un_swe_adam_64kb_0039	ar uːɧ eːn har rɛtt tiːll vɛrksam jɛlp frɔn siːtt lands nɑːtɪɔnɛlla duːmstuːlar muːt hɑːndlɪŋar suːm ɕrɛːnkeːr hansɛlleːr hɛnneːs jrɵndlɛːjjandɛ rɛttiːjhɛtɛr ɛnliːjt laɡ ɛlleːr fœrfɑːttniːŋ
-human_rights_un_swe_adam_64kb_0040	rtiːkɛl
-human_rights_un_swe_adam_64kb_0041	ŋeːn foːr jɔdtyːkliːŋt ɑːnhoːllɑːs hɔllas fɛŋslad ɛlleːr landsføːrviːsas
+human_rights_un_swe_adam_64kb_0039	nvar suːm bliːvɪt anklaɡad føːr straffbɑːr jɛrniːŋ har rɛtt att bɛtraktas suːm ɔɧʏldiːɡ tiːll deːss hans ɧɵld bliːvɪt lɑːɡliːjeːn fɑːststɛlld viːd uːffɛntliːɡ rɛtteːŋoːŋ ʉːndeːr viːlkeːn hɑːn ɔtnjɵtiːt ɑːlla føːr siːtt fœrsvar nœdɪŋa jɑːrɑːntɪeːr
+human_rights_un_swe_adam_64kb_0040	ŋeːn moː døːmɑːs føːr handliːŋ ɛlleːr ʉːndɛrlɔteːnhɛt suːm viːd tɪdpʉːnktɛn føːr deːss beːjɔɛndɛ iːkɛ var straffbɑːr ɛnliːjt iːnheːmɧ ɛlleːr iːntɛrnɑːtɪɔnɛll rɛtt
+human_rights_un_swe_adam_64kb_0041	j heːllɛr moː hœŋrɛ straff ʉːtmɛtɑːs ɛn vad suːm var tɪllɛmpliːɡt viːd tɪdpʉːnktɛn føːr dɛn straffbɑːra jɛːrnɪŋeːns beːjɔɛndɛ
 human_rights_un_swe_adam_64kb_0042	rtiːkɛl
-human_rights_un_swe_adam_64kb_0043	ar uːɧ eːn ɛr poː sɑːmma vɪllkuːr bɛrɛttiːŋad tiːll eːn rɛːttviːs uːɧ uːffɛntliːɡ føːrhandliːŋ viːd eːn ɔbɛruːɛndɛ uːɕɔpartɪɧ dɔmstuːl viːd prøːvnɪŋɛn av hans ɛlleːr hɛnneːs rɛttiːjhɛtɛr uːɧ ɧʏldɪŋheːteːr uːɧ av vɑːrjeː ɑːnklajeːlsɛuːm bruːtt muːt hɔnuːm ɛlleːr hɛnneː
-human_rights_un_swe_adam_64kb_0044	rtiːkɛl
-human_rights_un_swe_adam_64kb_0045	
-human_rights_un_swe_adam_64kb_0046	ar uːɧ eːn suːm ɛr anklaɡad føːr bruːtt har rɛtt att bɛtraktas suːm ɔɧʏldiːɡ tiːll deːss att hans ɛlleːr hɛnneːsɧʉːld lɑːɡliːjeːn har fɑːststɛllts viːd eːn uːffɛntliːɡ rɛtteːŋoːŋ dɛr pɛrsuːneːn ɔtnjɵteːr ɑːlla rɛːttssɛkɛrheːtsɡarɑːntiːeːr suːmbɛhøːvs føːr hans ɛlleːr hɛnneːs fœrsvar
-human_rights_un_swe_adam_64kb_0047	
-human_rights_un_swe_adam_64kb_0048	ŋeːn foːr fɛːllas tiːll ɑːnsvar føːr eːn jɛrniːŋ ɛlleːr ʉːndɛrlɔteːnhɛt suːm ɪnteː ʉːtjuːrdɛ eːtt bruːtt ɛnliːjt nɑːtiːɔneːllɛlleːr iːntɛrnɑːtɪɔnɛll laɡ viːd dɛn tiːdpɵnkt doː dɛn beːjiːks
-human_rights_un_swe_adam_64kb_0049	eːt foːr ɪnteː heːllɛr ʉːtmɛtɑːs strɛŋɑːreː straff ɛn vɑːdsuːm var tɪllɛmpliːɡt viːd dɛn tiːdpɵnkt brɔtteːt beːjiːks
-human_rights_un_swe_adam_64kb_0050	rtiːkɛl
-human_rights_un_swe_adam_64kb_0051	ŋeːn foːr ʉːtsɛttɑːs føːr jɔdtyːkliːŋt ɪŋriːpɑːndɛ ɪ froːŋa uːm priːvɑːtliːv famiːj heːm ɛlleːr ɕuːrrɛspuːndeːns uːɧ iːnteːheːlleːr føːr aŋreːpp poː sɪn hɛdeːr ɛlleːr siːtt ansɛɛndɛ
-human_rights_un_swe_adam_64kb_0052	ar uːɧ eːn har rɛtt tiːll lɑːjeːns ɧyːdd muːt sɔdanɑːiːŋrɪpɑːndeːn uːɧ aŋreːpp
-human_rights_un_swe_adam_64kb_0053	rtiːkɛl
-human_rights_un_swe_adam_64kb_0054	
-human_rights_un_swe_adam_64kb_0055	ar uːɧ eːn har rɛtt att friːtt føːrflʏtta siːɡ uːɧ vɛːja bɔstadsuːrt ɪnuːm vɑːrjeː stats jrɛnsɛr
-human_rights_un_swe_adam_64kb_0056	
-human_rights_un_swe_adam_64kb_0057	ar uːɧ eːn har rɛtt att lɛːmna vɑːrjeː land ɛvɛn siːtt ɛjeːt uːɧ att oːteːrvɛːnda tiːll siːtt land
-human_rights_un_swe_adam_64kb_0058	rtiːkɛl
-human_rights_un_swe_adam_64kb_0059	
-human_rights_un_swe_adam_64kb_0060	ar uːɧ eːn har rɛtt att ɪ andrɑː lɛːndeːr sœka uːɧ oːtnjɵtɑː ɑːsyːl frɔn fœrfœjeːlseː
-human_rights_un_swe_adam_64kb_0061	
-human_rights_un_swe_adam_64kb_0062	ɛnna rɛtt foːr ɪnteː ɔbeːrɔpas viːd rɛːttsliːja ɔtjɛːrdeːr suːm jeːnʉːiːnt jrɵndɑːs poː ɪkɛpuːlɪtiːɧa bruːtt ɛlleːr pɔjɛːrniːŋɑːr suːm striːdɛr muːt œrɛnta nɑːtɪuːnɛrnas ɛːndamɔl uːɧ jrʉːndsatsɛr
-human_rights_un_swe_adam_64kb_0063	rtiːkɛl
-human_rights_un_swe_adam_64kb_0064	
-human_rights_un_swe_adam_64kb_0065	ar uːɧ eːn har rɛtt tiːll eːn natiːɔnaliːtɛt
-human_rights_un_swe_adam_64kb_0066	
-human_rights_un_swe_adam_64kb_0067	ŋeːn foːr jɔdtyːkliːŋt frɔntas sɪn natiːɔnaliːtɛt ɛlleːr nɛkas rɛːttɛn att ɛːndra natiːɔnaliːtɛt
+human_rights_un_swe_adam_64kb_0043	ŋeːn moː ʉːtsɛttɑːs føːr juːdtʏklɪja iːŋriːpɑːndɛn ɪ froːŋa uːm priːvɑːtliːv famiːj heːm ɛlleːr ɕuːrrɛspuːndeːns eːj heːllɛr aŋreːpp poː hɛdeːr uːɧ ansɛɛndɛ
+human_rights_un_swe_adam_64kb_0044	nvar har rɛtt tiːll lɑːjeːns ɧyːdd muːt sɔdana iːŋriːpɑːndɛn ɛlleːr aŋreːpp
+human_rights_un_swe_adam_64kb_0045	rtiːkɛl
+human_rights_un_swe_adam_64kb_0046	nvar har rɛtt att ɪnuːm vɑːrjeː stats jrɛnsɛr friːtt føːrflʏtta siːɡ uːɧ vɛːja sɪn viːstɛlseːɔrt
+human_rights_un_swe_adam_64kb_0047	nvar har rɛtt att lɛːmna vɑːrjeː land ɪnbɛɡrɪpɛt siːtt ɛjeːt uːɧ att oːteːrvɛːnda tiːll siːtt ɛjeːt land
+human_rights_un_swe_adam_64kb_0048	rtiːkɛl
+human_rights_un_swe_adam_64kb_0049	nvar har rɛtt att ɪ andrɑː lɛːndeːr sœka uːɧ oːtnjɵtɑː frɪstad frɔn fœrfœjeːlseː
+human_rights_un_swe_adam_64kb_0050	ɛnna rɛtt moː iːkɛ ɔbeːrɔpas viːd lɑːŋɑː ɔtjɛːrdeːr reːɛllt jrɵndadɛ poː ɪkɛpuːlɪtiːɧa bruːtt ɛlleːr poː hɑːndlɪŋar suːm strɪda muːt œrɛnta ɑːtiːɔnɛrnɑːs ɛːndamɔl uːɧ jrʉːndsatsɛr
+human_rights_un_swe_adam_64kb_0051	rtiːkɛl
+human_rights_un_swe_adam_64kb_0052	nvar har rɛtt tiːll eːn natiːɔnaliːtɛt
+human_rights_un_swe_adam_64kb_0053	ŋeːn moː jɔdtyːkliːŋt beːrœvas sɪn natiːɔnaliːtɛt ɛlleːr fœrmɛnas rɛːttɛn att ɛːndra natiːɔnaliːtɛt
+human_rights_un_swe_adam_64kb_0054	rtiːkɛl
+human_rights_un_swe_adam_64kb_0055	ɵllvʉːksna mɛːn uːɧ ɕvɪnnɔr har rɛtt att ɵtɑːn noːjuːn iːnɧrɛnkniːŋ poː jrɵnd av sɪn ras natiːɔnaliːtɛt ɛlleːr rɛlɪjiːɔn iːŋoː ɛːktɛnɧap uːɧ biːldɑː famiːj
+human_rights_un_swe_adam_64kb_0056	ɛ ɛːŋa lɪka rɛttiːjhɛtɛr viːd jɪfteːrmoːl ʉːndeːr ɛːktɛnɧap uːɧ viːd ɛːktɛnɧaps ʉːppløːsniːŋ
+human_rights_un_swe_adam_64kb_0057	ɕtɛnɧap moː iːŋoːs ɛndast meːd deː blɪvɑːndeː mɑːkarnɑːs frɪa uːɧ fɵllstɛndiːŋa samtʏkɛ
+human_rights_un_swe_adam_64kb_0058	ɑːmɪjeːn ɛr dɛn natɵrliːɡɑː uːɧ jrɵndlɛːjjandɛ eːnhɛteːn ɪ samhɛːlleːt uːɧ ɛːjeːr rɛtt tiːll ɧyːdd frɔn samhɛːlleːt uːɧ stɑːteːn
+human_rights_un_swe_adam_64kb_0059	rtiːkɛl
+human_rights_un_swe_adam_64kb_0060	nvar har rɛtt att ɛːŋa eːjɛnduːm sɔvɛl ɛnsam suːm ɪ fœrɛniːŋ meːd andrɑː
+human_rights_un_swe_adam_64kb_0061	ŋeːn moː jɔdtyːkliːŋt beːrœvas sɪn eːjɛnduːm
+human_rights_un_swe_adam_64kb_0062	rtiːkɛl
+human_rights_un_swe_adam_64kb_0063	nvar har rɛtt tiːll tɑːnkeːfrɪhɛt sɑːmvɛtsfrɪhɛt uːɧ reːlɪjiːuːnsfrɪhɛt
+human_rights_un_swe_adam_64kb_0064	ɛnna rɛtt ɪnnɛfattar friːhɛt att bʏta rɛlɪjiːɔn ɛlleːr truː uːɧ att ɛnsam ɛlleːr ɪ jeːmeːnɧap meːd andrɑː uːffeːntliːɡt ɛlleːr ɛnɧiːlt ɵtœva sɪn rɛlɪjiːɔn ɛlleːr truː jɛnuːm ʉːndɛrvɪsnɪŋ andaktsœvnɪŋar jɵdɧɛːnst uːɧ ɪakttɑːŋɑːndɛ av rɛlɪjiːœsɑː seːdvɛːnjuːr
+human_rights_un_swe_adam_64kb_0065	rtiːkɛl
+human_rights_un_swe_adam_64kb_0066	nvar har rɛtt tiːll oːsiːktsfriːheːt uːɧ ʏttrandeːfrɪheːt
+human_rights_un_swe_adam_64kb_0067	ɛnna rɛtt ɪnnɛfattar friːhɛt føːr ɛnvar att ɵtɑːn iːŋriːpɑːndɛn hʏsa ɔsiːkteːr uːɧ friːhɛt att sœka mɔttaɡa uːɧ sprɪda ɵpplyːsniːŋar uːɧ tɑːnkar jɛnuːm vɑːrjeː slajs ʉːttrʏksmeːdɛl uːɧ ɵtɑːn hɛnsʏn tiːll jrɛnsɛr
 human_rights_un_swe_adam_64kb_0068	rtiːkɛl
-human_rights_un_swe_adam_64kb_0069	
-human_rights_un_swe_adam_64kb_0070	ɵllvʉːksna mɛːn uːɧ ɕvɪnnɔr har rɛtt att ɵtɑːn noːjuːn iːnɧrɛnkniːŋ meːd avsɛɛndɛ poː ras natiːɔnaliːtɛt ɛllɛrreːliːjiːuːn iːŋoː ɛːktɛnɧap uːɧ biːldɑː famiːj
-human_rights_un_swe_adam_64kb_0071	ɛn uːɧ ɕvɪnnɔr ɧall ha sɑːmma rɛttiːjhɛtɛr ɪ froːŋa uːm ɛːkteːnɧɑːpsiːŋɔeːndɛ ʉːndeːr ɛːktɛnɧapɛt uːɧ viːd deːss ʉːppløːsniːŋ
-human_rights_un_swe_adam_64kb_0072	
-human_rights_un_swe_adam_64kb_0073	ɕtɛnɧap foːr ɛndast iːŋoːs meːd deː blɪvɑːndeː mɑːkarnɑːs frɪa uːɧ fʉːlla samtʏkɛ
-human_rights_un_swe_adam_64kb_0074	
-human_rights_un_swe_adam_64kb_0075	ɑːmɪjeːn ɛr dɛn natɵrliːɡɑː uːɧ jrɵndlɛːjjandɛ eːnhɛteːn ɪ samhɛːlleːt uːɧ har rɛtt tiːll samhɛːllɛts uːɧ stɑːteːnsɧʏdd
+human_rights_un_swe_adam_64kb_0069	nvar har rɛtt tiːll friːhɛt ɪ froːŋa uːm frɛdlɪjɑː møːteːn uːɧ sɑːmmanslʉːtnɪŋar
+human_rights_un_swe_adam_64kb_0070	ŋeːn moː tvɪŋɑːs att tɪllhœra eːn sɑːmmanslʉːtniːŋ
+human_rights_un_swe_adam_64kb_0071	rtiːkɛl
+human_rights_un_swe_adam_64kb_0072	nvar har rɛtt att tɑːŋɑː deːl ɪ siːtt lands stʏrɛlseː diːreːkt ɛlleːr jɛnuːm friːtt vɑːlda ɔmbɵd
+human_rights_un_swe_adam_64kb_0073	nvar har rɛtt tiːll lɪka tɪlltrɛːdɛ tiːll ɑːllmɛːn ɕɛnst ɪ siːtt land
+human_rights_un_swe_adam_64kb_0074	ɔlkeːts vɪja ɧall ʉːtjœra jrʉːndvalɛn føːr stɑːtsmakteːrnɑːs myːndiːɡhɛt
+human_rights_un_swe_adam_64kb_0075	ɛnna vɪja ɧall ɵttrʏkas ɪ pɛrɪuːdiːɧɑː uːɧ veːrkliːŋɑː val vɪlka ɧuːla ɛːŋa rɵm meːd tɪllɛːmpniːŋ av ɑːllmɛːn uːɧ lɪka rœstrɛtt samt heːmlɪɡ røːstniːŋ ɛlleːr lɪkvɛːrdɪja frɪa rœstniːŋsfœrfɑːrɑːndɛn
 human_rights_un_swe_adam_64kb_0076	rtiːkɛl
-human_rights_un_swe_adam_64kb_0077	
-human_rights_un_swe_adam_64kb_0078	ar uːɧ eːn har rɛtt att ɛːŋa eːjɛnduːm bɔdeː ɛnɧiːlt uːɧ tɪllsammans meːd andrɑː
-human_rights_un_swe_adam_64kb_0079	
-human_rights_un_swe_adam_64kb_0080	ŋeːn foːr jɔdtyːkliːŋt frɔntas sɪn eːjɛnduːm
-human_rights_un_swe_adam_64kb_0081	rtiːkɛl
-human_rights_un_swe_adam_64kb_0082	ar uːɧ eːn har rɛtt tiːll tɑːnkeːfrɪhɛt sɑːmvɛtsfrɪhɛt uːɧ reːlɪjiːuːnsfrɪhɛt
-human_rights_un_swe_adam_64kb_0083	ɛnna rɛtt ɪnnɛfattar friːhɛt att byːtareːlɪjiːɔn uːɧ truːsʉːppfɑːttniːŋ uːɧ att ɛnsam ɛlleːr ɪ jeːmeːnɧap meːd andrɑː uːffeːntlɪjeːn ɛlleːr ɛnɧiːlt ɵtœva siːnreːlɪjiːɔn ɛlleːr truːsʉːppfɑːttniːŋ jɛnuːm ʉːndɛrvɪsnɪŋ andaktsʉːtøːvnɪŋ jɵdɧɛːnst uːɧ rɛlɪjiːœsɑː seːdvɛːnjuːr
-human_rights_un_swe_adam_64kb_0084	rtiːkɛl
-human_rights_un_swe_adam_64kb_0085	ar uːɧ eːn har rɛtt tiːll oːsiːktsfriːheːt uːɧ ʏttrandeːfrɪheːt
-human_rights_un_swe_adam_64kb_0086	ɛnna rɛtt ɪnnɛfattar friːhɛt att ɵtɑːn ɪŋriːpɑːndɛ hyːsɑːɔsɪkteːr samt sœka ta ɛmuːt uːɧ sprɪda iːnfɔrmɑːtiːɔn uːɧ ɪdeːeːr meːd jɛlp av ɑːlla ʉːttrʏksmeːdɛl uːɧ ɔbeːruːɛndeːɑːv jrɛnsɛr
-human_rights_un_swe_adam_64kb_0087	rtiːkɛl
-human_rights_un_swe_adam_64kb_0088	
-human_rights_un_swe_adam_64kb_0089	ar uːɧ eːn har rɛtt tiːll friːhɛt ɪ froːŋa uːm frɛdlɪjɑː møːteːn uːɧ sɑːmmanslʉːtnɪŋar
-human_rights_un_swe_adam_64kb_0090	
-human_rights_un_swe_adam_64kb_0091	ŋeːn foːr tvɪŋɑːs att tɪllhœra eːn sɑːmmanslʉːtniːŋ
-human_rights_un_swe_adam_64kb_0092	rtiːkɛl
-human_rights_un_swe_adam_64kb_0093	
-human_rights_un_swe_adam_64kb_0094	ar uːɧ eːn har rɛtt att deːltɑː ɪ siːtt lands stʏreː diːreːkt ɛlleːr jɛnuːm friːtt vɑːlda ɔmbɵd
-human_rights_un_swe_adam_64kb_0095	
-human_rights_un_swe_adam_64kb_0096	ar uːɧ eːn har rɛtt tiːll lɪka tɪlltrɛːdɛ tiːll uːffɛntliːɡ ɕɛnst ɪ siːtt land
-human_rights_un_swe_adam_64kb_0097	
-human_rights_un_swe_adam_64kb_0098	ɔlkeːts vɪja ɧall ʉːtjœra jrʉːndvalɛn føːr stɑːtsmakteːrnɑːs myːndiːɡhɛt
-human_rights_un_swe_adam_64kb_0099	uːlkvɪjɑːn ɧall ɵttrʏkas ɪ peːriːuːdiːɧɑːuːɕ veːrkliːŋɑː val suːm ɧall jɛnɔmfœras meːd tɪllɛːmpniːŋ av ɑːllmɛːn uːɧ lɪka rœstrɛtt uːɧ heːmlɪɡ rœstniːŋɛlleːr eːtt lɪkvɛːrdɪjt friːtt røːstføːrfɑːrandeː
-human_rights_un_swe_adam_64kb_0100	rtiːkɛl
-human_rights_un_swe_adam_64kb_0101	ar uːɧ eːn har ɪ eːjeːnɧɑːp av samhɛːllsmɛdleːm rɛtt tiːll suːsɪɑːl tryːŋŋheːt uːɧ ɛr bɛrɛttiːŋad tiːll att deːɛkɔnuːmiːɧɑː sɔsiːalɑː uːɧ ɕʉːltʉːreːlla rɛttiːjhɛtɛr suːm ɕrɛvs føːr hɛvdɑːndeːt av hans ɛlleːr hɛnneːs mɛnnɪɧɔvɛːrdɛuːɧ ɵtveːkliːŋɛn av hans ɛlleːr hɛnneːs peːrsɔnliːŋheːt fœrvɛrklɪɡas jɛnuːm nɑːtɪɔnɛlla ɔtjɛːrdeːr ɔɕmeːllanfuːlkliːjt sɑːmɑːrbɛtɛ ɪ eːnlɪjhɛt meːd vɑːrjeː stats ɔrjaniːsɑːtiːɔn uːɧ reːsʉːrsɛr
-human_rights_un_swe_adam_64kb_0102	rtiːkɛl
-human_rights_un_swe_adam_64kb_0103	
-human_rights_un_swe_adam_64kb_0104	ar uːɧ eːn har rɛtt tiːll arbɛteː friːtt val av sʏssɛlsɛːttniːŋ rɛːttvɪsa uːɧ tɪllfrɛdsstɛːllandeː ɑːrbɛtsfœrhoːllɑːndeːnsɑːmt tiːll ɧyːdd muːt ɑːrbeːtslœɧeːt
-human_rights_un_swe_adam_64kb_0105	
-human_rights_un_swe_adam_64kb_0106	ar uːɧ eːn har ɵtɑːn diːɧriːmiːneːriːŋ rɛtt tiːll lɪka lœn føːr lɪka arbɛteː
-human_rights_un_swe_adam_64kb_0107	
-human_rights_un_swe_adam_64kb_0108	ar uːɧ eːn suːm ɑːrbeːtɑːr har rɛtt tiːll eːn rɛːttviːs uːɧ tɪllfrɛdsstɛːllandeː ɛrsɛttnɪŋ suːm jɛr hɔnuːm ɛlleːr heːnnɛuːɧ hans ɛlleːr hɛnneːs famiːj eːn mɛːnnɪɧuːvɛːrdiːɡ tɪllvɑːruː uːɧ suːm viːd beːhɔv ɕɑːn ɕɔmplɛtteːrɑːs meːd ɑːndrɑːmeːdeːl føːr sɔsɪɑːlt ɧyːdd
-human_rights_un_swe_adam_64kb_0109	
-human_rights_un_swe_adam_64kb_0110	ar uːɧ eːn har rɛtt att biːldɑː uːɧ anslɵtɑː siːɡ tiːll fakføːreːnɪŋar føːr att vɛːrna sɪna iːntreːssɛn
-human_rights_un_swe_adam_64kb_0111	rtiːkɛl
-human_rights_un_swe_adam_64kb_0112	ar uːɧ eːn har rɛtt tiːll vɪla uːɧ friːtɪd iːnneːfɑːttandeː ɧɛːlɪɡ bɛŋrɛnsnɪŋ av ɑːrbeːtstɪdeːn samt reːjɛlbɵndeːnbɛtɑːld leːdɪjheːt
-human_rights_un_swe_adam_64kb_0113	rtiːkɛl
-human_rights_un_swe_adam_64kb_0114	
-human_rights_un_swe_adam_64kb_0115	ar uːɧ eːn har rɛtt tiːll eːn lɛvnɑːdsstɑːndɑːrd tɪllrɛklɪɡ føːr dɛn ɛŋna uːɧ fɑːmiːjeːns hɛlsɑː uːɧ vɛːlbeːfiːnnandɛiːnklʉːsɪveː mat ɕlɛdɛr bɔstad hɛlsuːvɔrd uːɧ nœdvɛndiːŋɑː sɔsiːalɑː ɕɛːnsteːr samt rɛtt tiːll tryːŋŋheːt ɪ hɛndɛlseː ɑːvarbeːtslœɧɛt ɧʉːkduːm iːnvɑːliːdiːteːt mɑːkas ɛlleːr mɑːkeːs døːd ɔldeːrduːm ɛlleːr annɑːn fœrlɵst av fœrsœrjniːŋ ɵndeːruːmstɛːndiːŋheːtɛr ʉːtɑːnføːr hans ɛlleːr hɛnneːs ɕɔntrɔll
-human_rights_un_swe_adam_64kb_0116	
-human_rights_un_swe_adam_64kb_0117	œdrar uːɧ bɑːrn ɛr beːrɛːttɪjadeː tiːll sɛːrɧiːld ɔmvoːrdnad uːɧ jɛlp
-human_rights_un_swe_adam_64kb_0118	lla bɑːrn ɧall oːtnjɵtɑː sɑːmma sɔsɪɑːlɑːɧyːdd vɑːreː siːɡ deː ɛr føːddɑː ɪnuːm ɛlleːr ʉːtuːm ɛːktɛnɧapɛt
-human_rights_un_swe_adam_64kb_0119	rtiːkɛl
-human_rights_un_swe_adam_64kb_0120	
-human_rights_un_swe_adam_64kb_0121	ar uːɧ eːn har rɛtt tiːll ʉːtbiːldnɪŋ
-human_rights_un_swe_adam_64kb_0122	tbɪldniːŋeːn ɧall vɑːra ɕɔstnɑːdsfrɪ oːtmiːnstɔneː poː deː eːleːmɛntɛːra uːɧŋrʉːndlɛjjɑːndeː stɑːdiːɛrna
-human_rights_un_swe_adam_64kb_0123	eːn eːleːmɛntɛːra ʉːtbiːldniːŋɛn ɧall vɑːra ɔbliːŋatɔrɪɧ
-human_rights_un_swe_adam_64kb_0124	rkeːsʉːtbɪldniːŋ uːɧ tɛkniːɧɵtbiːldniːŋ ɧall vɑːra tɪlljɛŋliːɡ føːr ɑːlla
-human_rights_un_swe_adam_64kb_0125	eːn hœŋrɛ ʉːtbiːldniːŋɛn ɧall vɑːra øːppɛn føːr ɑːlla meːd hɛnsʏn tiːlldɛras føːrmoːɡɑː
-human_rights_un_swe_adam_64kb_0126	
-human_rights_un_swe_adam_64kb_0127	tbɪldniːŋeːn ɧall sʏfta tiːll att ɵtvɛkla peːrsɔnliːŋhɛteːn tiːll fʉːlluː uːɧ tiːll att stɛrka reːspɛktɛn føːr deːmɛnɧlɪjɑː rɛːttɪɡhɛteːrnɑː uːɧ deː jrɵndlɛːjjandɛ friːheːtɛrna
-human_rights_un_swe_adam_64kb_0128	tbɪldniːŋeːn ɧall ɔksoː frɛːmja fœrstoːɛlseːtɔleːrans uːɧ vɛnɧap meːllɑːn ɑːlla nɑːtɪɔneːr rasɡrɵppeːr uːɧ rɛlɪjiːœsɑː jrʉːppeːr samt frɛːmja œrɛnta natɪuːnɛrnasvɛrksamheːt føːr frɛdeːns bɛvarɑːndeː
-human_rights_un_swe_adam_64kb_0129	
-human_rights_un_swe_adam_64kb_0130	ɛttɛn att vɛːja ʉːtbiːldnɪŋ føːr bɑːrnɛn tiːllkɔmmeːr ɪ fœrsta hand deːrɑːs føːrɛːldrar
-human_rights_un_swe_adam_64kb_0131	rtiːkɛl
-human_rights_un_swe_adam_64kb_0132	
-human_rights_un_swe_adam_64kb_0133	ar uːɧ eːn har rɛtt att friːtt deːltɑː ɪ samhɛːllɛts ɕʉːltʉːreːlla liːv att njʉːta av ɕuːnst samt att foː ta deːl ɑːvveːteːnɧɑːpeːns frɑːmsteːɡ uːɧ deːss fœrmɔnɛr
-human_rights_un_swe_adam_64kb_0134	
-human_rights_un_swe_adam_64kb_0135	ar uːɧ eːn har rɛtt tiːll ɧyːdd føːr deː ɪdɛɛlla uːɧ mateːrɪɛllɑː iːntreːssɛn suːm hɛrrœr frɔn veːteːnɧapliːɡɑːlɪtteːrɛrɑː uːɧ ɕɔnstnɛːrlɪɡɑː veːrk tiːll vɪlka hɑːn ɛlleːr hɔn ɛr ʉːpphuːvsman
-human_rights_un_swe_adam_64kb_0136	rtiːkɛl
-human_rights_un_swe_adam_64kb_0137	ar uːɧ eːn har rɛtt tiːll eːtt sɔsɪɑːlt uːɧ iːntɛrnɑːtɪɔnɛllt sʏsteːm dɛr deː rɛttiːjhɛtɛr uːɧ frɪhɛteːr suːm beːhɑːndlas ɪdɛnna føːrklɑːrɪŋ tiːll fʉːlluː ɕɑːn fœrvɛrklɪɡas
-human_rights_un_swe_adam_64kb_0138	rtiːkɛl
-human_rights_un_swe_adam_64kb_0139	
-human_rights_un_swe_adam_64kb_0140	ar uːɧ eːn har plɪkteːr muːt samhɛːlleːt ɪ vɪlkeːt dɛn frɪa uːɧ fɵllstɛndiːŋa ɵtveːkliːŋɛn av hans ɛlleːr heːnneːspeːrsuːnliːɡheːt ɛnsamt ɛr møːjlɪɡ
-human_rights_un_swe_adam_64kb_0141	
-human_rights_un_swe_adam_64kb_0142	iːd ʉːtøːvɑːndeːt av sɪna rɛttiːjhɛtɛr uːɧ frɪhɛteːr foːr eːn peːrsɔn ɛndast ɵndɛrkastas sɔdana iːnɧrɛnkniːŋar sɔmhar fɑːststɛllts ɪ laɡ uːɧ ɛnbart ɪ sʏfteː att trʏjŋa tiːllbœrliːɡ hɛnsʏn tiːll uːɧ reːspɛkt føːr ɑːndras rɛttiːjhɛtɛr ɔɕfriːheːteːr samt føːr att tɪllɡɔdɔsɛ eːtt deːmɔkrɑːtiːɧt sɑːmhɛːlleːs beːrɛːttɪjadeː ɕrav poː mɔral ɑːllmɛːn uːrdniːŋ uːɕɑːllmɛːn vɛlfɛːrd
-human_rights_un_swe_adam_64kb_0143	
-human_rights_un_swe_adam_64kb_0144	ɛssa rɛttiːjhɛtɛr uːɧ frɪhɛteːr foːr ɪnteː ɵtœvɑːs poː eːtt sɛtt suːm ɛr uːfœreːnlɪɡt meːd œrɛnta nɑːtɪɔnɛrnasɛːndamoːl uːɧ jrʉːndsatsɛr
-human_rights_un_swe_adam_64kb_0145	rtiːkɛl
-human_rights_un_swe_adam_64kb_0146	ŋeːntiːŋ ɪ deːnnɑː føːrklɑːrɪŋ foːr tɔlkas suːm att deːt ɪnneːbɛːr eːn rɛtt føːr eːn stat eːn jrɵpp ɛlleːr eːn ɛnɧiːld peːrsɔnatt ɛːŋna siːɡ oːt eːn vɛrksamhɛt ɛlleːr att ɵtføːra eːn handliːŋ suːm sʏftar tiːll att ɔmiːnteːtjøːra noːjuːn av deːrɛːttiːɡheːteːr ɛlleːr frɪhɛteːr suːm aŋɛs ɪ føːrklɑːrɪŋeːn
+human_rights_un_swe_adam_64kb_0077	nvar ɛːjeːr ɪ sɪn eːjeːnɧɑːp av samhɛːllsmɛdleːm rɛtt tiːll suːsɪɑːl tryːŋŋheːt uːɧ ɛr bɛrɛttiːŋad tiːll att deː ɛkɔnuːmɪɧɑː sɔsiːalɑː uːɧ ɕʉːltʉːreːlla rɛttiːjhɛtɛr suːm ɛːruː uːɵndjɛŋliːjɑː føːr hans vɛːrdiːjhɛt uːɧ føːr eːn friː ɵtvɛkliːŋ av hans peːrsɔnliːŋheːt fœrvɛrklɪɡas jɛnuːm nɑːtɪɔnɛlla ɔtjɛːrdeːr uːɧ mɛllɑːnfɔlkliːŋt sɑːmɑːrbɛtɛ meːd hɛnsʏn tɑːjeːn tiːll vɑːrjeː stats ɔrjaniːsɑːtiːɔn uːɧ reːsʉːrsɛr
+human_rights_un_swe_adam_64kb_0078	rtiːkɛl
+human_rights_un_swe_adam_64kb_0079	nvar har rɛtt tiːll arbɛteː tiːll friːtt val av sʏssɛlsɛːttniːŋ tiːll rɛːttvɪsa uːɧ tɪllfrɛdsstɛːllandeː arbeːtsføːrhoːllɑːndɛn uːɧ tiːll ɧyːdd muːt ɑːrbeːtslœɧeːt
+human_rights_un_swe_adam_64kb_0080	nvar har ɵtɑːn ɔtɧɪllnad rɛtt tiːll lɪka lœn føːr lɪka arbɛteː
+human_rights_un_swe_adam_64kb_0081	nvar suːm ɑːrbeːtɑːr har rɛtt tiːll rɛːttviːs uːɧ tɪllfrɛdsstɛːllandeː ɛrsɛttnɪŋ suːm tiːllfœrsɛːkrar hɔnuːm ɧɛlv uːɧ hans famiːj eːn mɛːnnɪɧuːvɛːrdiːɡ tɪllvɑːruː uːɧ suːm dɛr soː ɛr nøːdvɛndɪjt ɕɔmplɛtteːrɑːs meːd andrɑː mɛdeːl føːr sɔsɪɑːlt ɧyːdd
+human_rights_un_swe_adam_64kb_0082	nvar har rɛtt att biːldɑː uːɧ anslɵtɑː siːɡ tiːll fakføːreːnɪŋar tiːll ɧyːdd føːr sɪna iːntreːssɛn
+human_rights_un_swe_adam_64kb_0083	rtiːkɛl
+human_rights_un_swe_adam_64kb_0084	nvar har rɛtt tiːll vɪla uːɧ friːtɪd iːnneːfɑːttandeː riːmlɪɡ bɛŋrɛnsnɪŋ av ɑːrbeːtstɪdeːn uːɧ reːjɛlbɵndeːn seːmɛsteːr meːd bɪbeːhoːllɛn lœn
+human_rights_un_swe_adam_64kb_0085	rtiːkɛl
+human_rights_un_swe_adam_64kb_0086	nvar har rɛtt tiːll eːn lɛvnɑːdsstɑːndɑːrd suːm ɛr tɪllrɛklɪɡ føːr hans eːjeːn uːɧ hans famiːjs hɛlsɑː uːɧ vɛlbɛfɪnnɑːndeː dɛːriː ɪnbɛɡrɪpɛt fœda ɕlɛdɛr bɔstad hɛlsuːvɔrd uːɧ nœdvɛndiːŋɑː sɔsiːalɑː fœrmɔnɛr viːdɑːrɛ rɛtt tiːll tryːŋŋheːt ɪ hɛndɛlseː av ɑːrbeːtslœɧeːt ɧʉːkduːm iːnvɑːliːdiːteːt mɑːkeːs døːd ɔldeːrduːm ɛlleːr annɑːn fœrlɵst av fœrsœrjniːŋ ʉːndeːr uːmstɛːndiːjheːtɛr œveːr vɪlka hɑːn iːkɛ ɕʉːnnɑːt rɔda
+human_rights_un_swe_adam_64kb_0087	œdrar uːɧ bɑːrn ɛːruː beːrɛːttɪjadeː tiːll sɛːrɧiːld ɔmvoːrdnad uːɧ jɛlp
+human_rights_un_swe_adam_64kb_0088	lla bɑːrn vɑːreː siːɡ føːddɑː ɪnuːm ɛlleːr ʉːtuːm ɛːktɛnɧap ɧuːla oːtnjɵtɑː sɑːmma sɔsiːalɑː ɧyːdd
+human_rights_un_swe_adam_64kb_0089	rtiːkɛl
+human_rights_un_swe_adam_64kb_0090	nvar har rɛtt tiːll ʉːndɛrvɪsnɪŋ
+human_rights_un_swe_adam_64kb_0091	ndɛrvɪsniːŋeːn ɧall vɑːra ɕɔstnɑːdsfrɪ oːtmiːnstɔneː poː deː eːleːmɛntɛːra uːɧ jrɵndlɛːjjandɛ stɑːdiːɛrna
+human_rights_un_swe_adam_64kb_0092	eːn eːleːmɛntɛːra ɵndeːrvɪsnɪŋeːn ɧall vɑːra ɔbliːŋatɔrɪɧ
+human_rights_un_swe_adam_64kb_0093	rkɛsʉːndɛrviːsnɪŋ uːɧ teːkniːɧ ʉːndɛrvɪsnɪŋ ɧall vɑːra ɑːllmɛnt tɪlljɛŋliːɡ
+human_rights_un_swe_adam_64kb_0094	eːn hœŋrɛ ɵndeːrvɪsnɪŋeːn ɧall stoː øːppɛn ɪ lɪka mɔn føːr ɑːlla poː jrɵndvɑːl av deːrɑːs dʉːjlɪjhɛt
+human_rights_un_swe_adam_64kb_0095	ndɛrvɪsniːŋeːn ɧall sʏfta tiːll pɛrsuːnliːŋhɛtɛns fʉːlla ɵtvɛkliːŋ uːɧ tiːll att stɛrka reːspɛktɛn føːr mɛːnniːɧɑːns jrɵndlɛːjjandɛ friː uːɧ rɛttiːjhɛtɛr
+human_rights_un_swe_adam_64kb_0096	ndɛrvɪsniːŋeːn ɧall frɛːmja fœrstɔɛlseː tuːlɛrans uːɧ vɛnɧap meːllɑːn ɑːlla nɑːtɪɔneːr rasɡrɵppeːr uːɧ rɛlɪjiːœsɑː jrʉːppeːr samt beːfɔrdra œrɛnta ɑːtiːɔnɛrnɑːs vɛrksamhɛt føːr frɛdeːns bɛvarɑːndeː
+human_rights_un_swe_adam_64kb_0097	ɛttɛn att vɛːja dɛn ʉːndɛrvɪsnɪŋ suːm ɧall jeːs oːt bɑːrnɛn tiːllkɔmmeːr ɪ frɛːmsta rɵmmɛt deːrɑːs føːrɛːldrar
+human_rights_un_swe_adam_64kb_0098	rtiːkɛl
+human_rights_un_swe_adam_64kb_0099	nvar har rɛtt att friːtt tɑːŋɑː deːl ɪ samhɛːllɛts ɕʉːltʉːreːlla liːv att njʉːta av ɕuːnstɛn samt att bliː dɛlaktiːɡ av veːteːnɧɑːpeːns frɑːmsteːɡ uːɧ deːss fœrmɔnɛr
+human_rights_un_swe_adam_64kb_0100	nvar har rɛtt tiːll ɧyːdd føːr deː mɔraliːɧa uːɧ mateːrɪɛllɑː iːntreːssɛn suːm hɛrrøːrɑː frɔn vɑːrjeː veːtɛnɧɑːplɪŋt liːtteːrɛːrt ɛlleːr ɕɔnstnɛːrliːɡt veːrk tiːll vɪlkeːt hɑːn ɛr ʉːpphuːvsman
+human_rights_un_swe_adam_64kb_0101	rtiːkɛl
+human_rights_un_swe_adam_64kb_0102	nvar har rɛtt tiːll eːn suːsɪɑːl uːɧ iːntɛrnɑːtɪɔnɛll uːrdniːŋ ɪ viːlkeːn deː friː uːɧ rɛttiːjhɛtɛr suːm ʉːttalɑːs ɪ deːnnɑː føːrklɑːrɪŋ tiːll fʉːlluː ɕʉːnnɑː fœrvɛrklɪɡas
+human_rights_un_swe_adam_64kb_0103	rtiːkɛl
+human_rights_un_swe_adam_64kb_0104	nvar har plɪkteːr muːt samhɛːlleːt ɪ vɪlkeːt dɛn frɪa uːɧ fɵllstɛndiːŋa ɵtveːkliːŋɛn av hans peːrsɔnliːŋheːt ɛnsamt ɛr møːjlɪɡ
+human_rights_un_swe_adam_64kb_0105	iːd ʉːtøːvɑːndeːt av sɪna friː uːɧ rɛttiːjhɛtɛr moː ɛnvar ɵndɛrkastas ɛndast sɔdana iːnɧrɛnkniːŋar suːm bliːvɪt fɑːststɛllda ɪ laɡ ɪ ʉːteːslʉːtɑːndɛ sʏfteː att trʏjŋa tiːllbœrliːɡ hɛnsʏn tiːll uːɧ reːspɛkt føːr ɑːndras friː uːɧ rɛttiːjhɛtɛr samt føːr att tɪllɡɔdɔsɛ deːt deːmuːkratiːɧɑː samhɛːllɛts rɛttmɛtɪja ɕrav poː mɔral ɑːllmɛːn uːrdniːŋ uːɧ ɑːllmɛːn vɛlfɛːrd
+human_rights_un_swe_adam_64kb_0106	ɛssa friː uːɧ rɛttiːjhɛtɛr moː ɪ ɪnteːt fall ɵtœvɑːs ɪ striːd meːd œrɛnta ɑːtiːɔnɛrnɑːs ɛːndamɔl uːɧ jrʉːndsatsɛr
+human_rights_un_swe_adam_64kb_0107	rtiːkɛl
+human_rights_un_swe_adam_64kb_0108	nteːt ɪ deːnnɑː føːrklɑːrɪŋ moː tɔlkas sɔsuːm ɪnneːbɛrandɛ rɛːttiːjhɛt føːr noːjuːn stat jrɵpp ɛlleːr peːrsɔn att ɛːŋna siːɡ oːt vɛrksamhɛt ɛlleːr ɵtføːra handliːŋ suːm sʏftar tiːll att ɔmiːnteːtjøːra noːjuːn av hɛːriː ʉːttɑːladɛ friː uːɧ rɛttiːjhɛtɛr

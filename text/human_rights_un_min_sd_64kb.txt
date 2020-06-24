@@ -1,152 +1,113 @@
-human_rights_un_min_sd_64kb_0001	Manusia sadonyo lahia ka dunia mambao hak-hak dan kamardekaan mandasarnan samo dan indak dapek dipisahkan.
-human_rights_un_min_sd_64kb_0002	Limbago Perserikatan Bangsa Bangsabatekad untuak manjunjuang tinggi, manggiatkan dan malinduangi hak-hak asasitiok urang.
-human_rights_un_min_sd_64kb_0003	Tekad ko bamulo dari Piagam Perserikatan Bangsa-Bangsa, nanmangukuahkan kayakinan umat manusia di dunia taradok hak-hak asasi danmartabat nan mandasar sarato nilai manusia sacaro pribadi.
-human_rights_un_min_sd_64kb_0004	Dalam Deklarasi
-human_rights_un_min_sd_64kb_0005	Sadunia Hak-Hak Asasi Manusia, Perserikatan Bangsa Bangsa mauraikansacaro jaleh hak-hak nan dimiliki tiok urang.
-human_rights_un_min_sd_64kb_0006	Hak-hak ko adolah milik awak.
-human_rights_un_min_sd_64kb_0007	Itulahhak-hak awak.
-human_rights_un_min_sd_64kb_0008	Katahui bana hak-hak awak ko.
-human_rights_un_min_sd_64kb_0009	Bantulah mawujudkan danmampatahankannyo untuak diri awak surang atau pun untuak sasamo umatmanusia.
-human_rights_un_min_sd_64kb_0010	Deklarasi Sadunia Hak-Hak Asasi Manusia
-human_rights_un_min_sd_64kb_0011	Mukadimah
-human_rights_un_min_sd_64kb_0012	Sasungguahnyo pangakuan taradok martabat dasar dan hak-hak nan samosarato mutlak dari tiok anggota kaluarga manusia adolah landasan darikamardekaan, kaadilan dan pardamaian di dunia;
-human_rights_un_min_sd_64kb_0013	Sasungguahnyo sikap tak paduli dan malecehkan hak-hak asasi manusia tabuktimangakibatkan parilaku biadab nan sangat malukoi nurani umat manusia, danalah dicanangkannyo suatu dunia di ma tiok urang dapek manikmati kabebasanmanyampaikan pandapek, bakayakinan, dan kabebasan dari raso takuik dan darikakurangan, sabagai cito-cito paliang tinggi dari sadonyo urang;
-human_rights_un_min_sd_64kb_0014	Sasungguahnyo supayo urang indak tapaso mamiliah barontak sabagai usahopangabisan untuak manantang kazaliman dan panindasan, Hak-hak Asasi
-human_rights_un_min_sd_64kb_0015	Manusia paralu dijamin malalui tartib hukum;
-human_rights_un_min_sd_64kb_0016	Sasungguahnyo paralu bana mamajukan pangambangan hubuangan basahabatdi antaro banso-banso di dunia;
-human_rights_un_min_sd_64kb_0017	Sasungguahnyo dalam Piagam Perserikatan Bangsa-Bangsa sadonyo anggotaalah mangukuahkan baliak kayakinan taradok hak-hak asasi manusia nanmandasar, taradok martabat dan nilai tiok urang, dan taradok hak-hak nan samodari laki-laki jo padusi, dan batekad untuak mandorong kamajuan sosial saratotaraf iduik nan labiah elok dalam kamardekaan nan labiah gadang;
-human_rights_un_min_sd_64kb_0018	Sasungguahnyo ikrar Negara-Negara Anggota, bakarajo samo jo Perserikatan
-human_rights_un_min_sd_64kb_0019	Bangsa Bangsa, untuak mamajukan panghormatan taradok Hak-Hak Asasi
-human_rights_un_min_sd_64kb_0020	Manusia dan Kamardekaan nan mandasar, supayo manjadi kanyataan;
-human_rights_un_min_sd_64kb_0021	Sasungguahnyo paralu bana adonyo pamahaman nan samo tantang hak-hakdan kabebasan-kabebasan ko supayo dapek diwujudkan saluruahnyo sasuai joikrar, mako:
-human_rights_un_min_sd_64kb_0022	Majlis Umummancanangkan
-human_rights_un_min_sd_64kb_0023	Deklarasi Sadunia Hak-Hak Asasi Manusia sabagai satu tolok ukua basamountuak sadonyo urang dan sagalo banso, supayo tiok urang dan limbago dalammasyarakat sanantiaso mamparatikan Deklarasi ko, untuak manjaminpangakuan dan palaksanaannyo sacaro universal, di antaro sasamo banso
-human_rights_un_min_sd_64kb_0024	Negara Anggota sarato masyarakat dalam wilayah nan dikuasoinyo, malaluipandidikan dan pangajaran untuak manumbuahkan raso hormat taradok hak-hakdan kamardekaan sapanjang maso, di tingkek nasional jo internasional.
-human_rights_un_min_sd_64kb_0025	Pasal 1
-human_rights_un_min_sd_64kb_0026	Sadonyo manusia dilahiakan mardeka dan punyo martabat sarato hak-hak nansamo.
-human_rights_un_min_sd_64kb_0027	Mareka dikaruniai aka jo hati nurani, supayo satu samo lain bagaul sarupourang badunsanak.
-human_rights_un_min_sd_64kb_0028	Pasal 2
-human_rights_un_min_sd_64kb_0029	Tiok urang punyo hak manikmati hak-hak dan kamardekaan nan tacantum dalam
-human_rights_un_min_sd_64kb_0030	Deklarasi ko, indak ado pambedaan – umpamonyo pambedaan ras, warno kulik,jinih kalamin, bahaso, agamo, politik atau pandangan lain, asa-usua kabansoanatau tingkek sosial, kakayaan, kalahiran ataupun kadudukan lainnyo.
-human_rights_un_min_sd_64kb_0031	Lain dari pado itu, indak diadokan pambedaan badasar kadudukan politik,kakuasaan hukum atau kadudukan internasional dari negara atau daerah asasasaurang, baiak babantuak negara mardeka, wilayah-wilayah parwalian,jajahan atau bantuak katarbatasan kadaulatan nan lain.
-human_rights_un_min_sd_64kb_0032	Pasal 3
-human_rights_un_min_sd_64kb_0033	Tiok urang punyo hak untuak iduik, untuak mardeka, dan kasalamatan salakumanusia pribadi.
-human_rights_un_min_sd_64kb_0034	Pasal 4
-human_rights_un_min_sd_64kb_0035	Indak surang pun buliah dipabudak atau disuruah karajo rodi;
-human_rights_un_min_sd_64kb_0036	mampabudak danmampadagangkan budak dalam sagalo bantuak musti dilarang.
-human_rights_un_min_sd_64kb_0037	Pasal 5
-human_rights_un_min_sd_64kb_0038	Indak surang pun buliah dianiayo atau dizalimi, atau dihukum sacaro kajam, tidakbakamanusiaan atau dihino.
-human_rights_un_min_sd_64kb_0039	Pasal 6
-human_rights_un_min_sd_64kb_0040	Di ma sajo barado, tiok urang punyo hak untuak dapek parlakuan sabagaimanusia di hadapan hukum.
-human_rights_un_min_sd_64kb_0041	Pasal 7
-human_rights_un_min_sd_64kb_0042	Sadonyo urang samo di hadapan hukum, dan karano tu punyo hak nan indakbakacuali untuk mandapek linduangan hukum nan samo.
-human_rights_un_min_sd_64kb_0043	Sakalian urang punyohak mandapek linduangan nan samo taradok sagalo pambedaan nanbatantangan jo Deklarasi ko, dan taradok sagalo ancaman nan mangarah padopambedaan samacam itu.
-human_rights_un_min_sd_64kb_0044	Pasal 8
-human_rights_un_min_sd_64kb_0045	Tiok urang punyo hak mandapek ganti rugi nyato malalui paradilan nasional nanbawenang dari tindakan urang lain nan malangga hak-hak dasar nan dimilikinyosasuai jo Undang Undang Dasar atau hukum.
-human_rights_un_min_sd_64kb_0046	Pasal 9
-human_rights_un_min_sd_64kb_0047	Indak surang pun buliah ditangkok, ditahan atau diasiangkan sacaro sawenang-wenang.
-human_rights_un_min_sd_64kb_0048	Pasal 10
-human_rights_un_min_sd_64kb_0049	Tiok urang punyo hak nan samo mandapek paradilan nan adil dan tabuka dipangadilan nan bebas dan tak mamihak, dalam mampatahankan hak dankawajibannyo, sarato dalam tiok tuntutan pidana nan didakwakan ka inyo.
-human_rights_un_min_sd_64kb_0050	Pasal 11
-human_rights_un_min_sd_64kb_0051	1.
-human_rights_un_min_sd_64kb_0052	Tiok urang nan didakwa malakukan palanggaran pidana punyo hakdianggap tak basalah sampai inyo tabukti basalah sacaro hukum dalamparadilan umum, dan inyo mandapek sagalo jaminan nan paralu untuakmambela diri.
-human_rights_un_min_sd_64kb_0053	2.
-human_rights_un_min_sd_64kb_0054	Indak surang pun dapek dianggap basalah malakukan tindakan pidananan disababkan malakukan atau tidak malakukan sasuatu, nan bukantamasuak palanggaran hukum nasional atau internasional katiko paristiwaitu tajadi.
-human_rights_un_min_sd_64kb_0055	Baitu pulo, indak buliah mahukum labiah barek dari katantuanhukum nan balaku katiko palanggaran pidana itu dilakukan.
-human_rights_un_min_sd_64kb_0056	Pasal 12
-human_rights_un_min_sd_64kb_0057	Indak surang pun buliah diganggu hak pribadinyo, kaluarga, rumah-tanggo atausurek-manyureknyo (pargaulannyo);
-human_rights_un_min_sd_64kb_0058	baitu pulo kahormatan jo namo baiaknyo.
-human_rights_un_min_sd_64kb_0059	Tiok urang punyo hak mandapek linduangan hukum taradok gangguan ataupalanggaran saroman ko.
-human_rights_un_min_sd_64kb_0060	Pasal 13
-human_rights_un_min_sd_64kb_0061	1.
-human_rights_un_min_sd_64kb_0062	Tiok urang punyo hak taradok kamardekaan marantau dan punyokadiaman di dalam bateh wilayah tiok negara.
-human_rights_un_min_sd_64kb_0063	2.
-human_rights_un_min_sd_64kb_0064	Tiok urang punyo hak untuak ka lua dari suatu negara – tamasuaknegaranyo surang, dan baliak lai ka negaranyo.
-human_rights_un_min_sd_64kb_0065	Pasal 14
-human_rights_un_min_sd_64kb_0066	1.
-human_rights_un_min_sd_64kb_0067	Tiok urang punyo hak mancari dan manikmati suaka di negara lain untuakmalinduangi diri dari panganiayoan (di negaranyo).
-human_rights_un_min_sd_64kb_0068	2.
-human_rights_un_min_sd_64kb_0069	Hak ko indak balaku untuak dakwaan kajahatan non-politik, atau karanotindakan nan batantangan jo tujuan dan asas-asas Perserikatan Bangsa-
-human_rights_un_min_sd_64kb_0070	Bangsa.
-human_rights_un_min_sd_64kb_0071	Pasal 15
-human_rights_un_min_sd_64kb_0072	1.
-human_rights_un_min_sd_64kb_0073	Tiok urang punyo hak mamiliki kawarga-negaraan.
-human_rights_un_min_sd_64kb_0074	2.
-human_rights_un_min_sd_64kb_0075	Indak surang pun buliah dicabuik kawarga-negaraannyo atau ditulakhaknyo untuak manuka kawarga-negaraan.
-human_rights_un_min_sd_64kb_0076	Pasal 16
-human_rights_un_min_sd_64kb_0077	1.
-human_rights_un_min_sd_64kb_0078	Laki-laki jo padusi nan akil-baligh, apopun ras, banso, atau agamonyo,punyo hak manikah dan bakaluarga.
-human_rights_un_min_sd_64kb_0079	Mareka punyo hak nan samo dalamurusan kawin-mawin, baiak di maso parkawinan atau katiko carai.
-human_rights_un_min_sd_64kb_0080	2.
-human_rights_un_min_sd_64kb_0081	Parkawinan hanyo dapek dilakukan badasar piliahan bebas danpasatujuan panuah pasangan nan basangkutan.
-human_rights_un_min_sd_64kb_0082	3.
-human_rights_un_min_sd_64kb_0083	Kaluarga adolah kalompok alamiah dan mandasar dari masyarakat, punyohak mandapek linduangan masyarakat jo Negara.
-human_rights_un_min_sd_64kb_0084	Pasal 17
-human_rights_un_min_sd_64kb_0085	1.
-human_rights_un_min_sd_64kb_0086	Tiok urang punyo hak mamiliki harato surang, baitu pulo basamo-samo jourang lain.
-human_rights_un_min_sd_64kb_0087	2.
-human_rights_un_min_sd_64kb_0088	Indak satu urang pun buliah dirampok haratonyo sacaro sawenang-wenang.
-human_rights_un_min_sd_64kb_0089	Pasal 18
-human_rights_un_min_sd_64kb_0090	Tiok urang punyo hak kamardekaan untuak bapikia, bahati nurani dan ba-agamo, tamasuak hak batuka agamo atau kaparcayaan;
-human_rights_un_min_sd_64kb_0091	dan punyokamardekaan untuak manyatokan agamo atau kaparcayaannyo malalui ajaran,amalan, pamujaan dan ibadat, baiak surang atau dalam kalompok, di tampekumum ataupun sacaro pribadi.
-human_rights_un_min_sd_64kb_0092	Pasal 19
-human_rights_un_min_sd_64kb_0093	Tiok urang punyo hak taradok kamardekaan bapandapek dan mangamukokanpandapeknyo, tamasuak kabebasan untuak mampatahankan pandapek – janditakan, dan untuak mancari, manarimo dan manyampaikan barito dan buahpikiran malalui media apopun nan indak diampang-ampang dek bateh negara.
-human_rights_un_min_sd_64kb_0094	Pasal 20
-human_rights_un_min_sd_64kb_0095	1.
-human_rights_un_min_sd_64kb_0096	Tiok urang punyo hak untuk kamardekaan bakumpua dan basyarikatsacaro damai.
-human_rights_un_min_sd_64kb_0097	2.
-human_rights_un_min_sd_64kb_0098	Indak surang pun buliah dipaso masuak suatu parkumpulan.
-human_rights_un_min_sd_64kb_0099	Pasal 21
-human_rights_un_min_sd_64kb_0100	1.
-human_rights_un_min_sd_64kb_0101	Tiok urang punyo hak untuak sato dalam pamarintahan di negaranyo,lansuang atau malalui wakia-wakia nan dipiliah sacaro bebas.
-human_rights_un_min_sd_64kb_0102	2.
-human_rights_un_min_sd_64kb_0103	Tiok urang punyo hak mandapek kasampatan nan samo untuak diangkekdalam jabatan pamarintahan negaranyo.
-human_rights_un_min_sd_64kb_0104	3.
-human_rights_un_min_sd_64kb_0105	Kandak rakyat musti manjadi landasan kakuasaan pamarintah;
-human_rights_un_min_sd_64kb_0106	kandak komusti dinyatokan dalam pamiliahan umum nan diadokan sacaro barkaladan murni jo hak piliah nan basifat umum dan sadarajat, saratopamungutan suaro sacaro rasio atau pakai caro lain nan samo-samomanjamin kabebasan manantukan piliahan.
-human_rights_un_min_sd_64kb_0107	Pasal 22
-human_rights_un_min_sd_64kb_0108	Sabagai anggota masyarakat, tiok urang punyo hak mandapek jaminan sosialdan punyo hak pulo untuak talaksananyo hak-hak ekonomi, sosial jo budaya,nan mutlak paralu untuak martabat dan parkambangan bebas dari pribadinyo,malalui usaho-usaho nasional dan karajo samo internasional, sesuai jopangaturan sarato sumber-sumber kakayaan di tiok Negara.
-human_rights_un_min_sd_64kb_0109	Pasal 23
-human_rights_un_min_sd_64kb_0110	1.
-human_rights_un_min_sd_64kb_0111	Tiok urang punyo hak mandapek karajo, bebas mamiliah jinih karajo,punyo hak taradok syarat-syarat karajo nan adil dan pantas, baitu pulopunyo hak mandapek linduangan katiko manganggur.
-human_rights_un_min_sd_64kb_0112	2.
-human_rights_un_min_sd_64kb_0113	Tiok urang – indak bakacuali, punyo hak dapek upah samo untuak karajonansamo.
-human_rights_un_min_sd_64kb_0114	3.
-human_rights_un_min_sd_64kb_0115	Tiok urang nan bakarajo punyo hak dapek upah nan adil dan pantasuntuak manjamin iduiknyo surang dan kaluarga, nan sasuai jomartabatnyo salaku manusia, dan jiko paralu ditambah jo linduangansosial lainnyo.
-human_rights_un_min_sd_64kb_0116	4.
-human_rights_un_min_sd_64kb_0117	Tiok urang punyo hak mandirikan dan masuak syarikat-syarikat karajountuak malinduangi kapantiangannyo.
-human_rights_un_min_sd_64kb_0118	Pasal 24
-human_rights_un_min_sd_64kb_0119	Tiok urang punyo hak untuak baistirahat dan liburan, tamasuak pambatasan nanlayak taradok jam karajo, dan tatap dapek upah di hari perai atau katiko cuti.
-human_rights_un_min_sd_64kb_0120	Pasal 25
-human_rights_un_min_sd_64kb_0121	1.
-human_rights_un_min_sd_64kb_0122	Tiok urang punyo hak taradok taraf iduik nan manjamin kasehatan dankasajahteraan diri jo kaluarga, tamasuak makanan, pakaian, saratopalayanan sosial nan paralu, dan punyo hak jaminan katiko manganggur,sakik, cacat, marando, maso tuo, atau kailangan nafkah sabagai akibathal-hal nan di lua kamauannyo.
-human_rights_un_min_sd_64kb_0123	2.
-human_rights_un_min_sd_64kb_0124	Kaum ibu jo anak-anak punyo hak mandapek linduangan dan bantuankhusus.
-human_rights_un_min_sd_64kb_0125	Sakalian anak, nan dilahiakan di dalam maupun di luaparkawinan, musti mandapek linduangan sosial nan samo.
-human_rights_un_min_sd_64kb_0126	Pasal 26
-human_rights_un_min_sd_64kb_0127	1.
-human_rights_un_min_sd_64kb_0128	Tiok urang punyo hak mandapek pandidikan.
-human_rights_un_min_sd_64kb_0129	Pandidikan musti perai,paliang tidak tingkek sikola randah jo pandidikan dasar.
-human_rights_un_min_sd_64kb_0130	Pandidikan dasarmusti diwajibkan.
-human_rights_un_min_sd_64kb_0131	Pandidikan kajuruan dan kaahlian musti tasadio untuaktiok urang, baitu pulo paguruan tinggi musti tasadio untuak tiok urangsasuai jo kamampuan.
-human_rights_un_min_sd_64kb_0132	2.
-human_rights_un_min_sd_64kb_0133	Pandidikan andaknyo diarahkan untuak mangambangkan kapribadiansapanuah-panuahnyo, dan untuak mampakokoh raso hormat taradok hak-hak asasi manusia dan kamardekaan nan mandasar.
-human_rights_un_min_sd_64kb_0134	Pandidikandiadokan untuak manggiatkan saliang mangarati, toleransi danpasahabatan di antaro sagalo banso, kalompok ras, sarato agamo, danuntuak manunjang kagiatan-kagiatan Perserikatan Bangsa Bangsa dalammamaliaro pardamaian.
-human_rights_un_min_sd_64kb_0135	3.
-human_rights_un_min_sd_64kb_0136	Para urang tuo sah punyo hak untuak mamiliah jinih pandidikan untuakanak-anaknyo.
-human_rights_un_min_sd_64kb_0137	Pasal 27
-human_rights_un_min_sd_64kb_0138	1.
-human_rights_un_min_sd_64kb_0139	Tiok urang punyo hak mardeka untuak sato dalam kahidupan kabudayaanmasyarakat, baitu pulo untuak sato dalam mamajukan ilmu pangatahuan,dan mandapek manfaatnyo.
-human_rights_un_min_sd_64kb_0140	2.
-human_rights_un_min_sd_64kb_0141	Tiok urang punyo hak mandapek linduangan taradok kapantiangan moriljo materil bakaitan jo hasil karajo ilmiah, sastra atau kasenian nandiciptakannyo.
-human_rights_un_min_sd_64kb_0142	Pasal 28
-human_rights_un_min_sd_64kb_0143	Tiok urang punyo hak mandapek katartiban sosial dan katartiban internasionaluntuak mawujudkan saluruah hak-hak dan kabebasan sasuai jo Deklarasi ko.
-human_rights_un_min_sd_64kb_0144	Pasal 29
-human_rights_un_min_sd_64kb_0145	1.
-human_rights_un_min_sd_64kb_0146	Tiok urang punyo kawajiban taradok masyarakat nan marupokan satu-satunyo tampek kapribadiannyo dapek bakambang sacaro bebas dansapanuah-panuahnyo.
-human_rights_un_min_sd_64kb_0147	2.
-human_rights_un_min_sd_64kb_0148	Bateh-bateh dalam mawujudkan hak-hak dan kabebasan tiok urang kohanyo buliah ado jiko ditatapkan jo undang undang nan batujuan samato-mato untuak manjamin diharagoi dan dihormatinyo hak-hak dankabebasan-kabebasan urang lain, sasuai jo syarat-syarat nan adil darikasusilaan, katantraman dan kasajahteraan umum dalam suatumasyarakat nan demokratis.
-human_rights_un_min_sd_64kb_0149	3.
-human_rights_un_min_sd_64kb_0150	Hak-hak dan kabebasan-kabebasan ko jan sakali-kali dipagunokanuntuaktujuan nan balawanan jo prinsip-prinsip Perserikatan Bangsa-Bangsa.
-human_rights_un_min_sd_64kb_0151	Pasal 30
-human_rights_un_min_sd_64kb_0152	Indak ciek pun pasal dari Deklarasi ko buliah ditafsirkan sabagai manyatujuiadonyo hak suatu negara, kalompok atau sasaurang, untuak malakukankagiatan apopun, atau malakukan sasuatu nan batujuan marusak hak-hak dankabebasan-kabebasan nan diuraikan dalam Deklarasi ko.
+human_rights_un_min_sd_64kb_0001	Manusia sadonyo lahia ka dunia mambao hak-hak dan kamardekaan mandasar nan samo dan indak dapek dipisahkan.
+human_rights_un_min_sd_64kb_0002	Limbago Perserikatan Bangsa Bangsa batekad untuak manjunjuang tinggi, manggiatkan dan malinduangi hak-hak asasi tiok urang.
+human_rights_un_min_sd_64kb_0003	Tekad ko bamulo dari Piagam Perserikatan Bangsa-Bangsa, nan mangukuahkan kayakinan umat manusia di dunia taradok hak-hak asasi dan martabat nan mandasar sarato nilai manusia sacaro pribadi.
+human_rights_un_min_sd_64kb_0004	Dalam Deklarasi Sadunia Hak-Hak Asasi Manusia, Perserikatan Bangsa Bangsa mauraikan sacaro jaleh hak-hak nan dimiliki tiok urang.
+human_rights_un_min_sd_64kb_0005	Hak-hak ko adolah milik awak.
+human_rights_un_min_sd_64kb_0006	Itulah hak-hak awak.
+human_rights_un_min_sd_64kb_0007	Katahui bana hak-hak awak ko.
+human_rights_un_min_sd_64kb_0008	Bantulah mawujudkan dan mampatahankannyo untuak diri awak surang atau pun untuak sasamo umat manusia.
+human_rights_un_min_sd_64kb_0009	Deklarasi Sadunia Hak-Hak Asasi Manusia
+human_rights_un_min_sd_64kb_0010	Mukadimah
+human_rights_un_min_sd_64kb_0011	Sasungguahnyo pangakuan taradok martabat dasar dan hak-hak nan samo sarato mutlak dari tiok anggota kaluarga manusia adolah landasan dari kamardekaan, kaadilan dan pardamaian di dunia;
+human_rights_un_min_sd_64kb_0012	Sasungguahnyo sikap tak paduli dan malecehkan hak-hak asasi manusia tabukti mangakibatkan parilaku biadab nan sangat malukoi nurani umat manusia, dan alah dicanangkannyo suatu dunia di ma tiok urang dapek manikmati kabebasan manyampaikan pandapek, bakayakinan, dan kabebasan dari raso takuik dan dari kakurangan, sabagai cito-cito paliang tinggi dari sadonyo urang;
+human_rights_un_min_sd_64kb_0013	Sasungguahnyo supayo urang indak tapaso mamiliah barontak sabagai usaho pangabisan untuak manantang kazaliman dan panindasan, Hak-hak Asasi Manusia paralu dijamin malalui tartib hukum;
+human_rights_un_min_sd_64kb_0014	Sasungguahnyo paralu bana mamajukan pangambangan hubuangan basahabat di antaro banso-banso di dunia;
+human_rights_un_min_sd_64kb_0015	Sasungguahnyo dalam Piagam Perserikatan Bangsa-Bangsa sadonyo anggota alah mangukuahkan baliak kayakinan taradok hak-hak asasi manusia nan mandasar, taradok martabat dan nilai tiok urang, dan taradok hak-hak nan samo dari laki-laki jo padusi, dan batekad untuak mandorong kamajuan sosial sarato taraf iduik nan labiah elok dalam kamardekaan nan labiah gadang;
+human_rights_un_min_sd_64kb_0016	Sasungguahnyo ikrar Negara-Negara Anggota, bakarajo samo jo Perserikatan Bangsa Bangsa, untuak mamajukan panghormatan taradok Hak-Hak Asasi Manusia dan Kamardekaan nan mandasar, supayo manjadi kanyataan;
+human_rights_un_min_sd_64kb_0017	Sasungguahnyo paralu bana adonyo pamahaman nan samo tantang hak-hak dan kabebasan-kabebasan ko supayo dapek diwujudkan saluruahnyo sasuai jo ikrar, mako:
+human_rights_un_min_sd_64kb_0018	Majlis Umummancanangkan
+human_rights_un_min_sd_64kb_0019	Deklarasi Sadunia Hak-Hak Asasi Manusia sabagai satu tolok ukua basamo untuak sadonyo urang dan sagalo banso, supayo tiok urang dan limbago dalam masyarakat sanantiaso mamparatikan Deklarasi ko, untuak manjamin pangakuan dan palaksanaannyo sacaro universal, di antaro sasamo banso Negara Anggota sarato masyarakat dalam wilayah nan dikuasoinyo, malalui pandidikan dan pangajaran untuak manumbuahkan raso hormat taradok hak-hak dan kamardekaan sapanjang maso, di tingkek nasional jo internasional.
+human_rights_un_min_sd_64kb_0020	Pasal 1
+human_rights_un_min_sd_64kb_0021	Sadonyo manusia dilahiakan mardeka dan punyo martabat sarato hak-hak nan samo.
+human_rights_un_min_sd_64kb_0022	Mareka dikaruniai aka jo hati nurani, supayo satu samo lain bagaul sarupo urang badunsanak.
+human_rights_un_min_sd_64kb_0023	Pasal 2
+human_rights_un_min_sd_64kb_0024	Tiok urang punyo hak manikmati hak-hak dan kamardekaan nan tacantum dalam Deklarasi ko, indak ado pambedaan – umpamonyo pambedaan ras, warno kulik, jinih kalamin, bahaso, agamo, politik atau pandangan lain, asa-usua kabansoan atau tingkek sosial, kakayaan, kalahiran ataupun kadudukan lainnyo.
+human_rights_un_min_sd_64kb_0025	Lain dari pado itu, indak diadokan pambedaan badasar kadudukan politik, kakuasaan hukum atau kadudukan internasional dari negara atau daerah asa sasaurang, baiak babantuak negara mardeka, wilayah-wilayah parwalian, jajahan atau bantuak katarbatasan kadaulatan nan lain.
+human_rights_un_min_sd_64kb_0026	Pasal 3
+human_rights_un_min_sd_64kb_0027	Tiok urang punyo hak untuak iduik, untuak mardeka, dan kasalamatan salaku manusia pribadi.
+human_rights_un_min_sd_64kb_0028	Pasal 4
+human_rights_un_min_sd_64kb_0029	Indak surang pun buliah dipabudak atau disuruah karajo rodi;
+human_rights_un_min_sd_64kb_0030	mampabudak dan mampadagangkan budak dalam sagalo bantuak musti dilarang.
+human_rights_un_min_sd_64kb_0031	Pasal 5
+human_rights_un_min_sd_64kb_0032	Indak surang pun buliah dianiayo atau dizalimi, atau dihukum sacaro kajam, tidak bakamanusiaan atau dihino.
+human_rights_un_min_sd_64kb_0033	Pasal 6
+human_rights_un_min_sd_64kb_0034	Di ma sajo barado, tiok urang punyo hak untuak dapek parlakuan sabagai manusia di hadapan hukum.
+human_rights_un_min_sd_64kb_0035	Pasal 7
+human_rights_un_min_sd_64kb_0036	Sadonyo urang samo di hadapan hukum, dan karano tu punyo hak nan indak bakacuali untuk mandapek linduangan hukum nan samo.
+human_rights_un_min_sd_64kb_0037	Sakalian urang punyo hak mandapek linduangan nan samo taradok sagalo pambedaan nan batantangan jo Deklarasi ko, dan taradok sagalo ancaman nan mangarah pado pambedaan samacam itu.
+human_rights_un_min_sd_64kb_0038	Pasal 8
+human_rights_un_min_sd_64kb_0039	Tiok urang punyo hak mandapek ganti rugi nyato malalui paradilan nasional nan bawenang dari tindakan urang lain nan malangga hak-hak dasar nan dimilikinyo sasuai jo Undang Undang Dasar atau hukum.
+human_rights_un_min_sd_64kb_0040	Pasal 9
+human_rights_un_min_sd_64kb_0041	Indak surang pun buliah ditangkok, ditahan atau diasiangkan sacaro sawenang-wenang.
+human_rights_un_min_sd_64kb_0042	Pasal 10
+human_rights_un_min_sd_64kb_0043	Tiok urang punyo hak nan samo mandapek paradilan nan adil dan tabuka di pangadilan nan bebas dan tak mamihak, dalam mampatahankan hak dan kawajibannyo, sarato dalam tiok tuntutan pidana nan didakwakan ka inyo.
+human_rights_un_min_sd_64kb_0044	Pasal 11
+human_rights_un_min_sd_64kb_0045	Tiok urang nan didakwa malakukan palanggaran pidana punyo hak dianggap tak basalah sampai inyo tabukti basalah sacaro hukum dalam paradilan umum, dan inyo mandapek sagalo jaminan nan paralu untuak mambela diri.
+human_rights_un_min_sd_64kb_0046	Indak surang pun dapek dianggap basalah malakukan tindakan pidana nan disababkan malakukan atau tidak malakukan sasuatu, nan bukan tamasuak palanggaran hukum nasional atau internasional katiko paristiwa itu tajadi.
+human_rights_un_min_sd_64kb_0047	Baitu pulo, indak buliah mahukum labiah barek dari katantuan hukum nan balaku katiko palanggaran pidana itu dilakukan.
+human_rights_un_min_sd_64kb_0048	Pasal 12
+human_rights_un_min_sd_64kb_0049	Indak surang pun buliah diganggu hak pribadinyo, kaluarga, rumah-tanggo atau surek-manyureknyo (pargaulannyo);
+human_rights_un_min_sd_64kb_0050	baitu pulo kahormatan jo namo baiaknyo.
+human_rights_un_min_sd_64kb_0051	Tiok urang punyo hak mandapek linduangan hukum taradok gangguan atau palanggaran saroman ko.
+human_rights_un_min_sd_64kb_0052	Pasal 13
+human_rights_un_min_sd_64kb_0053	Tiok urang punyo hak taradok kamardekaan marantau dan punyo kadiaman di dalam bateh wilayah tiok negara.
+human_rights_un_min_sd_64kb_0054	Tiok urang punyo hak untuak ka lua dari suatu negara – tamasuak negaranyo surang, dan baliak lai ka negaranyo.
+human_rights_un_min_sd_64kb_0055	Pasal 14
+human_rights_un_min_sd_64kb_0056	Tiok urang punyo hak mancari dan manikmati suaka di negara lain untuak malinduangi diri dari panganiayoan (di negaranyo).
+human_rights_un_min_sd_64kb_0057	Hak ko indak balaku untuak dakwaan kajahatan non-politik, atau karano tindakan nan batantangan jo tujuan dan asas-asas Perserikatan Bangsa-Bangsa.
+human_rights_un_min_sd_64kb_0058	Pasal 15
+human_rights_un_min_sd_64kb_0059	Tiok urang punyo hak mamiliki kawarga-negaraan.
+human_rights_un_min_sd_64kb_0060	Indak surang pun buliah dicabuik kawarga-negaraannyo atau ditulak haknyo untuak manuka kawarga-negaraan.
+human_rights_un_min_sd_64kb_0061	Pasal 16
+human_rights_un_min_sd_64kb_0062	Laki-laki jo padusi nan akil-baligh, apopun ras, banso, atau agamonyo, punyo hak manikah dan bakaluarga.
+human_rights_un_min_sd_64kb_0063	Mareka punyo hak nan samo dalam urusan kawin-mawin, baiak di maso parkawinan atau katiko carai.
+human_rights_un_min_sd_64kb_0064	Parkawinan hanyo dapek dilakukan badasar piliahan bebas dan pasatujuan panuah pasangan nan basangkutan.
+human_rights_un_min_sd_64kb_0065	Kaluarga adolah kalompok alamiah dan mandasar dari masyarakat, punyo hak mandapek linduangan masyarakat jo Negara.
+human_rights_un_min_sd_64kb_0066	Pasal 17
+human_rights_un_min_sd_64kb_0067	Tiok urang punyo hak mamiliki harato surang, baitu pulo basamo-samo jo urang lain.
+human_rights_un_min_sd_64kb_0068	Indak satu urang pun buliah dirampok haratonyo sacaro sawenang-wenang.
+human_rights_un_min_sd_64kb_0069	Pasal 18
+human_rights_un_min_sd_64kb_0070	Tiok urang punyo hak kamardekaan untuak bapikia, bahati nurani dan ba-agamo, tamasuak hak batuka agamo atau kaparcayaan;
+human_rights_un_min_sd_64kb_0071	dan punyo kamardekaan untuak manyatokan agamo atau kaparcayaannyo malalui ajaran, amalan, pamujaan dan ibadat, baiak surang atau dalam kalompok, di tampek umum ataupun sacaro pribadi.
+human_rights_un_min_sd_64kb_0072	Pasal 19
+human_rights_un_min_sd_64kb_0073	Tiok urang punyo hak taradok kamardekaan bapandapek dan mangamukokan pandapeknyo, tamasuak kabebasan untuak mampatahankan pandapek – jan ditakan, dan untuak mancari, manarimo dan manyampaikan barito dan buah pikiran malalui media apopun nan indak diampang-ampang dek bateh negara.
+human_rights_un_min_sd_64kb_0074	Pasal 20
+human_rights_un_min_sd_64kb_0075	Tiok urang punyo hak untuk kamardekaan bakumpua dan basyarikat sacaro damai.
+human_rights_un_min_sd_64kb_0076	Indak surang pun buliah dipaso masuak suatu parkumpulan.
+human_rights_un_min_sd_64kb_0077	Pasal 21
+human_rights_un_min_sd_64kb_0078	Tiok urang punyo hak untuak sato dalam pamarintahan di negaranyo, lansuang atau malalui wakia-wakia nan dipiliah sacaro bebas.
+human_rights_un_min_sd_64kb_0079	Tiok urang punyo hak mandapek kasampatan nan samo untuak diangkek dalam jabatan pamarintahan negaranyo.
+human_rights_un_min_sd_64kb_0080	Kandak rakyat musti manjadi landasan kakuasaan pamarintah;
+human_rights_un_min_sd_64kb_0081	kandak ko musti dinyatokan dalam pamiliahan umum nan diadokan sacaro barkala dan murni jo hak piliah nan basifat umum dan sadarajat, sarato pamungutan suaro sacaro rasio atau pakai caro lain nan samo-samo manjamin kabebasan manantukan piliahan.
+human_rights_un_min_sd_64kb_0082	Pasal 22
+human_rights_un_min_sd_64kb_0083	Sabagai anggota masyarakat, tiok urang punyo hak mandapek jaminan sosial dan punyo hak pulo untuak talaksananyo hak-hak ekonomi, sosial jo budaya, nan mutlak paralu untuak martabat dan parkambangan bebas dari pribadinyo, malalui usaho-usaho nasional dan karajo samo internasional, sesuai jo pangaturan sarato sumber-sumber kakayaan di tiok Negara.
+human_rights_un_min_sd_64kb_0084	Pasal 23
+human_rights_un_min_sd_64kb_0085	Tiok urang punyo hak mandapek karajo, bebas mamiliah jinih karajo, punyo hak taradok syarat-syarat karajo nan adil dan pantas, baitu pulo punyo hak mandapek linduangan katiko manganggur.
+human_rights_un_min_sd_64kb_0086	Tiok urang – indak bakacuali, punyo hak dapek upah samo untuak karajo nansamo.
+human_rights_un_min_sd_64kb_0087	Tiok urang nan bakarajo punyo hak dapek upah nan adil dan pantas untuak manjamin iduiknyo surang dan kaluarga, nan sasuai jo martabatnyo salaku manusia, dan jiko paralu ditambah jo linduangan sosial lainnyo.
+human_rights_un_min_sd_64kb_0088	Tiok urang punyo hak mandirikan dan masuak syarikat-syarikat karajo untuak malinduangi kapantiangannyo.
+human_rights_un_min_sd_64kb_0089	Pasal 24
+human_rights_un_min_sd_64kb_0090	Tiok urang punyo hak untuak baistirahat dan liburan, tamasuak pambatasan nan layak taradok jam karajo, dan tatap dapek upah di hari perai atau katiko cuti.
+human_rights_un_min_sd_64kb_0091	Pasal 25
+human_rights_un_min_sd_64kb_0092	Tiok urang punyo hak taradok taraf iduik nan manjamin kasehatan dan kasajahteraan diri jo kaluarga, tamasuak makanan, pakaian, sarato palayanan sosial nan paralu, dan punyo hak jaminan katiko manganggur, sakik, cacat, marando, maso tuo, atau kailangan nafkah sabagai akibat hal-hal nan di lua kamauannyo.
+human_rights_un_min_sd_64kb_0093	Kaum ibu jo anak-anak punyo hak mandapek linduangan dan bantuan khusus.
+human_rights_un_min_sd_64kb_0094	Sakalian anak, nan dilahiakan di dalam maupun di lua parkawinan, musti mandapek linduangan sosial nan samo.
+human_rights_un_min_sd_64kb_0095	Pasal 26
+human_rights_un_min_sd_64kb_0096	Tiok urang punyo hak mandapek pandidikan.
+human_rights_un_min_sd_64kb_0097	Pandidikan musti perai, paliang tidak tingkek sikola randah jo pandidikan dasar.
+human_rights_un_min_sd_64kb_0098	Pandidikan dasar musti diwajibkan.
+human_rights_un_min_sd_64kb_0099	Pandidikan kajuruan dan kaahlian musti tasadio untuak tiok urang, baitu pulo paguruan tinggi musti tasadio untuak tiok urang sasuai jo kamampuan.
+human_rights_un_min_sd_64kb_0100	Pandidikan andaknyo diarahkan untuak mangambangkan kapribadian sapanuah-panuahnyo, dan untuak mampakokoh raso hormat taradok hak-hak asasi manusia dan kamardekaan nan mandasar.
+human_rights_un_min_sd_64kb_0101	Pandidikan diadokan untuak manggiatkan saliang mangarati, toleransi dan pasahabatan di antaro sagalo banso, kalompok ras, sarato agamo, dan untuak manunjang kagiatan-kagiatan Perserikatan Bangsa Bangsa dalam mamaliaro pardamaian.
+human_rights_un_min_sd_64kb_0102	Para urang tuo sah punyo hak untuak mamiliah jinih pandidikan untuak anak-anaknyo.
+human_rights_un_min_sd_64kb_0103	Pasal 27
+human_rights_un_min_sd_64kb_0104	Tiok urang punyo hak mardeka untuak sato dalam kahidupan kabudayaan masyarakat, baitu pulo untuak sato dalam mamajukan ilmu pangatahuan, dan mandapek manfaatnyo.
+human_rights_un_min_sd_64kb_0105	Tiok urang punyo hak mandapek linduangan taradok kapantiangan moril jo materil bakaitan jo hasil karajo ilmiah, sastra atau kasenian nan diciptakannyo.
+human_rights_un_min_sd_64kb_0106	Pasal 28
+human_rights_un_min_sd_64kb_0107	Tiok urang punyo hak mandapek katartiban sosial dan katartiban internasional untuak mawujudkan saluruah hak-hak dan kabebasan sasuai jo Deklarasi ko.
+human_rights_un_min_sd_64kb_0108	Pasal 29
+human_rights_un_min_sd_64kb_0109	Tiok urang punyo kawajiban taradok masyarakat nan marupokan satu-satunyo tampek kapribadiannyo dapek bakambang sacaro bebas dan sapanuah-panuahnyo.
+human_rights_un_min_sd_64kb_0110	Bateh-bateh dalam mawujudkan hak-hak dan kabebasan tiok urang ko hanyo buliah ado jiko ditatapkan jo undang undang nan batujuan samato-mato untuak manjamin diharagoi dan dihormatinyo hak-hak dan kabebasan-kabebasan urang lain, sasuai jo syarat-syarat nan adil dari kasusilaan, katantraman dan kasajahteraan umum dalam suatu masyarakat nan demokratis.
+human_rights_un_min_sd_64kb_0111	Hak-hak dan kabebasan-kabebasan ko jan sakali-kali dipagunokanuntuak tujuan nan balawanan jo prinsip-prinsip Perserikatan Bangsa-Bangsa.
+human_rights_un_min_sd_64kb_0112	Pasal 30
+human_rights_un_min_sd_64kb_0113	Indak ciek pun pasal dari Deklarasi ko buliah ditafsirkan sabagai manyatujui adonyo hak suatu negara, kalompok atau sasaurang, untuak malakukan kagiatan apopun, atau malakukan sasuatu nan batujuan marusak hak-hak dan kabebasan-kabebasan nan diuraikan dalam Deklarasi ko.

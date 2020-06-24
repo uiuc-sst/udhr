@@ -1,162 +1,123 @@
-human_rights_un_bug_brc_64kb_0001	ADA ASSIMATURUSENG NASENGNGE HAK-HAK SIMULAJAJINNA
-human_rights_un_bug_brc_64kb_0002	PADATTA RUPA TAU
-human_rights_un_bug_brc_64kb_0003	Sininnna rupa tau ri jajingengngi ri linoe pada nappunnai memanni hak-haktetongeng marilalenna riaseng rupa tau Asseddingenna Bangsa-Bangsae puranappannessai riaseng assimaturuseng molai laleng tongenna hak haksimulangenna seddi seddi rupa tau.
-human_rights_un_bug_brc_64kb_0004	Assimaturuseng naolai pura napaddiolo polepiagam Asseddingenna Bangsa Bangsae , ye pamasseengngi attepperennabangsa bangsae ri hak hak simula jajinna padatta rupa tau ye pommarilalengngena allebbireng appongenna ri asengnge rupa tau.
-human_rights_un_bug_brc_64kb_0005	Ri laleng Ada
-human_rights_un_bug_brc_64kb_0006	Assimaturusengnge hak hak simulajajinna padatta rupa tau pura napanessamemangngi Asseddingenna Bangsa Bangsae nasengnge hak hak adele’e puranappunaie seddi seddi rupa tau.
-human_rights_un_bug_brc_64kb_0007	Hak hak pura dipanessaengngi ianaritu mencajiripunnai.
-human_rights_un_bug_brc_64kb_0008	Hak hak simulajajinna padatta rupa tau ianatu hak tongeng mupuwere.
-human_rights_un_bug_brc_64kb_0009	Parilalengngi paddisengengmu tettongiwi hak hak mupuwere.
-human_rights_un_bug_brc_64kb_0010	Paptettei napamassei ri lalenna alemu na padammu rupa tau.
-human_rights_un_bug_brc_64kb_0011	ADA ASSIMATURUSENG NASENGNGE HAK-HAK SIMULA JAJINNA
-human_rights_un_bug_brc_64kb_0012	PADATTA RUPA TAU
-human_rights_un_bug_brc_64kb_0013	PADDIOLO
-human_rights_un_bug_brc_64kb_0014	Pura ritimbang nasengnge dipattongengngi ri asengnge allebbireng napanjajiepuang seuwae na hak-hak pada nappunnai manengnge salasureng padatta rupatau ianaro simulangenna riasengnge merdeka e.
-human_rights_un_bug_brc_64kb_0015	Ade’e na atennangengnge tuori linoe.
-human_rights_un_bug_brc_64kb_0016	Pura ritimbang nasengnge gau de’e nasipakalebbireng pole padatta rupa tauianaro mancaji pangkaukang makassara najajianni maggoppo manengaccairengnge na ajapparu’e ri laleng atina rupa tau.
-human_rights_un_bug_brc_64kb_0017	na ri purennuangi rijajiangiseddi lino naonroi’e padatta rupa tau ye’paneddingi’e riasengnge ininnawamappau ada tongeng na ininawa suju’e ri Puang seuwae sibawa ininnawaleppe’e pole riasengnge akkitaureng na teggennekengnge pura mancaji seddipurennuang marilaleng pole taumaegae.
-human_rights_un_bug_brc_64kb_0018	Pura ritimbang nasengnge hak-hak padatta rupa tau parellu riatoro ri lalennasure hukung’e, narekko de wedding seddi seddi tau nateru-terusi molai lalengsalae na nasengnge laleng madeceng naola makkuraga pacelliri sifa’ salae yetemmappakasitaue.
-human_rights_un_bug_brc_64kb_0019	Pura ritimbang nasengnge sipakau ripadatta massalassureng pole seddi negarasibawa negara laingne parellu ri pamasse.
-human_rights_un_bug_brc_64kb_0020	Pura ritimbang nasengnge ianaro Bangsa Bangsae pole ri asseddingenna
-human_rights_un_bug_brc_64kb_0021	Bangsa Bangsae na ri lalenna piagamna pura ripamasse atteprenna ri hak haksimulangenna rupa tau ri pancajie ri Puang Seuwae, ri appongeng madecennana allebbirengna seddi seddi rupa tau, na hak hak terripasilaingeng polemakkunrai na urane’e.
-human_rights_un_bug_brc_64kb_0022	na pura nappettui molai addecengeng attuwongennarilalenna kemerdekaan ye lebbi maloangnge.
-human_rights_un_bug_brc_64kb_0023	Pura ritimbang nasengnge negara negara anggotae pura majjanci molaiaddecengeng ri lalenna penghargaanna na penghormatanna ri hak haksimulangenna padatta rupa tau na kebebasang kebebasang tongengnge namassamang najama sibawa Asseddingenna Bangsa Bangsae.
-human_rights_un_bug_brc_64kb_0024	Pura ritimbang nasengnge paddisseng padae ri hak hak na kebebasangngeparellu mencaji sanreseng pole janci pura ripau’e, ianatu :
-human_rights_un_bug_brc_64kb_0025	Tudang Sipulung
-human_rights_un_bug_brc_64kb_0026	Ye Mappanesaengngi
-human_rights_un_bug_brc_64kb_0027	Ada Assimaturusenna Hak - Hak Simulajajinna Rupa Tau
-human_rights_un_bug_brc_64kb_0028	Riasengnge seddi tettongeng wassele pura naolae sininna Bangsa na Negaraeye situjue napurennuangnge sininna rupa tau ri lalenna masyaraka’e.
-human_rights_un_bug_brc_64kb_0029	Adaassima turuseng pura ri panjaci sanreseng , ri ala pakkuraga massappapaddissengeng ye pamasseengngi penghargaangnge ri hak hak kebebasannarupa tau’e.
-human_rights_un_bug_brc_64kb_0030	Passaleng 1
-human_rights_un_bug_brc_64kb_0031	Sininna rupa tau ri jajiangngi rilinoe nappunnai manengngi riasengnge alebbireng.
-human_rights_un_bug_brc_64kb_0032	Nappunai riasengnge akkaleng, nappunai riasengnge ati marennni na sibolebolena pada sipakatau pada massalasureng.
-human_rights_un_bug_brc_64kb_0033	Passaleng 2
-human_rights_un_bug_brc_64kb_0034	Sininna rupa tau nappunnai maneng riasengnge hak na kebebasang ye tarukie rilalenna Ada Assamaturusengnge, na degaga riasengnge mappasilaingengappongeng, mappasilaingeng warenna uli, mappasilaingeng urane namakkunrai, mappasilaingeng bangsa, bahasa, agama na atteppereng, politik,arega mappasilaingeng assaleng ussulu bangsana , assugirenna, onro jajiannaarega pangka’na.
-human_rights_un_bug_brc_64kb_0035	Nasengnge degaga ripasilaingeng riasengnge sifa’ politi’na, hukungna napangka’na ri internasionale’ pole negara arega kampong naonroie’ seddi taupole.
-human_rights_un_bug_brc_64kb_0036	Mo pole negara ye merdekae ye engkae wilaya wilaya wakkelenna,areganaparentae.
-human_rights_un_bug_brc_64kb_0037	Passeleng 3
-human_rights_un_bug_brc_64kb_0038	Sininna rupa tau nappunnai hak tuo ri linoe, paneddingi riasengngeattennangeng na assalamakeng ri watakkalena seddi sedddi tau.
-human_rights_un_bug_brc_64kb_0039	Passaleng 4
-human_rights_un_bug_brc_64kb_0040	Degaga riaseng seddi seddi tau wedding ri pancaji ata na didangkangeng topa.
-human_rights_un_bug_brc_64kb_0041	Nasaba ye riaseng addangkangeng ata ianatu laleng salah.
-human_rights_un_bug_brc_64kb_0042	Passaleng 5
-human_rights_un_bug_brc_64kb_0043	Degaga seddi tau wedding ri sessa na digaukang pappada olokoloe’.
-human_rights_un_bug_brc_64kb_0044	Passaleng 6
-human_rights_un_bug_brc_64kb_0045	Sininna rupa tau nappunai hak ripattongeng ri olona hukungnge nasengngeallebbireng seddi seddi tau , motega tega monro.
-human_rights_un_bug_brc_64kb_0046	Passaleng 7
-human_rights_un_bug_brc_64kb_0047	Sininna rupa tau nappunai hak riasengnge sanreseng hukung na de’ gagaripasilaingeng.
-human_rights_un_bug_brc_64kb_0048	Nappunai maneng hak pada ri sininna pangkaukang makassarana mappassae ye de’e nasituju sibawa Ada assamaturusengnge, na sininna adasalae ye pancajie appassang na akkasarakangnge.
-human_rights_un_bug_brc_64kb_0049	Passaleng 8
-human_rights_un_bug_brc_64kb_0050	Sininna rupa tau napunnai hak riasengnge makkuraga addecengeng ripengadilan nasional’e molaie jamang jamang sala ye de e nasituju hak hakmarilaleng ye napuwere Undang Undang Dasar na hukungnge.
-human_rights_un_bug_brc_64kb_0051	Passaleng 9
-human_rights_un_bug_brc_64kb_0052	Degaga seddi rupa tau wedding ri tikkeng, ri tahang na riabbiang pappadaolokoloe’
-human_rights_un_bug_brc_64kb_0053	Passaleng 10
-human_rights_un_bug_brc_64kb_0054	Sininna rupa tau , ri passamai, nappunai hak ri paradilang adele’e na riperadilang bebasae’ na de’ namatane ciwali, ri laleng ripattette riasengnge hakna kewajibang kewajibanna na rilaleng sininna tuntutanna pidana yeripettuangngi.
-human_rights_un_bug_brc_64kb_0055	Passaleng 11
-human_rights_un_bug_brc_64kb_0056	1.
-human_rights_un_bug_brc_64kb_0057	Sininna rupa tau ye dituntue nasaba riaseng mappigau assalang rihukungnge depa diaseng salah, lettu ripabuttiangngi assalanna menuruhukungnge rilalenna pengadilang ye pada naisseng maneng tauwe,naengka diarengngi jaminang napperelluangngengngi belai alena.
-human_rights_un_bug_brc_64kb_0058	2.
-human_rights_un_bug_brc_64kb_0059	Degaga seddi rupa tau wedding ripassa mappigau assalang hukungnasaba pangkaukang ye dee’panatama mencaji assalang hukung menuru
-human_rights_un_bug_brc_64kb_0060	Undang Undang Nasionale arega internasionale, narekko yepangkaukangnge ri pigau.
-human_rights_un_bug_brc_64kb_0061	Deto wedding ripettu hukumanna lebbihmatane pole hukung ye sitinajae pappada riwettunna assalangnge ripigau.
-human_rights_un_bug_brc_64kb_0062	Passaleng 12
-human_rights_un_bug_brc_64kb_0063	Sininna rupa tau de’ wedding riganggu urusang alena, keluargana, rumaranggana, na de wedding diteru terusi sure surena.
-human_rights_un_bug_brc_64kb_0064	Na lebbipi de wedding rihalangi na ri keccaki riaseng siri’na tauwe.
-human_rights_un_bug_brc_64kb_0065	Nasaba pura nappunai hakriasengnge sanreseng hukung.
-human_rights_un_bug_brc_64kb_0066	Passaleng 13
-human_rights_un_bug_brc_64kb_0067	1.
-human_rights_un_bug_brc_64kb_0068	Sininna rupa tau nappunai riasengnge kebebasang monro rilalenna seddinegara.
-human_rights_un_bug_brc_64kb_0069	2.
-human_rights_un_bug_brc_64kb_0070	Sininna rupa tau nappunai hak monro ri sininna negarae’, makkotoro komaeloi monro ri negarana arega maelo lisu ri negarana.
-human_rights_un_bug_brc_64kb_0071	Passaleng 14
-human_rights_un_bug_brc_64kb_0072	1.
-human_rights_un_bug_brc_64kb_0073	Sininna rupa tau nappunai hak massapa na napaneddingi riasengakkituoreng ri negara laingnge narekko maelo nasalamakkangngi alenapole passappana.
-human_rights_un_bug_brc_64kb_0074	2.
-human_rights_un_bug_brc_64kb_0075	Iyana ye hak’e dewedding ri pake riwettu ri peppeng narisappa nasabatongeng tongeng napigau aggaukeng salae’ ye dee’ gaga hubungannasibawa politik, arega napigau pangkaukangnge nasaba denaseddi lalengsibawa tujuang ammulangenna Asseddingenna Bangsa Bangsae’.
-human_rights_un_bug_brc_64kb_0076	Passaleng 15
-human_rights_un_bug_brc_64kb_0077	1.
-human_rights_un_bug_brc_64kb_0078	Sininna rupa tauwe nappuna hak mancaji riaseng warga negara.
-human_rights_un_bug_brc_64kb_0079	2.
-human_rights_un_bug_brc_64kb_0080	Degaga seddi tau wedding riteru terusi palukai kewarga negaraannaarega de diterimai haknya sellei kewarga negaraanna.
-human_rights_un_bug_brc_64kb_0081	Passaleng 16
-human_rights_un_bug_brc_64kb_0082	1.
-human_rights_un_bug_brc_64kb_0083	Sininna rupa tau urane na makkunraie ye maggangkani ballege umuruna,temmangki ri batasi assaleng bangsana, warga negarana arega agamananappunai hak riasengnge nikkah na napunnai seddi seddi keluarga.
-human_rights_un_bug_brc_64kb_0084	Ianatupada napunnai hak ye e’ teddipasilaingeng ri laleng perkawinanna, nariwettu na lalengi perkawinanna na riwettunna maeloi sitellereng.
-human_rights_un_bug_brc_64kb_0085	2.
-human_rights_un_bug_brc_64kb_0086	Degaga riaseng passang rilalenna perkawinangnge, pappilenapi, elonapina situjuipi makkunraie na urane.
-human_rights_un_bug_brc_64kb_0087	3.
-human_rights_un_bug_brc_64kb_0088	Riasengnge keluarga ripasseddi riasengnge appaseddiang marilalengpole masyaraka’e nanapunnai hak sanreseng pole masyarakae nanegarae.
-human_rights_un_bug_brc_64kb_0089	Passaleng 17
-human_rights_un_bug_brc_64kb_0090	1.
-human_rights_un_bug_brc_64kb_0091	Sininna rupa tauwe nappunai hak riasengnge assugireng nawarangparang, mo nappunnangi seddi tau arega nappunnangi sibawa taulaingnge.
-human_rights_un_bug_brc_64kb_0092	2.
-human_rights_un_bug_brc_64kb_0093	Degaga seddi rupa tau wedding ripassa malai assugirenna nawarangparanna.
-human_rights_un_bug_brc_64kb_0094	Passaleng 18
-human_rights_un_bug_brc_64kb_0095	Sininna rupa tau nappunai hak riasengnge kebebasang ri laleng mappikkiri,pattennang atinna na agamana, arega lecce agama na atteppereng, nakebebasang panessai agama na atteprenna arega napagguruangngi nanalalengi.
-human_rights_un_bug_brc_64kb_0096	Arega naola manengngi ajarang agamana mo cuale alena aregamassamangngi sibawa tau laingnge.
-human_rights_un_bug_brc_64kb_0097	Ri olona tau maegae arega cuale alena.
-human_rights_un_bug_brc_64kb_0098	Passaleng 19
-human_rights_un_bug_brc_64kb_0099	Sininna rupa tauwe nappunai maneng riasengnge hak na kebebasang mampauada nasengnge tongeng.
-human_rights_un_bug_brc_64kb_0100	Ianaro hak e’ muttama toni rilalenna kebebasangnappunai pendapat tenriganggu mo ripau rilalenna sininna beritae.
-human_rights_un_bug_brc_64kb_0101	Passaleng 20
-human_rights_un_bug_brc_64kb_0102	1.
-human_rights_un_bug_brc_64kb_0103	Sininna rupa tauwe nappunai riasengnge hak na kebebasang sipulung napada tudang sipulung.
-human_rights_un_bug_brc_64kb_0104	2.
-human_rights_un_bug_brc_64kb_0105	Degaga seddi tau weddi dipassangangi tama rilalenna seddiassipulungenge.
-human_rights_un_bug_brc_64kb_0106	Passaleng 21
-human_rights_un_bug_brc_64kb_0107	1.
-human_rights_un_bug_brc_64kb_0108	Sininna rupa tau nappunai hak maccue rilalenna pemerintahan negarana,langsungne arega pole wakkele wakkele purae napilei.
-human_rights_un_bug_brc_64kb_0109	2.
-human_rights_un_bug_brc_64kb_0110	Sininna rupa tau pada nappunai hak na kesempatang ripaenre pangka’napole pemerintahan negarana.
-human_rights_un_bug_brc_64kb_0111	3.
-human_rights_un_bug_brc_64kb_0112	Akkelorenna taumegae sibole bolena mancaji sanreseng akkuasanapemerintae, akkelorengnge yede sibole bole ripalebbangi rilaleng
-human_rights_un_bug_brc_64kb_0113	Pemilihan Umum ye ripigau ri wettu purae ripatentungi nahadere manengna naisseng maneng tau maegae.
-human_rights_un_bug_brc_64kb_0114	Arega engka cara ye weddingengngirijamingngi kebebasanna mappile.
-human_rights_un_bug_brc_64kb_0115	Passaleng 22
-human_rights_un_bug_brc_64kb_0116	Sininna rupa tau, riasengnge anggota masarakae’ nappunai hak appunangeng,assalasurengeng, ade na allebireng ye napurennuang maneng riasengnge rupatau, wedding riola riasengnge makkuraga ri laleng bangsata mo’ribangsalaingnge ri linoe.
-human_rights_un_bug_brc_64kb_0117	Sibawa ye dee’ nasisalang riaseng peraturanna seddi negara.
-human_rights_un_bug_brc_64kb_0118	Passaleng 23
-human_rights_un_bug_brc_64kb_0119	1.
-human_rights_un_bug_brc_64kb_0120	Sininna rupa tauwe nappunai hak riaseng ajjamang, nappunai hakmappile jamang , nappunai hak ye rilalenna syara’ syara’ jamangnge yeadelee’ ye mappisaroe nasibole bolena engka nattoangeng ko de gagajama jamanna.
-human_rights_un_bug_brc_64kb_0121	2.
-human_rights_un_bug_brc_64kb_0122	Sininna rupa tau tewwedding dipasilaingeng, nappunai maneng hak runtuwassele papada egana narekko pappada jamang jamanna.
-human_rights_un_bug_brc_64kb_0123	3.
-human_rights_un_bug_brc_64kb_0124	Sininna rupa tau majjamae nappunai hak peneddingiwi wassele adele’ena mappisaroe, ye weddingi padacengi na palebbiri attuwongena ri alenana keluargana, narekko parellu napunnai riasengnge assanresengaddecengeng ye weddingnge nattoangang ri laleng laingnge.
-human_rights_un_bug_brc_64kb_0125	4.
-human_rights_un_bug_brc_64kb_0126	Sininna rupa tau nappunnai hak patettongi arega muttama rilalenna erikatserikat pekerjae’ koeloi nalindungi kepentinganna.
-human_rights_un_bug_brc_64kb_0127	Passaleng 24
-human_rights_un_bug_brc_64kb_0128	Sininna rupa tau nappunai hak riaseng attennangeng na pakansi sibawaripattentui wettunna ajamangnge na wettu pakansie ,na tette natarima gajinna.
-human_rights_un_bug_brc_64kb_0129	Passaleng 25
-human_rights_un_bug_brc_64kb_0130	1.
-human_rights_un_bug_brc_64kb_0131	Sininna rupa tau nappunai hak paneddingi e riaseng addecengeng tuworilinoe, attennangeng ri laleng alena sibawa keluargana.
-human_rights_un_bug_brc_64kb_0132	Muttama toniriaseng hak ri si ninna wedding napake’e, pakeanna, bolana, nasininnapabburana ko malasai arega sininna pajjampa ye napareluangengngi , nanappunai to hak riasengnge jaminan narekko degaga jamang jamanna,narekko malasai, narekko sala salangangi arega sininna wettu yemappancajie kuranna wassele’na assaleng tenniya ye nattungkaiye.
-human_rights_un_bug_brc_64kb_0133	2.
-human_rights_un_bug_brc_64kb_0134	Indona na ana’ ana’e nappunai hak lolonganngi riasengnge pammase nabantuang malebbie, sininna ana’ ana’e ye rijajiangngi ri lalenna keluargamadecengnge arega ri jajiang mencaji ana’ bule.
-human_rights_un_bug_brc_64kb_0135	Parellu riasengngiaddecengeng tuwong na teddipasilaingeng.
-human_rights_un_bug_brc_64kb_0136	Passaleng 26
-human_rights_un_bug_brc_64kb_0137	1.
-human_rights_un_bug_brc_64kb_0138	Sininna rupa tau nappunai hak paneddingi riasengnge massikola.
-human_rights_un_bug_brc_64kb_0139	Riasengnge massappa paddissengeng ri lalenna assikolangnge denaparellu di waja sibole bole riwettunna mappamula sikola na pendidikandasar’e.
-human_rights_un_bug_brc_64kb_0140	2.
-human_rights_un_bug_brc_64kb_0141	Ammulangenna massikolae parellu ri wajibkan.
-human_rights_un_bug_brc_64kb_0142	Ye assikolang tekni’e nakejuruangnge parellu natamaki maneng tauwe mappakkotoro riasengngeassikolang matanre koparellu natamaki maneng sininna tauwe narekkowedding coco.
-human_rights_un_bug_brc_64kb_0143	Assikolangnge parellu ripattuju nasaba ianatuaddecengeng rialena seddi tau na pada mita deceng.
-human_rights_un_bug_brc_64kb_0144	Paddisengeng yeriappue riassikolange ianarito pancaji rupa tauwe pada sipakalebbireng,pada sipakamase ripadanna sinna bangsae.
-human_rights_un_bug_brc_64kb_0145	3.
-human_rights_un_bug_brc_64kb_0146	Ia naro riasengnge tau matoa nappunai hak na parellu na pileangangngisikola ye kira kira cocongngi nolae pada ana anana’.
-human_rights_un_bug_brc_64kb_0147	Passaleng 27
-human_rights_un_bug_brc_64kb_0148	1.
-human_rights_un_bug_brc_64kb_0149	Sininna rupa tau nappunai hak molai laleng abbiasang ade ri lalennamasyarakae, napaneddingiwi riaseng elong kelong, na napaneddingi toiriasengnge addeeecengeng na gunana assikolangnge.
-human_rights_un_bug_brc_64kb_0150	2.
-human_rights_un_bug_brc_64kb_0151	Ia naro rupa tau nappunai hak riasengnge lolongan perlindunganng naaddecengngeng riasengnge attuong ri linoe na ri aherae.
-human_rights_un_bug_brc_64kb_0152	Passaleng 28
-human_rights_un_bug_brc_64kb_0153	Sininna rupa tau nappunai hak ri asengnge addecengeng tuwo ri linoe na sininnahak kebebasan pura taruki maneng ri laleng na ada assaturuseng na sibolebolena riala sanreseng.
-human_rights_un_bug_brc_64kb_0154	Passaleng 29
-human_rights_un_bug_brc_64kb_0155	1.
-human_rights_un_bug_brc_64kb_0156	Sininna rupa tau nappunai riaseng kewajiban ri masyaraka onrongnamonro tuwe pawekkemaneng sininna alebbireng rialena.
-human_rights_un_bug_brc_64kb_0157	2.
-human_rights_un_bug_brc_64kb_0158	Rilaleleng ri paddupana riasengnge hak-hakna kebebasangnge sininnarupa tauwe paerlu tunru ribatasang tanrang purae ripatentuang ri undang-undangnge ye tujuanna na jaming maneng ri asengngnge ada tongngengna allabbireng ri hak-hakna kebebasanna to laingnge.
-human_rights_un_bug_brc_64kb_0159	3.
-human_rights_un_bug_brc_64kb_0160	Ia naritu ri asengnge hak-hak na kebebasangnge temmaka weddingi riolanarekko de’na si maturu sibawa tujuaanna na peinsipna Assimaturusennabangsa-bangsae.
-human_rights_un_bug_brc_64kb_0161	Passaleng 30
-human_rights_un_bug_brc_64kb_0162	Degaga mo seddi rilalenna ada assamaturusengnge napalalo ri tafsirnasenggnge dibukkang laleng seddi negara, kelompk, iya ga seddi rupa taunappunai hak nateru terrusi nasengnge mappigau pangkaukang salae yewedding na solangi riasengnge allebbirirenna hak-hakna kebebasangkebebasang ye tarukie ri lalenna ada assaturusengnge.
+human_rights_un_bug_brc_64kb_0001	ADA ASSIMATURUSENG NASENGNGE HAK-HAK SIMULAJAJINNA PADATTA RUPA TAU
+human_rights_un_bug_brc_64kb_0002	Sininnna rupa tau ri jajingengngi ri linoe pada nappunnai memanni hak-hak tetongeng marilalenna riaseng rupa tau Asseddingenna Bangsa-Bangsae pura nappannessai riaseng assimaturuseng molai laleng tongenna hak hak simulangenna seddi seddi rupa tau.
+human_rights_un_bug_brc_64kb_0003	Assimaturuseng naolai pura napaddiolo pole piagam Asseddingenna Bangsa Bangsae , ye pamasseengngi attepperenna bangsa bangsae ri hak hak simula jajinna padatta rupa tau ye pommarilalengnge na allebbireng appongenna ri asengnge rupa tau.
+human_rights_un_bug_brc_64kb_0004	Ri laleng Ada Assimaturusengnge hak hak simulajajinna padatta rupa tau pura napanessa memangngi Asseddingenna Bangsa Bangsae nasengnge hak hak adele'e pura nappunaie seddi seddi rupa tau.
+human_rights_un_bug_brc_64kb_0005	Hak hak pura dipanessaengngi ianaritu mencaji ripunnai.
+human_rights_un_bug_brc_64kb_0006	Hak hak simulajajinna padatta rupa tau ianatu hak tongeng mupuwere.
+human_rights_un_bug_brc_64kb_0007	Parilalengngi paddisengengmu tettongiwi hak hak mupuwere.
+human_rights_un_bug_brc_64kb_0008	Paptettei na pamassei ri lalenna alemu na padammu rupa tau.
+human_rights_un_bug_brc_64kb_0009	PADDIOLO
+human_rights_un_bug_brc_64kb_0010	Pura ritimbang nasengnge dipattongengngi ri asengnge allebbireng napanjajie puang seuwae na hak-hak pada nappunnai manengnge salasureng padatta rupa tau ianaro simulangenna riasengnge merdeka e.
+human_rights_un_bug_brc_64kb_0011	Ade'e na atennangengnge tuo ri linoe.
+human_rights_un_bug_brc_64kb_0012	Pura ritimbang nasengnge gau de'e nasipakalebbireng pole padatta rupa tau ianaro mancaji pangkaukang makassara najajianni maggoppo maneng accairengnge na ajapparu'e ri laleng atina rupa tau.
+human_rights_un_bug_brc_64kb_0013	na ri purennuangi rijajiangi seddi lino naonroi'e padatta rupa tau ye'paneddingi'e riasengnge ininnawa mappau ada tongeng na ininawa suju'e ri Puang seuwae sibawa ininnawa leppe'e pole riasengnge akkitaureng na teggennekengnge pura mancaji seddi purennuang marilaleng pole taumaegae.
+human_rights_un_bug_brc_64kb_0014	Pura ritimbang nasengnge hak-hak padatta rupa tau parellu riatoro ri lalenna sure hukung'e, narekko de wedding seddi seddi tau nateru-terusi molai laleng salae na nasengnge laleng madeceng naola makkuraga pacelliri sifa' salae ye temmappakasitaue.
+human_rights_un_bug_brc_64kb_0015	Pura ritimbang nasengnge sipakau ripadatta massalassureng pole seddi negara sibawa negara laingne parellu ri pamasse.
+human_rights_un_bug_brc_64kb_0016	Pura ritimbang nasengnge ianaro Bangsa Bangsae pole ri asseddingenna Bangsa Bangsae na ri lalenna piagamna pura ripamasse atteprenna ri hak hak simulangenna rupa tau ri pancajie ri Puang Seuwae, ri appongeng madecenna na allebbirengna seddi seddi rupa tau, na hak hak terripasilaingeng pole makkunrai na urane'e.
+human_rights_un_bug_brc_64kb_0017	na pura nappettui molai addecengeng attuwongenna rilalenna kemerdekaan ye lebbi maloangnge.
+human_rights_un_bug_brc_64kb_0018	Pura ritimbang nasengnge negara negara anggotae pura majjanci molai addecengeng ri lalenna penghargaanna na penghormatanna ri hak hak simulangenna padatta rupa tau na kebebasang kebebasang tongengnge na massamang najama sibawa Asseddingenna Bangsa Bangsae.
+human_rights_un_bug_brc_64kb_0019	Pura ritimbang nasengnge paddisseng padae ri hak hak na kebebasangnge parellu mencaji sanreseng pole janci pura ripau'e, ianatu :
+human_rights_un_bug_brc_64kb_0020	Tudang Sipulung
+human_rights_un_bug_brc_64kb_0021	Ye Mappanesaengngi
+human_rights_un_bug_brc_64kb_0022	Ada Assimaturusenna Hak - Hak Simulajajinna Rupa Tau
+human_rights_un_bug_brc_64kb_0023	Riasengnge seddi tettongeng wassele pura naolae sininna Bangsa na Negarae ye situjue napurennuangnge sininna rupa tau ri lalenna masyaraka'e.
+human_rights_un_bug_brc_64kb_0024	Ada assima turuseng pura ri panjaci sanreseng , ri ala pakkuraga massappa paddissengeng ye pamasseengngi penghargaangnge ri hak hak kebebasanna rupa tau'e.
+human_rights_un_bug_brc_64kb_0025	Passaleng 1
+human_rights_un_bug_brc_64kb_0026	Sininna rupa tau ri jajiangngi rilinoe nappunnai manengngi riasengnge alebbireng.
+human_rights_un_bug_brc_64kb_0027	Nappunai riasengnge akkaleng, nappunai riasengnge ati marennni na sibole bolena pada sipakatau pada massalasureng.
+human_rights_un_bug_brc_64kb_0028	Passaleng 2
+human_rights_un_bug_brc_64kb_0029	Sininna rupa tau nappunnai maneng riasengnge hak na kebebasang ye tarukie ri lalenna Ada Assamaturusengnge, na degaga riasengnge mappasilaingeng appongeng, mappasilaingeng warenna uli, mappasilaingeng urane na makkunrai, mappasilaingeng bangsa, bahasa, agama na atteppereng, politik, arega mappasilaingeng assaleng ussulu bangsana , assugirenna, onro jajianna arega pangka'na.
+human_rights_un_bug_brc_64kb_0030	Nasengnge degaga ripasilaingeng riasengnge sifa' politi'na, hukungna na pangka'na ri internasionale' pole negara arega kampong naonroie' seddi tau pole.
+human_rights_un_bug_brc_64kb_0031	Mo pole negara ye merdekae ye engkae wilaya wilaya wakkelenna,arega naparentae.
+human_rights_un_bug_brc_64kb_0032	Passeleng 3
+human_rights_un_bug_brc_64kb_0033	Sininna rupa tau nappunnai hak tuo ri linoe, paneddingi riasengnge attennangeng na assalamakeng ri watakkalena seddi sedddi tau.
+human_rights_un_bug_brc_64kb_0034	Passaleng 4
+human_rights_un_bug_brc_64kb_0035	Degaga riaseng seddi seddi tau wedding ri pancaji ata na didangkangeng topa.
+human_rights_un_bug_brc_64kb_0036	Nasaba ye riaseng addangkangeng ata ianatu laleng salah.
+human_rights_un_bug_brc_64kb_0037	Passaleng 5
+human_rights_un_bug_brc_64kb_0038	Degaga seddi tau wedding ri sessa na digaukang pappada olokoloe'.
+human_rights_un_bug_brc_64kb_0039	Passaleng 6
+human_rights_un_bug_brc_64kb_0040	Sininna rupa tau nappunai hak ripattongeng ri olona hukungnge nasengnge allebbireng seddi seddi tau , motega tega monro.
+human_rights_un_bug_brc_64kb_0041	Passaleng 7
+human_rights_un_bug_brc_64kb_0042	Sininna rupa tau nappunai hak riasengnge sanreseng hukung na de' gaga ripasilaingeng.
+human_rights_un_bug_brc_64kb_0043	Nappunai maneng hak pada ri sininna pangkaukang makassara na mappassae ye de'e nasituju sibawa Ada assamaturusengnge, na sininna ada salae ye pancajie appassang na akkasarakangnge.
+human_rights_un_bug_brc_64kb_0044	Passaleng 8
+human_rights_un_bug_brc_64kb_0045	Sininna rupa tau napunnai hak riasengnge makkuraga addecengeng ri pengadilan nasional'e molaie jamang jamang sala ye de e nasituju hak hak marilaleng ye napuwere Undang Undang Dasar na hukungnge.
+human_rights_un_bug_brc_64kb_0046	Passaleng 9
+human_rights_un_bug_brc_64kb_0047	Degaga seddi rupa tau wedding ri tikkeng, ri tahang na riabbiang pappada olokoloe'
+human_rights_un_bug_brc_64kb_0048	Passaleng 10
+human_rights_un_bug_brc_64kb_0049	Sininna rupa tau , ri passamai, nappunai hak ri paradilang adele'e na ri peradilang bebasae' na de' namatane ciwali, ri laleng ripattette riasengnge hak na kewajibang kewajibanna na rilaleng sininna tuntutanna pidana ye ripettuangngi.
+human_rights_un_bug_brc_64kb_0050	Passaleng 11
+human_rights_un_bug_brc_64kb_0051	Sininna rupa tau ye dituntue nasaba riaseng mappigau assalang ri hukungnge depa diaseng salah, lettu ripabuttiangngi assalanna menuru hukungnge rilalenna pengadilang ye pada naisseng maneng tauwe, naengka diarengngi jaminang napperelluangngengngi belai alena.
+human_rights_un_bug_brc_64kb_0052	Degaga seddi rupa tau wedding ripassa mappigau assalang hukung nasaba pangkaukang ye dee'panatama mencaji assalang hukung menuru Undang Undang Nasionale arega internasionale, narekko ye pangkaukangnge ri pigau.
+human_rights_un_bug_brc_64kb_0053	Deto wedding ripettu hukumanna lebbih matane pole hukung ye sitinajae pappada riwettunna assalangnge ri pigau.
+human_rights_un_bug_brc_64kb_0054	Passaleng 12
+human_rights_un_bug_brc_64kb_0055	Sininna rupa tau de' wedding riganggu urusang alena, keluargana, ruma ranggana, na de wedding diteru terusi sure surena.
+human_rights_un_bug_brc_64kb_0056	Na lebbipi de wedding ri halangi na ri keccaki riaseng siri'na tauwe.
+human_rights_un_bug_brc_64kb_0057	Nasaba pura nappunai hak riasengnge sanreseng hukung.
+human_rights_un_bug_brc_64kb_0058	Passaleng 13
+human_rights_un_bug_brc_64kb_0059	Sininna rupa tau nappunai riasengnge kebebasang monro rilalenna seddi negara.
+human_rights_un_bug_brc_64kb_0060	Sininna rupa tau nappunai hak monro ri sininna negarae', makkotoro ko maeloi monro ri negarana arega maelo lisu ri negarana.
+human_rights_un_bug_brc_64kb_0061	Passaleng 14
+human_rights_un_bug_brc_64kb_0062	Sininna rupa tau nappunai hak massapa na napaneddingi riaseng akkituoreng ri negara laingnge narekko maelo nasalamakkangngi alena pole passappana.
+human_rights_un_bug_brc_64kb_0063	Iyana ye hak'e dewedding ri pake riwettu ri peppeng narisappa nasaba tongeng tongeng napigau aggaukeng salae' ye dee' gaga hubunganna sibawa politik, arega napigau pangkaukangnge nasaba denaseddi laleng sibawa tujuang ammulangenna Asseddingenna Bangsa Bangsae'.
+human_rights_un_bug_brc_64kb_0064	Passaleng 15
+human_rights_un_bug_brc_64kb_0065	Sininna rupa tauwe nappuna hak mancaji riaseng warga negara.
+human_rights_un_bug_brc_64kb_0066	Degaga seddi tau wedding riteru terusi palukai kewarga negaraanna arega de diterimai haknya sellei kewarga negaraanna.
+human_rights_un_bug_brc_64kb_0067	Passaleng 16
+human_rights_un_bug_brc_64kb_0068	Sininna rupa tau urane na makkunraie ye maggangkani ballege umuruna, temmangki ri batasi assaleng bangsana, warga negarana arega agamana nappunai hak riasengnge nikkah na napunnai seddi seddi keluarga.
+human_rights_un_bug_brc_64kb_0069	Ianatu pada napunnai hak ye e' teddipasilaingeng ri laleng perkawinanna, na riwettu na lalengi perkawinanna na riwettunna maeloi sitellereng.
+human_rights_un_bug_brc_64kb_0070	Degaga riaseng passang rilalenna perkawinangnge, pappilenapi, elonapi na situjuipi makkunraie na urane.
+human_rights_un_bug_brc_64kb_0071	Riasengnge keluarga ripasseddi riasengnge appaseddiang marilaleng pole masyaraka'e nanapunnai hak sanreseng pole masyarakae na negarae.
+human_rights_un_bug_brc_64kb_0072	Passaleng 17
+human_rights_un_bug_brc_64kb_0073	Sininna rupa tauwe nappunai hak riasengnge assugireng na warangparang, mo nappunnangi seddi tau arega nappunnangi sibawa tau laingnge.
+human_rights_un_bug_brc_64kb_0074	Degaga seddi rupa tau wedding ripassa malai assugirenna na warangparanna.
+human_rights_un_bug_brc_64kb_0075	Passaleng 18
+human_rights_un_bug_brc_64kb_0076	Sininna rupa tau nappunai hak riasengnge kebebasang ri laleng mappikkiri, pattennang atinna na agamana, arega lecce agama na atteppereng, na kebebasang panessai agama na atteprenna arega napagguruangngi na nalalengi.
+human_rights_un_bug_brc_64kb_0077	Arega naola manengngi ajarang agamana mo cuale alena arega massamangngi sibawa tau laingnge.
+human_rights_un_bug_brc_64kb_0078	Ri olona tau maegae arega cuale alena.
+human_rights_un_bug_brc_64kb_0079	Passaleng 19
+human_rights_un_bug_brc_64kb_0080	Sininna rupa tauwe nappunai maneng riasengnge hak na kebebasang mampau ada nasengnge tongeng.
+human_rights_un_bug_brc_64kb_0081	Ianaro hak e' muttama toni rilalenna kebebasang nappunai pendapat tenriganggu mo ripau rilalenna sininna beritae.
+human_rights_un_bug_brc_64kb_0082	Passaleng 20
+human_rights_un_bug_brc_64kb_0083	Sininna rupa tauwe nappunai riasengnge hak na kebebasang sipulung na pada tudang sipulung.
+human_rights_un_bug_brc_64kb_0084	Degaga seddi tau weddi dipassangangi tama rilalenna seddi assipulungenge.
+human_rights_un_bug_brc_64kb_0085	Passaleng 21
+human_rights_un_bug_brc_64kb_0086	Sininna rupa tau nappunai hak maccue rilalenna pemerintahan negarana, langsungne arega pole wakkele wakkele purae napilei.
+human_rights_un_bug_brc_64kb_0087	Sininna rupa tau pada nappunai hak na kesempatang ripaenre pangka'na pole pemerintahan negarana.
+human_rights_un_bug_brc_64kb_0088	Akkelorenna taumegae sibole bolena mancaji sanreseng akkuasana pemerintae, akkelorengnge yede sibole bole ripalebbangi rilaleng Pemilihan Umum ye ripigau ri wettu purae ripatentungi nahadere maneng na naisseng maneng tau maegae.
+human_rights_un_bug_brc_64kb_0089	Arega engka cara ye weddingengngi rijamingngi kebebasanna mappile.
+human_rights_un_bug_brc_64kb_0090	Passaleng 22
+human_rights_un_bug_brc_64kb_0091	Sininna rupa tau, riasengnge anggota masarakae' nappunai hak appunangeng, assalasurengeng, ade na allebireng ye napurennuang maneng riasengnge rupa tau, wedding riola riasengnge makkuraga ri laleng bangsata mo'ribangsa laingnge ri linoe.
+human_rights_un_bug_brc_64kb_0092	Sibawa ye dee' nasisalang riaseng peraturanna seddi negara.
+human_rights_un_bug_brc_64kb_0093	Passaleng 23
+human_rights_un_bug_brc_64kb_0094	Sininna rupa tauwe nappunai hak riaseng ajjamang, nappunai hak mappile jamang , nappunai hak ye rilalenna syara' syara' jamangnge ye adelee' ye mappisaroe nasibole bolena engka nattoangeng ko de gaga jama jamanna.
+human_rights_un_bug_brc_64kb_0095	Sininna rupa tau tewwedding dipasilaingeng, nappunai maneng hak runtu wassele papada egana narekko pappada jamang jamanna.
+human_rights_un_bug_brc_64kb_0096	Sininna rupa tau majjamae nappunai hak peneddingiwi wassele adele'e na mappisaroe, ye weddingi padacengi na palebbiri attuwongena ri alena na keluargana, narekko parellu napunnai riasengnge assanreseng addecengeng ye weddingnge nattoangang ri laleng laingnge.
+human_rights_un_bug_brc_64kb_0097	Sininna rupa tau nappunnai hak patettongi arega muttama rilalenna erikat serikat pekerjae' koeloi nalindungi kepentinganna.
+human_rights_un_bug_brc_64kb_0098	Passaleng 24
+human_rights_un_bug_brc_64kb_0099	Sininna rupa tau nappunai hak riaseng attennangeng na pakansi sibawa ripattentui wettunna ajamangnge na wettu pakansie ,na tette natarima gajinna.
+human_rights_un_bug_brc_64kb_0100	Passaleng 25
+human_rights_un_bug_brc_64kb_0101	Sininna rupa tau nappunai hak paneddingi e riaseng addecengeng tuwo rilinoe, attennangeng ri laleng alena sibawa keluargana.
+human_rights_un_bug_brc_64kb_0102	Muttama toni riaseng hak ri si ninna wedding napake'e, pakeanna, bolana, nasininna pabburana ko malasai arega sininna pajjampa ye napareluangengngi , na nappunai to hak riasengnge jaminan narekko degaga jamang jamanna, narekko malasai, narekko sala salangangi arega sininna wettu ye mappancajie kuranna wassele'na assaleng tenniya ye nattungkaiye.
+human_rights_un_bug_brc_64kb_0103	Indona na ana' ana'e nappunai hak lolonganngi riasengnge pammase na bantuang malebbie, sininna ana' ana'e ye rijajiangngi ri lalenna keluarga madecengnge arega ri jajiang mencaji ana' bule.
+human_rights_un_bug_brc_64kb_0104	Parellu riasengngi addecengeng tuwong na teddipasilaingeng.
+human_rights_un_bug_brc_64kb_0105	Passaleng 26
+human_rights_un_bug_brc_64kb_0106	Sininna rupa tau nappunai hak paneddingi riasengnge massikola.
+human_rights_un_bug_brc_64kb_0107	Riasengnge massappa paddissengeng ri lalenna assikolangnge dena parellu di waja sibole bole riwettunna mappamula sikola na pendidikan dasar'e.
+human_rights_un_bug_brc_64kb_0108	Ammulangenna massikolae parellu ri wajibkan.
+human_rights_un_bug_brc_64kb_0109	Ye assikolang tekni'e na kejuruangnge parellu natamaki maneng tauwe mappakkotoro riasengnge assikolang matanre koparellu natamaki maneng sininna tauwe narekko wedding coco.
+human_rights_un_bug_brc_64kb_0110	Assikolangnge parellu ripattuju nasaba ianatu addecengeng rialena seddi tau na pada mita deceng.
+human_rights_un_bug_brc_64kb_0111	Paddisengeng ye riappue riassikolange ianarito pancaji rupa tauwe pada sipakalebbireng, pada sipakamase ripadanna sinna bangsae.
+human_rights_un_bug_brc_64kb_0112	Ia naro riasengnge tau matoa nappunai hak na parellu na pileangangngi sikola ye kira kira cocongngi nolae pada ana anana'.
+human_rights_un_bug_brc_64kb_0113	Passaleng 27
+human_rights_un_bug_brc_64kb_0114	Sininna rupa tau nappunai hak molai laleng abbiasang ade ri lalenna masyarakae, napaneddingiwi riaseng elong kelong, na napaneddingi toi riasengnge addeeecengeng na gunana assikolangnge.
+human_rights_un_bug_brc_64kb_0115	Ia naro rupa tau nappunai hak riasengnge lolongan perlindunganng na addecengngeng riasengnge attuong ri linoe na ri aherae.
+human_rights_un_bug_brc_64kb_0116	Passaleng 28
+human_rights_un_bug_brc_64kb_0117	Sininna rupa tau nappunai hak ri asengnge addecengeng tuwo ri linoe na sininna hak kebebasan pura taruki maneng ri laleng na ada assaturuseng na sibole bolena riala sanreseng.
+human_rights_un_bug_brc_64kb_0118	Passaleng 29
+human_rights_un_bug_brc_64kb_0119	Sininna rupa tau nappunai riaseng kewajiban ri masyaraka onrongna monro tuwe pawekkemaneng sininna alebbireng rialena.
+human_rights_un_bug_brc_64kb_0120	Rilaleleng ri paddupana riasengnge hak-hakna kebebasangnge sininna rupa tauwe paerlu tunru ribatasang tanrang purae ripatentuang ri undang-undangnge ye tujuanna na jaming maneng ri asengngnge ada tongngeng na allabbireng ri hak-hakna kebebasanna to laingnge.
+human_rights_un_bug_brc_64kb_0121	Ia naritu ri asengnge hak-hak na kebebasangnge temmaka weddingi riola narekko de'na si maturu sibawa tujuaanna na peinsipna Assimaturusenna bangsa-bangsae.
+human_rights_un_bug_brc_64kb_0122	Passaleng 30
+human_rights_un_bug_brc_64kb_0123	Degaga mo seddi rilalenna ada assamaturusengnge napalalo ri tafsir nasenggnge dibukkang laleng seddi negara, kelompk, iya ga seddi rupa tau nappunai hak nateru terrusi nasengnge mappigau pangkaukang salae ye wedding na solangi riasengnge allebbirirenna hak-hakna kebebasang kebebasang ye tarukie ri lalenna ada assaturusengnge.

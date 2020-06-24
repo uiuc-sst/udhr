@@ -1,138 +1,106 @@
 human_rights_03_eng_rg_64kb_0001	juːnɪvɜːsl̩ dˈɛkləreɪʃn̩ ɒv hjˈuːmən ɻaɪts
 human_rights_03_eng_rg_64kb_0002	pɻiːˈæmbl̩
-human_rights_03_eng_rg_64kb_0003	wˈɪəɻɪəz ɻˈiːkɒɡnˈɪʃn̩ ɒv θɪ ɪnhɪərənt dˈɪɡnətɪ ænd ɒv θɪ ɪkwəl ænd ɪneɪljənəbl̩ɻaɪts ɒv ɔːl mˈɛmbəz ɒv θɪ hjˈuːmən fˈæməlɪ ɪz θɪ faʊndˈeɪʃn̩ ɒv fɻˈiːdəm dʒˈʌstɪsənd pˈiːs ɪn θɪ wˈɜːld
-human_rights_03_eng_rg_64kb_0004	wˈɪəɻɪəz dˈɪsɻɪɡˈɑːd ænd kəntˈɛmpt fˈɔːɜ˞ hjˈuːmən ɻˈaɪts hˈæv ɻɪzˈʌltɪd ɪn bˈɑːbəɻˈaʊzˈækts wˈɪɲ hˈæv ˈaʊtɻˈeɪdʒd θɪ kˈɒnʃəns ɒv mænkaɪnd ænd θɪ ədvˈɛnt ɒv ə wˈɜːldɪn wˈɪɲ hjˈuːmən bˈiːɪŋz ʃˈæl ɪndʒˈɔɪ fɻˈiːdəm ɒv spˈiːɲ ænd bɪlˈiːf ænd fɻˈiːdəmfɻɒm fɛə* ænd wˈɒnt hˈæz bˈiːn pɻəklˈeɪmd əs θɪ hˈaɪɪst ˈæspəɻˈeɪʃn̩ ɒv θɪ kˈɒmənpˈiːpl̩
-human_rights_03_eng_rg_64kb_0005	wˈɪəɻɪəz ˈɪt ɪz ɪsˈɛnʃl̩ ɪf mæn ɪz nɒt təʊ b kəmpˈɛld təʊ hˈæv ɻɪkˈɔːs əs ə lˈæstɻɪzˈɔːt təʊ ɻɪbˈɛljən əɡˈɛnst tˈɪɻənɪ ænd əpɻˈɛʃən ðˈæt hjˈuːmən ɻˈaɪts ʃˈəʊld bɪpɻətˈɛktɪd bˈaɪ θɪ ɻˈuːl ɒv lˈɔː
-human_rights_03_eng_rg_64kb_0006	wˈɪəɻɪəz ˈɪt ɪz ɪsˈɛnʃl̩ təʊ pɻəmˈəʊt θɪ dɪvˈɛləpmənt ɒv fɻˈɛndlɪ ɻɪlˈeɪʃn̩z bɪtwˈiːnnˈeɪʃn̩z
-human_rights_03_eng_rg_64kb_0007	wˈɪəɻɪəz θɪ pˈiːpl̩z ɒv θɪ jˈuːnɪtɪd nˈæʃənz hˈæv ɪn θɪ ɲˈɑːtəɜ˞ ɻˈiːəfˈɜːmd ðˈɛəfˈeɪθ ɪn fˈʌndəmˈɛntl̩ hjˈuːmən ɻˈaɪts ɪn θɪ dˈɪɡnətɪ ænd wɜːθ ɒv θɪ hjˈuːmən pˈɜːsnənd ɪn θɪ ɪkwəl ɻˈaɪts ɒv mɛn ænd wˈɪmɪn ænd hˈæv dɪtˈɜːmɪnd təʊ pɻəmˈəʊtsˈəʊʃl̩ pɻˈəʊɡɻɛs ænd bˈɛtəɜ˞ stˈændədz ɒv lˈaɪf ɪn lˈɑːdʒəɜ˞ fɻˈiːdəm
-human_rights_03_eng_rg_64kb_0008	wˈɪəɻɪəz mˈɛmbəɜ˞ stˈeɪts hˈæv plˈɛdʒd θɪmsˈɛlvz təʊ əɲˈiːv ɪn kəʊˈɒpəɻˈeɪʃn̩wɪθ θɪ jˈuːnɪtɪd nˈæʃn̩z θɪ pɻəmˈəʊʃn̩ ɒv jˈuːnɪvɜːsl̩ ɻɪspɛkt fˈɔːɜ˞ ænd əbzˈɜːvn̩s əvhjˈuːmən ɻˈaɪts ænd fˈʌndəmˈɛntl̩ fɻˈiːdəmz
-human_rights_03_eng_rg_64kb_0009	wˈɪəɻɪəz ə kˈɒmən ˈʌndəstˈændɪŋ ɒv θˈiːz ɻˈaɪts ænd fɻˈiːdəmz ɪz ɒv θigɹitɪst ɪmpˈɔːtn̩s fˈɔːɜ˞ θɪ fˈʊl ɻˈɪəlaɪzˈeɪʃn̩ ɒv ðˈɪs plˈɛdʒ
+human_rights_03_eng_rg_64kb_0003	wˈɪəɻɪəz ɻˈiːkɒɡnˈɪʃn̩ ɒv θɪ ɪnhɪərənt dˈɪɡnətɪ ænd ɒv θɪ ɪkwəl ænd ɪneɪljənəbl̩ ɻˈaɪts ɒv ɔːl mˈɛmbəz ɒv θɪ hjˈuːmən fˈæməlɪ ɪz θɪ faʊndˈeɪʃn̩ ɒv fɻˈiːdəm dʒˈʌstɪs ænd pˈiːs ɪn θɪ wˈɜːld
+human_rights_03_eng_rg_64kb_0004	wˈɪəɻɪəz dˈɪsɻɪɡˈɑːd ænd kəntˈɛmpt fˈɔːɜ˞ hjˈuːmən ɻˈaɪts hˈæv ɻɪzˈʌltɪd ɪn bˈɑːbəɻəs ˈækts wˈɪɲ hˈæv ˈaʊtɻˈeɪdʒd θɪ kˈɒnʃəns ɒv mænkaɪnd ænd θɪ ədvˈɛnt ɒv ə wɜːld ɪn wˈɪɲ hjˈuːmən bˈiːɪŋz ʃˈæl ɪndʒˈɔɪ fɻˈiːdəm ɒv spˈiːɲ ænd bɪlˈiːf ænd fɻˈiːdəm fɻˈɒm fɛə* ænd wˈɒnt hˈæz bˈiːn pɻəklˈeɪmd əs θɪ hˈaɪɪst ˈæspəɻˈeɪʃn̩ ɒv θɪ kˈɒmən pˈiːpl̩
+human_rights_03_eng_rg_64kb_0005	wˈɪəɻɪəz ˈɪt ɪz ɪsˈɛnʃl̩ ɪf mæn ɪz nɒt təʊ b kəmpˈɛld təʊ hˈæv ɻɪkˈɔːs əs ə lɑːst ɻɪzˈɔːt təʊ ɻɪbˈɛljən əɡˈɛnst tˈɪɻənɪ ænd əpɻˈɛʃən ðˈæt hjˈuːmən ɻˈaɪts ʃˈəʊld b pɻətˈɛktɪd bˈaɪ θɪ ɻˈuːl ɒv lˈɔː
+human_rights_03_eng_rg_64kb_0006	wˈɪəɻɪəz ˈɪt ɪz ɪsˈɛnʃl̩ təʊ pɻəmˈəʊt θɪ dɪvˈɛləpmənt ɒv fɻˈɛndlɪ ɻɪlˈeɪʃn̩z bɪtwˈiːn nˈæʃn̩z
+human_rights_03_eng_rg_64kb_0007	wˈɪəɻɪəz θɪ pˈiːpl̩z ɒv θɪ jˈuːnɪtɪd nˈæʃənz hˈæv ɪn θɪ ɲˈɑːtəɜ˞ ɻˈiːəfˈɜːmd ðˈɛə fˈeɪθ ɪn fˈʌndəmˈɛntl̩ hjˈuːmən ɻˈaɪts ɪn θɪ dˈɪɡnətɪ ænd wɜːθ ɒv θɪ hjˈuːmən pˈɜːsn̩ ænd ɪn θɪ ɪkwəl ɻˈaɪts ɒv mɛn ænd wˈɪmɪn ænd hˈæv dɪtˈɜːmɪnd təʊ pɻəmˈəʊt sˈəʊʃl̩ pɻˈəʊɡɻɛs ænd bˈɛtəɜ˞ stˈændədz ɒv lˈaɪf ɪn lˈɑːdʒəɜ˞ fɻˈiːdəm
+human_rights_03_eng_rg_64kb_0008	wˈɪəɻɪəz mˈɛmbəɜ˞ stˈeɪts hˈæv plˈɛdʒd θɪmsˈɛlvz təʊ əɲˈiːv ɪn kəʊˈɒpəɻˈeɪʃn̩ wɪð θɪ jˈuːnɪtɪd nˈæʃn̩z θɪ pɻəmˈəʊʃn̩ ɒv jˈuːnɪvɜːsl̩ ɻɪspɛkt fˈɔːɜ˞ ænd əbzˈɜːvn̩s ɒv hjˈuːmən ɻˈaɪts ænd fˈʌndəmˈɛntl̩ fɻˈiːdəmz
+human_rights_03_eng_rg_64kb_0009	wˈɪəɻɪəz ə kˈɒmən ˈʌndəstˈændɪŋ ɒv θˈiːz ɻˈaɪts ænd fɻˈiːdəmz ɪz ɒv θɪ ɡɻˈiːtɪst ɪmpˈɔːtn̩s fˈɔːɜ˞ θɪ fˈʊl ɻˈɪəlaɪzˈeɪʃn̩ ɒv ðˈɪs plˈɛdʒ
 human_rights_03_eng_rg_64kb_0010	nˈaʊ ðˈɛəfɔːɜ˞
-human_rights_03_eng_rg_64kb_0011	tʃ dʒɛnərəl əsɛmbɫi
-human_rights_03_eng_rg_64kb_0012	pɻəklˈeɪmz ðˈɪs juːnɪvɜːsl̩ dˈɛkləreɪʃn̩ ɒv hjˈuːmən ɻaɪts əs ə kˈɒmən stˈændəd ɒfətʃiːvmənt fˈɔːɜ˞ ɔːl pˈiːpl̩z ænd ɔːl nˈæʃn̩z təʊ θɪ ɛnd ðˈæt ˈɛvɻɪ ˈɪndɪvˈɪdʒʊəl ændˈɛvəɻɪ ˈɔːɡən ɒv səsˈaɪətɪ kˈiːpɪŋ ðˈɪs dˈɛkləreɪʃn̩ kənstəntlɪ ɪn mˈaɪnd ʃˈæl stɻˈaɪv bˈaɪtˈiːɲɪŋ ænd ˈɛdʒʊkˈeɪʃn̩ təʊ pɻəmˈəʊt ɻɪspɛkt fˈɔːɜ˞ θˈiːz ɻˈaɪts ænd fɻˈiːdəmz ænd bˈaɪpɻəʊɡɻˈɛsɪv mˈɛʒəz nˈæʃənl̩ ænd ˈɪntənˈæʃənl̩ təʊ sɪkjˈʊəɜ˞ ðˈɛə jˈuːnɪvɜːsl̩ ændɪfˈɛktɪv ɻˈiːkɒɡnˈɪʃn̩ ænd əbzˈɜːvn̩s bˈəʊθ əmˈʌŋ θɪ pˈiːpl̩z ɒv mˈɛmbəɜ˞ stˈeɪtsθˈiːmsˈɛlvz ænd əmˈʌŋ θɪ pˈiːpl̩z ɒv tɛrətəɻɪz ˈʌndəɜ˞ ðˈɛə dʒʊərɪsdˈɪkʃəɻəbl̩
-human_rights_03_eng_rg_64kb_0013	ætɪkl̩ ˈaɪ
+human_rights_03_eng_rg_64kb_0011	tʃ dʒɛnərəl əsˈɛmblɪ
+human_rights_03_eng_rg_64kb_0012	pɻəklˈeɪmz ðˈɪs juːnɪvɜːsl̩ dˈɛkləreɪʃn̩ ɒv hjˈuːmən ɻaɪts əs ə kˈɒmən stˈændəd ɒv əɲˈiːvmənt fˈɔːɜ˞ ɔːl pˈiːpl̩z ænd ɔːl nˈæʃn̩z təʊ θɪ ɛnd ðˈæt ˈɛvɻɪ ˈɪndɪvˈɪdʒʊəl ænd ˈɛvɻɪ ˈɔːɡən ɒv səsˈaɪətɪ kˈiːpɪŋ ðˈɪs dˈɛkləreɪʃn̩ kənstəntlɪ ɪn mˈaɪnd ʃˈæl stɻˈaɪv bˈaɪ tˈiːɲɪŋ ænd ˈɛdʒʊkˈeɪʃn̩ təʊ pɻəmˈəʊt ɻɪspɛkt fˈɔːɜ˞ θˈiːz ɻˈaɪts ænd fɻˈiːdəmz ænd bˈaɪ pɻəʊɡɻˈɛsɪv mˈɛʒəz nˈæʃənl̩ ænd ˈɪntənˈæʃənl̩ təʊ sɪkjˈʊəɜ˞ ðˈɛə jˈuːnɪvɜːsl̩ ænd ɪfˈɛktɪv ɻˈiːkɒɡnˈɪʃn̩ ænd əbzˈɜːvn̩s bˈəʊθ əmˈʌŋ θɪ pˈiːpl̩z ɒv mˈɛmbəɜ˞ stˈeɪts θɪmsˈɛlvz ænd əmˈʌŋ θɪ pˈiːpl̩z ɒv tɛrətəɻɪz ˈʌndəɜ˞ ðˈɛə dʒʊərɪsdˈɪkʃəɻəbl̩
+human_rights_03_eng_rg_64kb_0013	ætɪkl̩
 human_rights_03_eng_rg_64kb_0014	ˈæl hjˈuːmən bˈiːɪŋz ɛə* bˈɔːn fɻˈiː ænd ɪkwəl ɪn dˈɪɡnətɪ ænd ɻˈaɪts
-human_rights_03_eng_rg_64kb_0015	θɪ əɻˈiːndˈaʊd wɪð ɻˈiːzn̩ ænd kˈɒnʃəns ænd ʃˈəʊld ækt təwˈɔːdz wˈʌn ənˈʌðəɜ˞ ɪn əspˈɪɻɪt ɒv bɻˈʌðəhʊdˈiː
+human_rights_03_eng_rg_64kb_0015	θɪ ɛə* ɪndˈaʊd wɪð ɻˈiːzn̩ ænd kˈɒnʃəns ænd ʃˈəʊld ækt təwˈɔːdz wˈʌn ənˈʌðəɜ˞ ɪn ə spˈɪɻɪt ɒv bɻˈʌðəhʊdˈiː
 human_rights_03_eng_rg_64kb_0016	ætɪkl̩
-human_rights_03_eng_rg_64kb_0017	ˈiːvrɪwʌn ɪz ɪntˈaɪtl̩d təʊ ɔːl θɪ ɻˈaɪts ænd fɻˈiːdəmz sˈɛt fˈɔːθ ɪn ðˈɪs dˈɛkləreɪʃənwɪðˈaʊt dɪstˈɪŋkʃn̩ ɒv ˈɛnɪ kˈaɪnd sʌtʃ əs ɻˈeɪs kˈʌlə sˈɛks lˈæŋɡwɪdʒ ɻɪlˈɪdʒənpəlˈɪtɪkl̩ əɜ˞ ˈʌðəɜ˞ əpˈɪnjən nˈæʃənl̩ əɜ˞ sˈəʊʃl̩ əɻˈɪdʒən pɻˈɒpətɪ bˈɜːθ əɜ˞ ˈʌðəɜ˞ stˈætjʊs
-human_rights_03_eng_rg_64kb_0018	fˈɜːðəmˈɔːɜ˞ nəʊ dɪstˈɪŋkʃn̩ ʃˈæl b mˈeɪd ɒn θɪ beɪsɪs ɒv θɪ pəlˈɪtɪkl̩dʒʊərɪsdˈɪkʃənl̩ əɜ˞ ˈɪntənˈæʃənl̩ stˈeɪtəs ɒv θɪ kˈʌntɻɪ əɜ˞ tɛrətərɪ təʊ wˈɪɲ ə pˈɜːsənbɪlˈɒŋz wˈɛðəɜ˞ ˈɪt b ˈɪndɪpˈɛndənt tɻˈʌst nˈɒnsˈɛlvɡˈʌvənɪŋ əɜ˞ ˈʌndəɜ˞ ˈɛnɪ ˈʌðəlˈɪmɪtˈeɪʃn̩ ɒv sˈɒvɻɪntɪˈiː
+human_rights_03_eng_rg_64kb_0017	ˈiːvrɪwʌn ɪz ɪntˈaɪtl̩d təʊ ɔːl θɪ ɻˈaɪts ænd fɻˈiːdəmz sˈɛt fˈɔːθ ɪn ðˈɪs dˈɛkləreɪʃən wɪðˈaʊt dɪstˈɪŋkʃn̩ ɒv ˈɛnɪ kˈaɪnd sʌtʃ əs ɻˈeɪs kˈʌlə sˈɛks lˈæŋɡwɪdʒ ɻɪlˈɪdʒən pəlˈɪtɪkl̩ əɜ˞ ˈʌðəɜ˞ əpˈɪnjən nˈæʃənl̩ əɜ˞ sˈəʊʃl̩ əɻˈɪdʒən pɻˈɒpətɪ bˈɜːθ əɜ˞ ˈʌðəɜ˞ stˈætjʊs
+human_rights_03_eng_rg_64kb_0018	fˈɜːðəmˈɔːɜ˞ nəʊ dɪstˈɪŋkʃn̩ ʃˈæl b mˈeɪd ɒn θɪ beɪsɪs ɒv θɪ pəlˈɪtɪkl̩ dʒʊərɪsdˈɪkʃənl̩ əɜ˞ ˈɪntənˈæʃənl̩ stˈeɪtəs ɒv θɪ kˈʌntɻɪ əɜ˞ tɛrətərɪ təʊ wˈɪɲ ə pˈɜːsn̩ bɪlˈɒŋz wˈɛðəɜ˞ ˈɪt b ˈɪndɪpˈɛndənt tɻˈʌst nɒnsˈɛlfɡˈʌvənɪŋ əɜ˞ ˈʌndəɜ˞ ˈɛnɪ ˈʌðəɜ˞ lˈɪmɪtˈeɪʃn̩ ɒv sˈɒvɻɪntɪˈiː
 human_rights_03_eng_rg_64kb_0019	ætɪkl̩
 human_rights_03_eng_rg_64kb_0020	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ lˈaɪf lˈɪbətɪ ænd θɪ sɪkjˈʊəɻətɪ ɒv pˈɜːsnˈiː
 human_rights_03_eng_rg_64kb_0021	ætɪkl̩
 human_rights_03_eng_rg_64kb_0022	nəʊ wˈʌn ʃˈæl b hˈɛld ɪn slˈeɪvəɻɪ əɜ˞ sˈɜːvɪtjuːd
-human_rights_03_eng_rg_64kb_0023	slˈeɪvəɻɪ ænd θɪ slˈeɪv tɻˈeɪd ʃˈæl bɪpɻəhˈɪbɪtɪd ɪn ɔːl ðˈɛə fɔːms
+human_rights_03_eng_rg_64kb_0023	slˈeɪvəɻɪ ænd θɪ slˈeɪv tɻˈeɪd ʃˈæl b pɻəhˈɪbɪtɪd ɪn ɔːl ðˈɛə fɔːms
 human_rights_03_eng_rg_64kb_0024	ætɪkl̩
-human_rights_03_eng_rg_64kb_0025	nəʊ wˈʌn ʃˈæl b səbdʒˈɛktɪd təʊ tˈɔːɲəɜ˞ əɜ˞ təʊ kɻˈʊəl ˈɪnhjuːmən əɜ˞ dɪɡɻˈeɪdɪŋ tɻˈiːtməntəɜ˞ pˈʌnɪʃməntˈiː
+human_rights_03_eng_rg_64kb_0025	nəʊ wˈʌn ʃˈæl b səbdʒˈɛktɪd təʊ tˈɔːɲəɜ˞ əɜ˞ təʊ kɻˈʊəl ˈɪnhjuːmən əɜ˞ dɪɡɻˈeɪdɪŋ tɻˈiːtmənt əɜ˞ pˈʌnɪʃməntˈiː
 human_rights_03_eng_rg_64kb_0026	ætɪkl̩
 human_rights_03_eng_rg_64kb_0027	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ɻˈiːkɒɡnˈɪʃn̩ ˈɛvɻɪwɛəɜ˞ əs ə pˈɜːsn̩ bɪfɔː* θɪ lˈɔːˈiː
 human_rights_03_eng_rg_64kb_0028	ætɪkl̩
-human_rights_03_eng_rg_64kb_0029	ˈæl ɛə* ɪkwəl bɪfɔː* θɪ lˈɔː ænd ɛə* ɪntˈaɪtl̩d wɪðˈaʊt ˈɛnɪ dɪskɻˈɪmɪnˈeɪʃn̩ təʊ ɪkwəlpɻətˈɛkʃn̩ ɒv θɪ lˈɔːˈiː
-human_rights_03_eng_rg_64kb_0030	ˈæl ɛə* ɪntˈaɪtl̩d təʊ ɪkwəl pɻətˈɛkʃn̩ əɡˈɛnst ˈɛnɪdɪskɻˈɪmɪnˈeɪʃn̩ ɪn vˈaɪəlˈeɪʃn̩ ɒv ðˈɪs dˈɛkləreɪʃn̩ ænd əɡˈɛnst ˈɛnɪ ɪnsˈaɪtmənt təʊ sˈʌɲdɪskɻˈɪmɪnˈeɪʃn̩ˈiː
+human_rights_03_eng_rg_64kb_0029	ˈæl ɛə* ɪkwəl bɪfɔː* θɪ lˈɔː ænd ɛə* ɪntˈaɪtl̩d wɪðˈaʊt ˈɛnɪ dɪskɻˈɪmɪnˈeɪʃn̩ təʊ ɪkwəl pɻətˈɛkʃn̩ ɒv θɪ lˈɔːˈiː
+human_rights_03_eng_rg_64kb_0030	ˈæl ɛə* ɪntˈaɪtl̩d təʊ ɪkwəl pɻətˈɛkʃn̩ əɡˈɛnst ˈɛnɪ dɪskɻˈɪmɪnˈeɪʃn̩ ɪn vˈaɪəlˈeɪʃn̩ ɒv ðˈɪs dˈɛkləreɪʃn̩ ænd əɡˈɛnst ˈɛnɪ ɪnsˈaɪtmənt təʊ sʌtʃ dɪskɻˈɪmɪnˈeɪʃn̩ˈiː
 human_rights_03_eng_rg_64kb_0031	ætɪkl̩
-human_rights_03_eng_rg_64kb_0032	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ æn ɪfˈɛktɪv ɻˈɛmədɪ bˈaɪ θɪ kˈɒmpɪtənt nˈæʃənl̩ tɻˈɪbjuːnl̩sfɔːɜ˞ ˈækts vˈaɪəleɪtɪŋ θɪ fˈʌndəmˈɛntl̩ ɻˈaɪts ɡɻˈæntɪd hɪm bˈaɪ θɪ kənstɪtjˈuːʃn̩ əɜ˞ bˈaɪ lˈɔːˈiː
+human_rights_03_eng_rg_64kb_0032	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ æn ɪfˈɛktɪv ɻˈɛmədɪ bˈaɪ θɪ kˈɒmpɪtənt nˈæʃənl̩ tɻˈɪbjuːnl̩z fˈɔːɜ˞ ˈækts vˈaɪəleɪtɪŋ θɪ fˈʌndəmˈɛntl̩ ɻˈaɪts ɡɻˈæntɪd hɪm bˈaɪ θɪ kənstɪtjˈuːʃn̩ əɜ˞ bˈaɪ lˈɔːˈiː
 human_rights_03_eng_rg_64kb_0033	ætɪkl̩
 human_rights_03_eng_rg_64kb_0034	nəʊ wˈʌn ʃˈæl b səbdʒˈɛktɪd təʊ ˈɑːbɪtɻəɻɪ əɻˈɛst dɪtˈɛnʃn̩ əɜ˞ ˈɛksaɪlˈiː
 human_rights_03_eng_rg_64kb_0035	ætɪkl̩
-human_rights_03_eng_rg_64kb_0036	ˈiːvrɪwʌn ɪz ɪntˈaɪtl̩d ɪn fˈʊl ɪkwɒlətɪ təʊ ə fˈɛəɜ˞ ænd pˈʌblɪk hˈɪəɻɪŋ bˈaɪ æn ˈɪndɪpˈɛndəntænd ɪmpˈɑːʃl̩ tɻˈɪbjuːnl̩ ɪn θɪ dɪtˈɜːmɪnˈeɪʃn̩ ɒv hˈɪz ɻˈaɪts ænd əblɪɡˈeɪʃn̩z ænd ɒv ˈɛnɪkɻˈɪmɪnl̩ ɲˈɑːdʒ əɡˈɛnst hˈaɪm
+human_rights_03_eng_rg_64kb_0036	ˈiːvrɪwʌn ɪz ɪntˈaɪtl̩d ɪn fˈʊl ɪkwɒlətɪ təʊ ə fˈɛəɜ˞ ænd pˈʌblɪk hˈɪəɻɪŋ bˈaɪ æn ˈɪndɪpˈɛndənt ænd ɪmpˈɑːʃl̩ tɻˈɪbjuːnl̩ ɪn θɪ dɪtˈɜːmɪnˈeɪʃn̩ ɒv hˈɪz ɻˈaɪts ænd əblɪɡˈeɪʃn̩z ænd ɒv ˈɛnɪ kɻˈɪmɪnl̩ ɲˈɑːdʒ əɡˈɛnst hˈaɪm
 human_rights_03_eng_rg_64kb_0037	ætɪkl̩
-human_rights_03_eng_rg_64kb_0038	ˈiː
-human_rights_03_eng_rg_64kb_0039	ˈiːvrɪwʌn ɲˈɑːdʒd wɪð ə pˈiːnl̩ əfˈɛns hˈæz θɪ ɻˈaɪt təʊ b pɻɪzjˈuːmdɪnəsn̩t ˈʌntɪl pɻˈuːvd ɡˈɪltɪ əkˈɔːdɪŋ təʊ lˈɔː ɪn ə pˈʌblɪk tɻˈaɪəl ˈæt wˈɪɲ hˈiːəz hˈæd ɔːl θɪ ɡˈæɻəntˈiːz nˈɛsəsərɪ fˈɔːɜ˞ hˈɪz dɪfˈɛnsˈiː
-human_rights_03_eng_rg_64kb_0040	ˈiː
-human_rights_03_eng_rg_64kb_0041	nəʊ wˈʌn ʃˈæl b hˈɛld ɡˈɪltɪ ɒv ˈɛnɪ pˈiːnl̩ əfˈɛns ɒn əkˈaʊnt ɒv ˈɛnɪ ækt ɔɹəmɪʃn̩ wˈɪɲ dˈɪd nɒt kənstɪtjuːt ə pˈiːnl̩ əfˈɛns ˈʌndəɜ˞ nˈæʃənl̩ əɻˈɪntənˈæʃənl̩ lˈɔː ˈæt θɪ tˈaɪm wˈɛn ˈɪt wˈeɪs kəmˈɪtɪdˈiː
-human_rights_03_eng_rg_64kb_0042	nˈɔːɜ˞ ʃˈæl ə hˈɛvɪəpˈɛnl̩tɪ b ɪmpˈəʊzd ðˈæn θɪ wˈʌn ðˈæt wˈeɪs ˈæplɪkəbl̩ ˈæt θɪ tˈaɪm θɪ pˈiːnl̩əfˈɛns wˈeɪs kəmˈɪtɪdˈiː
-human_rights_03_eng_rg_64kb_0043	ætɪkl̩
-human_rights_03_eng_rg_64kb_0044	nəʊ wˈʌn ʃˈæl b səbdʒˈɛktɪd təʊ ˈɑːbɪtɻəɻɪ ˈɪntəfˈɪəɻəns wɪð hˈɪz pɻˈɪvəsɪ fˈæməlɪ hˈəʊmˈɔːɜ˞ kˈɒɻɪspˈɒndəns nˈɔːɜ˞ təʊ ətˈæks əpˈɒn hˈɪz ˈɒnəɜ˞ ænd ɻˈɛpjʊtˈeɪʃn̩ˈiː
-human_rights_03_eng_rg_64kb_0045	ˈiːvrɪwʌn hˈeɪsʃ ɻˈaɪt təʊ θɪ pɻətˈɛkʃn̩ ɒv θɪ lˈɔː əɡˈɛnst sʌtʃ ˈɪntəfˈɪəɻəns əɜ˞ ətˈæksn̩
-human_rights_03_eng_rg_64kb_0046	ætɪkl̩
-human_rights_03_eng_rg_64kb_0047	ˈiː
-human_rights_03_eng_rg_64kb_0048	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ fɻˈiːdəm ɒv mˈuːvmənt ænd ɻˈɛzɪdəns wɪðɪn θˈiːbˈɔːdəz ɒv ˈiːɲ stˈeɪtˈiː
-human_rights_03_eng_rg_64kb_0049	ˈiː
-human_rights_03_eng_rg_64kb_0050	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ lˈiːv ˈɛnɪ kˈʌntɻɪ ɪnklˈuːdɪŋ hˈɪz ˈəʊn ænd tˈɒɻɪtˈɜːn təʊ hˈɪz kˈʌntɻɪˈiː
-human_rights_03_eng_rg_64kb_0051	ætɪkl̩
-human_rights_03_eng_rg_64kb_0052	ˈiː
-human_rights_03_eng_rg_64kb_0053	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ sˈiːk ænd təʊ ɪndʒˈɔɪ ɪn ˈʌðəɜ˞ kˈʌntɻɪz əsˈaɪləm fɻˈɒmpˈɜːsɪkjuːʃn̩ˈiː
-human_rights_03_eng_rg_64kb_0054	ˈiː
-human_rights_03_eng_rg_64kb_0055	tɪz ɻˈaɪt mˈeɪ nɒt b ɪnvˈəʊkt ɪn θɪ kˈeɪs ɒv pɻˈɒsɪkjˈuːʃn̩z dʒˈɛnjʊɪnlɪəɻˈaɪzɪŋ fɻˈɒm nˈɒnpˈɒlətɪkl̩ kɻˈaɪmz əɜ˞ fɻˈɒm ˈækts kəntɻəɻɪ təʊ θɪ pˈɜːpəsɪz ˈændpɻˈɪnsəpl̩z ɒv θɪ jˈuːnɪtɪd nˈæʃn̩s
-human_rights_03_eng_rg_64kb_0056	ætɪkl̩
-human_rights_03_eng_rg_64kb_0057	ˈiː
-human_rights_03_eng_rg_64kb_0058	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ə nˈæʃənˈælətɪˈiː
-human_rights_03_eng_rg_64kb_0059	ˈiː
-human_rights_03_eng_rg_64kb_0060	nəʊ wˈʌn ʃˈæl b ˈɑːbɪtɻəɻəlɪ dɪpɻˈaɪvd ɒv hˈɪz nˈæʃənˈælətɪ nˈɔːɜ˞ dɪnˈaɪd θɪ ɻˈaɪt təʊɲˈeɪndʒ hˈɪz nˈæʃənˈælətɪˈiː
+human_rights_03_eng_rg_64kb_0038	ˈiːvrɪwʌn ɲˈɑːdʒd wɪð ə pˈiːnl̩ əfˈɛns hˈæz θɪ ɻˈaɪt təʊ b pɻɪzjˈuːmd ɪnəsn̩t ˈʌntɪl pɻˈuːvd ɡˈɪltɪ əkˈɔːdɪŋ təʊ lˈɔː ɪn ə pˈʌblɪk tɻˈaɪəl ˈæt wˈɪɲ hˈiː hˈæz hˈæd ɔːl θɪ ɡˈæɻəntˈiːz nˈɛsəsərɪ fˈɔːɜ˞ hˈɪz dɪfˈɛnsˈiː
+human_rights_03_eng_rg_64kb_0039	nəʊ wˈʌn ʃˈæl b hˈɛld ɡˈɪltɪ ɒv ˈɛnɪ pˈiːnl̩ əfˈɛns ɒn əkˈaʊnt ɒv ˈɛnɪ ækt əɜ˞ əmɪʃn̩ wˈɪɲ dˈɪd nɒt kənstɪtjuːt ə pˈiːnl̩ əfˈɛns ˈʌndəɜ˞ nˈæʃənl̩ əɜ˞ ˈɪntənˈæʃənl̩ lˈɔː ˈæt θɪ tˈaɪm wˈɛn ˈɪt wˈeɪs kəmˈɪtɪdˈiː
+human_rights_03_eng_rg_64kb_0040	nˈɔːɜ˞ ʃˈæl ə hˈɛvɪəɜ˞ pˈɛnl̩tɪ b ɪmpˈəʊzd ðˈæn θɪ wˈʌn ðˈæt wˈeɪs ˈæplɪkəbl̩ ˈæt θɪ tˈaɪm θɪ pˈiːnl̩ əfˈɛns wˈeɪs kəmˈɪtɪdˈiː
+human_rights_03_eng_rg_64kb_0041	ætɪkl̩
+human_rights_03_eng_rg_64kb_0042	nəʊ wˈʌn ʃˈæl b səbdʒˈɛktɪd təʊ ˈɑːbɪtɻəɻɪ ˈɪntəfˈɪəɻəns wɪð hˈɪz pɻˈɪvəsɪ fˈæməlɪ hˈəʊm əɜ˞ kˈɒɻɪspˈɒndəns nˈɔːɜ˞ təʊ ətˈæks əpˈɒn hˈɪz ˈɒnəɜ˞ ænd ɻˈɛpjʊtˈeɪʃn̩ˈiː
+human_rights_03_eng_rg_64kb_0043	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ θɪ pɻətˈɛkʃn̩ ɒv θɪ lˈɔː əɡˈɛnst sʌtʃ ˈɪntəfˈɪəɻəns əɜ˞ ətˈæksn̩
+human_rights_03_eng_rg_64kb_0044	ætɪkl̩
+human_rights_03_eng_rg_64kb_0045	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ fɻˈiːdəm ɒv mˈuːvmənt ænd ɻˈɛzɪdəns wɪðɪn θɪ bˈɔːdəz ɒv ˈiːɲ stˈeɪtˈiː
+human_rights_03_eng_rg_64kb_0046	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ lˈiːv ˈɛnɪ kˈʌntɻɪ ɪnklˈuːdɪŋ hˈɪz ˈəʊn ænd təʊ ɻɪtˈɜːn təʊ hˈɪz kˈʌntɻɪˈiː
+human_rights_03_eng_rg_64kb_0047	ætɪkl̩
+human_rights_03_eng_rg_64kb_0048	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ sˈiːk ænd təʊ ɪndʒˈɔɪ ɪn ˈʌðəɜ˞ kˈʌntɻɪz əsˈaɪləm fɻˈɒm pˈɜːsɪkjuːʃn̩ˈiː
+human_rights_03_eng_rg_64kb_0049	tɪz ɻˈaɪt mˈeɪ nɒt b ɪnvˈəʊkt ɪn θɪ kˈeɪs ɒv pɻˈɒsɪkjˈuːʃn̩z dʒˈɛnjʊɪnlɪ əɻˈaɪzɪŋ fɻˈɒm nˈɒnpəlˈɪtɪkl̩ kɻˈaɪmz əɜ˞ fɻˈɒm ˈækts kəntɻəɻɪ təʊ θɪ pˈɜːpəsɪz ænd pɻˈɪnsəpl̩z ɒv θɪ jˈuːnɪtɪd nˈæʃn̩s
+human_rights_03_eng_rg_64kb_0050	ætɪkl̩
+human_rights_03_eng_rg_64kb_0051	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ə nˈæʃənˈælətɪˈiː
+human_rights_03_eng_rg_64kb_0052	nəʊ wˈʌn ʃˈæl b ˈɑːbɪtɻəɻəlɪ dɪpɻˈaɪvd ɒv hˈɪz nˈæʃənˈælətɪ nˈɔːɜ˞ dɪnˈaɪd θɪ ɻˈaɪt təʊ ɲˈeɪndʒ hˈɪz nˈæʃənˈælətɪˈiː
+human_rights_03_eng_rg_64kb_0053	ætɪkl̩
+human_rights_03_eng_rg_64kb_0054	mɛn ænd wˈɪmɪn ɒv fˈʊl ˈeɪdʒ wɪðˈaʊt ˈɛnɪ lˈɪmɪtˈeɪʃn̩ djuː təʊ ɻˈeɪs nˈæʃənˈælətɪ əɜ˞ ɻɪlˈɪdʒən hˈæv θɪ ɻˈaɪt təʊ mˈæɻɪ ænd təʊ fˈaʊnd ə fˈæməlɪˈiː
+human_rights_03_eng_rg_64kb_0055	θɪ ɛə* ɪntˈaɪtl̩d təʊ ɪkwəl ɻˈaɪts əs təʊ mˈæɻɪdʒ djˈʊəɻɪŋ mˈæɻɪdʒ ænd ˈæt ˈɪts dˈɪsəlˈuːʃn̩ˈiː
+human_rights_03_eng_rg_64kb_0056	mˈæɻɪdʒ ʃˈæl b ˈɛntəd ˈɪntuː ˈəʊnlɪ wɪð θɪ fɻˈiː ænd fˈʊl kənsˈɛnt ɒv θɪ ɪntˈɛndɪŋ spˈaʊzs
+human_rights_03_eng_rg_64kb_0057	tʃ fˈæməlɪ ɪz θɪ nˈæɲɻəl ænd fˈʌndəmˈɛntl̩ ɡɻˈuːp jˈuːnɪt ɒv səsˈaɪətɪ ænd ɪz ɪntˈaɪtl̩d təʊ pɻətˈɛkʃn̩ bˈaɪ səsˈaɪətɪ ænd θɪ stˈeɪtˈiː
+human_rights_03_eng_rg_64kb_0058	ætɪkl̩
+human_rights_03_eng_rg_64kb_0059	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ˈəʊn pɻˈɒpətɪ ələʊn əs wˈɛl əs ɪn əsˈəʊʃɪeɪʃn̩ wɪð ˈʌðəs
+human_rights_03_eng_rg_64kb_0060	nəʊ wˈʌn ʃˈæl b ˈɑːbɪtɻəɻəlɪ dɪpɻˈaɪvd ɒv hˈɪz pɻˈɒpətɪˈiː
 human_rights_03_eng_rg_64kb_0061	ætɪkl̩
-human_rights_03_eng_rg_64kb_0062	ˈiː
-human_rights_03_eng_rg_64kb_0063	mɛn ænd wˈɪmɪn ɒv fˈʊl ˈeɪdʒ wɪðˈaʊt ˈɛnɪ lˈɪmɪtˈeɪʃn̩ djuː təʊ ɻˈeɪs nˈæʃənˈælətɪə* ɻɪlˈɪdʒən hˈæv θɪ ɻˈaɪt təʊ mˈæɻɪ ænd təʊ fˈaʊnd ə fˈæməlɪˈiː
-human_rights_03_eng_rg_64kb_0064	θɪ ɛə* ɪntˈaɪtl̩dtəʊ ɪkwəl ɻˈaɪts əs təʊ mˈæɻɪdʒ djˈʊəɻɪŋ mˈæɻɪdʒ ænd ˈæt ˈɪts dˈɪsəlˈuːʃn̩ˈiː
-human_rights_03_eng_rg_64kb_0065	ˈiː
-human_rights_03_eng_rg_64kb_0066	mˈæɻɪdʒ ʃˈæl b ˈɛntəd ˈɪntuː ˈəʊnlɪ wɪð θɪ fɻˈiː ænd fˈʊl kənsˈɛnt ɒv θˈiːɪntˈɛndɪŋ spˈaʊzs
-human_rights_03_eng_rg_64kb_0067	ˈiː
-human_rights_03_eng_rg_64kb_0068	tʃ fˈæməlɪ ɪz θɪ nˈæɲɻəl ænd fˈʌndəmˈɛntl̩ ɡɻˈuːp jˈuːnɪt ɒv səsˈaɪətɪ ænd ˈɪsɪntˈaɪtl̩d təʊ pɻətˈɛkʃn̩ bˈaɪ səsˈaɪətɪ ænd θɪ stˈeɪtˈiː
-human_rights_03_eng_rg_64kb_0069	ætɪkl̩
-human_rights_03_eng_rg_64kb_0070	ˈiː
-human_rights_03_eng_rg_64kb_0071	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ˈəʊn pɻˈɒpətɪ ələʊn əs wˈɛl əs ɪn əsˈəʊʃɪeɪʃn̩ wɪðəθˈɜːsn̩
-human_rights_03_eng_rg_64kb_0072	ˈiː
-human_rights_03_eng_rg_64kb_0073	nəʊ wˈʌn ʃˈæl b ˈɑːbɪtɻəɻəlɪ dɪpɻˈaɪvd ɒv hˈɪz pɻˈɒpətɪˈiː
-human_rights_03_eng_rg_64kb_0074	ætɪkl̩
-human_rights_03_eng_rg_64kb_0075	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ fɻˈiːdəm ɒv θˈɔːt kˈɒnʃəns ænd ɻɪlˈɪdʒən
-human_rights_03_eng_rg_64kb_0076	ðˈɪs ɻˈaɪtɪnklˈuːdz fɻˈiːdəm təʊ ɲˈeɪndʒ hˈɪz ɻɪlˈɪdʒən əɜ˞ bɪlˈiːf ænd fɻˈiːdəm ˈaɪðəɜ˞ ələʊn əɜ˞ ˈɪnkəmjˈuːnətɪ wɪð ˈʌðəz ænd ɪn pˈʌblɪk əɜ˞ pɻˈaɪvɪt təʊ mˈænɪfɛst hˈɪz ɻɪlˈɪdʒən əɜ˞ bɪlˈiːf ɪntiːtʃɪŋ pɻˈæktɪs wˈɜːʃɪp ænd əbzˈɜːvn̩sˈiː
+human_rights_03_eng_rg_64kb_0062	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ fɻˈiːdəm ɒv θˈɔːt kˈɒnʃəns ænd ɻɪlˈɪdʒən
+human_rights_03_eng_rg_64kb_0063	ðˈɪs ɻˈaɪt ɪnklˈuːdz fɻˈiːdəm təʊ ɲˈeɪndʒ hˈɪz ɻɪlˈɪdʒən əɜ˞ bɪlˈiːf ænd fɻˈiːdəm ˈaɪðəɜ˞ ələʊn əɜ˞ ɪn kəmjˈuːnətɪ wɪð ˈʌðəz ænd ɪn pˈʌblɪk əɜ˞ pɻˈaɪvɪt təʊ mˈænɪfɛst hˈɪz ɻɪlˈɪdʒən əɜ˞ bɪlˈiːf ɪn tˈiːɲɪŋ pɻˈæktɪs wˈɜːʃɪp ænd əbzˈɜːvn̩sˈiː
+human_rights_03_eng_rg_64kb_0064	ætɪkl̩
+human_rights_03_eng_rg_64kb_0065	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ fɻˈiːdəm ɒv əpˈɪnjən ænd ɪkspɻˈɛʃn̩
+human_rights_03_eng_rg_64kb_0066	ðˈɪs ɻˈaɪt ɪnklˈuːdz fɻˈiːdəm təʊ hˈəʊld əpˈɪnjənz wɪðˈaʊt ˈɪntəfˈɪəɻəns ænd təʊ sˈiːk ɻɪsˈiːv ænd ɪmpɑːt ɪnfɔːmˈeɪʃn̩ ænd aɪdˈɪəz θɻˈuː ˈɛnɪ mˈiːdjə ænd ɻɪɡˈɑːdlɪs ɒv fɻˈʌntˈɪəzˈiː
+human_rights_03_eng_rg_64kb_0067	ætɪkl̩
+human_rights_03_eng_rg_64kb_0068	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ fɻˈiːdəm ɒv pˈiːsfʊl əsˈɛmblɪ ænd əsˈəʊʃɪeɪʃn̩ˈiː
+human_rights_03_eng_rg_64kb_0069	nəʊ wˈʌn mˈeɪ b kəmpˈɛld təʊ bɪlˈɒŋ təʊ æn əsˈəʊʃɪeɪʃn̩ˈiː
+human_rights_03_eng_rg_64kb_0070	ætɪkl̩
+human_rights_03_eng_rg_64kb_0071	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ tˈeɪk pˈɑːt ɪn θɪ ɡˈʌvn̩mənt ɒv hˈɪz kˈʌntɻɪ dɪɻˈɛktlɪ əɜ˞ θɻˈuː fɻˈiːlɪ ɲˈəʊzn̩ ɻˈɛpɻɪzˈɛntətɪvs
+human_rights_03_eng_rg_64kb_0072	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt ɒv ɪkwəl əksɛs təʊ pˈʌblɪk sˈɜːvɪs ɪn hˈɪz kˈʌntɻɪˈiː
+human_rights_03_eng_rg_64kb_0073	tʃ wˈɪl ɒv θɪ pˈiːpl̩ ʃˈæl b θɪ beɪsɪs ɒv θɪ ɔːθˈɒɻətɪ ɒv ɡˈʌvn̩mənt
+human_rights_03_eng_rg_64kb_0074	ðˈɪs wˈɪl ʃˈæl b ɪkspɻˈɛst ɪn pˈɪəɻɪˈɒdɪk ænd dʒˈɛnjʊɪn ɪlˈɛkʃn̩z wˈɪɲ ʃˈæl b bˈaɪ jˈuːnɪvɜːsl̩ ænd ɪkwəl sˈʌfɻɪdʒ ænd ʃˈæl b hˈɛld bˈaɪ sɛkrət vˈəʊt əɜ˞ bˈaɪ ɪkwˈɪvələnt fɻˈiː vˈəʊtɪŋ pɻəsˈiːdʒəzdɪ
+human_rights_03_eng_rg_64kb_0075	ætɪkl̩
+human_rights_03_eng_rg_64kb_0076	ˈiːvrɪwʌn əs ə mˈɛmbəɜ˞ ɒv səsˈaɪətɪ hˈæz θɪ ɻˈaɪt təʊ sˈəʊʃl̩ sɪkjˈʊəɻətɪ ænd ɪz ɪntˈaɪtl̩d təʊ rɪəlaɪzeɪʃən θɻˈuː nˈæʃənl̩ ˈɛfət ænd ˈɪntənˈæʃənl̩ kəʊˈɒpəɻˈeɪʃn̩ ænd ɪn əkˈɔːdəns wɪð θɪ ˈɔːɡənaɪzˈeɪʃn̩ ænd ɻɪsˈɔːsɪz ɒv ˈiːɲ stˈeɪt ɒv θɪ ˈiːkənˈɒmɪk sˈəʊʃl̩ ænd kˈʌlɲəɻəl ɻˈaɪts ˈɪndɪspˈɛnsəbl̩ fˈɔːɜ˞ hˈɪz dˈɪɡnətɪ ænd θɪ fɻˈiː dɪvˈɛləpmənt ɒv hˈɪz pˈɜːsənˈælətɪˈiː
 human_rights_03_eng_rg_64kb_0077	ætɪkl̩
-human_rights_03_eng_rg_64kb_0078	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ fɻˈiːdəm ɒv əpˈɪnjən ænd ɪkspɻˈɛʃn̩
-human_rights_03_eng_rg_64kb_0079	ðˈɪs ɻˈaɪt ɪnklˈuːdzfɻˈiːdəm təʊ hˈəʊld əpˈɪnjənz wɪðˈaʊt ˈɪntəfˈɪəɻəns ænd təʊ sˈiːk ɻɪsˈiːv ænd ɪmpˈɑːtɪnfɔːmˈeɪʃn̩ ænd aɪdˈɪəz θɻˈuː ˈɛnɪ mˈiːdjə ænd ɻɪɡˈɑːdlɪs ɒv fɻˈʌntˈɪəzˈiː
-human_rights_03_eng_rg_64kb_0080	ætɪkl̩
-human_rights_03_eng_rg_64kb_0081	ˈiː
-human_rights_03_eng_rg_64kb_0082	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ fɻˈiːdəm ɒv pˈiːsfʊl əsˈɛmblɪ ænd əsˈəʊʃɪeɪʃn̩ˈiː
-human_rights_03_eng_rg_64kb_0083	ˈiː
-human_rights_03_eng_rg_64kb_0084	nəʊ wˈʌn mˈeɪ b kəmpˈɛld təʊ bɪlˈɒŋ təʊ æn əsˈəʊʃɪeɪʃn̩ˈiː
-human_rights_03_eng_rg_64kb_0085	ætɪkl̩
-human_rights_03_eng_rg_64kb_0086	ˈiː
-human_rights_03_eng_rg_64kb_0087	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ tˈeɪk pˈɑːt ɪn θɪ ɡˈʌvn̩mənt ɒv hˈɪz kˈʌntɻɪdɪrɛktlɪ əɜ˞ θɻˈuː fɻˈiːlɪ ɲˈəʊzn̩ ɻˈɛpɻɪzˈɛntətɪvs
-human_rights_03_eng_rg_64kb_0088	ˈiː
-human_rights_03_eng_rg_64kb_0089	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ɪkwəl əksɛs təʊ pˈʌblɪk sˈɜːvɪs ɪn hˈɪz kˈʌntɻɪˈiː
-human_rights_03_eng_rg_64kb_0090	ˈiː
-human_rights_03_eng_rg_64kb_0091	tʃ wˈɪl ɒv θɪ pˈiːpl̩ ʃˈæl b θɪ beɪsɪs ɒv θɪ ɔːθˈɒɻətɪ ɒv ɡˈʌvn̩mənt
-human_rights_03_eng_rg_64kb_0092	ðˈɪs wˈɪl ʃˈæl b ɪkspɻˈɛst ɪn pˈɪəɻɪˈɒdɪk ænd dʒˈɛnjʊɪn ɪlˈɛkʃn̩z wˈɪɲ ʃˈælb bˈaɪ jˈuːnɪvɜːsl̩ ænd ɪkwəl sˈʌfɻɪdʒ ænd ʃˈæl b hˈɛld bˈaɪ sɛkrət vˈəʊt əɜ˞ bˈaɪɪkwˈɪvələnt fɻˈiː vˈəʊtɪŋ pɻəsˈiːdʒəzdɪ
-human_rights_03_eng_rg_64kb_0093	ætɪkl̩
-human_rights_03_eng_rg_64kb_0094	ˈiːvrɪwʌn əs ə mˈɛmbəɜ˞ ɒv səsˈaɪətɪ hˈæz θɪ ɻˈaɪt təʊ sˈəʊʃl̩ sɪkjˈʊəɻətɪ ænd ɪz ɪntˈaɪtl̩dtəʊ rɪəlaɪzeɪʃən θɻˈuː nˈæʃənl̩ ˈɛfət ænd ˈɪntənˈæʃənl̩ kˈəʊˈɒpəɻˈeɪʃn̩ ænd ɪnˈækˈɔːdəns wɪð θɪ ˈɔːɡənaɪzˈeɪʃn̩ ænd ɻɪsˈɔːsɪz ɒv ˈiːɲ stˈeɪt ɒv θɪ ˈiːkənˈɒmɪksˈəʊʃl̩ ænd kˈʌlɲəɻəl ɻˈaɪts ˈɪndɪspˈɛnsəbl̩ fˈɔːɜ˞ hˈɪz dˈɪɡnətɪ ænd θɪ fɻˈiː dɪvˈɛləpməntɒv hˈɪz pˈɜːsənˈælətɪˈiː
-human_rights_03_eng_rg_64kb_0095	ætɪkl̩
-human_rights_03_eng_rg_64kb_0096	ˈiː
-human_rights_03_eng_rg_64kb_0097	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ wˈɜːk təʊ fɻˈiː ɲˈɔɪs ɒv ɪmplˈɔɪmənt təʊ dʒˈʌst ˈændfˈeɪvəɻəbl̩ kəndˈɪʃn̩z ɒv wɜːk ænd təʊ pɻətˈɛkʃn̩ əɡˈɛnst ˈʌnɪmplˈɔɪməntˈiː
-human_rights_03_eng_rg_64kb_0098	ˈiː
-human_rights_03_eng_rg_64kb_0099	ˈiːvrɪwʌn wɪðˈaʊt ˈɛnɪ dɪskɻˈɪmɪnˈeɪʃən hˈæz θɪ ɻˈaɪt təʊ ɪkwəl pˈeɪ fˈɔːɜ˞ ɪkwəlwˈɜːkˈiː
-human_rights_03_eng_rg_64kb_0100	ˈiː
-human_rights_03_eng_rg_64kb_0101	ˈiːvrɪwʌn hˈuː wɜːks hˈæz θɪ ɻˈaɪt təʊ dʒˈʌst ænd fˈeɪvəɻəbl̩ ɻɪmjˈuːnəɻˈeɪʃn̩ˈɛnʃəɻɪŋ fˈɔːɜ˞ hɪmsˈɛlf ænd hˈɪz fˈæməlɪ æn ɪɡzˈɪstəns wˈɜːðɪ ɒv hjˈuːmən dˈɪɡnətɪænd sˈʌplɪmɛntɪd ɪf nˈɛsəsərɪ bˈaɪ ˈʌðəɜ˞ mˈiːnz ɒv sˈəʊʃl̩ pɻətˈɛkʃn̩ˈiː
-human_rights_03_eng_rg_64kb_0102	ˈiː
-human_rights_03_eng_rg_64kb_0103	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ fɔːm ænd təʊ dʒˈɔɪn tɻˈeɪd jˈuːnjənz fˈɔːɜ˞ θɪ pɻətˈɛkʃn̩ əvɪz ˈɪntɻəsts
-human_rights_03_eng_rg_64kb_0104	ætɪkl̩
-human_rights_03_eng_rg_64kb_0105	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ɻɪst ænd lˈɛʒə ɪnklˈuːdɪŋ ɻˈiːzn̩əbl̩ lˈɪmɪtˈeɪʃn̩ ɒvwˈɜːkɪŋ ˈaʊəz ænd pˈɪəɻɪˈɒdɪk hˈɒlədeɪz wɪð pˈeɪˈiː
-human_rights_03_eng_rg_64kb_0106	ætɪkl̩
-human_rights_03_eng_rg_64kb_0107	ˈiː
-human_rights_03_eng_rg_64kb_0108	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ə stˈændəd ɒv lˈɪvɪŋ ˈædɪkwət fˈɔːɜ˞ θɪ hˈɛlθ ændwˈɛlbˈiːɪŋ ɒv hɪmsˈɛlf ænd ɒv hˈɪz fˈæməlɪ ɪnklˈuːdɪŋ fˈuːd klˈəʊðɪŋ hˈaʊzɪŋænd mˈɛdɪkl̩ kɛə* ænd nˈɛsəsərɪ sˈəʊʃl̩ sˈɜːvɪss ænd θɪ ɻˈaɪt təʊ sɪkjˈʊəɻətɪɪn θɪ ɪvˈɛnt ɒv ˈʌnɪmplˈɔɪmənt sˈɪknɪs dˈɪsəbˈɪlətɪ wˈɪdəʊhʊd ˈəʊld ˈeɪdʒ ɒrʌðə* lˈæk ɒv lˈaɪvlɪhʊd ɪn sˈɜːkəmstənsɪz bɪjɒnd hˈɪz kəntɻˈəʊlˈaɪ
-human_rights_03_eng_rg_64kb_0109	ˈiː
-human_rights_03_eng_rg_64kb_0110	mˈʌðəhʊd ænd ɲˈaɪldhʊd ɛə* ɪntˈaɪtl̩d təʊ spˈɛʃl̩ kɛə* ænd əsˈɪstənsˈiː
-human_rights_03_eng_rg_64kb_0111	ˈælɲˈɪldɻən wˈɛðəɜ˞ bˈɔːn ɪn əɜ˞ aʊt ɒv wˈɛdlɒk ʃˈæl ɪndʒˈɔɪ θɪ sˈeɪm sˈəʊʃl̩pɻətˈɛkʃn̩ˈiː
-human_rights_03_eng_rg_64kb_0112	ætɪkl̩
-human_rights_03_eng_rg_64kb_0113	ˈiː
-human_rights_03_eng_rg_64kb_0114	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ˈɛdʒʊkˈeɪʃn̩ˈiː
-human_rights_03_eng_rg_64kb_0115	ɪdʒʊkˈeɪʃn̩ ʃˈæl b fɻˈiː ˈæt lˈiːst ɪn θˈiːˈɛlɪmɛntəɻɪ ænd fˈʌndəmˈɛntl̩ stˈeɪdʒs
-human_rights_03_eng_rg_64kb_0116	ɪlɪmɛntəɻɪ ˈɛdʒʊkˈeɪʃn̩ ʃˈæl bɪkəmpˈʌlsəɻɪˈiː
-human_rights_03_eng_rg_64kb_0117	tˈɛknɪkl̩ ænd pɻəfˈɛʃənl̩ ˈɛdʒʊkˈeɪʃn̩ ʃˈæl b mˈædɪdʒˈɛnəɻəlɪ əvˈeɪləbl̩ ænd hˈaɪəɜ˞ ˈɛdʒʊkˈeɪʃn̩ ʃˈæl b ɪkwəlɪ əksɛsəbl̩ təʊ ˈælən θɪ beɪsɪs ɒv mˈɛɻɪtˈiː
-human_rights_03_eng_rg_64kb_0118	ˈiː
-human_rights_03_eng_rg_64kb_0119	ɪdʒʊkˈeɪʃn̩ ʃˈæl b dɪɻˈɛktɪd təʊ θɪ fˈʊl dɪvˈɛləpmənt ɒv θɪ hjuːmˈænpˈɜːsənˈælətɪ ænd təʊ θɪ stɻˈɛŋθənɪŋ ɒv ɻɪspɛkt fˈɔːɜ˞ hjˈuːmən ɻˈaɪts ˈændfʌndəmˈɛntl̩ fɻˈiːdəms
-human_rights_03_eng_rg_64kb_0120	ɪt ʃˈæl pɻəmˈəʊt ˈʌndəstˈændɪŋ tˈɒləɻəns ˈændfrɛndʃɪp əmˈʌŋ ɔːl nˈæʃn̩z ɻˈeɪʃl̩ əɜ˞ ɻɪlˈɪdʒəs ɡɻˈuːps ænd ʃˈæl fˈɜːðəɪð æktˈɪvətɪz ɒv θɪ jˈuːnɪtɪd nˈæʃənz fˈɔːɜ˞ θɪ meɪntˈɛnəns ɒv pˈiːsˈiː
-human_rights_03_eng_rg_64kb_0121	ˈiː
-human_rights_03_eng_rg_64kb_0122	pærənts hˈæv ə pɻˈaɪəɜ˞ ɻˈaɪt təʊ ɲˈuːs θɪ kˈaɪnd ɒv ˈɛdʒʊkˈeɪʃn̩ ðˈæt ʃˈæl bɪɡˈɪvn̩ təʊ ðˈɛə ɲˈaɪldɻən
-human_rights_03_eng_rg_64kb_0123	ætɪkl̩
-human_rights_03_eng_rg_64kb_0124	ˈiː
-human_rights_03_eng_rg_64kb_0125	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt fɻˈiːlɪ təʊ pɑːtˈɪsɪpeɪt ɪn θɪ kˈʌlɲəɻəl lˈaɪf ɒv θˈɛkəmjˈuːnətɪ təʊ ɪndʒˈɔɪ θɪ ˈɑːts ænd təʊ ʃˈɛəɜ˞ ɪn sˈaɪəntɪfɪk ədvˈɑːnsmənt ˈændɪts bˈɛnɪfɪtsn̩
-human_rights_03_eng_rg_64kb_0126	ˈiː
-human_rights_03_eng_rg_64kb_0127	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ θɪ pɻətˈɛkʃn̩ ɒv θɪ mˈɒɻəl ænd mətˈɪəɻɪəl ˈɪntɻəstsɻɪzˈʌltɪŋ fɻˈɒm ˈɛnɪ sˈaɪəntɪfɪk lˈɪtəɻəɻɪ əɜ˞ ɑːtˈɪstɪk pɻədˈʌkʃn̩ ɒv wˈɪɲ hˈiː ɪz θɪɔːθˈɒɻən
-human_rights_03_eng_rg_64kb_0128	ætɪkl̩
-human_rights_03_eng_rg_64kb_0129	ˈiːvrɪwʌn ɪz ɪntˈaɪtl̩d təʊ ə sˈəʊʃl̩ ænd ˈɪntənˈæʃənl̩ ˈɔːdəɜ˞ ɪn wˈɪɲ θɪ ɻˈaɪts ˈændfɻˈiːdəmz sˈɛt fˈɔːθ ɪn ðˈɪs dˈɛkləreɪʃn̩ kən b fʊlɪ ɻˈɪəlaɪzdˈiː
-human_rights_03_eng_rg_64kb_0130	ætɪkl̩
-human_rights_03_eng_rg_64kb_0131	ˈiː
-human_rights_03_eng_rg_64kb_0132	ˈiːvrɪwʌn hˈæz djˈuːtɪz təʊ θɪ kəmjˈuːnətɪ ɪn wˈɪɲ ələʊn θɪ fɻˈiː ænd fˈʊldɪvˈɛləpmənt ɒv hˈɪz pˈɜːsənˈælətɪ ɪz pˈɒsəbl̩ˈiː
-human_rights_03_eng_rg_64kb_0133	ˈiː
-human_rights_03_eng_rg_64kb_0134	ˈɪn θɪ ˈɛksəsaɪz ɒv hˈɪz ɻˈaɪts ænd fɻˈiːdəmz ˈɛvɻɪwʌn ʃˈæl b sˈʌbdʒɪkt ˈəʊnlɪtuː sʌtʃ lˈɪmɪtˈeɪʃn̩z əs ɛə* dɪtˈɜːmɪnd bˈaɪ lˈɔː səʊllɪ fˈɔːɜ˞ θɪ pˈɜːpəs ˈɒfsɪkjˈʊəɻɪŋ djuː ɻˈiːkɒɡnˈɪʃn̩ ænd ɻɪspɛkt fˈɔːɜ˞ θɪ ɻˈaɪts ænd fɻˈiːdəmz ɒv ˈʌðəsænd ɒv mˈiːtɪŋ θɪ dʒˈʌst ɻɪkwˈaɪəmənts ɒv məɻˈælətɪ pˈʌblɪk ˈɔːdəɜ˞ ænd θɪdʒɛnərəl wɛlfɛə* ɪn ə dˈɛməkrætɪk səsˈaɪətɪˈiː
-human_rights_03_eng_rg_64kb_0135	ˈiː
-human_rights_03_eng_rg_64kb_0136	θˈɛsɪ ɻˈaɪts ænd fɻˈiːdəmz mˈeɪ ɪn nəʊ kˈeɪs b ˈɛksəsaɪzd kəntɻəɻɪ təʊ θɪpˈɜːpəsɪz ænd pɻˈɪnsəpl̩z ɒv θɪ jˈuːnɪtɪd nˈæʃn̩s
-human_rights_03_eng_rg_64kb_0137	ætɪkl̩
-human_rights_03_eng_rg_64kb_0138	nˈəʊðɪŋ ɪn ðˈɪs dˈɛkləreɪʃn̩ mˈeɪ b ɪntˈɜːpɻɪtɪd əs ɪmplˈaɪɪŋ fˈɔːɜ˞ ˈɛnɪ stˈeɪt ɡɻˈuːp ɔɹpˈɜːsn̩ ˈɛnɪ ɻˈaɪt təʊ ɪnɡˈeɪdʒ ɪn ˈɛnɪ æktˈɪvətɪ əɜ˞ təʊ pəfˈɔːm ˈɛnɪ ækt ˈeɪmd ˈæt θˈiːdɪsɻˈʌkʃn̩ ɒv ˈɛnɪ ɒv θɪ ɻˈaɪts ænd fɻˈiːdəmz sˈɛt fˈɔːθ hˈɪəɻˈɪnˈiː
+human_rights_03_eng_rg_64kb_0078	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ wˈɜːk təʊ fɻˈiː ɲˈɔɪs ɒv ɪmplˈɔɪmənt təʊ dʒˈʌst ænd fˈeɪvəɻəbl̩ kəndˈɪʃn̩z ɒv wɜːk ænd təʊ pɻətˈɛkʃn̩ əɡˈɛnst ˈʌnɪmplˈɔɪməntˈiː
+human_rights_03_eng_rg_64kb_0079	ˈiːvrɪwʌn wɪðˈaʊt ˈɛnɪ dɪskɻˈɪmɪnˈeɪʃən hˈæz θɪ ɻˈaɪt təʊ ɪkwəl pˈeɪ fˈɔːɜ˞ ɪkwəl wˈɜːkˈiː
+human_rights_03_eng_rg_64kb_0080	ˈiːvrɪwʌn hˈuː wɜːks hˈæz θɪ ɻˈaɪt təʊ dʒˈʌst ænd fˈeɪvəɻəbl̩ ɻɪmjˈuːnəɻˈeɪʃn̩ ɪnʃˈɔːɻɪŋ fˈɔːɜ˞ hɪmsˈɛlf ænd hˈɪz fˈæməlɪ æn ɪɡzˈɪstəns wˈɜːðɪ ɒv hjˈuːmən dˈɪɡnətɪ ænd sˈʌplɪmɛntɪd ɪf nˈɛsəsərɪ bˈaɪ ˈʌðəɜ˞ mˈiːnz ɒv sˈəʊʃl̩ pɻətˈɛkʃn̩ˈiː
+human_rights_03_eng_rg_64kb_0081	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ fɔːm ænd təʊ dʒˈɔɪn tɻˈeɪd jˈuːnjənz fˈɔːɜ˞ θɪ pɻətˈɛkʃn̩ ɒv hˈɪz ˈɪntɻəsts
+human_rights_03_eng_rg_64kb_0082	ætɪkl̩
+human_rights_03_eng_rg_64kb_0083	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ɻɪst ænd lˈɛʒə ɪnklˈuːdɪŋ ɻˈiːzn̩əbl̩ lˈɪmɪtˈeɪʃn̩ ɒv wˈɜːkɪŋ ˈaʊəz ænd pˈɪəɻɪˈɒdɪk hˈɒlədeɪz wɪð pˈeɪˈiː
+human_rights_03_eng_rg_64kb_0084	ætɪkl̩
+human_rights_03_eng_rg_64kb_0085	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ə stˈændəd ɒv lˈɪvɪŋ ˈædɪkwət fˈɔːɜ˞ θɪ hˈɛlθ ænd wɛɫbiɪŋ ɒv hɪmsˈɛlf ænd ɒv hˈɪz fˈæməlɪ ɪnklˈuːdɪŋ fˈuːd klˈəʊðɪŋ hˈaʊzɪŋ ænd mˈɛdɪkl̩ kɛə* ænd nˈɛsəsərɪ sˈəʊʃl̩ sˈɜːvɪss ænd θɪ ɻˈaɪt təʊ sɪkjˈʊəɻətɪ ɪn θɪ ɪvˈɛnt ɒv ˈʌnɪmplˈɔɪmənt sˈɪknɪs dˈɪsəbˈɪlətɪ wˈɪdəʊhʊd ˈəʊld ˈeɪdʒ əɜ˞ ˈʌðəɜ˞ lˈæk ɒv lˈaɪvlɪhʊd ɪn sˈɜːkəmstənsɪz bɪjɒnd hˈɪz kəntɻˈəʊlˈaɪ
+human_rights_03_eng_rg_64kb_0086	mˈʌðəhʊd ænd ɲˈaɪldhʊd ɛə* ɪntˈaɪtl̩d təʊ spˈɛʃl̩ kɛə* ænd əsˈɪstənsˈiː
+human_rights_03_eng_rg_64kb_0087	ˈæl ɲˈaɪldɻən wˈɛðəɜ˞ bˈɔːn ɪn əɜ˞ aʊt ɒv wˈɛdlɒk ʃˈæl ɪndʒˈɔɪ θɪ sˈeɪm sˈəʊʃl̩ pɻətˈɛkʃn̩ˈiː
+human_rights_03_eng_rg_64kb_0088	ætɪkl̩
+human_rights_03_eng_rg_64kb_0089	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ ˈɛdʒʊkˈeɪʃn̩ˈiː
+human_rights_03_eng_rg_64kb_0090	ɪdʒʊkˈeɪʃn̩ ʃˈæl b fɻˈiː ˈæt lˈiːst ɪn θɪ ˈɛlɪmɛntəɻɪ ænd fˈʌndəmˈɛntl̩ stˈeɪdʒs
+human_rights_03_eng_rg_64kb_0091	ɪlɪmɛntəɻɪ ˈɛdʒʊkˈeɪʃn̩ ʃˈæl b kəmpˈʌlsəɻɪˈiː
+human_rights_03_eng_rg_64kb_0092	tˈɛknɪkl̩ ænd pɻəfˈɛʃənl̩ ˈɛdʒʊkˈeɪʃn̩ ʃˈæl b mˈeɪd dʒˈɛnəɻəlɪ əvˈeɪləbl̩ ænd hˈaɪəɜ˞ ˈɛdʒʊkˈeɪʃn̩ ʃˈæl b ɪkwəlɪ əksɛsəbl̩ təʊ ɔːl ɒn θɪ beɪsɪs ɒv mˈɛɻɪtˈiː
+human_rights_03_eng_rg_64kb_0093	ɪdʒʊkˈeɪʃn̩ ʃˈæl b dɪɻˈɛktɪd təʊ θɪ fˈʊl dɪvˈɛləpmənt ɒv θɪ hjˈuːmən pˈɜːsənˈælətɪ ænd təʊ θɪ stɻˈɛŋθənɪŋ ɒv ɻɪspɛkt fˈɔːɜ˞ hjˈuːmən ɻˈaɪts ænd fˈʌndəmˈɛntl̩ fɻˈiːdəms
+human_rights_03_eng_rg_64kb_0094	ɪt ʃˈæl pɻəmˈəʊt ˈʌndəstˈændɪŋ tˈɒləɻəns ænd frɛndʃɪp əmˈʌŋ ɔːl nˈæʃn̩z ɻˈeɪʃl̩ əɜ˞ ɻɪlˈɪdʒəs ɡɻˈuːps ænd ʃˈæl fɜːðə* θɪ æktˈɪvətɪz ɒv θɪ jˈuːnɪtɪd nˈæʃənz fˈɔːɜ˞ θɪ meɪntˈɛnəns ɒv pˈiːsˈiː
+human_rights_03_eng_rg_64kb_0095	pærənts hˈæv ə pɻˈaɪəɜ˞ ɻˈaɪt təʊ ɲˈuːs θɪ kˈaɪnd ɒv ˈɛdʒʊkˈeɪʃn̩ ðˈæt ʃˈæl b ɡˈɪvn̩ təʊ ðˈɛə ɲˈaɪldɻən
+human_rights_03_eng_rg_64kb_0096	ætɪkl̩
+human_rights_03_eng_rg_64kb_0097	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt fɻˈiːlɪ təʊ pɑːtˈɪsɪpeɪt ɪn θɪ kˈʌlɲəɻəl lˈaɪf ɒv θɪ kəmjˈuːnətɪ təʊ ɪndʒˈɔɪ θɪ ˈɑːts ænd təʊ ʃˈɛəɜ˞ ɪn sˈaɪəntɪfɪk ədvˈɑːnsmənt ænd ˈɪts bˈɛnɪfɪtsn̩
+human_rights_03_eng_rg_64kb_0098	ˈiːvrɪwʌn hˈæz θɪ ɻˈaɪt təʊ θɪ pɻətˈɛkʃn̩ ɒv θɪ mˈɒɻəl ænd mətˈɪəɻɪəl ˈɪntɻəsts ɻɪzˈʌltɪŋ fɻˈɒm ˈɛnɪ sˈaɪəntɪfɪk lˈɪtəɻəɻɪ əɜ˞ ɑːtˈɪstɪk pɻədˈʌkʃn̩ ɒv wˈɪɲ hˈiː ɪz θɪ ɔːθˈɒɻən
+human_rights_03_eng_rg_64kb_0099	ætɪkl̩
+human_rights_03_eng_rg_64kb_0100	ˈiːvrɪwʌn ɪz ɪntˈaɪtl̩d təʊ ə sˈəʊʃl̩ ænd ˈɪntənˈæʃənl̩ ˈɔːdəɜ˞ ɪn wˈɪɲ θɪ ɻˈaɪts ænd fɻˈiːdəmz sˈɛt fˈɔːθ ɪn ðˈɪs dˈɛkləreɪʃn̩ kən b fʊlɪ ɻˈɪəlaɪzdˈiː
+human_rights_03_eng_rg_64kb_0101	ætɪkl̩
+human_rights_03_eng_rg_64kb_0102	ˈiːvrɪwʌn hˈæz djˈuːtɪz təʊ θɪ kəmjˈuːnətɪ ɪn wˈɪɲ ələʊn θɪ fɻˈiː ænd fˈʊl dɪvˈɛləpmənt ɒv hˈɪz pˈɜːsənˈælətɪ ɪz pˈɒsəbl̩ˈiː
+human_rights_03_eng_rg_64kb_0103	ˈɪn θɪ ˈɛksəsaɪz ɒv hˈɪz ɻˈaɪts ænd fɻˈiːdəmz ˈɛvɻɪwʌn ʃˈæl b sˈʌbdʒɪkt ˈəʊnlɪ təʊ sʌtʃ lˈɪmɪtˈeɪʃn̩z əs ɛə* dɪtˈɜːmɪnd bˈaɪ lˈɔː səʊllɪ fˈɔːɜ˞ θɪ pˈɜːpəs ɒv sɪkjˈʊəɻɪŋ djuː ɻˈiːkɒɡnˈɪʃn̩ ænd ɻɪspɛkt fˈɔːɜ˞ θɪ ɻˈaɪts ænd fɻˈiːdəmz ɒv ˈʌðəz ænd ɒv mˈiːtɪŋ θɪ dʒˈʌst ɻɪkwˈaɪəmənts ɒv məɻˈælətɪ pˈʌblɪk ˈɔːdəɜ˞ ænd θɪ dʒˈɛnəɻəl wɛlfɛə* ɪn ə dˈɛməkrætɪk səsˈaɪətɪˈiː
+human_rights_03_eng_rg_64kb_0104	θˈɛsɪ ɻˈaɪts ænd fɻˈiːdəmz mˈeɪ ɪn nəʊ kˈeɪs b ˈɛksəsaɪzd kəntɻəɻɪ təʊ θɪ pˈɜːpəsɪz ænd pɻˈɪnsəpl̩z ɒv θɪ jˈuːnɪtɪd nˈæʃn̩s
+human_rights_03_eng_rg_64kb_0105	ætɪkl̩
+human_rights_03_eng_rg_64kb_0106	nˈəʊðɪŋ ɪn ðˈɪs dˈɛkləreɪʃn̩ mˈeɪ b ɪntˈɜːpɻɪtɪd əs ɪmplˈaɪɪŋ fˈɔːɜ˞ ˈɛnɪ stˈeɪt ɡɻˈuːp əɜ˞ pˈɜːsn̩ ˈɛnɪ ɻˈaɪt təʊ ɪnɡˈeɪdʒ ɪn ˈɛnɪ æktˈɪvətɪ əɜ˞ təʊ pəfˈɔːm ˈɛnɪ ækt ˈeɪmd ˈæt θɪ dɪstɻˈʌkʃn̩ ɒv ˈɛnɪ ɒv θɪ ɻˈaɪts ænd fɻˈiːdəmz sˈɛt fˈɔːθ hˈɪəɻˈɪnˈiː

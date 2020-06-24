@@ -1,169 +1,134 @@
 human_rights_un_hun_dii_64kb_0001	Az Emberi Jogok Egyetemes Nyilatkozata
 human_rights_un_hun_dii_64kb_0002	Bevezető
-human_rights_un_hun_dii_64kb_0003	Tekintettel arra, hogy az emberiség családja minden egyes tagja méltóságának, valamintegyenlő és elidegeníthetetlen jogainak elismerése alkotja a szabadság, az igazság és abéke alapját a világon,
-human_rights_un_hun_dii_64kb_0004	Tekintettel arra, hogy az emberi jogok el nem ismerése és semmibevevése az emberiséglelkiismeretét fellázító barbár cselekményekhez vezetett, és hogy az ember legfőbb vágyaegy olyan világ eljövetele, amelyben az elnyomástól, valamint a nyomortól megszabadultemberi lények szava és meggyőződése szabad lesz,
-human_rights_un_hun_dii_64kb_0005	Tekintettel annak fontosságára, hogy az emberi jogokat a jog uralma védelmezze, nehogyaz ember végső szükségében a zsarnokság és az elnyomás elleni lázadásra kényszerüljön,
-human_rights_un_hun_dii_64kb_0006	Tekintettel arra, hogy igen lényeges a nemzetek közötti baráti kapcsolatok kifejeződésénekelőmozdítása,
-human_rights_un_hun_dii_64kb_0007	Tekintettel arra, hogy az Alapokmányban az Egyesült Nemzetek népei újból hitet tettek azalapvető emberi jogok, az emberi személyiség méltósága és értéke, a férfiak és nőkegyenjogúsága mellett, valamint kinyilvánították azt az elhatározásukat, hogy elősegítik aszociális haladást és nagyobb szabadság mellett jobb életfeltételeket valósítanak meg,
-human_rights_un_hun_dii_64kb_0008	Tekintettel arra, hogy a tagállamok kötelezték magukat arra, hogy az Egyesült Nemzetek
-human_rights_un_hun_dii_64kb_0009	Szervezetével együttműködve biztosítják az emberi jogok és alapvető szabadságokáltalános és tényleges tiszteletbentartását,
-human_rights_un_hun_dii_64kb_0010	Tekintettel arra, hogy a jogok és szabadságok mibenléte tekintetében közös felfogáskialakításának a legnagyobb jelentősége van az említett kötelezettség maradéktalanteljesítésének szempontjábóla közgyűlés kinyilvánítja  az emberi jogok egyetemleges nyilatkozatátmint azt a közös eszményt, amelynek elérésére minden népnek ésminden nemzetnek törekednie kell abból a célból, hogy minden személyés a társadalom minden szerve, állandóan szem előtt tartva a jelen
-human_rights_un_hun_dii_64kb_0011	Nyilatkozatot, oktatás és nevelés útján előmozdítsa e jogok ésszabadságok tiszteletbentartásának kifejlesztését, valamint azoknakfokozatosan megvalósuló hazai és nemzetközi jogszabályok útján történőáltalános és tényleges alkalmazását és elismerését mind a tagállamoknépei között, mind pedig a joghatóságuk alatt álló területek népei között.
-human_rights_un_hun_dii_64kb_0012	1.
-human_rights_un_hun_dii_64kb_0013	cikk
-human_rights_un_hun_dii_64kb_0014	Minden.
-human_rights_un_hun_dii_64kb_0015	emberi lény szabadon születik és egyenlő méltósága és joga van.
-human_rights_un_hun_dii_64kb_0016	Az emberek,ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogyviseltessenek.
-human_rights_un_hun_dii_64kb_0017	2.
-human_rights_un_hun_dii_64kb_0018	cikk
-human_rights_un_hun_dii_64kb_0019	Mindenki, bármely megkülönböztetésre, nevezetesen fajra, színre, nemre, nyelvre, vallásra,politikai vagy bármely más véleményre, nemzeti vagy társadalmi eredetre, vagyonra,születésre, vagy bármely más körülményre való tekintet nélkül hivatkozhat a jelen
-human_rights_un_hun_dii_64kb_0020	Nyilatkozatban kinyilvánított összes jogokra és szabadságokra.
-human_rights_un_hun_dii_64kb_0021	Ezenfelül nem lehet semmiféle megkülönböztetést tenni annak az országnak, vagyterületnek politikai, jogi vagy nemzetközi helyzete alapján sem, amelynek a személyállampolgára, aszerint, hogy az illető ország vagy terület független, gyámság alatt áll, nemautonóm vagy szuverenitása bármely vonatkozásban korlátozott.
-human_rights_un_hun_dii_64kb_0022	3.
+human_rights_un_hun_dii_64kb_0003	Tekintettel arra, hogy az emberiség családja minden egyes tagja méltóságának, valamint egyenlő és elidegeníthetetlen jogainak elismerése alkotja a szabadság, az igazság és a béke alapját a világon,
+human_rights_un_hun_dii_64kb_0004	Tekintettel arra, hogy az emberi jogok el nem ismerése és semmibevevése az emberiség lelkiismeretét fellázító barbár cselekményekhez vezetett, és hogy az ember legfőbb vágya egy olyan világ eljövetele, amelyben az elnyomástól, valamint a nyomortól megszabadult emberi lények szava és meggyőződése szabad lesz,
+human_rights_un_hun_dii_64kb_0005	Tekintettel annak fontosságára, hogy az emberi jogokat a jog uralma védelmezze, nehogy az ember végső szükségében a zsarnokság és az elnyomás elleni lázadásra kényszerüljön,
+human_rights_un_hun_dii_64kb_0006	Tekintettel arra, hogy igen lényeges a nemzetek közötti baráti kapcsolatok kifejeződésének előmozdítása,
+human_rights_un_hun_dii_64kb_0007	Tekintettel arra, hogy az Alapokmányban az Egyesült Nemzetek népei újból hitet tettek az alapvető emberi jogok, az emberi személyiség méltósága és értéke, a férfiak és nők egyenjogúsága mellett, valamint kinyilvánították azt az elhatározásukat, hogy elősegítik a szociális haladást és nagyobb szabadság mellett jobb életfeltételeket valósítanak meg,
+human_rights_un_hun_dii_64kb_0008	Tekintettel arra, hogy a tagállamok kötelezték magukat arra, hogy az Egyesült Nemzetek Szervezetével együttműködve biztosítják az emberi jogok és alapvető szabadságok általános és tényleges tiszteletbentartását,
+human_rights_un_hun_dii_64kb_0009	Tekintettel arra, hogy a jogok és szabadságok mibenléte tekintetében közös felfogás kialakításának a legnagyobb jelentősége van az említett kötelezettség maradéktalan teljesítésének szempontjábóla közgyűlés kinyilvánítja az emberi jogok egyetemleges nyilatkozatátmint azt a közös eszményt, amelynek elérésére minden népnek és minden nemzetnek törekednie kell abból a célból, hogy minden személy és a társadalom minden szerve, állandóan szem előtt tartva a jelen Nyilatkozatot, oktatás és nevelés útján előmozdítsa e jogok és szabadságok tiszteletbentartásának kifejlesztését, valamint azoknak fokozatosan megvalósuló hazai és nemzetközi jogszabályok útján történő általános és tényleges alkalmazását és elismerését mind a tagállamok népei között, mind pedig a joghatóságuk alatt álló területek népei között.
+human_rights_un_hun_dii_64kb_0010	1.
+human_rights_un_hun_dii_64kb_0011	cikk
+human_rights_un_hun_dii_64kb_0012	Minden.
+human_rights_un_hun_dii_64kb_0013	emberi lény szabadon születik és egyenlő méltósága és joga van.
+human_rights_un_hun_dii_64kb_0014	Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.
+human_rights_un_hun_dii_64kb_0015	2.
+human_rights_un_hun_dii_64kb_0016	cikk
+human_rights_un_hun_dii_64kb_0017	Mindenki, bármely megkülönböztetésre, nevezetesen fajra, színre, nemre, nyelvre, vallásra, politikai vagy bármely más véleményre, nemzeti vagy társadalmi eredetre, vagyonra, születésre, vagy bármely más körülményre való tekintet nélkül hivatkozhat a jelen Nyilatkozatban kinyilvánított összes jogokra és szabadságokra.
+human_rights_un_hun_dii_64kb_0018	Ezenfelül nem lehet semmiféle megkülönböztetést tenni annak az országnak, vagy területnek politikai, jogi vagy nemzetközi helyzete alapján sem, amelynek a személy állampolgára, aszerint, hogy az illető ország vagy terület független, gyámság alatt áll, nem autonóm vagy szuverenitása bármely vonatkozásban korlátozott.
+human_rights_un_hun_dii_64kb_0019	3.
+human_rights_un_hun_dii_64kb_0020	cikk
+human_rights_un_hun_dii_64kb_0021	Minden személynek joga van az élethez, a szabadsághoz és a személyi biztonsághoz.
+human_rights_un_hun_dii_64kb_0022	4.
 human_rights_un_hun_dii_64kb_0023	cikk
-human_rights_un_hun_dii_64kb_0024	Minden személynek joga van az élethez, a szabadsághoz és a személyi biztonsághoz.
-human_rights_un_hun_dii_64kb_0025	4.
+human_rights_un_hun_dii_64kb_0024	Senkit sem lehet rabszolgaságban, vagy szolgaságban tartani, a rabszolgaság és a rabszolgakereskedés minden alakja tilos.
+human_rights_un_hun_dii_64kb_0025	5.
 human_rights_un_hun_dii_64kb_0026	cikk
-human_rights_un_hun_dii_64kb_0027	Senkit sem lehet rabszolgaságban, vagy szolgaságban tartani, a rabszolgaság és arabszolgakereskedés minden alakja tilos.
-human_rights_un_hun_dii_64kb_0028	5.
+human_rights_un_hun_dii_64kb_0027	Senkit sem lehet kínvallatásnak, avagy kegyetlen, embertelen vagy lealacsonyító büntetésnek vagy bánásmódnak alávetni.
+human_rights_un_hun_dii_64kb_0028	6.
 human_rights_un_hun_dii_64kb_0029	cikk
-human_rights_un_hun_dii_64kb_0030	Senkit sem lehet kínvallatásnak, avagy kegyetlen, embertelen vagy lealacsonyítóbüntetésnek vagy bánásmódnak alávetni.
-human_rights_un_hun_dii_64kb_0031	6.
+human_rights_un_hun_dii_64kb_0030	Mindenkinek joga van ahhoz, hogy jogalanyiságát bárhol elismerjék.
+human_rights_un_hun_dii_64kb_0031	7.
 human_rights_un_hun_dii_64kb_0032	cikk
-human_rights_un_hun_dii_64kb_0033	Mindenkinek joga van ahhoz, hogy jogalanyiságát bárhol elismerjék.
-human_rights_un_hun_dii_64kb_0034	7.
-human_rights_un_hun_dii_64kb_0035	cikk
-human_rights_un_hun_dii_64kb_0036	A törvény előtt mindenki egyenlő és minden megkülönböztetés nélkül joga van a törvényegyenlő védelméhez.
-human_rights_un_hun_dii_64kb_0037	Mindenkinek joga van egyenlő védelemhez a jelen Nyilatkozatot sértőminden megkülönböztetéssel és minden ilyen megkülönböztetésre irányuló felbujtássalszemben.
-human_rights_un_hun_dii_64kb_0038	8.
+human_rights_un_hun_dii_64kb_0033	A törvény előtt mindenki egyenlő és minden megkülönböztetés nélkül joga van a tőrvény egyenlő védelméhez.
+human_rights_un_hun_dii_64kb_0034	Mindenkinek joga van egyenlő védelemhez a jelen Nyilatkozatot sértő minden megkülönböztetéssel és minden ilyen megkülönböztetésre irányuló felbujtással szemben.
+human_rights_un_hun_dii_64kb_0035	8.
+human_rights_un_hun_dii_64kb_0036	cikk
+human_rights_un_hun_dii_64kb_0037	Minden személynek joga van az alkotmányban vagy a törvényben részére biztosított alapvető jogokat sértő eljárások ellen a hazai bíróságokhoz tényleges jogorvoslatért folyamodni.
+human_rights_un_hun_dii_64kb_0038	9.
 human_rights_un_hun_dii_64kb_0039	cikk
-human_rights_un_hun_dii_64kb_0040	Minden személynek joga van az alkotmányban vagy a törvényben részére biztosítottalapvető jogokat sértő eljárások ellen a hazai bíróságokhoz tényleges jogorvoslatértfolyamodni.
-human_rights_un_hun_dii_64kb_0041	9.
+human_rights_un_hun_dii_64kb_0040	Senkit sem lehet önkényesen letartóztatni, őrizetbe venni vagy száműzni.
+human_rights_un_hun_dii_64kb_0041	10.
 human_rights_un_hun_dii_64kb_0042	cikk
-human_rights_un_hun_dii_64kb_0043	Senkit sem lehet önkényesen letartóztatni, őrizetbe venni vagy száműzni.
-human_rights_un_hun_dii_64kb_0044	10.
+human_rights_un_hun_dii_64kb_0043	Minden személynek teljesen egyenlő joga van arra, hogy ügyét független és pártatlan bíróság méltányosan és nyilvánosan tárgyalja, s ez határozzon egyrészt jogai és kőtelezettségei felől, másrészt minden ellene emelt bűnügyi vád megalapozottsága felől.
+human_rights_un_hun_dii_64kb_0044	11.
 human_rights_un_hun_dii_64kb_0045	cikk
-human_rights_un_hun_dii_64kb_0046	Minden személynek teljesen egyenlő joga van arra, hogy ügyét független és pártatlanbíróság méltányosan és nyilvánosan tárgyalja, s ez határozzon  egyrészt jogai éskőtelezettségei felől, másrészt minden ellene emelt bűnügyi vád megalapozottsága felől.
-human_rights_un_hun_dii_64kb_0047	11.
-human_rights_un_hun_dii_64kb_0048	cikk
-human_rights_un_hun_dii_64kb_0049	1.
-human_rights_un_hun_dii_64kb_0050	Minden büntetendő cselekménnyel vádolt személyt ártatlannak kell vélelmeznimindaddig, amíg bűnősségét nyilvánosan lefolytatott perben, a védelméhez szükségesvalamennyi biztosíték mellett, törvényesen megállapítják.
-human_rights_un_hun_dii_64kb_0051	2.
-human_rights_un_hun_dii_64kb_0052	Senkit sem szabad elítélni oly cselekményért vagy mulasztásért, amely elkövetésepillanatában a hazai jog vagy a nemzetközi jog szerint nem volt büntetendő cselekmény.
-human_rights_un_hun_dii_64kb_0053	Ugyancsak nem szabad súlyosabb büntetést kiszabni, mint amely a büntetendőcselekmény elkövetése pillanatában volt alkalmazható.
-human_rights_un_hun_dii_64kb_0054	12.
-human_rights_un_hun_dii_64kb_0055	cikk
-human_rights_un_hun_dii_64kb_0056	Senkinek magánéletébe, családi ügyeibe, lakóhelye megválasztásába vagy levelezésébenem szabad önkényesen beavatkozni, sem pedig becsületében vagy jó hírnevébenmegsérteni.
-human_rights_un_hun_dii_64kb_0057	Minden személynek joga van az ilyen beavatkozásokkal vagy sértésekkelszemben a törvény védelméhez.
-human_rights_un_hun_dii_64kb_0058	13.
-human_rights_un_hun_dii_64kb_0059	cikk
-human_rights_un_hun_dii_64kb_0060	1.
-human_rights_un_hun_dii_64kb_0061	Az államon belül minden személynek joga van szabadon mozogni és lakóhelyétszabadon megválasztani.
-human_rights_un_hun_dii_64kb_0062	2.
-human_rights_un_hun_dii_64kb_0063	Minden személynek joga van minden országot, ideértve saját hazáját is, elhagyni,valamint saját hazájába visszatérni.
-human_rights_un_hun_dii_64kb_0064	14.
-human_rights_un_hun_dii_64kb_0065	cikk
-human_rights_un_hun_dii_64kb_0066	1.
-human_rights_un_hun_dii_64kb_0067	Minden személynek joga van az üldözés elől más országban menedéket keresni és amás ország nyújtotta menedéket élvezni.
-human_rights_un_hun_dii_64kb_0068	2.
-human_rights_un_hun_dii_64kb_0069	Erre a jogra nem lehet hivatkozni közönséges bűncselekmény miatti.
-human_rights_un_hun_dii_64kb_0070	kellőképpenmegalapozott üldözés, sem pedig az Egyesült Nemzetek céljaival és elveivel ellentétestevékenység esetében.
-human_rights_un_hun_dii_64kb_0071	15.
-human_rights_un_hun_dii_64kb_0072	cikk
-human_rights_un_hun_dii_64kb_0073	1.
-human_rights_un_hun_dii_64kb_0074	Minden személynek joga van valamely állampolgársághoz.
-human_rights_un_hun_dii_64kb_0075	2.
-human_rights_un_hun_dii_64kb_0076	Senkit sem lehet sem állampolgárságától, sem állampolgársága megváltoztatásánakjogától önkényesen megfosztani.
-human_rights_un_hun_dii_64kb_0077	16.
-human_rights_un_hun_dii_64kb_0078	cikk
-human_rights_un_hun_dii_64kb_0079	1.
-human_rights_un_hun_dii_64kb_0080	Mind a férfinak, mind a nőnek a házasságra érett kor elérésétől kezdve joga van fajon,nemzetiségen vagy valláson alapuló korlátozás nélkül házasságot kötni és családotalapítani.
-human_rights_un_hun_dii_64kb_0081	A házasság tekintetében a férfinak és a nőnek mind a házasság tartama alatt,mind a házasság felbontása tekintetében egyenlő jogai vannak.
-human_rights_un_hun_dii_64kb_0082	2.
-human_rights_un_hun_dii_64kb_0083	Házasságot csak a jövendő házastársak szabad és teljes beleegyezésével lehet kötni.
-human_rights_un_hun_dii_64kb_0084	3.
-human_rights_un_hun_dii_64kb_0085	A család a társadalom természetes és alapvető alkotó eleme és joga van a társadalom,valamint az állam védelmére.
-human_rights_un_hun_dii_64kb_0086	17.
+human_rights_un_hun_dii_64kb_0046	Minden büntetendő cselekménnyel vádolt személyt ártatlannak kell vélelmezni mindaddig, amíg bűnősségét nyilvánosan lefolytatott perben, a védelméhez szükséges valamennyi biztosíték mellett, törvényesen megállapítják.
+human_rights_un_hun_dii_64kb_0047	Senkit sem szabad elítélni oly cselekményért vagy mulasztásért, amely elkövetése pillanatában a hazai jog vagy a nemzetközi jog szerint nem volt büntetendő cselekmény.
+human_rights_un_hun_dii_64kb_0048	Ugyancsak nem szabad súlyosabb büntetést kiszabni, mint amely a büntetendő cselekmény elkövetése pillanatában volt alkalmazható.
+human_rights_un_hun_dii_64kb_0049	12.
+human_rights_un_hun_dii_64kb_0050	cikk
+human_rights_un_hun_dii_64kb_0051	Senkinek magánéletébe, családi ügyeibe, lakóhelye megválasztásába vagy levelezésébe nem szabad önkényesen beavatkozni, sem pedig becsületében vagy jó hírnevében megsérteni.
+human_rights_un_hun_dii_64kb_0052	Minden személynek joga van az ilyen beavatkozásokkal vagy sértésekkel szemben a törvény védelméhez.
+human_rights_un_hun_dii_64kb_0053	13.
+human_rights_un_hun_dii_64kb_0054	cikk
+human_rights_un_hun_dii_64kb_0055	Az államon belül minden személynek joga van szabadon mozogni és lakóhelyét szabadon megválasztani.
+human_rights_un_hun_dii_64kb_0056	Minden személynek joga van minden országot, ideértve saját hazáját is, elhagyni, valamint saját hazájába visszatérni.
+human_rights_un_hun_dii_64kb_0057	14.
+human_rights_un_hun_dii_64kb_0058	cikk
+human_rights_un_hun_dii_64kb_0059	Minden személynek joga van az üldözés elől más országban menedéket keresni és a más ország nyújtotta menedéket élvezni.
+human_rights_un_hun_dii_64kb_0060	Erre a jogra nem lehet hivatkozni közönséges bűncselekmény miatti.
+human_rights_un_hun_dii_64kb_0061	kellőképpen megalapozott üldözés, sem pedig az Egyesült Nemzetek céljaival és elveivel ellentétes tevékenység esetében.
+human_rights_un_hun_dii_64kb_0062	15.
+human_rights_un_hun_dii_64kb_0063	cikk
+human_rights_un_hun_dii_64kb_0064	Minden személynek joga van valamely állampolgársághoz.
+human_rights_un_hun_dii_64kb_0065	Senkit sem lehet sem állampolgárságától, sem állampolgársága megváltoztatásának jogától önkényesen megfosztani.
+human_rights_un_hun_dii_64kb_0066	16.
+human_rights_un_hun_dii_64kb_0067	cikk
+human_rights_un_hun_dii_64kb_0068	Mind a férfinak, mind a nőnek a házasságra érett kor elérésétől kezdve joga van fajon, nemzetiségen vagy valláson alapuló korlátozás nélkül házasságot kötni és családot alapítani.
+human_rights_un_hun_dii_64kb_0069	A házasság tekintetében a férfinak és a nőnek mind a házasság tartama alatt, mind a házasság felbontása tekintetében egyenlő jogai vannak.
+human_rights_un_hun_dii_64kb_0070	Házasságot csak a jövendő házastársak szabad és teljes beleegyezésével lehet kötni.
+human_rights_un_hun_dii_64kb_0071	A család a társadalom természetes és alapvető alkotó eleme és joga van a társadalom, valamint az állam védelmére.
+human_rights_un_hun_dii_64kb_0072	17.
+human_rights_un_hun_dii_64kb_0073	cikk
+human_rights_un_hun_dii_64kb_0074	Minden személynek, mind egyénileg, mind másokkal együttesen joga van a tulajdonhoz.
+human_rights_un_hun_dii_64kb_0075	Senkit sem lehet tulajdonától önkényesen megfosztani.
+human_rights_un_hun_dii_64kb_0076	18.
+human_rights_un_hun_dii_64kb_0077	cikk
+human_rights_un_hun_dii_64kb_0078	Minden személynek joga van a gondolat, a lelkiismeret és a vallás szabadságához, ez a jog magában foglalja a vallás és a meggyőződés megváltoztatásának szabadságát, valamint a vallásnak vagy a meggyőződésnek mind egyénileg, mind együttesen, mind a nyilvánosság előtt, mind a magánéletben oktatás, gyakorlás és szertartások végzése útján való kifejezésre juttatásának jogát.
+human_rights_un_hun_dii_64kb_0079	19.
+human_rights_un_hun_dii_64kb_0080	cikk
+human_rights_un_hun_dii_64kb_0081	Minden személynek joga van a vélemény és a kifejezés szabadságához, amely magában foglalja azt a jogot, hogy véleménye miatt ne szenvedjen zaklatást és hogy határokra való tekintet nélkül kutathasson, átvihessen és terjeszthessen híreket és eszméket bármilyen kifejezési módon.
+human_rights_un_hun_dii_64kb_0082	20.
+human_rights_un_hun_dii_64kb_0083	cikk
+human_rights_un_hun_dii_64kb_0084	Minden személynek joga van békés célú gyülekezési és egyesülési szabadsághoz.
+human_rights_un_hun_dii_64kb_0085	Senkit sem lehet valamely egyesületbe való belépésre kőtelezni.
+human_rights_un_hun_dii_64kb_0086	21.
 human_rights_un_hun_dii_64kb_0087	cikk
-human_rights_un_hun_dii_64kb_0088	1.
-human_rights_un_hun_dii_64kb_0089	Minden személynek, mind egyénileg, mind másokkal együttesen joga van a tulajdonhoz.
-human_rights_un_hun_dii_64kb_0090	2.
-human_rights_un_hun_dii_64kb_0091	Senkit sem lehet tulajdonától önkényesen megfosztani.
-human_rights_un_hun_dii_64kb_0092	18.
+human_rights_un_hun_dii_64kb_0088	Minden személynek joga van a hazája közügyeinek igazgatásában akár közvetlenül, akár szabadon választott képviselői útján való részvételhez.
+human_rights_un_hun_dii_64kb_0089	Minden személynek egyenlő feltételek mellett joga van saját hazájában közszolgálati állásokra való alkalmazásához.
+human_rights_un_hun_dii_64kb_0090	A közhatalom tekintélyének alapja a nép akarata;
+human_rights_un_hun_dii_64kb_0091	ez az akarat egyenlő szavazati jog és titkos szavazás vagy a szavazás szabadságát ezzel egyenértékűen biztosító eljárás alapján időszakonként tartandó tisztességes választáson kell hogy kifejezésre jusson.
+human_rights_un_hun_dii_64kb_0092	22.
 human_rights_un_hun_dii_64kb_0093	cikk
-human_rights_un_hun_dii_64kb_0094	Minden személynek joga van a gondolat, a lelkiismeret és a vallás szabadságához, ez a jogmagában foglalja a vallás és a meggyőződés megváltoztatásának szabadságát, valamint avallásnak vagy a meggyőződésnek mind egyénileg, mind együttesen, mind a nyilvánosságelőtt, mind a magánéletben oktatás, gyakorlás és szertartások végzése útján valókifejezésre juttatásának jogát.
-human_rights_un_hun_dii_64kb_0095	19.
-human_rights_un_hun_dii_64kb_0096	cikk
-human_rights_un_hun_dii_64kb_0097	Minden személynek joga van a vélemény és a kifejezés szabadságához, amely magábanfoglalja azt a jogot, hogy véleménye miatt ne szenvedjen zaklatást és hogy határokra valótekintet nélkül kutathasson, átvihessen és terjeszthessen híreket és eszméket bármilyenkifejezési módon.
-human_rights_un_hun_dii_64kb_0098	20.
-human_rights_un_hun_dii_64kb_0099	cikk
-human_rights_un_hun_dii_64kb_0100	1.
-human_rights_un_hun_dii_64kb_0101	Minden személynek joga van békés célú gyülekezési és egyesülési szabadsághoz.
-human_rights_un_hun_dii_64kb_0102	2.
-human_rights_un_hun_dii_64kb_0103	Senkit sem lehet valamely egyesületbe való belépésre kőtelezni.
-human_rights_un_hun_dii_64kb_0104	21.
-human_rights_un_hun_dii_64kb_0105	cikk
-human_rights_un_hun_dii_64kb_0106	1.
-human_rights_un_hun_dii_64kb_0107	Minden személynek joga van a hazája közügyeinek igazgatásában akár közvetlenül, akárszabadon választott képviselői útján való részvételhez.
-human_rights_un_hun_dii_64kb_0108	2.
-human_rights_un_hun_dii_64kb_0109	Minden személynek egyenlő feltételek mellett joga van saját hazájában közszolgálatiállásokra való alkalmazásához.
-human_rights_un_hun_dii_64kb_0110	3.
-human_rights_un_hun_dii_64kb_0111	A közhatalom tekintélyének alapja a nép akarata;
-human_rights_un_hun_dii_64kb_0112	ez az akarat egyenlő szavazati jog éstitkos szavazás vagy a szavazás szabadságát ezzel egyenértékűen biztosító eljárás alapjánidőszakonként tartandó tisztességes választáson kell hogy kifejezésre jusson.
-human_rights_un_hun_dii_64kb_0113	22.
-human_rights_un_hun_dii_64kb_0114	cikk
-human_rights_un_hun_dii_64kb_0115	Minden személynek mint a társadalom tagjának joga van a szociális biztonsághoz;
-human_rights_un_hun_dii_64kb_0116	mindenszemélynek ugyancsak igénye van arra, hogy -az államok erőfeszítései és a nemzetköziegyüttműködés eredményeképpen és számotvetve az egyes országok szervezetével és gazdasági erőforrásaival- a méltóságához ésszemélyiségének szabadon való kifejlődéséhez szükséges gazdasági, szociális éskulturális jogait kielégíthesse.
-human_rights_un_hun_dii_64kb_0117	23.
-human_rights_un_hun_dii_64kb_0118	cikk
-human_rights_un_hun_dii_64kb_0119	1.
-human_rights_un_hun_dii_64kb_0120	Minden személynek joga van a munkához, a munka szabad megválasztásához, améltányos és kielégítő munkafeltételekhez és a munkanélküliség elleni védelemhez.
-human_rights_un_hun_dii_64kb_0121	2.
-human_rights_un_hun_dii_64kb_0122	Az egyenlő munkáért mindenkinek, bármilyen megkülönböztetés nélkül egyenlő bérhezvan joga.
-human_rights_un_hun_dii_64kb_0123	3.
-human_rights_un_hun_dii_64kb_0124	Mindenkinek, aki dolgozik, olyan méltányos és kielégítő fizetéshez van joga, amelyszámára és családja számára az emberi méltóságnak megfelelő létet biztosít és amelyetmegfelelő esetben a szociális védelem összes egyéb eszközei egészítenek ki.
-human_rights_un_hun_dii_64kb_0125	4.
-human_rights_un_hun_dii_64kb_0126	Minden személynek joga van a pihenéshez, a szabad időhöz, nevezetesen a munkaidőtartamának ésszerű korlátozásához, valamint az időszakonkénti fizetett szabadsághoz.
-human_rights_un_hun_dii_64kb_0127	24.
+human_rights_un_hun_dii_64kb_0094	Minden személynek mint a társadalom tagjának joga van a szociális biztonsághoz;
+human_rights_un_hun_dii_64kb_0095	minden személynek ugyancsak igénye van arra, hogy -az államok erőfeszítései és a nemzetközi együttműködés eredményeképpen és számot vetve az egyes országok szervezetével és gazdasági erőforrásaival- a méltóságához és személyiségének szabadon való kifejlődéséhez szükséges gazdasági, szociális és kulturális jogait kielégíthesse.
+human_rights_un_hun_dii_64kb_0096	23.
+human_rights_un_hun_dii_64kb_0097	cikk
+human_rights_un_hun_dii_64kb_0098	Minden személynek joga van a munkához, a munka szabad megválasztásához, a méltányos és kielégítő munkafeltételekhez és a munkanélküliség elleni védelemhez.
+human_rights_un_hun_dii_64kb_0099	Az egyenlő munkáért mindenkinek, bármilyen megkülönböztetés nélkül egyenlő bérhez van joga.
+human_rights_un_hun_dii_64kb_0100	Mindenkinek, aki dolgozik, olyan méltányos és kielégítő fizetéshez van joga, amely számára és családja számára az emberi méltóságnak megfelelő létet biztosít és amelyet megfelelő esetben a szociális védelem összes egyéb eszközei egészítenek ki.
+human_rights_un_hun_dii_64kb_0101	Minden személynek joga van a pihenéshez, a szabad időhöz, nevezetesen a munka időtartamának ésszerű korlátozásához, valamint az időszakonkénti fizetett szabadsághoz.
+human_rights_un_hun_dii_64kb_0102	24.
+human_rights_un_hun_dii_64kb_0103	cikk
+human_rights_un_hun_dii_64kb_0104	Minden személynek joga van a pihenésre és szabadidőre, beleértve a munkaidő ésszerű korlátozását és az időszakos fizetett szabadságot.
+human_rights_un_hun_dii_64kb_0105	25.
+human_rights_un_hun_dii_64kb_0106	cikk
+human_rights_un_hun_dii_64kb_0107	Minden személynek joga van saját maga és családja egészségének és jólétének biztosítására alkalmas életszínvonalhoz, nevezetesen élelemhez, ruházathoz, lakáshoz, orvosi gondozáshoz, valamint a szükséges szociális szolgáltatásokhoz, joga van a munkanélküliség, betegség, rokkantság, özvegység, öregség esetére szóló, valamint mindazon más esetekre szóló biztosításhoz, amikor létfenntartási eszközeit akaratától független körülmények miatt elveszíti.
+human_rights_un_hun_dii_64kb_0108	Az anyaság és a gyermekkor különleges segítséghez és támogatáshoz adnak jogot.
+human_rights_un_hun_dii_64kb_0109	Minden gyermek, akár házasságból, akár házasságon kívül született, ugyanabban a szociális védelemben részesül.
+human_rights_un_hun_dii_64kb_0110	26.
+human_rights_un_hun_dii_64kb_0111	cikk
+human_rights_un_hun_dii_64kb_0112	Minden személynek joga van a neveléshez.
+human_rights_un_hun_dii_64kb_0113	A nevelésnek, legalábbis az elemi és alapvető oktatást illetően, ingyenesnek kell lennie.
+human_rights_un_hun_dii_64kb_0114	Az elemi oktatás kötelező.
+human_rights_un_hun_dii_64kb_0115	A technikai és szakoktatást általánossá kell tenni;
+human_rights_un_hun_dii_64kb_0116	a felsőbb tanulmányokra való felvételnek mindenki előtt -érdeméhez képest- egyenlő feltételek mellett nyitva kell állnia.
+human_rights_un_hun_dii_64kb_0117	A nevelésnek az emberi személyiség teljes kibontakoztatására, valamint az emberi jogok és alapvető szabadságok tiszteletbentartásának megerősítésére kell irányulnia.
+human_rights_un_hun_dii_64kb_0118	A nevelésnek elő kell segítenie a nemzetek, valamint az összes faji és vallási csoportok közötti megértést, türelmet és barátságot, valamint az Egyesült Nemzetek által a béke fenntartásának érdekében kifejtett tevékenység kifejlődését.
+human_rights_un_hun_dii_64kb_0119	A szülőket elsőbbségi jog illeti meg a gyermekeiknek adandó nevelés megválasztásában.
+human_rights_un_hun_dii_64kb_0120	27.
+human_rights_un_hun_dii_64kb_0121	cikk
+human_rights_un_hun_dii_64kb_0122	Minden személynek joga van a közösség kulturális életében való szabad részvételhez, a művészetek élvezéséhez, valamint a tudomány haladásában és az abból származó jótéteményekben való részvételhez.
+human_rights_un_hun_dii_64kb_0123	Mindenkinek joga van minden általa alkotott tudományos, irodalmi és művészeti termékkel kapcsolatos erkölcsi és anyagi érdekeinek védelméhez.
+human_rights_un_hun_dii_64kb_0124	28.
+human_rights_un_hun_dii_64kb_0125	cikk
+human_rights_un_hun_dii_64kb_0126	Minden személynek joga van ahhoz, hogy mind a társadalmi, mind a nemzetközi viszonyok tekintetében olyan rendszer uralkodjék, amelyben a jelen Nyilatkozatban kinyilvánított jogok és szabadságok teljes hatállyal érvényesülhessenek.
+human_rights_un_hun_dii_64kb_0127	29.
 human_rights_un_hun_dii_64kb_0128	cikk
-human_rights_un_hun_dii_64kb_0129	Minden személynek joga van a pihenésre és szabadidőre, beleértve a munkaidő ésszerűkorlátozását és az időszakos fizetett szabadságot.
-human_rights_un_hun_dii_64kb_0130	25.
-human_rights_un_hun_dii_64kb_0131	cikk
-human_rights_un_hun_dii_64kb_0132	1.
-human_rights_un_hun_dii_64kb_0133	Minden személynek joga van saját maga és családja egészségének és jóléténekbiztosítására alkalmas életszínvonalhoz, nevezetesen élelemhez, ruházathoz, lakáshoz,orvosi gondozáshoz, valamint a szükséges szociális szolgáltatásokhoz, joga van amunkanélküliség, betegség, rokkantság, özvegység, öregség esetére szóló, valamintmindazon más esetekre szóló biztosításhoz, amikor létfenntartási eszközeit akaratátólfüggetlen körülmények miatt elveszíti.
-human_rights_un_hun_dii_64kb_0134	2.
-human_rights_un_hun_dii_64kb_0135	Az anyaság és a gyermekkor különleges segítséghez és támogatáshoz adnak jogot.
-human_rights_un_hun_dii_64kb_0136	Minden gyermek, akár házasságból, akár házasságon kívül született, ugyanabban aszociális védelemben részesül.
-human_rights_un_hun_dii_64kb_0137	26.
-human_rights_un_hun_dii_64kb_0138	cikk
-human_rights_un_hun_dii_64kb_0139	1.
-human_rights_un_hun_dii_64kb_0140	Minden személynek joga van a neveléshez.
-human_rights_un_hun_dii_64kb_0141	A nevelésnek, legalábbis az elemi ésalapvető oktatást illetően, ingyenesnek kell lennie.
-human_rights_un_hun_dii_64kb_0142	Az elemi oktatás kötelező.
-human_rights_un_hun_dii_64kb_0143	A technikai ésszakoktatást általánossá kell tenni;
-human_rights_un_hun_dii_64kb_0144	a felsőbb tanulmányokra való felvételnek mindenki előtt
-human_rights_un_hun_dii_64kb_0145	-érdeméhez képest- egyenlő feltételek mellett nyitva kell állnia.
-human_rights_un_hun_dii_64kb_0146	2.
-human_rights_un_hun_dii_64kb_0147	A nevelésnek az emberi személyiség teljes kibontakoztatására, valamint az emberi jogokés alapvető szabadságok tiszteletbentartásának megerősítésére kell irányulnia.
-human_rights_un_hun_dii_64kb_0148	Anevelésnek elő kell segítenie a nemzetek, valamint az összes faji és vallási csoportokközötti megértést, türelmet és barátságot, valamint az Egyesült Nemzetek által a békefenntartásának érdekében kifejtett tevékenység kifejlődését.
-human_rights_un_hun_dii_64kb_0149	3.
-human_rights_un_hun_dii_64kb_0150	A szülőket elsőbbségi jog illeti meg a gyermekeiknek adandó nevelés megválasztásában.
-human_rights_un_hun_dii_64kb_0151	27.
-human_rights_un_hun_dii_64kb_0152	cikk
-human_rights_un_hun_dii_64kb_0153	1.
-human_rights_un_hun_dii_64kb_0154	Minden személynek joga van a közösség kulturális életében való szabad részvételhez, aművészetek élvezéséhez, valamint a tudomány haladásában és az abból származójótéteményekben való részvételhez.
-human_rights_un_hun_dii_64kb_0155	2.
-human_rights_un_hun_dii_64kb_0156	Mindenkinek joga van minden általa alkotott tudományos, irodalmi és művészetitermékkel kapcsolatos erkölcsi és anyagi érdekeinek védelméhez.
-human_rights_un_hun_dii_64kb_0157	28.
-human_rights_un_hun_dii_64kb_0158	cikk  Minden személynek joga van ahhoz, hogy mind a társadalmi,mind a nemzetközi viszonyok tekintetében olyan rendszer uralkodjék,amelyben a jelen Nyilatkozatban kinyilvánított jogok és szabadságokteljes hatállyal érvényesülhessenek.
-human_rights_un_hun_dii_64kb_0159	29.
-human_rights_un_hun_dii_64kb_0160	cikk
-human_rights_un_hun_dii_64kb_0161	1.
-human_rights_un_hun_dii_64kb_0162	A személynek kőtelességei vannak a közösséggel szemben, amelynek keretébenegyedül lehetséges a személyiség szabad és teljes kifejlődése.
-human_rights_un_hun_dii_64kb_0163	2.
-human_rights_un_hun_dii_64kb_0164	Jogainak gyakorlása és szabadságainak élvezete tekintetében senki sincs alávetve máskorlátozásnak, mint amelyet a törvény kizárólag mások jogai és szabadságai elismerésénekés tiszteletbentartásának biztosítása érdekében, valamint a demokratikus társadalomerkölcse, közrendje és általános jóléte jogos követelményeinek kielégítése érdekébenmegállapít.
-human_rights_un_hun_dii_64kb_0165	3.
-human_rights_un_hun_dii_64kb_0166	Ezeket a jogokat és szabadságokat semmi esetre sem lehet az Egyesült Nemzetekcéljaival és elveivel ellentétesen gyakorolni.
-human_rights_un_hun_dii_64kb_0167	30.
-human_rights_un_hun_dii_64kb_0168	cikk
-human_rights_un_hun_dii_64kb_0169	A jelen Nyilatkozat egyetlen rendelkezése sem értelmezhető úgy, hogy az valamely állam,valamely csoport, vagy valamely egyén részére bármilyen jogot adna arra, hogy az ittkinyilvánított jogok és szabadságok megsemmisítésére irányuló tevékenységet fejtsen ki,vagy ilyen cselekményt elkövessen.
+human_rights_un_hun_dii_64kb_0129	A személynek kőtelességei vannak a közösséggel szemben, amelynek keretében egyedül lehetséges a személyiség szabad és teljes kifejlődése.
+human_rights_un_hun_dii_64kb_0130	Jogainak gyakorlása és szabadságainak élvezete tekintetében senki sincs alávetve más korlátozásnak, mint amelyet a tőrvény kizárólag mások jogai és szabadságai elismerésének és tiszteletbentartásának biztosítása érdekében, valamint a demokratikus társadalom erkölcse, közrendje és általános jóléte jogos követelményeinek kielégítése érdekében megállapít.
+human_rights_un_hun_dii_64kb_0131	Ezeket a jogokat és szabadságokat semmi esetre sem lehet az Egyesült Nemzetek céljaival és elveivel ellentétesen gyakorolni.
+human_rights_un_hun_dii_64kb_0132	30.
+human_rights_un_hun_dii_64kb_0133	cikk
+human_rights_un_hun_dii_64kb_0134	A jelen Nyilatkozat egyetlen rendelkezése sem értelmezhető úgy, hogy az valamely állam, valamely csoport, vagy valamely egyén részére bármilyen jogot adna arra, hogy az itt kinyilvánított jogok és szabadságok megsemmisítésére irányuló tevékenységet fejtsen ki, vagy ilyen cselekményt elkövessen.

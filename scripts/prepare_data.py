@@ -2,10 +2,10 @@ import argparse,os,subprocess,re,sys,glob,unicodedata
 import pycountry
 from praatio import tgio
 from praatio import audioio
-from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
-from pdfminer.pdfpage import PDFPage
-from pdfminer.converter import TextConverter
-from pdfminer.layout import LAParams
+#from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+#from pdfminer.pdfpage import PDFPage
+#from pdfminer.converter import TextConverter
+#from pdfminer.layout import LAParams
 
 def load_dict_from_txtfile(txtfile):
     x = {}
@@ -106,24 +106,24 @@ def load_audio(audiodir, tgs, long2iso):
         mp2wav(wavdir, mp3dir)
     segment_audio(audiodir, wavdir, tgs, long2iso)
 
-def pdf2text(fulltextdir, pdfdir, long2iso):
-    os.makedirs(fulltextdir,exist_ok=True)
-    filenames = set([x for x in long2iso.values()])
-    for filename in filenames:
-        fname = os.path.join(pdfdir, filename+'.pdf')
-        outputfilename = os.path.join(fulltextdir, filename+'.txt')
-        print('Converting %s to %s'%(fname,outputfilename))
-        rsrcmgr = PDFResourceManager(caching=True)        
-        laparams = LAParams()
-        outfp=open(outputfilename,'w')
-        device=TextConverter(rsrcmgr, outfp, laparams=laparams, imagewriter=None)
-        fp=open(fname, 'rb')
-        interpreter = PDFPageInterpreter(rsrcmgr, device)
-        for page in PDFPage.get_pages(fp):
-            interpreter.process_page(page)
-        fp.close()
-        device.close()
-        outfp.close()
+#def pdf2text(fulltextdir, pdfdir, long2iso):
+#    os.makedirs(fulltextdir,exist_ok=True)
+#    filenames = set([x for x in long2iso.values()])
+#    for filename in filenames:
+#        fname = os.path.join(pdfdir, filename+'.pdf')
+#        outputfilename = os.path.join(fulltextdir, filename+'.txt')
+#        print('Converting %s to %s'%(fname,outputfilename))
+#        rsrcmgr = PDFResourceManager(caching=True)        
+#        laparams = LAParams()
+#        outfp=open(outputfilename,'w')
+#        device=TextConverter(rsrcmgr, outfp, laparams=laparams, imagewriter=None)
+#        fp=open(fname, 'rb')
+#        interpreter = PDFPageInterpreter(rsrcmgr, device)
+#        for page in PDFPage.get_pages(fp):
+#            interpreter.process_page(page)
+#        fp.close()
+#        device.close()
+#        outfp.close()
             
 def segment_text(textdir, fulltextdir, tgs, long2iso):
     os.makedirs(textdir,exist_ok=True)
@@ -133,11 +133,9 @@ def segment_text(textdir, fulltextdir, tgs, long2iso):
         print('Converting %s to %s'%(fulltextfile,textfile))
         lines = []
         with open(fulltextfile) as f:
-            for line in  f:
-                # remove control characters                
-                line = "".join(ch for ch in line if unicodedata.category(ch)[0]!="C")
-                if len(line)>0:
-                    lines.append(line)
+            for (line_num,line) in enumerate(f.readlines()):
+                if line_num >= 5 and len(line)>0:   #  Assume header 5 lines long.  Is always true?
+                    lines.append( "".join(c for c in line if unicodedata.category(c)[0]!="C"))
         if len(lines)==0:
             continue
         phrases = [lines[0]]
@@ -154,7 +152,7 @@ def segment_text(textdir, fulltextdir, tgs, long2iso):
                         phrases[-1] = phrases[-1]+c
                     else:
                         phrases.append(c)
-        phrases = [ p for p in phrases if not p.isspace() ]
+        phrases = [ p for p in phrases if not p.isspace() and len(p)>0 ]
         if longfn in tgs and len(phrases) != len(tgs[longfn].tierDict['seg'].entryList):
             print('WARNING: %s.TextGrid=%d segs; %s has %d.'%
                   (longfn, len(tgs[longfn].tierDict['seg'].entryList),textfile,len(phrases)))
@@ -167,11 +165,13 @@ def load_text(textdir, tgs, long2iso):
     textpathlist = list(os.path.split(textdir))
     fulltextdir = os.path.join(*(textpathlist[:-1] + ['fulltext']))
     if not dir_contains_files(fulltextdir,['%s.txt'%(x) for x in long2iso.values()]):
-        pdfdir = os.path.join(*(textpathlist[:-1] + ['pdf']))
-        united_nations_sources=load_dict_from_txtfile(os.path.join('conf','united_nations_sources.txt'))
-        if not dir_contains_files(pdfdir,[x  for x in united_nations_sources.keys()]):
-            wget2dir(pdfdir, united_nations_sources)
-        pdf2text(fulltextdir, pdfdir, long2iso)
+        unicode_sources = load_dict_from_txtfile('conf/unicode_sources.txt')
+        wget2dir(fulltextdir, unicode_sources)
+        #pdfdir = os.path.join(*(textpathlist[:-1] + ['pdf']))
+        #united_nations_sources=load_dict_from_txtfile(os.path.join('conf','united_nations_sources.txt'))
+        #if not dir_contains_files(pdfdir,[x  for x in united_nations_sources.keys()]):
+        #    wget2dir(pdfdir, united_nations_sources)
+        #pdf2text(fulltextdir, pdfdir, long2iso)
     segment_text(textdir, fulltextdir, tgs, long2iso)
 
 def git_sparse_checkout(g2pdir,subdir):
@@ -195,39 +195,22 @@ def git_sparse_checkout(g2pdir,subdir):
     subprocess.run(cmd,check=True)
     os.chdir(origdir)
 
-def find_model(modelsdir, iso):
-    iso = re.sub(r'-.*','',iso)
-    L = pycountry.languages.get(alpha_3=iso)
-    if L:
-        languagename = re.sub(r'\s+','_',re.sub(r'\(.*\)','',L.name)).lower()
-    else:
-        raise NotImplementedError('long2iso.txt specifies unknown language code %s'%(iso))
-    searchpattern=os.path.join(modelsdir, languagename+'*.fst*')
-    print('Searching %s for models for %s'%(searchpattern,iso))
-    modelglob = glob.glob(searchpattern)
-    for model in modelglob:
-        print('Checking for a model in %s'%(model))
-        if model[-3:]=='.gz':
-            cmd = ['gunzip',model]
-            print(' '.join(cmd))
-            subprocess.run(cmd,check=True)
-            model = model[:-3]
-        if model[-4:]=='.fst':
-            return(model)
-    # if we reached this point, we found no model
-    print('ISO code %s, languagename %s, has no model in %s'%(iso,languagename,modelsdir))
-    return(None)
-    
 def load_phones(phonesdir, textdir, long2iso, tgs):
     os.makedirs(phonesdir,exist_ok=True)
-    if not os.path.isdir(os.path.join('exp/g2ps','models')):
-        git_sparse_checkout('exp/g2ps','models')
-    modelsdir = 'exp/g2ps/models'
-    isocodes = set([re.sub(r'-.*','',x) for x in  long2iso.values()])
+    #if not os.path.isdir(os.path.join('exp/g2ps','models')):
+    #    git_sparse_checkout('exp/g2ps','models')
+    modelsdir = 'exp/models'
+    os.makedirs(modelsdir, exist_ok=True)
+    modeldict = load_dict_from_txtfile('conf/iso2model.txt')
+    g2ps_source = "http://www.isle.illinois.edu/speech_web_lg/data/g2ps/models/"
+    model_urls = { v+".fst":g2ps_source+v+".fst" for v in modeldict.values() }
+    if not dir_contains_files(modelsdir, model_urls):
+        wget2dir(modelsdir, model_urls)    
     for longname,iso in long2iso.items():
-        model = find_model(modelsdir, iso)
-        if model==None:
-            continue
+        modelfile = modeldict[iso]+".fst"
+        modelpath = os.path.join(modelsdir,modelfile)
+        if not os.path.isfile(modelpath):
+            raise FileNotFoundError("Missing %s; did %s exist?"%(modelpath,model_urls[modelfile]))
         inputfn = os.path.join(textdir,'%s.txt'%(longname))
         inputlines = []
         try:
@@ -243,7 +226,7 @@ def load_phones(phonesdir, textdir, long2iso, tgs):
         wordlist=os.path.join(modelsdir,longname+'_wordlist.txt')
         with open(wordlist,'w') as f:
             f.write('\n'.join(uniquewords))
-        cmd=['phonetisaurus-g2pfst','--model=%s'%(model),'--wordlist=%s'%(wordlist)]
+        cmd=['phonetisaurus-g2pfst','--model=%s'%(modelpath),'--wordlist=%s'%(wordlist)]
         print(' '.join(cmd))
         proc=subprocess.run(cmd,capture_output=True)
         if len(proc.stderr)>0:
