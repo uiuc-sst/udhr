@@ -1,11 +1,11 @@
 # Universal Declaration of Human Rights Corpus
 
-The United Nations has a project to acquire public-domain
+The United Nations has a project to acquire public domain
 translations, into as many languages as possible, of the Universal
 Declaration of Human Rights (UDHR).  Librivox.org has a project to
 acquire readings of the UDHR in as many languages as possible.
 
-The site you are looking at right now exists for the purpose of
+This repository exists for the purpose of
 segmenting the librivox recordings, into chunks amenable for the
 training and testing of automatic speech recognizers and synthesizers,
 and then aligning them to the corresponding texts. 
@@ -19,12 +19,11 @@ to have wget, unzip, ffmpeg, and python installed; then try the
 following steps:
 
 ```bash
-pip install pycountry
-pip install praatio
+pip install pycountry praatio
 python scripts/prepare_data.py --audio
 ```
 
-This will create a directory exp, with subdirectories as follows:
+This will create a directory exp, with subdirectories:
 * zip contains the zip files, downloaded from librivox
 * mp3 contains the mp3, unzipped from the zip files
 * wav contains the wav, converted from mp3 using ffmpeg.
@@ -41,10 +40,10 @@ the UDHR in Unicode project, do this:
 python scripts/prepare_data.py --text
 ```
 
-If you want to convert the texts into international phonetic alphabet,
-using the languagenet G2Ps: first, install
+To convert the texts into international phonetic alphabet,
+using the languagenet G2Ps, install
 [https://github.com/AdolfVonKleist/Phonetisaurus](Phonetisaurus).
-Then you can type
+Then do:
 ```bash
 python scripts/prepare_data.py --phones
 ```
