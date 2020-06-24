@@ -24,9 +24,9 @@ human_rights_03_eng_rg_64kb	  eng-GB
 human_rights_03_epo_njb_64kb	  epo
 human_rights_un_ace_adam_64kb	  ace
 human_rights_un_afk_cdb_64kb	  afr
-human_rights_un_arz_ef_64kb	  arz
+human_rights_un_arz_ef_64kb	  arb
 human_rights_un_bal_brc_64kb	  ban
-#human_rights_un_bra_rljb_64kb	  por-BR
+human_rights_un_bra_rljb_64kb	  por-BR
 human_rights_un_bug_brc_64kb	  bug
 human_rights_un_bul_eu_64kb	  bul
 human_rights_un_cat_nv_64kb	  cat

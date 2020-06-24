@@ -55,9 +55,15 @@ The source URLs are listed in the files in the conf subdirectory.
    doesn't yet have text of the UDHR in your  language, please
    donate a translation at https://www.unicode.org/udhr/contributing.html.
 
-2. If librivox doesn't have an audio recording in your language, please
-   consider donating one.  Register for a librivox account at
-   https://forum.librivox.org/ucp.php?mode=register, then
-   mention your language ability on the "newbie forum,"
-   or search "Universal Declaration of Human Rights."
+2. If librivox doesn't have an audio recording in your language,
+   please consider donating one.  Register for a librivox account at
+   https://forum.librivox.org/ucp.php?mode=register, then mention your
+   language ability and your interest on the "newbie forum"
+   (https://forum.librivox.org/viewforum.php?f=17).  You can also read
+   the text and post your result in the "Short Works" forum
+   (https://forum.librivox.org/viewforum.php?f=19), as soon as you've
+   completed the "one minute sound check" described in the Newbie
+   Guide to Recording
+   (https://wiki.librivox.org/index.php?title=Newbie_Guide_to_Recording).
+
 
