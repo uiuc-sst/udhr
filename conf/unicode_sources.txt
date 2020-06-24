@@ -17,6 +17,7 @@ ell.txt	https://www.unicode.org/udhr/d/udhr_ell_monotonic.txt
 eng-AU.txt	https://www.unicode.org/udhr/d/udhr_eng.txt
 eng-GB.txt	https://www.unicode.org/udhr/d/udhr_eng.txt
 eng-US.txt	https://www.unicode.org/udhr/d/udhr_eng.txt
+eng-GB-plain.txt	https://github.org/uiuc-sst/udhr/text/human_rights_un_plain_drb_64kb.txt
 epo.txt		https://www.unicode.org/udhr/d/udhr_epo.txt
 fao.txt		https://www.unicode.org/udhr/d/udhr_fao.txt
 fil.txt		https://www.unicode.org/udhr/d/udhr_tgl.txt
@@ -27,7 +28,7 @@ heb.txt		https://www.unicode.org/udhr/d/udhr_heb.txt
 hin.txt		https://www.unicode.org/udhr/d/udhr_hin.txt
 hun.txt		https://www.unicode.org/udhr/d/udhr_hun.txt
 ind.txt		https://www.unicode.org/udhr/d/udhr_ind.txt
-ita.txt		https://www.unicode.org/udhr/d/udhr_ita.txt
+ita.txt		https://www.unicode.org/udhr/d/Udhr_ita.txt
 jav.txt		https://www.unicode.org/udhr/d/udhr_jav.txt
 jpn.txt		https://www.unicode.org/udhr/d/udhr_jpn.txt
 kor.txt		https://www.unicode.org/udhr/d/udhr_kor.txt
