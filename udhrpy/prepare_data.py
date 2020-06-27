@@ -1,5 +1,6 @@
-import argparse,os,subprocess,re,sys,glob,unicodedata
-import pycountry
+import argparse,os,subprocess,re,sys,glob,unicodedata,wave
+import pycountry, librosa, h5py
+import numpy as np
 from praatio import tgio
 from praatio import audioio
 #from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
@@ -48,34 +49,36 @@ def wget2dir(targetdir, sources):
     puts the result into RAM; really, I'd prefer to have the result go directly to disk, 
     which is what wget does.'''
     os.makedirs(targetdir,exist_ok=True)
-    for (filename,url) in sources.items():
+    for (n,(filename,url)) in enumerate(sources.items()):
         outputfn = os.path.join(targetdir,filename)
         cmd=['wget',url,'-O',outputfn]
-        print(' '.join(cmd))
+        if n%100==0:
+            print("%d'th wget command: %s"%(n,' '.join(cmd)))
         subprocess.run(cmd,check=True)
 
 def unzip2dir(targetdir, zipdir, sources):
     '''Use unzip to unzip all source files into targetdir'''
     os.makedirs(targetdir,exist_ok=True)
-    for zipfn in sources:
+    for (n,zipfn) in enumerate(sources):
         zippath = os.path.join(zipdir, zipfn)
         cmd=['unzip',zippath,'-d',targetdir]
-        print(' '.join(cmd))
+        if n%100==0:
+            print("%d'th unzip command: %s"%(n,' '.join(cmd)))
         subprocess.run(cmd,check=True)
 
 def mp2wav(wavdir, mp3dir):
-    print('Converting mp3 in %s to wav in %s'%(mp3dir,wavdir))
     os.makedirs(wavdir,exist_ok=True)
-    for pathname in glob.glob(os.path.join(mp3dir, '*.mp3')):
+    for (n,pathname) in enumerate(glob.glob(os.path.join(mp3dir, '*.mp3'))):
         basename,ext = os.path.splitext(os.path.basename(pathname))
         outputname = os.path.join(wavdir, basename+'.wav')
         cmd=['ffmpeg','-i',pathname,outputname]
-        print(' '.join(cmd))
+        if n%100==0:
+            print("%d'th ffmpeg command: %s"%(n,' '.join(cmd)))
         subprocess.run(cmd,check=True)
 
 def segment_audio(audiodir, wavdir, tgs, long2iso):
-    outputnames = []
     print('Segmenting %s from %s to %s'%(str([x for x in tgs.keys()]),wavdir,audiodir))
+    outputnames = []
     for (filename,tg) in tgs.items():
         entryList = tg.tierDict['seg'].entryList
         entryList = [ entry for entry in entryList if not entry[2].isspace() ]
@@ -92,9 +95,12 @@ def segment_audio(audiodir, wavdir, tgs, long2iso):
             wavQObj.outputModifiedWav(frames, outputname)            
             outputnames.append(outputname)
             
-def load_audio(audiodir, tgs, long2iso):
+def load_audio(audiodir='exp/audio', iso=None):
     audiopathlist = list(os.path.split(audiodir))
     wavdir = os.path.join(*(audiopathlist[:-1] + ['wav']))
+    long2iso = load_dict_from_txtfile('conf/long2iso.txt')
+    if iso != None:
+        long2iso = { x:long2iso[x] for x in long2iso.keys() if long2iso[x] in iso.split(':') }
     if not dir_contains_files(wavdir, ['%s.wav'%(x) for x in long2iso.keys()]):
         mp3dir = os.path.join(*(audiopathlist[:-1] + ['mp3']))
         if not dir_contains_files(mp3dir, ['%s.mp3'%(x) for x in long2iso.keys()]):
@@ -104,6 +110,7 @@ def load_audio(audiodir, tgs, long2iso):
                 wget2dir(zipdir, librivox_sources)
             unzip2dir(mp3dir, zipdir, librivox_sources)
         mp2wav(wavdir, mp3dir)
+    tgs = load_textgrids('conf/TextGrid/segs',long2iso, 'conf/long2iso.txt')    
     segment_audio(audiodir, wavdir, tgs, long2iso)
 
 #def pdf2text(fulltextdir, pdfdir, long2iso):
@@ -127,10 +134,11 @@ def load_audio(audiodir, tgs, long2iso):
             
 def segment_text(textdir, fulltextdir, tgs, long2iso):
     os.makedirs(textdir,exist_ok=True)
-    for (longfn,iso) in long2iso.items():
+    for (n,(longfn,iso)) in enumerate(long2iso.items()):
         fulltextfile = os.path.join(fulltextdir, iso+'.txt')
         textfile = os.path.join(textdir, longfn+'.txt')
-        print('Converting %s to %s'%(fulltextfile,textfile))
+        if n%100==0:
+            print("Segmenting n'th fulltext %s to %s"%(n,fulltextfile,textfile))
         lines = []
         with open(fulltextfile) as f:
             for (line_num,line) in enumerate(f.readlines()):
@@ -161,9 +169,12 @@ def segment_text(textdir, fulltextdir, tgs, long2iso):
                 line = '%s_%4.4d\t%s\n'%(longfn,n+1,p)
                 f.write(line)
 
-def load_text(textdir, tgs, long2iso):
+def load_text(textdir='exp/text', iso=None):
     textpathlist = list(os.path.split(textdir))
     fulltextdir = os.path.join(*(textpathlist[:-1] + ['fulltext']))
+    long2iso = load_dict_from_txtfile('conf/long2iso.txt')
+    if iso != None:
+        long2iso = { x:long2iso[x] for x in long2iso.keys() if long2iso[x] in iso.split(':') }    
     if not dir_contains_files(fulltextdir,['%s.txt'%(x) for x in long2iso.values()]):
         unicode_sources = load_dict_from_txtfile('conf/unicode_sources.txt')
         wget2dir(fulltextdir, unicode_sources)
@@ -172,6 +183,7 @@ def load_text(textdir, tgs, long2iso):
         #if not dir_contains_files(pdfdir,[x  for x in united_nations_sources.keys()]):
         #    wget2dir(pdfdir, united_nations_sources)
         #pdf2text(fulltextdir, pdfdir, long2iso)
+    tgs = load_textgrids('conf/TextGrid/segs',long2iso, 'conf/long2iso.txt')    
     segment_text(textdir, fulltextdir, tgs, long2iso)
 
 def git_sparse_checkout(g2pdir,subdir):
@@ -195,7 +207,7 @@ def git_sparse_checkout(g2pdir,subdir):
     subprocess.run(cmd,check=True)
     os.chdir(origdir)
 
-def load_phones(phonesdir, textdir, long2iso, tgs):
+def load_phones(phonesdir='exp/phones', textdir='exp/text', iso=None):
     os.makedirs(phonesdir,exist_ok=True)
     #if not os.path.isdir(os.path.join('exp/g2ps','models')):
     #    git_sparse_checkout('exp/g2ps','models')
@@ -206,7 +218,10 @@ def load_phones(phonesdir, textdir, long2iso, tgs):
     model_urls = { v+".fst":g2ps_source+v+".fst" for v in modeldict.values() }
     if not dir_contains_files(modelsdir, model_urls):
         wget2dir(modelsdir, model_urls)    
-    for longname,iso in long2iso.items():
+    long2iso = load_dict_from_txtfile('conf/long2iso.txt')
+    if iso != None:
+        long2iso = { x:long2iso[x] for x in long2iso.keys() if long2iso[x] in iso.split(':') }    
+    for (n,(longname,iso)) in enumerate(long2iso.items()):
         modelfile = modeldict[iso]+".fst"
         modelpath = os.path.join(modelsdir,modelfile)
         if not os.path.isfile(modelpath):
@@ -227,7 +242,8 @@ def load_phones(phonesdir, textdir, long2iso, tgs):
         with open(wordlist,'w') as f:
             f.write('\n'.join(uniquewords))
         cmd=['phonetisaurus-g2pfst','--model=%s'%(modelpath),'--wordlist=%s'%(wordlist)]
-        print(' '.join(cmd))
+        if n%100==0:
+            print("%d'th phonetisaurus command: %s:"%(n,' '.join(cmd)))
         proc=subprocess.run(cmd,capture_output=True)
         if len(proc.stderr)>0:
             with open(os.path.join(modelsdir,longname+'_stderr.txt'),'wb') as f:
@@ -252,7 +268,83 @@ def load_phones(phonesdir, textdir, long2iso, tgs):
                             else:
                                 continue
                     outputfp.write(line[0]+'\t'+' '.join(outputline)+'\n')
-            
+
+def create_hdf5(hdf5filename):
+    # This section loads the text for each uttid, and creates idx2char and char2idx
+    textroot=next(x for x in ('exp/text','text') if os.path.isdir(x))
+    textdata = {}
+    for (dirpath, dirnames, filenames)  in os.walk(textroot):
+        for filename in filenames:
+            textdata.update(load_dict_from_txtfile(os.path.join(dirpath,filename)))
+    idx2char = ''.join(sorted(set.union(*[set(s) for s in textdata.values()])))
+    char2idx = { idx2char[n]:n for n  in range(len(idx2char)) }
+    
+    # This section loads the phones for each uttid, and creates idx2phone and phone2idx
+    phonesroot=next(x for x in ('exp/phones','phones') if os.path.isdir(x))
+    phonesdata = {}
+    for (dirpath, dirnames, filenames)  in os.walk(phonesroot):
+        for filename in filenames:
+            phonesdata.update(load_dict_from_txtfile(os.path.join(dirpath,filename)))
+    idx2phone = ''.join(sorted(set.union(*[set(s) for s in phonesdata.values()])))
+    phone2idx = { idx2phone[n]:n for n  in range(len(idx2phone)) }
+
+    # This section loads the audio pathnames
+    audioroot=next(x for x in ('exp/audio','audio') if os.path.isdir(x))
+    audiopaths = {}
+    for (dirpath, dirnames, filenames)  in os.walk('exp/audio'):
+        for filename in filenames:
+            (root, ext)  = os.path.splitext(filename)
+            if ext=='.wav':
+                audiopaths[root] = os.path.join(dirpath, filename)
+                
+    # This section intersects the keys of the audio, text, and phones
+    uttids  = textdata.keys() &  phonesdata.keys() & audiopaths.keys()
+    if len(uttids)==0:
+        raise FileNotFoundError("%s, %s, %s: no uttids in common"%(audioroot,textroot,phonesroot))
+
+    # This section just finds the ISO code and language name for each utterance
+    long2iso = load_dict_from_txtfile('conf/long2iso.txt')
+    uttid2langname = {}
+    uttid2iso = {}
+    for uttid  in uttids:
+        longname = re.sub(r'_\d\d\d\d$','',uttid)
+        iso_list = long2iso[longname].split('-')
+        if len(iso_list)>0 and pycountry.languages.get(alpha_3=iso_list[0]):
+            langname = pycountry.languages.get(alpha_3=iso_list[0]).name
+        else:
+            langname = 'Unknown'
+        if len(iso_list)>1 and pycountry.countries.get(alpha_2=iso_list[1]):
+            langname = langname + ' - ' + pycountry.countries.get(alpha_2=iso_list[1]).name
+        uttid2iso[uttid] = '-'.join(iso_list)
+        uttid2langname[uttid] = langname
+
+    # This section converts the audio to melspectrogram, and writes everything to the HDF5 file
+    stype=h5py.string_dtype(encoding='utf-8')
+    with h5py.File(hdf5filename, 'w') as f:
+        f.create_dataset('idx2char', data=idx2char, dtype=stype)
+        f.create_dataset('idx2phone', data=idx2phone, dtype=stype)
+        for (n,uttid) in enumerate(uttids):
+            if n%100 == 0:
+                print("Creating %d'th melspectrogram: %s"%(n,uttid))
+            g = f.create_group(uttid)
+            g.create_dataset('uttid', data=uttid, dtype=stype)
+            g.create_dataset('iso639-3-iso3166-1', data=uttid2iso[uttid], dtype=stype)
+            g.create_dataset('languagename', data=uttid2langname[uttid], dtype=stype)
+            g.create_dataset('text', data=np.array([char2idx[c] for c in textdata[uttid]]))
+            g.create_dataset('phones', data=np.array([phone2idx[p] for p in phonesdata[uttid]]))
+            (x,fs) = librosa.load(audiopaths[uttid])
+            params = {
+                'hop_length' : int(fs*0.01),
+                'win_length' : int(fs*0.03),
+                'window' : 'hamming',
+                'center' : False,
+                'fmax' : 8000
+            }            
+            g.create_dataset('melspectrogram', data=librosa.feature.melspectrogram(x,fs,**params))
+            g.create_dataset('nsamps',data=len(x),dtype='int')
+            g.create_dataset('samprate',data=fs,dtype='int')
+
+
 ###########################################################
 if __name__=="__main__":
     parser = argparse.ArgumentParser(
@@ -272,30 +364,39 @@ if __name__=="__main__":
     parser.add_argument('--phones',action='store_true',
                         help='''Phonetisaurus exp/models to map exp/text to exp/phones.
                          ... If fst.gz are not in exp/models, git clone them from uiuc-sst/g2ps.''')
+    parser.add_argument('--hdf5',action='store_true',
+                        help='''Create an h5py file exp/UDHR.hdf5 file that contains the entire dataset,
+                        including melspectrogram computed from each audio file using librosa.
+                        Audio files are sought in exp/audio if it exists, else from audio;
+                        likewise for [exp/text, text] and [exp/phones, phones].  So
+                        if you want to read from the audio subdirectory, first delete exp/audio.''')
     parser.add_argument('-i','--iso',
-                        help='''Process only the specified iso code''')
-    parser.add_argument('--all',action='store_true')
+                        help='''Process only the specified iso code(s).
+                        If you want more than one code, separate them with colons, e.g.,
+                        --iso eng-US:eng-GB:por-BR:ace:epo
+                        ''')
+    parser.add_argument('--all',action='store_true',
+                        help='Perform --audio, --text, --phones, --hdf5 in that order.')
     args = parser.parse_args()
     if args.all:
         args.audio=True
         args.text=True
         args.phones=True
+        args.hdf5=True
         
-    if not args.audio and not args.text and not args.phones:
+    if not args.audio and not args.text and not args.phones and not args.hdf5:
         parser.print_help()
         sys.exit(0)
 
-    long2iso = load_dict_from_txtfile('conf/long2iso.txt')
-    if args.iso != None:
-        long2iso = { x:args.iso for x in long2iso.keys() if long2iso[x]==args.iso }
-        
     if args.audio:
-        tgs = load_textgrids('conf/TextGrid/segs',long2iso, 'conf/long2iso.txt')
-        load_audio('exp/audio',tgs,long2iso)
+        load_audio('exp/audio', iso=args.iso)
 
     if args.text:
-        tgs = load_textgrids('conf/TextGrid/segs',long2iso, 'conf/long2iso.txt')
-        load_text('exp/text',tgs,long2iso)
+        load_text('exp/text', iso=args.iso)
 
     if args.phones:
-        load_phones('exp/phones','exp/text',long2iso,tgs)
+        load_phones('exp/phones','exp/text', iso=args.iso)
+
+    if args.hdf5:
+        create_hdf5('exp/UDHR.hdf5')
+

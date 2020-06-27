@@ -10,7 +10,7 @@ segmenting the librivox recordings, into chunks amenable for the
 training and testing of automatic speech recognizers and synthesizers,
 and then aligning them to the corresponding texts. 
 
-## How to use the corpus
+## How to use the corpus from bash
 
 Segmented text and automatically generated phone transcriptions are distributed with the
 corpus (in the "text" and "phones" subdirectories, respectively).
@@ -19,8 +19,8 @@ to have wget, unzip, ffmpeg, and python installed; then try the
 following steps:
 
 ```bash
-pip install pycountry praatio
-python scripts/prepare_data.py --audio
+pip install pycountry praatio librosa h5py
+python udhrpy/prepare_data.py --audio
 ```
 
 This will create a directory exp, with subdirectories:
@@ -31,6 +31,21 @@ This will create a directory exp, with subdirectories:
 
 You can then move audio out of exp, and delete the
 rest of exp.
+
+## How to use the corpus from python
+
+```python
+import udhrpy
+udhrpy.load_audio()
+udhrpy.create_hdf5('UDHR.hdf5')
+dataset=udhrpy.UDHR_Dataset('UDHR.hdf5')
+print('Smallest melspectrogram has shape %s'%(str(dataset[0]['melspectrogram'].shape)))
+print(' from uttid %s, language = %s'%(dataset[0]['uttid'][()],dataset[0]['languagename'][()]))
+print(''.join(dataset.idx2phone[y] for y in dataset[0]['phones'][:])+'\n')
+print('Largest melspectrogram has shape %s'%(str(dataset[-1]['melspectrogram'].shape)))
+print(' from uttid %s, language = %s'%(dataset[-1]['uttid'][()],dataset[-1]['languagename'][()]))
+print(''.join(dataset.idx2phone[y] for y in dataset[-1]['phones'][:])+'\n')
+```
 
 ## How to download the original text sources
 

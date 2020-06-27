@@ -3,6 +3,7 @@
 # because we don't have the right one.
 #
 eng-GB	english_4_2_2
+eng-GB-plain	english_4_2_2
 eng-US	american-english_8_2_2
 eng-AU	american-english_8_2_2
 ace	malay_2_4_4
@@ -43,6 +44,7 @@ nno	norwegian_2_4_4
 oci	french_8_4_2
 pol	polish_2_2_2
 pam	filipino_4_4_4
+por-BR	portuguese_8_4_2
 por-PT	portuguese_8_4_2
 ron	romanian_2_3_3
 rus	russian_8_2_2

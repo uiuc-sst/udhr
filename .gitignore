@@ -2,3 +2,5 @@ exp
 old
 audio
 *~
+*.hdf5
+__pycache__
