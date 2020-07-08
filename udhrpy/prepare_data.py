@@ -3,6 +3,7 @@ import pycountry, librosa, h5py
 import numpy as np
 from praatio import tgio
 from praatio import audioio
+from collections import defaultdict
 #from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 #from pdfminer.pdfpage import PDFPage
 #from pdfminer.converter import TextConverter
@@ -131,14 +132,32 @@ def load_audio(audiodir='exp/audio', iso=None):
 #        fp.close()
 #        device.close()
 #        outfp.close()
-            
+
+# Some text files have phrases that are not read in the corresponding audio.
+# This  lists the phrase counts of those files, so we can double-check ---
+# any case not listed here might be a mistake.
+phrasecounts = {
+    'human_rights_un_arz_ef_64kb' : 104,
+    'human_rights_un_bal_brc_64kb' : 112,
+    'human_rights_un_bug_brc_64kb' : 123,
+    'human_rights_un_cat_nv_64kb' : 108,
+    'human_rights_un_bra_rljb_64kb' : 106
+    }
+
+# Patterns on which to segment text
+# Default: Latin period, Chinese period, and semicolon, in parens so split keeps them.
+# Czech: add commas
+default_boundary = re.compile('([\.;。])')
+boundary = defaultdict(lambda: default_boundary,
+                       [('ces',re.compile('([,\.;。])'))])
+
 def segment_text(textdir, fulltextdir, tgs, long2iso):
     os.makedirs(textdir,exist_ok=True)
     for (n,(longfn,iso)) in enumerate(long2iso.items()):
         fulltextfile = os.path.join(fulltextdir, iso+'.txt')
         textfile = os.path.join(textdir, longfn+'.txt')
-        if n%100==0:
-            print("Segmenting n'th fulltext %s to %s"%(n,fulltextfile,textfile))
+        if n%10==0:
+            print("Segmenting %d'th fulltext %s to %s"%(n,fulltextfile,textfile))
         lines = []
         with open(fulltextfile) as f:
             for (line_num,line) in enumerate(f.readlines()):
@@ -149,21 +168,21 @@ def segment_text(textdir, fulltextdir, tgs, long2iso):
         phrases = [lines[0]]
         if len(lines)>1:
             for line in lines[1:]:
-                period=re.compile('([\.;。])')  # split on periods and semicolons
-                cl = [ x.strip() for x in re.split(period,line) if not x.isspace() and len(x)>0 ]
+                cl = [ x.strip() for x in re.split(boundary[iso],line) if not x.isspace() and len(x)>0 ]
                 for i, c in enumerate(cl):
                     if len(c)==0:
                         continue
-                    elif re.match(period,c):
+                    elif re.match(boundary[iso],c):
                         phrases[-1] = phrases[-1]+c
-                    elif i==0 and unicodedata.category(c[0])=='Ll' and not re.match(period,phrases[-1][-1]):
+                    elif i==0 and unicodedata.category(c[0])=='Ll' and not re.match(boundary[iso],phrases[-1][-1]):
                         phrases[-1] = phrases[-1]+c
                     else:
                         phrases.append(c)
         phrases = [ p for p in phrases if not p.isspace() and len(p)>0 ]
         if longfn in tgs and len(phrases) != len(tgs[longfn].tierDict['seg'].entryList):
-            print('WARNING: %s.TextGrid=%d segs; %s has %d.'%
-                  (longfn, len(tgs[longfn].tierDict['seg'].entryList),textfile,len(phrases)))
+            if longfn not in phrasecounts or len(phrases) != phrasecounts[longfn]:
+                print('WARNING: %s.TextGrid=%d segs; %s has %d.'%
+                      (longfn, len(tgs[longfn].tierDict['seg'].entryList),textfile,len(phrases)))
         with open(textfile,'w') as f:
             for n, p in enumerate(phrases):
                 line = '%s_%4.4d\t%s\n'%(longfn,n+1,p)

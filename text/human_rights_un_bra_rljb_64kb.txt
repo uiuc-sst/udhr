@@ -1,0 +1,106 @@
+human_rights_un_bra_rljb_64kb_0001	Declaração dos Direitos Humanos
+human_rights_un_bra_rljb_64kb_0002	A Declaração Universal dos Direitos Humanos é um dos documentos básicos das Nações Unidas e foi assinada em 1948.
+human_rights_un_bra_rljb_64kb_0003	Nela, são enumerados os direitos que todos os seres humanos possuem.
+human_rights_un_bra_rljb_64kb_0004	Preâmbulo
+human_rights_un_bra_rljb_64kb_0005	Considerando que o reconhecimento da dignidade inerente a todos os membros da família humana e de seus direitos iguais e inalienáveis é o fundamento da liberdade, da justiça e da paz no mundo,
+human_rights_un_bra_rljb_64kb_0006	Considerando que o desprezo e o desrespeito pelos direitos humanos resultaram em atos bárbaros que ultrajaram a consciência da Humanidade e que o advento de um mundo em que os todos gozem de liberdade de palavra, de crença e da liberdade de viverem a salvo do temor e da necessidade foi proclamado como a mais alta aspiração do ser humano comum,
+human_rights_un_bra_rljb_64kb_0007	Considerando ser essencial que os direitos humanos sejam protegidos pelo império da lei, para que o ser humano não seja compelido, como último recurso, à rebelião contra a tirania e a opressão,
+human_rights_un_bra_rljb_64kb_0008	Considerando ser essencial promover o desenvolvimento de relações amistosas entre as nações,
+human_rights_un_bra_rljb_64kb_0009	Considerando que os povos das Nações Unidas reafirmaram, na Carta da ONU, sua fé nos direitos humanos fundamentais, na dignidade e no valor do ser humano e na igualdade de direitos entre homens e mulheres, e que decidiram promover o progresso social e melhores condições de vida em uma liberdade mais ampla,
+human_rights_un_bra_rljb_64kb_0010	Considerando que os Estados‐Membros se comprometeram a promover, em cooperação com as Nações Unidas, o respeito universal aos direitos e liberdades humanas fundamentais e a observância desses direitos e liberdades,
+human_rights_un_bra_rljb_64kb_0011	Considerando que uma compreensão comum desses direitos e liberdades é da mais alta importância para o pleno cumprimento desse compromisso,agora portanto,
+human_rights_un_bra_rljb_64kb_0012	A Assembléia Geral proclama a presente Declaração Universal dos Direitos Humanoscomo o ideal comum a ser atingido por todos os povos e todas as nações, com o objetivo de que cada indivíduo e cada órgão da sociedade, tendo sempre em mente esta Declaração, se esforce, através do ensino e da educação, por promover o respeito a esses direitos e liberdades, e, pela adoção de medidas progressivas de caráter nacional e internacional, por assegurar o seu reconhecimento e a sua observância universal e efetiva, tanto entre os povos dos próprios Estados‐Membros, quanto entre os povos dos territórios sob sua jurisdição.
+human_rights_un_bra_rljb_64kb_0013	Artigo I.
+human_rights_un_bra_rljb_64kb_0014	Todos os seres humanos nascem livres e iguais em dignidade e direitos.
+human_rights_un_bra_rljb_64kb_0015	São dotados de razão e consciência e devem agir em relação uns aos outros com espírito de fraternidade.
+human_rights_un_bra_rljb_64kb_0016	Artigo II.
+human_rights_un_bra_rljb_64kb_0017	Todo ser humano tem capacidade para gozar os direitos e as liberdades estabelecidos nesta Declaração, sem distinção de qualquer espécie, seja de raça, cor, sexo, idioma, religião, opinião política ou de outra natureza, origem nacional ou social, riqueza, nascimento, ou qualquer outra condição.
+human_rights_un_bra_rljb_64kb_0018	Não será também feita nenhuma distinção fundada na condição política, jurídica ou internacional do país ou território a que pertença uma pessoa, quer se trate de um território independente, sob tutela, sem governo próprio, quer sujeito a qualquer outra limitação de soberania.
+human_rights_un_bra_rljb_64kb_0019	Artigo III.
+human_rights_un_bra_rljb_64kb_0020	Todo ser humano tem direito à vida, à liberdade e à segurança pessoal.
+human_rights_un_bra_rljb_64kb_0021	Artigo IV.
+human_rights_un_bra_rljb_64kb_0022	Ninguém será mantido em escravidão ou servidão;
+human_rights_un_bra_rljb_64kb_0023	a escravidão e o tráfico de escravos serão proibidos em todas as suas formas.
+human_rights_un_bra_rljb_64kb_0024	Artigo V.
+human_rights_un_bra_rljb_64kb_0025	Ninguém será submetido à tortura nem a tratamento ou castigo cruel, desumano ou degradante.
+human_rights_un_bra_rljb_64kb_0026	Artigo VI.
+human_rights_un_bra_rljb_64kb_0027	Todo ser humano tem o direito de ser, em todos os lugares, reconhecido como pessoa perante a lei.
+human_rights_un_bra_rljb_64kb_0028	Artigo VII.
+human_rights_un_bra_rljb_64kb_0029	Todos são iguais perante a lei e têm direito, sem qualquer distinção, a igual proteção da lei.
+human_rights_un_bra_rljb_64kb_0030	Todos têm direito a igual proteção contra qualquer discriminação que viole a presente Declaração e contra qualquer incitamento a tal discriminação.
+human_rights_un_bra_rljb_64kb_0031	Artigo VIII.
+human_rights_un_bra_rljb_64kb_0032	Todo ser humano tem direito a receber dos tribunais nacionais competentes remédio efetivo para os atos que violem os direitos fundamentais que lhe sejam reconhecidos pela constituição ou pela lei.
+human_rights_un_bra_rljb_64kb_0033	Artigo IX.
+human_rights_un_bra_rljb_64kb_0034	Ninguém será arbitrariamente preso, detido ou exilado.
+human_rights_un_bra_rljb_64kb_0035	Artigo X.
+human_rights_un_bra_rljb_64kb_0036	Todo ser humano tem direito, em plena igualdade, a uma justa e pública audiência por parte de um tribunal independente e imparcial, para decidir sobre seus direitos e deveres ou do fundamento de qualquer acusação criminal contra ele.
+human_rights_un_bra_rljb_64kb_0037	Artigo XI.
+human_rights_un_bra_rljb_64kb_0038	Todo ser humano acusado de um ato delituoso tem o direito de ser presumido inocente até que a sua culpabilidade tenha sido provada de acordo com a lei, em julgamento público no qual lhe tenham sido asseguradas todas as garantias necessárias à sua defesa.
+human_rights_un_bra_rljb_64kb_0039	Ninguém poderá ser culpado por qualquer ação ou omissão que, no momento, não constituíam delito perante o direito nacional ou internacional.
+human_rights_un_bra_rljb_64kb_0040	Também não será imposta pena mais forte do que aquela que, no momento da prática, era aplicável ao ato delituoso.
+human_rights_un_bra_rljb_64kb_0041	Artigo XII.
+human_rights_un_bra_rljb_64kb_0042	Ninguém será sujeito à interferência em sua vida privada, em sua família, em seu lar ou em sua correspondência, nem a ataque à sua honra e reputação.
+human_rights_un_bra_rljb_64kb_0043	Todo ser humano tem direito à proteção da lei contra tais interferências ou ataques.
+human_rights_un_bra_rljb_64kb_0044	Artigo XIII.
+human_rights_un_bra_rljb_64kb_0045	Todo ser humano tem direito à liberdade de locomoção e residência dentro das fronteiras de cada Estado.
+human_rights_un_bra_rljb_64kb_0046	Todo ser humano tem o direito de deixar qualquer país, inclusive o próprio, e a este regressar.
+human_rights_un_bra_rljb_64kb_0047	Artigo XIV.
+human_rights_un_bra_rljb_64kb_0048	Todo ser humano, vítima de perseguição, tem o direito de procurar e de gozar asilo em outros países.
+human_rights_un_bra_rljb_64kb_0049	Este direito não pode ser invocado em caso de perseguição legitimamente motivada por crimes de direito comum ou por atos contrários aos objetivos e princípios das Nações Unidas.
+human_rights_un_bra_rljb_64kb_0050	Artigo XV.
+human_rights_un_bra_rljb_64kb_0051	Todo homem tem direito a uma nacionalidade.
+human_rights_un_bra_rljb_64kb_0052	Ninguém será arbitrariamente privado de sua nacionalidade, nem do direito de mudar de nacionalidade.
+human_rights_un_bra_rljb_64kb_0053	Artigo XVI.
+human_rights_un_bra_rljb_64kb_0054	Os homens e mulheres de maior idade, sem qualquer restrição de raça, nacionalidade ou religião, têm o direito de contrair matrimônio e fundar uma família.
+human_rights_un_bra_rljb_64kb_0055	Gozam de iguais direitos em relação ao casamento, sua duração e sua dissolução.
+human_rights_un_bra_rljb_64kb_0056	O casamento não será válido senão com o livre e pleno consentimento dos nubentes.
+human_rights_un_bra_rljb_64kb_0057	A família é o núcleo natural e fundamental da sociedade e tem direito à proteção da sociedade e do Estado.
+human_rights_un_bra_rljb_64kb_0058	Artigo XVII.
+human_rights_un_bra_rljb_64kb_0059	Todo ser humano tem direito à propriedade, só ou em sociedade com outros.
+human_rights_un_bra_rljb_64kb_0060	Ninguém será arbitrariamente privado de sua propriedade.
+human_rights_un_bra_rljb_64kb_0061	Artigo XVIII.
+human_rights_un_bra_rljb_64kb_0062	Todo ser humano tem direito à liberdade de pensamento, consciência e religião;
+human_rights_un_bra_rljb_64kb_0063	este direito inclui a liberdade de mudar de religião ou crença e a liberdade de manifestar essa religião ou crença, pelo ensino, pela prática, pelo culto e pela observância, em público ou em particular.
+human_rights_un_bra_rljb_64kb_0064	Artigo XIX.
+human_rights_un_bra_rljb_64kb_0065	Todo ser humano tem direito à liberdade de opinião e expressão;
+human_rights_un_bra_rljb_64kb_0066	este direito inclui a liberdade de, sem interferência, ter opiniões e de procurar, receber e transmitir informações e idéias por quaisquer meios e independentemente de fronteiras.
+human_rights_un_bra_rljb_64kb_0067	Artigo XX.
+human_rights_un_bra_rljb_64kb_0068	Todo ser humano tem direito à liberdade de reunião e associação pacífica.
+human_rights_un_bra_rljb_64kb_0069	Ninguém pode ser obrigado a fazer parte de uma associação.
+human_rights_un_bra_rljb_64kb_0070	Artigo XXI.
+human_rights_un_bra_rljb_64kb_0071	Todo ser humano tem o direito de fazer parte no governo de seu país diretamente ou por intermédio de representantes livremente escolhidos.
+human_rights_un_bra_rljb_64kb_0072	Todo ser humano tem igual direito de acesso ao serviço público do seu país.
+human_rights_un_bra_rljb_64kb_0073	A vontade do povo será a base da autoridade do governo;
+human_rights_un_bra_rljb_64kb_0074	esta vontade será expressa em eleições periódicas e legítimas, por sufrágio universal, por voto secreto ou processo equivalente que assegure a liberdade de voto.
+human_rights_un_bra_rljb_64kb_0075	Artigo XXII.
+human_rights_un_bra_rljb_64kb_0076	Todo ser humano, como membro da sociedade, tem direito à segurança social, à realização pelo esforço nacional, pela cooperação internacional e de acordo com a organização e recursos de cada Estado, dos direitos econômicos, sociais e culturais indispensáveis à sua dignidade e ao livre desenvolvimento da sua personalidade.
+human_rights_un_bra_rljb_64kb_0077	Artigo XXIII.
+human_rights_un_bra_rljb_64kb_0078	Todo ser humano tem direito ao trabalho, à livre escolha de emprego, a condições justas e favoráveis de trabalho e à proteção contra o desemprego.
+human_rights_un_bra_rljb_64kb_0079	Todo ser humano, sem qualquer distinção, tem direito a igual remuneração por igual trabalho.
+human_rights_un_bra_rljb_64kb_0080	Todo ser humano que trabalha tem direito a uma remuneração justa e satisfatória, que lhe assegure, assim como à sua família, uma existência compatível com a dignidade humana e a que se acrescentarão, se necessário, outros meios de proteção social.
+human_rights_un_bra_rljb_64kb_0081	Todo ser humano tem direito a organizar sindicatos e a neles ingressar para proteção de seus interesses.
+human_rights_un_bra_rljb_64kb_0082	Artigo XXIV.
+human_rights_un_bra_rljb_64kb_0083	Todo ser humano tem direito a repouso e lazer, inclusive a limitação razoável das horas de trabalho e a férias remuneradas periódicas.
+human_rights_un_bra_rljb_64kb_0084	Artigo XXV.
+human_rights_un_bra_rljb_64kb_0085	Todo ser humano tem direito a um padrão de vida capaz de assegurar‐lhe, e a sua família, saúde e bem‐estar, inclusive alimentação, vestuário, habitação, cuidados médicos e os serviços sociais indispensáveis, e direito à segurança em caso de desemprego, doença, invalidez, viuvez, velhice ou outros casos de perda dos meios de subsistência em circunstâncias fora de seu controle.
+human_rights_un_bra_rljb_64kb_0086	A maternidade e a infância têm direito a cuidados e assistência especiais.
+human_rights_un_bra_rljb_64kb_0087	Todas as crianças, nascidas dentro ou fora do matrimônio gozarão da mesma proteção social.
+human_rights_un_bra_rljb_64kb_0088	Artigo XXVI.
+human_rights_un_bra_rljb_64kb_0089	Todo ser humano tem direito à instrução.
+human_rights_un_bra_rljb_64kb_0090	A instrução será gratuita, pelo menos nos graus elementares e fundamentais.
+human_rights_un_bra_rljb_64kb_0091	A instrução elementar será obrigatória.
+human_rights_un_bra_rljb_64kb_0092	A instrução técnico‐profissional será acessível a todos, bem como a instrução superior, esta baseada no mérito.
+human_rights_un_bra_rljb_64kb_0093	A instrução será orientada no sentido do pleno desenvolvimento da personalidade humana e do fortalecimento do respeito pelos direitos humanos e pelas liberdades fundamentais.
+human_rights_un_bra_rljb_64kb_0094	A instrução promoverá a compreensão, a tolerância e a amizade entre todas as nações e grupos raciais ou religiosos, e coadjuvará as atividades das Nações Unidas em prol da manutenção da paz.
+human_rights_un_bra_rljb_64kb_0095	Os pais têm prioridade de direito na escolha do gênero de instrução que será ministrada a seus filhos.
+human_rights_un_bra_rljb_64kb_0096	Artigo XXVII.
+human_rights_un_bra_rljb_64kb_0097	Todo ser humano tem o direito de participar livremente da vida cultural da comunidade, de fruir das artes e de participar do progresso científico e de seus benefícios.
+human_rights_un_bra_rljb_64kb_0098	Todo ser humano tem direito à proteção dos interesses morais e materiais decorrentes de qualquer produção científica literária ou artística da qual seja autor.
+human_rights_un_bra_rljb_64kb_0099	Artigo XXVIII.
+human_rights_un_bra_rljb_64kb_0100	Todo ser humano tem direito a uma ordem social e internacional em que os direitos e liberdades estabelecidos na presente Declaração possam ser plenamente realizados.
+human_rights_un_bra_rljb_64kb_0101	Artigo XXIX.
+human_rights_un_bra_rljb_64kb_0102	Todo ser humano tem deveres para com a comunidade, na qual o livre e pleno desenvolvimento de sua personalidade é possível.
+human_rights_un_bra_rljb_64kb_0103	No exercício de seus direitos e liberdades, todo ser humano estará sujeito apenas às limitações determinadas pela lei, exclusivamente com o fim de assegurar o devido reconhecimento e respeito dos direitos e liberdades de outrem e de satisfazer as justas exigências da moral, da ordem pública e do bem‐estar de uma sociedade democrática.
+human_rights_un_bra_rljb_64kb_0104	Esses direitos e liberdades não podem, em hipótese alguma, ser exercidos contrariamente aos objetivos e princípios das Nações Unidas.
+human_rights_un_bra_rljb_64kb_0105	Artigo XXX.
+human_rights_un_bra_rljb_64kb_0106	Nenhuma disposição da presente Declaração pode ser interpretada como o reconhecimento a qualquer Estado, grupo ou pessoa, do direito de exercer qualquer atividade ou praticar qualquer ato destinado à destruição de quaisquer dos direitos e liberdades aqui estabelecidos.
