@@ -1,67 +1,59 @@
-human_rights_un_plain_drb_64kb_0001	- a different sex
-human_rights_un_plain_drb_64kb_0002	- a different skin colour
-human_rights_un_plain_drb_64kb_0003	- speaking a different language
-human_rights_un_plain_drb_64kb_0004	- thinking different things
-human_rights_un_plain_drb_64kb_0005	- believing in another religion
-human_rights_un_plain_drb_64kb_0006	- owning more or less
-human_rights_un_plain_drb_64kb_0007	- being born in another social group
-human_rights_un_plain_drb_64kb_0008	- coming from another country
-human_rights_un_plain_drb_64kb_0009	It also makes no difference whether the country you live in is independent or not.
-human_rights_un_plain_drb_64kb_0010	3 You have the right to live, and to live in freedom and safety.
-human_rights_un_plain_drb_64kb_0011	4 Nobody has the right to treat you as his or her slave and you should not make anyone your slave.
-human_rights_un_plain_drb_64kb_0012	5 Nobody has the right to torture you.
-human_rights_un_plain_drb_64kb_0013	6 You should be legally protected in the same way everywhere, and like everyone else.
-human_rights_un_plain_drb_64kb_0014	7 The law is the same for everyone;
-human_rights_un_plain_drb_64kb_0015	it should be applied in the same way to all.
-human_rights_un_plain_drb_64kb_0016	8 You should be able to ask for legal help when the rights your country grants you are not respected.
-human_rights_un_plain_drb_64kb_0017	9 Nobody has the right to put you in prison, to keep you there, or to send you away from your country unjustly, or without good reason.
-human_rights_un_plain_drb_64kb_0018	10 If you go on trial this should be done in public.
-human_rights_un_plain_drb_64kb_0019	The people who try you should not let themselves be influenced by others.
-human_rights_un_plain_drb_64kb_0020	11 You should be considered innocent until it can be proved that you are guilty.
-human_rights_un_plain_drb_64kb_0021	If you are accused of a crime, you should always have the right to defend yourself.
-human_rights_un_plain_drb_64kb_0022	Nobody has the right to condemn you and punish you for something you have not done.
-human_rights_un_plain_drb_64kb_0023	12 You have the right to ask to be protected if someone tries to harm your good name, enter your house, open your letters, or bother you or your family without a good reason.
-human_rights_un_plain_drb_64kb_0024	13 You have the right to come and go as you wish within your country.
-human_rights_un_plain_drb_64kb_0025	You have the right to leave your country to go to another one;
-human_rights_un_plain_drb_64kb_0026	and you should be able to return to your country if you want.
-human_rights_un_plain_drb_64kb_0027	14 If someone hurts you, you have the right to go to another country and ask it to protect you.
-human_rights_un_plain_drb_64kb_0028	You lose this right if you have killed someone and if you, yourself, do not respect what is written here.
-human_rights_un_plain_drb_64kb_0029	15 You have the right to belong to a country and nobody can prevent you, without a good reason, from belonging to a country if you wish.
-human_rights_un_plain_drb_64kb_0030	16 As soon as a person is legally entitled, he or she has the right to marry and have a family.
-human_rights_un_plain_drb_64kb_0031	In doing this, neither the colour of your skin, the country you come from nor your religion should be impediments.
-human_rights_un_plain_drb_64kb_0032	Men and women have the same rights when they are married and also when they are separated.
-human_rights_un_plain_drb_64kb_0033	Nobody should force a person to marry.
-human_rights_un_plain_drb_64kb_0034	The government of your country should protect you and the members of your family.
-human_rights_un_plain_drb_64kb_0035	17 You have the right to own things and nobody has the right to take these from you without a good reason.
-human_rights_un_plain_drb_64kb_0036	18 You have the right to profess your religion freely, to change it, and to practise it either on your own or with other people.
-human_rights_un_plain_drb_64kb_0037	19 You have the right to think what you want, to say what you like, and nobody should forbid you from doing so.
-human_rights_un_plain_drb_64kb_0038	You should be able to share your ideas also—with people from any other country.
-human_rights_un_plain_drb_64kb_0039	20 You have the right to organize peaceful meetings or to take part in meetings in a peaceful way.
-human_rights_un_plain_drb_64kb_0040	It is wrong to force someone to belong to a group.
-human_rights_un_plain_drb_64kb_0041	21 You have the right to take part in your country's political affairs either by belonging to the government yourself or by choosing politicians who have the same ideas as you.
-human_rights_un_plain_drb_64kb_0042	Governments should be voted for regularly and voting should be secret.
-human_rights_un_plain_drb_64kb_0043	You should get a vote and all votes should be equal.
-human_rights_un_plain_drb_64kb_0044	You also have the same right to join the public service as anyone else.
-human_rights_un_plain_drb_64kb_0045	22 The society in which you live should help you to develop and to make the most of all the advantages (culture, work, social welfare) which are offered to you and to all the men and women in your country.
-human_rights_un_plain_drb_64kb_0046	23 You have the right to work, to be free to choose your work, to get a salary which allows you to support your family.
-human_rights_un_plain_drb_64kb_0047	If a man and a woman do the same work, they should get the same pay.
-human_rights_un_plain_drb_64kb_0048	All people who work have the right to join together to defend their interests.
-human_rights_un_plain_drb_64kb_0049	24 Each work day should not be too long, since everyone has the right to rest and should be able to take regular paid holidays.
-human_rights_un_plain_drb_64kb_0050	25 You have the right to have whatever you need so that you and your family: do not fall ill or go hungry;
-human_rights_un_plain_drb_64kb_0051	have clothes and a house;
-human_rights_un_plain_drb_64kb_0052	and are helped if you are out of work, if you are ill, if you are old, if your wife or husband is dead, or if you do not earn a living for any other reason you cannot help.
-human_rights_un_plain_drb_64kb_0053	Mothers and their children are entitled to special care.
-human_rights_un_plain_drb_64kb_0054	All children have the same rights to be protected, whether or not their mother was married when they were born.
-human_rights_un_plain_drb_64kb_0055	26 You have the right to go to school and everyone should go to school.
-human_rights_un_plain_drb_64kb_0056	Primary schooling should be free.
-human_rights_un_plain_drb_64kb_0057	You should be able to learn a profession or continue your studies as far as wish.
-human_rights_un_plain_drb_64kb_0058	At school, you should be able to develop all your talents and you should be taught to get on with others, whatever their race, religion or the country they come from.
-human_rights_un_plain_drb_64kb_0059	Your parents have the right to choose how and what you will be taught at school.
-human_rights_un_plain_drb_64kb_0060	27 You have the right to share in your community's arts and sciences, and any good they do.
-human_rights_un_plain_drb_64kb_0061	Your works as an artist, writer, or a scientist should be protected, and you should be able to benefit from them.
-human_rights_un_plain_drb_64kb_0062	28 So that your rights will be respected, there must be an 'order' which can protect them.
-human_rights_un_plain_drb_64kb_0063	This ‘order’ should be local and worldwide.
-human_rights_un_plain_drb_64kb_0064	29 You have duties towards the community within which your personality can only fully develop.
-human_rights_un_plain_drb_64kb_0065	The law should guarantee human rights.
-human_rights_un_plain_drb_64kb_0066	It should allow everyone to respect others and to be respected.
-human_rights_un_plain_drb_64kb_0067	30 In all parts of the world, no society, no human being, should take it upon her or himself to act in such a way as to destroy the rights which you have just been reading about.
+human_rights_un_plain_drb_64kb_0001	human_rights_un_plain_drb_64kb_0006- owning more or lesshuman_rights_un_plain_drb_64kb_0007- being born in another social grouphuman_rights_un_plain_drb_64kb_0008- coming from another countryhuman_rights_un_plain_drb_64kb_0009It also makes no difference whether the country you live in is independent or not.
+human_rights_un_plain_drb_64kb_0002	human_rights_un_plain_drb_64kb_00103 You have the right to live, and to live in freedom and safety.
+human_rights_un_plain_drb_64kb_0003	human_rights_un_plain_drb_64kb_00114 Nobody has the right to treat you as his or her slave and you should not make anyone your slave.
+human_rights_un_plain_drb_64kb_0004	human_rights_un_plain_drb_64kb_00125 Nobody has the right to torture you.
+human_rights_un_plain_drb_64kb_0005	human_rights_un_plain_drb_64kb_00136 You should be legally protected in the same way everywhere, and like everyone else.
+human_rights_un_plain_drb_64kb_0006	human_rights_un_plain_drb_64kb_00147 The law is the same for everyone;
+human_rights_un_plain_drb_64kb_0007	human_rights_un_plain_drb_64kb_0015it should be applied in the same way to all.
+human_rights_un_plain_drb_64kb_0008	human_rights_un_plain_drb_64kb_00168 You should be able to ask for legal help when the rights your country grants you are not respected.
+human_rights_un_plain_drb_64kb_0009	human_rights_un_plain_drb_64kb_00179 Nobody has the right to put you in prison, to keep you there, or to send you away from your country unjustly, or without good reason.
+human_rights_un_plain_drb_64kb_0010	human_rights_un_plain_drb_64kb_001810 If you go on trial this should be done in public.
+human_rights_un_plain_drb_64kb_0011	human_rights_un_plain_drb_64kb_0019The people who try you should not let themselves be influenced by others.
+human_rights_un_plain_drb_64kb_0012	human_rights_un_plain_drb_64kb_002011 You should be considered innocent until it can be proved that you are guilty.
+human_rights_un_plain_drb_64kb_0013	human_rights_un_plain_drb_64kb_0021If you are accused of a crime, you should always have the right to defend yourself.
+human_rights_un_plain_drb_64kb_0014	human_rights_un_plain_drb_64kb_0022Nobody has the right to condemn you and punish you for something you have not done.
+human_rights_un_plain_drb_64kb_0015	human_rights_un_plain_drb_64kb_002312 You have the right to ask to be protected if someone tries to harm your good name, enter your house, open your letters, or bother you or your family without a good reason.
+human_rights_un_plain_drb_64kb_0016	human_rights_un_plain_drb_64kb_002413 You have the right to come and go as you wish within your country.
+human_rights_un_plain_drb_64kb_0017	human_rights_un_plain_drb_64kb_0025You have the right to leave your country to go to another one;
+human_rights_un_plain_drb_64kb_0018	human_rights_un_plain_drb_64kb_0026and you should be able to return to your country if you want.
+human_rights_un_plain_drb_64kb_0019	human_rights_un_plain_drb_64kb_002714 If someone hurts you, you have the right to go to another country and ask it to protect you.
+human_rights_un_plain_drb_64kb_0020	human_rights_un_plain_drb_64kb_0028You lose this right if you have killed someone and if you, yourself, do not respect what is written here.
+human_rights_un_plain_drb_64kb_0021	human_rights_un_plain_drb_64kb_002915 You have the right to belong to a country and nobody can prevent you, without a good reason, from belonging to a country if you wish.
+human_rights_un_plain_drb_64kb_0022	human_rights_un_plain_drb_64kb_003016 As soon as a person is legally entitled, he or she has the right to marry and have a family.
+human_rights_un_plain_drb_64kb_0023	human_rights_un_plain_drb_64kb_0031In doing this, neither the colour of your skin, the country you come from nor your religion should be impediments.
+human_rights_un_plain_drb_64kb_0024	human_rights_un_plain_drb_64kb_0032Men and women have the same rights when they are married and also when they are separated.
+human_rights_un_plain_drb_64kb_0025	human_rights_un_plain_drb_64kb_0033Nobody should force a person to marry.
+human_rights_un_plain_drb_64kb_0026	human_rights_un_plain_drb_64kb_0034The government of your country should protect you and the members of your family.
+human_rights_un_plain_drb_64kb_0027	human_rights_un_plain_drb_64kb_003517 You have the right to own things and nobody has the right to take these from you without a good reason.
+human_rights_un_plain_drb_64kb_0028	human_rights_un_plain_drb_64kb_003618 You have the right to profess your religion freely, to change it, and to practise it either on your own or with other people.
+human_rights_un_plain_drb_64kb_0029	human_rights_un_plain_drb_64kb_003719 You have the right to think what you want, to say what you like, and nobody should forbid you from doing so.
+human_rights_un_plain_drb_64kb_0030	human_rights_un_plain_drb_64kb_0038You should be able to share your ideas also—with people from any other country.
+human_rights_un_plain_drb_64kb_0031	human_rights_un_plain_drb_64kb_003920 You have the right to organize peaceful meetings or to take part in meetings in a peaceful way.
+human_rights_un_plain_drb_64kb_0032	human_rights_un_plain_drb_64kb_0040It is wrong to force someone to belong to a group.
+human_rights_un_plain_drb_64kb_0033	human_rights_un_plain_drb_64kb_004121 You have the right to take part in your country's political affairs either by belonging to the government yourself or by choosing politicians who have the same ideas as you.
+human_rights_un_plain_drb_64kb_0034	human_rights_un_plain_drb_64kb_0042Governments should be voted for regularly and voting should be secret.
+human_rights_un_plain_drb_64kb_0035	human_rights_un_plain_drb_64kb_0043You should get a vote and all votes should be equal.
+human_rights_un_plain_drb_64kb_0036	human_rights_un_plain_drb_64kb_0044You also have the same right to join the public service as anyone else.
+human_rights_un_plain_drb_64kb_0037	human_rights_un_plain_drb_64kb_004522 The society in which you live should help you to develop and to make the most of all the advantages (culture, work, social welfare) which are offered to you and to all the men and women in your country.
+human_rights_un_plain_drb_64kb_0038	human_rights_un_plain_drb_64kb_004623 You have the right to work, to be free to choose your work, to get a salary which allows you to support your family.
+human_rights_un_plain_drb_64kb_0039	human_rights_un_plain_drb_64kb_0047If a man and a woman do the same work, they should get the same pay.
+human_rights_un_plain_drb_64kb_0040	human_rights_un_plain_drb_64kb_0048All people who work have the right to join together to defend their interests.
+human_rights_un_plain_drb_64kb_0041	human_rights_un_plain_drb_64kb_004924 Each work day should not be too long, since everyone has the right to rest and should be able to take regular paid holidays.
+human_rights_un_plain_drb_64kb_0042	human_rights_un_plain_drb_64kb_005025 You have the right to have whatever you need so that you and your family: do not fall ill or go hungry;
+human_rights_un_plain_drb_64kb_0043	human_rights_un_plain_drb_64kb_0051have clothes and a house;
+human_rights_un_plain_drb_64kb_0044	human_rights_un_plain_drb_64kb_0052and are helped if you are out of work, if you are ill, if you are old, if your wife or husband is dead, or if you do not earn a living for any other reason you cannot help.
+human_rights_un_plain_drb_64kb_0045	human_rights_un_plain_drb_64kb_0053Mothers and their children are entitled to special care.
+human_rights_un_plain_drb_64kb_0046	human_rights_un_plain_drb_64kb_0054All children have the same rights to be protected, whether or not their mother was married when they were born.
+human_rights_un_plain_drb_64kb_0047	human_rights_un_plain_drb_64kb_005526 You have the right to go to school and everyone should go to school.
+human_rights_un_plain_drb_64kb_0048	human_rights_un_plain_drb_64kb_0056Primary schooling should be free.
+human_rights_un_plain_drb_64kb_0049	human_rights_un_plain_drb_64kb_0057You should be able to learn a profession or continue your studies as far as wish.
+human_rights_un_plain_drb_64kb_0050	human_rights_un_plain_drb_64kb_0058At school, you should be able to develop all your talents and you should be taught to get on with others, whatever their race, religion or the country they come from.
+human_rights_un_plain_drb_64kb_0051	human_rights_un_plain_drb_64kb_0059Your parents have the right to choose how and what you will be taught at school.
+human_rights_un_plain_drb_64kb_0052	human_rights_un_plain_drb_64kb_006027 You have the right to share in your community's arts and sciences, and any good they do.
+human_rights_un_plain_drb_64kb_0053	human_rights_un_plain_drb_64kb_0061Your works as an artist, writer, or a scientist should be protected, and you should be able to benefit from them.
+human_rights_un_plain_drb_64kb_0054	human_rights_un_plain_drb_64kb_006228 So that your rights will be respected, there must be an 'order' which can protect them.
+human_rights_un_plain_drb_64kb_0055	human_rights_un_plain_drb_64kb_0063This ‘order’ should be local and worldwide.
+human_rights_un_plain_drb_64kb_0056	human_rights_un_plain_drb_64kb_006429 You have duties towards the community within which your personality can only fully develop.
+human_rights_un_plain_drb_64kb_0057	human_rights_un_plain_drb_64kb_0065The law should guarantee human rights.
+human_rights_un_plain_drb_64kb_0058	human_rights_un_plain_drb_64kb_0066It should allow everyone to respect others and to be respected.
+human_rights_un_plain_drb_64kb_0059	human_rights_un_plain_drb_64kb_006730 In all parts of the world, no society, no human being, should take it upon her or himself to act in such a way as to destroy the rights which you have just been reading about.

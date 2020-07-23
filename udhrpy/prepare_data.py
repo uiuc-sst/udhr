@@ -146,10 +146,10 @@ phrasecounts = {
 
 # Patterns on which to segment text
 # Default: Latin period, Chinese period, and semicolon, in parens so split keeps them.
-# Czech: add commas
+# Czech, Danish: add commas
 default_boundary = re.compile('([\.;。])')
 boundary = defaultdict(lambda: default_boundary,
-                       [('ces',re.compile('([,\.;。])'))])
+                       [('ces',re.compile('([,\.;。])')),('dan',re.compile('([,\.;。])'))])
 
 def segment_text(textdir, fulltextdir, tgs, long2iso):
     os.makedirs(textdir,exist_ok=True)

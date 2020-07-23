@@ -2,108 +2,223 @@ human_rights_un_dns_me_64kb_0001	Den 10.
 human_rights_un_dns_me_64kb_0002	december 1948 vedtog og offentliggjorde FNs tredie generalforsamling Verdenserklæringen om Menneskerettighederne.
 human_rights_un_dns_me_64kb_0003	Erklæringen blev vedtaget med 48 landes ja-stemmer Ingen lande stemte imod.
 human_rights_un_dns_me_64kb_0004	8 lande afstod.
-human_rights_un_dns_me_64kb_0005	Umiddelbart efter denne historiske begivenhed henstillede generalforsamlingen til alle medlemslande, at de offentliggjorde erklæringens fulde tekst.
-human_rights_un_dns_me_64kb_0006	De skulle desuden "foranstalte, at den bliver omdelt, fremlagt, læst og forklaret i særdeleshed i skoler og andre undervisningsinstitutioner, uden hensyn til de forskellige landes og områders politiske forhold".
-human_rights_un_dns_me_64kb_0007	Erklæringens officielle tekst findes på FNs seks officielle sprog: arabisk, engelsk, fransk, kinesisk, russisk og spansk.
-human_rights_un_dns_me_64kb_0008	Endvidere har en lang række af FNs medlemslande fulgt generalforsamlingens opfordring og oversat erklæringen til det nationale sprog.
-human_rights_un_dns_me_64kb_0009	Den danske oversættelse på de følgende sider er udarbejdet af udenrigsministeriet.
-human_rights_un_dns_me_64kb_0010	Ved henvendelse til FNs nordiske informationskontor i København kan man gratis rekvirere eksemplarer af erklæringen på henholdsvis FNs officielle sprog, de øvrige nordiske sprog samt et begrænset antal andre sprog.
-human_rights_un_dns_me_64kb_0011	VERDENSERKLÆRINGEN OM MENNESKERETTIGHEDERNE
-human_rights_un_dns_me_64kb_0012	INDLEDNING
-human_rights_un_dns_me_64kb_0013	Da anerkendelse af den mennesket iboende værdighed og af de lige og ufortabelige rettigheder for alle medlemmer af den menneskelige familie er grundlaget for frihed, retfærdighed og fred i verden,da tilsidesættelse af og foragt for menneskerettighederne har ført til barbariske handlinger, der har oprørt menneskehedens samvittighed, og da skabelsen af en verden, hvor menneskene nyder tale- og trosfrihed og frihed for frygt og nød, er blevet forkyndt som folkenes højeste mål,da det er af afgørende betydning, at menneskerettighederne beskyttes af loven, hvis ikke mennesket som en sidste udvej skal tvinges til at gøre oprør mod tyranni og undertrykkelse,da det er af afgørende betydning at fremme udviklingen af venskabelige forhold mellem nationerne,da De forenede Nationers folk i pagten påny har bekræftet deres tro på fundamentale menneskerettigheder, på menneskets værdighed og værd og på lige rettigheder for mænd og kvinder, og har besluttet at fremme sociale fremskridt og højne levevilkårene under større frihed,da medlemsstaterne har forpligtet sig til i samarbejde med De forenede Nationer at arbejde for fremme af almindelig respekt fur og overholdelse af menneskerettigheder og fundamentale frihedsrettigheder,da en fælles forståelse af disse rettigheder og friheder er af den største betydning for den fulde virkeliggørelse af denne forpligtelse,proklamerer
-human_rights_un_dns_me_64kb_0014	PLENARFORSAMLINGENderfor nu denne VERDENSERKLÆRING OM MENNESKERETTIGHEDERNE som et fælles mål for alle folk og alle nationer med det formål, at ethvert menneske og ethvert samfundsorgan stedse med denne erklæring for øje skal stræbe efter gennem undervisning og opdragelse at fremme respekt for disse rettigheder og friheder og gennem fremadskridende nationale og internationale foranstaltninger at sikre, at de anerkendes og overholdes overalt og effektivt, både blandt befolkningerne i medlemsstaterne og blandt befolkningerne i de områder, der befinder sig under deres styre.
-human_rights_un_dns_me_64kb_0015	Artikel 1.
-human_rights_un_dns_me_64kb_0016	Alle mennesker er født frie og lige i værdighed og rettigheder.
-human_rights_un_dns_me_64kb_0017	De er udstyret med fornuft og samvittighed, og de bør handle mod hverandre i en broderskabets ånd.
-human_rights_un_dns_me_64kb_0018	Artikel 2.
-human_rights_un_dns_me_64kb_0019	Enhver har krav på alle de rettigheder og friheder, som nævnes i denne erklæring, uden forskelsbehandling af nogen art, f.
-human_rights_un_dns_me_64kb_0020	eks.
-human_rights_un_dns_me_64kb_0021	på grund af race, farve, køn, sprog, religion, politisk eller anden anskuelse, national eller social oprindelse, formueforhold, fødsel eller anden samfundsmæssig stilling.
-human_rights_un_dns_me_64kb_0022	Der skal heller ikke gøres nogen forskel på grund af det lands eller områdes jurisdiktionsforhold eller politiske eller internationale stilling, til hvilket en person hører, hvadenten dette område er uafhængigt, under formynderskab eller er et ikke selvstyrende område, eller dets suverænitet på anden måde er begrænset.
-human_rights_un_dns_me_64kb_0023	Artikel 3.
-human_rights_un_dns_me_64kb_0024	Enhver har ret til liv, frihed og personlig sikkerhed.
-human_rights_un_dns_me_64kb_0025	Artikel 4.
-human_rights_un_dns_me_64kb_0026	Ingen må holdes i slaveri eller trældom;
-human_rights_un_dns_me_64kb_0027	slaveri og slavehandel under alle former skal være forbudt.
-human_rights_un_dns_me_64kb_0028	Artikel 5.
-human_rights_un_dns_me_64kb_0029	Ingen må underkastes tortur eller grusom, umenneskelig eller vanærende behandling eller straf.
-human_rights_un_dns_me_64kb_0030	Artikel 6.
-human_rights_un_dns_me_64kb_0031	Ethvert menneske har overalt i verden ret til at blive anerkendt som retssubjekt.
-human_rights_un_dns_me_64kb_0032	Artikel 7.
-human_rights_un_dns_me_64kb_0033	Alle er lige for loven og har uden forskelsbehandling af nogen art lige ret til lovens beskyttelse.
-human_rights_un_dns_me_64kb_0034	Alle har ret til lige beskyttelse mod enhver forskelsbehandling i strid mod denne erklæring og mod enhver tilskyndelse til en sådan forskelsbehandling.
-human_rights_un_dns_me_64kb_0035	Artikel 8.
-human_rights_un_dns_me_64kb_0036	Enhver har ret til en fyldestgørende oprejsning ved de kompetente nationale domstole for handlinger, der krænker de fundamentale rettigheder, som forfatningen eller loven giver vedkommende.
-human_rights_un_dns_me_64kb_0037	Artikel 9.
-human_rights_un_dns_me_64kb_0038	Ingen må underkastes vilkårlig anholdelse, tilbageholdelse eller landsforvisning.
-human_rights_un_dns_me_64kb_0039	Artikel 10.
-human_rights_un_dns_me_64kb_0040	Enhver har under fuld ligeberettigelse krav på en retfærdig og offentlig behandling ved en uafhængig og upartisk domstol, når der skal træffes en afgørelse med hensyn til hans rettigheder og forpligtelser og med hensyn til en hvilken som helst mod ham rettet strafferetslig anklage.
-human_rights_un_dns_me_64kb_0041	Artikel 11.
-human_rights_un_dns_me_64kb_0042	Enhver, der anklages for et strafbart forhold, har ret til at blive anset for uskyldig, indtil hans skyld er godtgjort i henhold til lov ved en offentlig retshandling, hvorunder han har fået alle de garantier, der er fornødne for hans forsvar.
-human_rights_un_dns_me_64kb_0043	Ingen må anses for skyldig i noget strafbart forhold på grund af nogen handling eller undladelse, der ikke i henhold til national eller international ret var strafbar på det tidspunkt, da den blev begået.
-human_rights_un_dns_me_64kb_0044	Der skal heller ikke kunne idømmes strengere straf end fastsat på den tid, da det strafbare forhold blev begået.
-human_rights_un_dns_me_64kb_0045	Artikel 12.
-human_rights_un_dns_me_64kb_0046	Ingen må være genstand for vilkårlig indblanding i private forhold, familie, hjem eller korrespondance, ej heller for angreb på ære og omdømme.
-human_rights_un_dns_me_64kb_0047	Enhver har ret til lovens beskyttelse mod sådan indblanding eller angreb.
-human_rights_un_dns_me_64kb_0048	Artikel 13.
-human_rights_un_dns_me_64kb_0049	Enhver har ret til at bevæge sig frit og til frit at vælge opholdssted indenfor hver stats grænser.
-human_rights_un_dns_me_64kb_0050	Enhver har ret til at forlade et hvilket som helst land, herunder sig eget, og til at vende tilbage til sit eget land.
-human_rights_un_dns_me_64kb_0051	Artikel 14.
-human_rights_un_dns_me_64kb_0052	Enhver har ret til i andre lande at søge og få tilstået asyl mod forfølgelse.
-human_rights_un_dns_me_64kb_0053	Denne ret må ikke påberåbes ved anklager, der virkelig hidrører fra ikke-politiske forbrydelser eller fra handlinger i strid med De forenede Nationers formål og principper.
-human_rights_un_dns_me_64kb_0054	Artikel 15.
-human_rights_un_dns_me_64kb_0055	Enhver har ret til en nationalitet.
-human_rights_un_dns_me_64kb_0056	Ingen må vilkårligt berøves sin nationalitet eller nægtes ret til at skifte nationalitet.
-human_rights_un_dns_me_64kb_0057	Artikel 16.
-human_rights_un_dns_me_64kb_0058	Uden begrænsninger af racemæssige, nationalitetsmæssige eller religiøse grunde har mænd og kvinder, der har nået myndighedsalderen, ret til at gifte sig og stifte familie.
-human_rights_un_dns_me_64kb_0059	De har krav på lige rettigheder med hensyn til indgåelse af ægteskab, under ægteskabet og ved dettes opløsning.
-human_rights_un_dns_me_64kb_0060	Ægteskab skal kun kunne indgås med begge parters frie og fulde samtykke.
-human_rights_un_dns_me_64kb_0061	Familien er samfundets naturlige og fundamentale enhedsgruppe og har krav på samfundets og statens beskyttelse.
-human_rights_un_dns_me_64kb_0062	Artikel 17.
-human_rights_un_dns_me_64kb_0063	Enhver har ret til at eje ejendom såvel alene som i fællig med andre.
-human_rights_un_dns_me_64kb_0064	Ingen må vilkårligt berøves sin ejendom.
-human_rights_un_dns_me_64kb_0065	Artikel 18.
-human_rights_un_dns_me_64kb_0066	Enhver har ret til tanke-, samvittigheds- og religionsfrihed: denne ret omfatter frihed til at skifte religion eller tro og frihed til enten alene eller i fællesskab med andre, offentligt eller privat, at give udtryk for sin religion eller tro gennem undervisning, udøvelse, gudsdyrkelse og overholdelse af religiøse forskrifter.
-human_rights_un_dns_me_64kb_0067	Artikel 19.
-human_rights_un_dns_me_64kb_0068	Enhver har ret til menings- og ytringsfrihed;
-human_rights_un_dns_me_64kb_0069	denne ret omfatter frihed til at hævde sin opfattelse uden indblanding og til at søge, modtage og meddele oplysning og tanker ved et hvilket som helst meddelelsesmiddel og uanset landegrænser.
-human_rights_un_dns_me_64kb_0070	Artikel 20.
-human_rights_un_dns_me_64kb_0071	Alle har ret til under fredelige former frit at forsamles og danne foreninger.
-human_rights_un_dns_me_64kb_0072	Ingen kan tvinges til at være medlem af en forening.
-human_rights_un_dns_me_64kb_0073	Artikel 21.
-human_rights_un_dns_me_64kb_0074	Enhver har ret til at deltage i sit lands styre enten direkte eller gennem frit valgte repræsentanter.
-human_rights_un_dns_me_64kb_0075	Enhver har ret til lige adgang til offentlige embeder og hverv i sit land.
-human_rights_un_dns_me_64kb_0076	Folkets vilje skal være grundlaget for regeringens myndighed;
-human_rights_un_dns_me_64kb_0077	denne vilje skal tilkendegives gennem periodiske og virkelige valg med almindelig og lige valgret og skal udøves gennem hemmelig afstemning eller tilsvarende frie afstemningsmåder.
-human_rights_un_dns_me_64kb_0078	Artikel 22.
-human_rights_un_dns_me_64kb_0079	Enhver har som medlem af samfundet ret til social tryghed og har krav på, at de økonomiske, sociale og kulturelle rettigheder, der er uundværlige for hans værdighed og hans personligheds frie udvikling, gennemføres ved nationale foranstaltninger og internationalt samarbejde og i overensstemmelse med hver stats organisation og hjælpekilder.
-human_rights_un_dns_me_64kb_0080	Artikel 23.
-human_rights_un_dns_me_64kb_0081	Enhver har ret til arbejde, til frit valg af beskæftigelse, til retfærdige og gunstige arbejdsvilkår og til beskyttelse mod arbejdsløshed.
-human_rights_un_dns_me_64kb_0082	Enhver har uden forskel ret til lige løn for lige arbejde.
-human_rights_un_dns_me_64kb_0083	Enhver, der arbejder, har ret til et retfærdigt og gunstigt vederlag, der sikrer ham selv og hans familie en menneskeværdig tilværelse, og om fornødent tillige til andre sociale beskyttelsesforanstaltninger.
-human_rights_un_dns_me_64kb_0084	Enhver har ret til at danne og indtræde i fagforeninger til beskyttelse af sine interesser.
-human_rights_un_dns_me_64kb_0085	Artikel 24.
-human_rights_un_dns_me_64kb_0086	Enhver har ret til hvile og fritid, herunder en rimelig begrænsning af arbejdstiden, og til periodisk ferie med løn.
-human_rights_un_dns_me_64kb_0087	Artikel 25.
-human_rights_un_dns_me_64kb_0088	Enhver har ret til en sådan levefod, som er tilstrækkelig til hans og hans families sundhed og velvære, herunder til føde, klæder, bolig og lægehjælp og de nødvendige sociale goder og ret til tryghed i tilfælde af arbejdsløshed, sygdom, uarbejdsdygtighed, enkestand, alderdom eller andet tab af fortjenstmulighed under omstændigheder, der ikke er selvforskyldt.
-human_rights_un_dns_me_64kb_0089	Mødre og børn har krav på særlig omsorg og hjælp.
-human_rights_un_dns_me_64kb_0090	Alle børn skal, hvadenten de er født i eller udenfor ægteskab, have den samme sociale beskyttelse.
-human_rights_un_dns_me_64kb_0091	Artikel 26.
-human_rights_un_dns_me_64kb_0092	Enhver har ret til undervisning.
-human_rights_un_dns_me_64kb_0093	Undervisningen skal være gratis, i det mindste på de elementære og grundlæggende trin.
-human_rights_un_dns_me_64kb_0094	Elementær undervisning skal være obligatorisk.
-human_rights_un_dns_me_64kb_0095	Teknisk og faglig uddannelse skal gøres almindelig tilgængelig for alle, og på grundlag af evner skal der være lige adgang for alle til højere undervisning.
-human_rights_un_dns_me_64kb_0096	Undervisningen skal tage sigte på den menneskelige personligheds fulde udvikling og på at styrke respekten for menneskerettigheder og grundlæggende friheder.
-human_rights_un_dns_me_64kb_0097	Den skal fremme forståelse, tolerance og venskab mellem alle nationer og racemæssige og religiøse grupper, og den skal fremme De forenede Nationers arbejde til fredens bevarelse.
-human_rights_un_dns_me_64kb_0098	Forældre har førsteret til at vælge den form for undervisning, som deres børn skal have.
-human_rights_un_dns_me_64kb_0099	Artikel 27.
-human_rights_un_dns_me_64kb_0100	Enhver har ret til frit at deltage i samfundets kulturelle liv, til kunstnydelse og til at blive delagtiggjort i videnskabens fremskridt og dens goder.
-human_rights_un_dns_me_64kb_0101	Enhver har ret til beskyttelse af de moralske og materielle interesser, der hidrører fra en hvilken som helst videnskabelig, litterær eller kunstnerisk frembringelse, som vedkommende har skabt.
-human_rights_un_dns_me_64kb_0102	Artikel 28.
-human_rights_un_dns_me_64kb_0103	Enhver har krav på en social og international orden, i hvilken de i denne erklæring nævnte rettigheder og friheder fuldtud kan virkeliggøres.
-human_rights_un_dns_me_64kb_0104	Artikel 29.
-human_rights_un_dns_me_64kb_0105	Enhver har pligter overfor samfundet, der alene muliggør personlighedens frie og fulde udvikling.
-human_rights_un_dns_me_64kb_0106	Under udøvelsen af sine rettigheder og friheder er enhver kun underkastet de begrænsninger, der er fastsat i loven alene med det formål at sikre skyldig anerkendelse af og hensyntagen til andres rettigheder og friheder og med det formål at opfylde de retfærdige krav, som moralen, den offentlige orden og det almene vel stiller i et demokratisk samfund.
-human_rights_un_dns_me_64kb_0107	Disse rettigheder og friheder må i intet tilfælde udøves i strid med De forenede Nationers formål og principper.
-human_rights_un_dns_me_64kb_0108	Artikel 30.
-human_rights_un_dns_me_64kb_0109	Intet i denne erklæring må fortolkes som givende nogen stat, gruppe eller enkeltperson hjemmel til at indlade sig på nogen virksomhed eller foretage nogen handling, der tilsigter at nedbryde nogen af de heri opregnede rettigheder og friheder.
+human_rights_un_dns_me_64kb_0005	Umiddelbart efter denne historiske begivenhed henstillede generalforsamlingen til alle medlemslande,
+human_rights_un_dns_me_64kb_0006	at de offentliggjorde erklæringens fulde tekst.
+human_rights_un_dns_me_64kb_0007	De skulle desuden "foranstalte,
+human_rights_un_dns_me_64kb_0008	at den bliver omdelt,
+human_rights_un_dns_me_64kb_0009	fremlagt,
+human_rights_un_dns_me_64kb_0010	læst og forklaret i særdeleshed i skoler og andre undervisningsinstitutioner,
+human_rights_un_dns_me_64kb_0011	uden hensyn til de forskellige landes og områders politiske forhold".
+human_rights_un_dns_me_64kb_0012	Erklæringens officielle tekst findes på FNs seks officielle sprog: arabisk,
+human_rights_un_dns_me_64kb_0013	engelsk,
+human_rights_un_dns_me_64kb_0014	fransk,
+human_rights_un_dns_me_64kb_0015	kinesisk,
+human_rights_un_dns_me_64kb_0016	russisk og spansk.
+human_rights_un_dns_me_64kb_0017	Endvidere har en lang række af FNs medlemslande fulgt generalforsamlingens opfordring og oversat erklæringen til det nationale sprog.
+human_rights_un_dns_me_64kb_0018	Den danske oversættelse på de følgende sider er udarbejdet af udenrigsministeriet.
+human_rights_un_dns_me_64kb_0019	Ved henvendelse til FNs nordiske informationskontor i København kan man gratis rekvirere eksemplarer af erklæringen på henholdsvis FNs officielle sprog,
+human_rights_un_dns_me_64kb_0020	de øvrige nordiske sprog samt et begrænset antal andre sprog.
+human_rights_un_dns_me_64kb_0021	VERDENSERKLÆRINGEN OM MENNESKERETTIGHEDERNE
+human_rights_un_dns_me_64kb_0022	INDLEDNING
+human_rights_un_dns_me_64kb_0023	Da anerkendelse af den mennesket iboende værdighed og af de lige og ufortabelige rettigheder for alle medlemmer af den menneskelige familie er grundlaget for frihed,
+human_rights_un_dns_me_64kb_0024	retfærdighed og fred i verden,
+human_rights_un_dns_me_64kb_0025	da tilsidesættelse af og foragt for menneskerettighederne har ført til barbariske handlinger,
+human_rights_un_dns_me_64kb_0026	der har oprørt menneskehedens samvittighed,
+human_rights_un_dns_me_64kb_0027	og da skabelsen af en verden,
+human_rights_un_dns_me_64kb_0028	hvor menneskene nyder tale- og trosfrihed og frihed for frygt og nød,
+human_rights_un_dns_me_64kb_0029	er blevet forkyndt som folkenes højeste mål,
+human_rights_un_dns_me_64kb_0030	da det er af afgørende betydning,
+human_rights_un_dns_me_64kb_0031	at menneskerettighederne beskyttes af loven,
+human_rights_un_dns_me_64kb_0032	hvis ikke mennesket som en sidste udvej skal tvinges til at gøre oprør mod tyranni og undertrykkelse,
+human_rights_un_dns_me_64kb_0033	da det er af afgørende betydning at fremme udviklingen af venskabelige forhold mellem nationerne,
+human_rights_un_dns_me_64kb_0034	da De forenede Nationers folk i pagten påny har bekræftet deres tro på fundamentale menneskerettigheder,
+human_rights_un_dns_me_64kb_0035	på menneskets værdighed og værd og på lige rettigheder for mænd og kvinder,
+human_rights_un_dns_me_64kb_0036	og har besluttet at fremme sociale fremskridt og højne levevilkårene under større frihed,
+human_rights_un_dns_me_64kb_0037	da medlemsstaterne har forpligtet sig til i samarbejde med De forenede Nationer at arbejde for fremme af almindelig respekt fur og overholdelse af menneskerettigheder og fundamentale frihedsrettigheder,
+human_rights_un_dns_me_64kb_0038	da en fælles forståelse af disse rettigheder og friheder er af den største betydning for den fulde virkeliggørelse af denne forpligtelse,
+human_rights_un_dns_me_64kb_0039	proklamerer
+human_rights_un_dns_me_64kb_0040	PLENARFORSAMLINGENderfor nu denne VERDENSERKLÆRING OM MENNESKERETTIGHEDERNE som et fælles mål for alle folk og alle nationer med det formål,
+human_rights_un_dns_me_64kb_0041	at ethvert menneske og ethvert samfundsorgan stedse med denne erklæring for øje skal stræbe efter gennem undervisning og opdragelse at fremme respekt for disse rettigheder og friheder og gennem fremadskridende nationale og internationale foranstaltninger at sikre,
+human_rights_un_dns_me_64kb_0042	at de anerkendes og overholdes overalt og effektivt,
+human_rights_un_dns_me_64kb_0043	både blandt befolkningerne i medlemsstaterne og blandt befolkningerne i de områder,
+human_rights_un_dns_me_64kb_0044	der befinder sig under deres styre.
+human_rights_un_dns_me_64kb_0045	Artikel 1.
+human_rights_un_dns_me_64kb_0046	Alle mennesker er født frie og lige i værdighed og rettigheder.
+human_rights_un_dns_me_64kb_0047	De er udstyret med fornuft og samvittighed,
+human_rights_un_dns_me_64kb_0048	og de bør handle mod hverandre i en broderskabets ånd.
+human_rights_un_dns_me_64kb_0049	Artikel 2.
+human_rights_un_dns_me_64kb_0050	Enhver har krav på alle de rettigheder og friheder,
+human_rights_un_dns_me_64kb_0051	som nævnes i denne erklæring,
+human_rights_un_dns_me_64kb_0052	uden forskelsbehandling af nogen art,
+human_rights_un_dns_me_64kb_0053	f.
+human_rights_un_dns_me_64kb_0054	eks.
+human_rights_un_dns_me_64kb_0055	på grund af race,
+human_rights_un_dns_me_64kb_0056	farve,
+human_rights_un_dns_me_64kb_0057	køn,
+human_rights_un_dns_me_64kb_0058	sprog,
+human_rights_un_dns_me_64kb_0059	religion,
+human_rights_un_dns_me_64kb_0060	politisk eller anden anskuelse,
+human_rights_un_dns_me_64kb_0061	national eller social oprindelse,
+human_rights_un_dns_me_64kb_0062	formueforhold,
+human_rights_un_dns_me_64kb_0063	fødsel eller anden samfundsmæssig stilling.
+human_rights_un_dns_me_64kb_0064	Der skal heller ikke gøres nogen forskel på grund af det lands eller områdes jurisdiktionsforhold eller politiske eller internationale stilling,
+human_rights_un_dns_me_64kb_0065	til hvilket en person hører,
+human_rights_un_dns_me_64kb_0066	hvadenten dette område er uafhængigt,
+human_rights_un_dns_me_64kb_0067	under formynderskab eller er et ikke selvstyrende område,
+human_rights_un_dns_me_64kb_0068	eller dets suverænitet på anden måde er begrænset.
+human_rights_un_dns_me_64kb_0069	Artikel 3.
+human_rights_un_dns_me_64kb_0070	Enhver har ret til liv,
+human_rights_un_dns_me_64kb_0071	frihed og personlig sikkerhed.
+human_rights_un_dns_me_64kb_0072	Artikel 4.
+human_rights_un_dns_me_64kb_0073	Ingen må holdes i slaveri eller trældom;
+human_rights_un_dns_me_64kb_0074	slaveri og slavehandel under alle former skal være forbudt.
+human_rights_un_dns_me_64kb_0075	Artikel 5.
+human_rights_un_dns_me_64kb_0076	Ingen må underkastes tortur eller grusom,
+human_rights_un_dns_me_64kb_0077	umenneskelig eller vanærende behandling eller straf.
+human_rights_un_dns_me_64kb_0078	Artikel 6.
+human_rights_un_dns_me_64kb_0079	Ethvert menneske har overalt i verden ret til at blive anerkendt som retssubjekt.
+human_rights_un_dns_me_64kb_0080	Artikel 7.
+human_rights_un_dns_me_64kb_0081	Alle er lige for loven og har uden forskelsbehandling af nogen art lige ret til lovens beskyttelse.
+human_rights_un_dns_me_64kb_0082	Alle har ret til lige beskyttelse mod enhver forskelsbehandling i strid mod denne erklæring og mod enhver tilskyndelse til en sådan forskelsbehandling.
+human_rights_un_dns_me_64kb_0083	Artikel 8.
+human_rights_un_dns_me_64kb_0084	Enhver har ret til en fyldestgørende oprejsning ved de kompetente nationale domstole for handlinger,
+human_rights_un_dns_me_64kb_0085	der krænker de fundamentale rettigheder,
+human_rights_un_dns_me_64kb_0086	som forfatningen eller loven giver vedkommende.
+human_rights_un_dns_me_64kb_0087	Artikel 9.
+human_rights_un_dns_me_64kb_0088	Ingen må underkastes vilkårlig anholdelse,
+human_rights_un_dns_me_64kb_0089	tilbageholdelse eller landsforvisning.
+human_rights_un_dns_me_64kb_0090	Artikel 10.
+human_rights_un_dns_me_64kb_0091	Enhver har under fuld ligeberettigelse krav på en retfærdig og offentlig behandling ved en uafhængig og upartisk domstol,
+human_rights_un_dns_me_64kb_0092	når der skal træffes en afgørelse med hensyn til hans rettigheder og forpligtelser og med hensyn til en hvilken som helst mod ham rettet strafferetslig anklage.
+human_rights_un_dns_me_64kb_0093	Artikel 11.
+human_rights_un_dns_me_64kb_0094	Enhver,
+human_rights_un_dns_me_64kb_0095	der anklages for et strafbart forhold,
+human_rights_un_dns_me_64kb_0096	har ret til at blive anset for uskyldig,
+human_rights_un_dns_me_64kb_0097	indtil hans skyld er godtgjort i henhold til lov ved en offentlig retshandling,
+human_rights_un_dns_me_64kb_0098	hvorunder han har fået alle de garantier,
+human_rights_un_dns_me_64kb_0099	der er fornødne for hans forsvar.
+human_rights_un_dns_me_64kb_0100	Ingen må anses for skyldig i noget strafbart forhold på grund af nogen handling eller undladelse,
+human_rights_un_dns_me_64kb_0101	der ikke i henhold til national eller international ret var strafbar på det tidspunkt,
+human_rights_un_dns_me_64kb_0102	da den blev begået.
+human_rights_un_dns_me_64kb_0103	Der skal heller ikke kunne idømmes strengere straf end fastsat på den tid,
+human_rights_un_dns_me_64kb_0104	da det strafbare forhold blev begået.
+human_rights_un_dns_me_64kb_0105	Artikel 12.
+human_rights_un_dns_me_64kb_0106	Ingen må være genstand for vilkårlig indblanding i private forhold,
+human_rights_un_dns_me_64kb_0107	familie,
+human_rights_un_dns_me_64kb_0108	hjem eller korrespondance,
+human_rights_un_dns_me_64kb_0109	ej heller for angreb på ære og omdømme.
+human_rights_un_dns_me_64kb_0110	Enhver har ret til lovens beskyttelse mod sådan indblanding eller angreb.
+human_rights_un_dns_me_64kb_0111	Artikel 13.
+human_rights_un_dns_me_64kb_0112	Enhver har ret til at bevæge sig frit og til frit at vælge opholdssted indenfor hver stats grænser.
+human_rights_un_dns_me_64kb_0113	Enhver har ret til at forlade et hvilket som helst land,
+human_rights_un_dns_me_64kb_0114	herunder sig eget,
+human_rights_un_dns_me_64kb_0115	og til at vende tilbage til sit eget land.
+human_rights_un_dns_me_64kb_0116	Artikel 14.
+human_rights_un_dns_me_64kb_0117	Enhver har ret til i andre lande at søge og få tilstået asyl mod forfølgelse.
+human_rights_un_dns_me_64kb_0118	Denne ret må ikke påberåbes ved anklager,
+human_rights_un_dns_me_64kb_0119	der virkelig hidrører fra ikke-politiske forbrydelser eller fra handlinger i strid med De forenede Nationers formål og principper.
+human_rights_un_dns_me_64kb_0120	Artikel 15.
+human_rights_un_dns_me_64kb_0121	Enhver har ret til en nationalitet.
+human_rights_un_dns_me_64kb_0122	Ingen må vilkårligt berøves sin nationalitet eller nægtes ret til at skifte nationalitet.
+human_rights_un_dns_me_64kb_0123	Artikel 16.
+human_rights_un_dns_me_64kb_0124	Uden begrænsninger af racemæssige,
+human_rights_un_dns_me_64kb_0125	nationalitetsmæssige eller religiøse grunde har mænd og kvinder,
+human_rights_un_dns_me_64kb_0126	der har nået myndighedsalderen,
+human_rights_un_dns_me_64kb_0127	ret til at gifte sig og stifte familie.
+human_rights_un_dns_me_64kb_0128	De har krav på lige rettigheder med hensyn til indgåelse af ægteskab,
+human_rights_un_dns_me_64kb_0129	under ægteskabet og ved dettes opløsning.
+human_rights_un_dns_me_64kb_0130	Ægteskab skal kun kunne indgås med begge parters frie og fulde samtykke.
+human_rights_un_dns_me_64kb_0131	Familien er samfundets naturlige og fundamentale enhedsgruppe og har krav på samfundets og statens beskyttelse.
+human_rights_un_dns_me_64kb_0132	Artikel 17.
+human_rights_un_dns_me_64kb_0133	Enhver har ret til at eje ejendom såvel alene som i fællig med andre.
+human_rights_un_dns_me_64kb_0134	Ingen må vilkårligt berøves sin ejendom.
+human_rights_un_dns_me_64kb_0135	Artikel 18.
+human_rights_un_dns_me_64kb_0136	Enhver har ret til tanke-,
+human_rights_un_dns_me_64kb_0137	samvittigheds- og religionsfrihed: denne ret omfatter frihed til at skifte religion eller tro og frihed til enten alene eller i fællesskab med andre,
+human_rights_un_dns_me_64kb_0138	offentligt eller privat,
+human_rights_un_dns_me_64kb_0139	at give udtryk for sin religion eller tro gennem undervisning,
+human_rights_un_dns_me_64kb_0140	udøvelse,
+human_rights_un_dns_me_64kb_0141	gudsdyrkelse og overholdelse af religiøse forskrifter.
+human_rights_un_dns_me_64kb_0142	Artikel 19.
+human_rights_un_dns_me_64kb_0143	Enhver har ret til menings- og ytringsfrihed;
+human_rights_un_dns_me_64kb_0144	denne ret omfatter frihed til at hævde sin opfattelse uden indblanding og til at søge,
+human_rights_un_dns_me_64kb_0145	modtage og meddele oplysning og tanker ved et hvilket som helst meddelelsesmiddel og uanset landegrænser.
+human_rights_un_dns_me_64kb_0146	Artikel 20.
+human_rights_un_dns_me_64kb_0147	Alle har ret til under fredelige former frit at forsamles og danne foreninger.
+human_rights_un_dns_me_64kb_0148	Ingen kan tvinges til at være medlem af en forening.
+human_rights_un_dns_me_64kb_0149	Artikel 21.
+human_rights_un_dns_me_64kb_0150	Enhver har ret til at deltage i sit lands styre enten direkte eller gennem frit valgte repræsentanter.
+human_rights_un_dns_me_64kb_0151	Enhver har ret til lige adgang til offentlige embeder og hverv i sit land.
+human_rights_un_dns_me_64kb_0152	Folkets vilje skal være grundlaget for regeringens myndighed;
+human_rights_un_dns_me_64kb_0153	denne vilje skal tilkendegives gennem periodiske og virkelige valg med almindelig og lige valgret og skal udøves gennem hemmelig afstemning eller tilsvarende frie afstemningsmåder.
+human_rights_un_dns_me_64kb_0154	Artikel 22.
+human_rights_un_dns_me_64kb_0155	Enhver har som medlem af samfundet ret til social tryghed og har krav på,
+human_rights_un_dns_me_64kb_0156	at de økonomiske,
+human_rights_un_dns_me_64kb_0157	sociale og kulturelle rettigheder,
+human_rights_un_dns_me_64kb_0158	der er uundværlige for hans værdighed og hans personligheds frie udvikling,
+human_rights_un_dns_me_64kb_0159	gennemføres ved nationale foranstaltninger og internationalt samarbejde og i overensstemmelse med hver stats organisation og hjælpekilder.
+human_rights_un_dns_me_64kb_0160	Artikel 23.
+human_rights_un_dns_me_64kb_0161	Enhver har ret til arbejde,
+human_rights_un_dns_me_64kb_0162	til frit valg af beskæftigelse,
+human_rights_un_dns_me_64kb_0163	til retfærdige og gunstige arbejdsvilkår og til beskyttelse mod arbejdsløshed.
+human_rights_un_dns_me_64kb_0164	Enhver har uden forskel ret til lige løn for lige arbejde.
+human_rights_un_dns_me_64kb_0165	Enhver,
+human_rights_un_dns_me_64kb_0166	der arbejder,
+human_rights_un_dns_me_64kb_0167	har ret til et retfærdigt og gunstigt vederlag,
+human_rights_un_dns_me_64kb_0168	der sikrer ham selv og hans familie en menneskeværdig tilværelse,
+human_rights_un_dns_me_64kb_0169	og om fornødent tillige til andre sociale beskyttelsesforanstaltninger.
+human_rights_un_dns_me_64kb_0170	Enhver har ret til at danne og indtræde i fagforeninger til beskyttelse af sine interesser.
+human_rights_un_dns_me_64kb_0171	Artikel 24.
+human_rights_un_dns_me_64kb_0172	Enhver har ret til hvile og fritid,
+human_rights_un_dns_me_64kb_0173	herunder en rimelig begrænsning af arbejdstiden,
+human_rights_un_dns_me_64kb_0174	og til periodisk ferie med løn.
+human_rights_un_dns_me_64kb_0175	Artikel 25.
+human_rights_un_dns_me_64kb_0176	Enhver har ret til en sådan levefod,
+human_rights_un_dns_me_64kb_0177	som er tilstrækkelig til hans og hans families sundhed og velvære,
+human_rights_un_dns_me_64kb_0178	herunder til føde,
+human_rights_un_dns_me_64kb_0179	klæder,
+human_rights_un_dns_me_64kb_0180	bolig og lægehjælp og de nødvendige sociale goder og ret til tryghed i tilfælde af arbejdsløshed,
+human_rights_un_dns_me_64kb_0181	sygdom,
+human_rights_un_dns_me_64kb_0182	uarbejdsdygtighed,
+human_rights_un_dns_me_64kb_0183	enkestand,
+human_rights_un_dns_me_64kb_0184	alderdom eller andet tab af fortjenstmulighed under omstændigheder,
+human_rights_un_dns_me_64kb_0185	der ikke er selvforskyldt.
+human_rights_un_dns_me_64kb_0186	Mødre og børn har krav på særlig omsorg og hjælp.
+human_rights_un_dns_me_64kb_0187	Alle børn skal,
+human_rights_un_dns_me_64kb_0188	hvadenten de er født i eller udenfor ægteskab,
+human_rights_un_dns_me_64kb_0189	have den samme sociale beskyttelse.
+human_rights_un_dns_me_64kb_0190	Artikel 26.
+human_rights_un_dns_me_64kb_0191	Enhver har ret til undervisning.
+human_rights_un_dns_me_64kb_0192	Undervisningen skal være gratis,
+human_rights_un_dns_me_64kb_0193	i det mindste på de elementære og grundlæggende trin.
+human_rights_un_dns_me_64kb_0194	Elementær undervisning skal være obligatorisk.
+human_rights_un_dns_me_64kb_0195	Teknisk og faglig uddannelse skal gøres almindelig tilgængelig for alle,
+human_rights_un_dns_me_64kb_0196	og på grundlag af evner skal der være lige adgang for alle til højere undervisning.
+human_rights_un_dns_me_64kb_0197	Undervisningen skal tage sigte på den menneskelige personligheds fulde udvikling og på at styrke respekten for menneskerettigheder og grundlæggende friheder.
+human_rights_un_dns_me_64kb_0198	Den skal fremme forståelse,
+human_rights_un_dns_me_64kb_0199	tolerance og venskab mellem alle nationer og racemæssige og religiøse grupper,
+human_rights_un_dns_me_64kb_0200	og den skal fremme De forenede Nationers arbejde til fredens bevarelse.
+human_rights_un_dns_me_64kb_0201	Forældre har førsteret til at vælge den form for undervisning,
+human_rights_un_dns_me_64kb_0202	som deres børn skal have.
+human_rights_un_dns_me_64kb_0203	Artikel 27.
+human_rights_un_dns_me_64kb_0204	Enhver har ret til frit at deltage i samfundets kulturelle liv,
+human_rights_un_dns_me_64kb_0205	til kunstnydelse og til at blive delagtiggjort i videnskabens fremskridt og dens goder.
+human_rights_un_dns_me_64kb_0206	Enhver har ret til beskyttelse af de moralske og materielle interesser,
+human_rights_un_dns_me_64kb_0207	der hidrører fra en hvilken som helst videnskabelig,
+human_rights_un_dns_me_64kb_0208	litterær eller kunstnerisk frembringelse,
+human_rights_un_dns_me_64kb_0209	som vedkommende har skabt.
+human_rights_un_dns_me_64kb_0210	Artikel 28.
+human_rights_un_dns_me_64kb_0211	Enhver har krav på en social og international orden,
+human_rights_un_dns_me_64kb_0212	i hvilken de i denne erklæring nævnte rettigheder og friheder fuldtud kan virkeliggøres.
+human_rights_un_dns_me_64kb_0213	Artikel 29.
+human_rights_un_dns_me_64kb_0214	Enhver har pligter overfor samfundet,
+human_rights_un_dns_me_64kb_0215	der alene muliggør personlighedens frie og fulde udvikling.
+human_rights_un_dns_me_64kb_0216	Under udøvelsen af sine rettigheder og friheder er enhver kun underkastet de begrænsninger,
+human_rights_un_dns_me_64kb_0217	der er fastsat i loven alene med det formål at sikre skyldig anerkendelse af og hensyntagen til andres rettigheder og friheder og med det formål at opfylde de retfærdige krav,
+human_rights_un_dns_me_64kb_0218	som moralen,
+human_rights_un_dns_me_64kb_0219	den offentlige orden og det almene vel stiller i et demokratisk samfund.
+human_rights_un_dns_me_64kb_0220	Disse rettigheder og friheder må i intet tilfælde udøves i strid med De forenede Nationers formål og principper.
+human_rights_un_dns_me_64kb_0221	Artikel 30.
+human_rights_un_dns_me_64kb_0222	Intet i denne erklæring må fortolkes som givende nogen stat,
+human_rights_un_dns_me_64kb_0223	gruppe eller enkeltperson hjemmel til at indlade sig på nogen virksomhed eller foretage nogen handling,
+human_rights_un_dns_me_64kb_0224	der tilsigter at nedbryde nogen af de heri opregnede rettigheder og friheder.
