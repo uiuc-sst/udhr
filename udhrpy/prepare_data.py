@@ -4,23 +4,8 @@ import numpy as np
 from praatio import tgio
 from praatio import audioio
 from collections import defaultdict
-#from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
-#from pdfminer.pdfpage import PDFPage
-#from pdfminer.converter import TextConverter
-#from pdfminer.layout import LAParams
-
-def load_dict_from_txtfile(txtfile):
-    x = {}
-    with open(txtfile) as f:
-        for line in f:
-            words = line.rstrip().split()
-            if len(words)==0 or line[0]=='#':
-                continue
-            if len(words)==1:
-                x[words[0]] = ''
-            else:
-                x[words[0]] = ' '.join(words[1:])
-    return(x)
+from phonetisaurus import load_dict_from_txtfile
+from phonetisaurus import Language
 
 def dir_contains_files(targetdir, filelist):
     if not os.path.isdir(targetdir):
@@ -113,25 +98,6 @@ def load_audio(audiodir='exp/audio', iso=None):
         mp2wav(wavdir, mp3dir)
     tgs = load_textgrids('conf/TextGrid/segs',long2iso, 'conf/long2iso.txt')    
     segment_audio(audiodir, wavdir, tgs, long2iso)
-
-#def pdf2text(fulltextdir, pdfdir, long2iso):
-#    os.makedirs(fulltextdir,exist_ok=True)
-#    filenames = set([x for x in long2iso.values()])
-#    for filename in filenames:
-#        fname = os.path.join(pdfdir, filename+'.pdf')
-#        outputfilename = os.path.join(fulltextdir, filename+'.txt')
-#        print('Converting %s to %s'%(fname,outputfilename))
-#        rsrcmgr = PDFResourceManager(caching=True)        
-#        laparams = LAParams()
-#        outfp=open(outputfilename,'w')
-#        device=TextConverter(rsrcmgr, outfp, laparams=laparams, imagewriter=None)
-#        fp=open(fname, 'rb')
-#        interpreter = PDFPageInterpreter(rsrcmgr, device)
-#        for page in PDFPage.get_pages(fp):
-#            interpreter.process_page(page)
-#        fp.close()
-#        device.close()
-#        outfp.close()
 
 # Some text files have phrases that are not read in the corresponding audio.
 # This  lists the phrase counts of those files, so we can double-check ---
@@ -231,7 +197,7 @@ def load_phones(phonesdir='exp/phones', textdir='exp/text', iso=None):
     #if not os.path.isdir(os.path.join('exp/g2ps','models')):
     #    git_sparse_checkout('exp/g2ps','models')
     modelsdir = 'exp/models'
-    os.makedirs(modelsdir, exist_ok=True)
+    os.makedirs(modelsdir, exist_ok=True)    
     modeldict = load_dict_from_txtfile('conf/iso2model.txt')
     g2ps_source = "http://www.isle.illinois.edu/speech_web_lg/data/g2ps/models/"
     model_urls = { v+".fst":g2ps_source+v+".fst" for v in modeldict.values() }
@@ -245,6 +211,8 @@ def load_phones(phonesdir='exp/phones', textdir='exp/text', iso=None):
         modelpath = os.path.join(modelsdir,modelfile)
         if not os.path.isfile(modelpath):
             raise FileNotFoundError("Missing %s; did %s exist?"%(modelpath,model_urls[modelfile]))
+        language = Language(longname, iso, modelpath, ''):
+        
         inputfn = os.path.join(textdir,'%s.txt'%(longname))
         inputlines = []
         try:
@@ -256,22 +224,8 @@ def load_phones(phonesdir='exp/phones', textdir='exp/text', iso=None):
             continue
         if len(inputlines)==0:
             continue
-        uniquewords  = set([ w for line in inputlines for w in line[1:] ])
-        wordlist=os.path.join(modelsdir,longname+'_wordlist.txt')
-        with open(wordlist,'w') as f:
-            f.write('\n'.join(uniquewords))
-        cmd=['phonetisaurus-g2pfst','--model=%s'%(modelpath),'--wordlist=%s'%(wordlist)]
-        if n%100==0:
-            print("%d'th phonetisaurus command: %s:"%(n,' '.join(cmd)))
-        proc=subprocess.run(cmd,capture_output=True)
-        if len(proc.stderr)>0:
-            with open(os.path.join(modelsdir,longname+'_stderr.txt'),'wb') as f:
-                f.write(proc.stderr)
-        if len(proc.stdout)>0:
-            prondictfile=os.path.join(modelsdir,longname+'_stdout.txt')
-            with open(prondictfile,'wb') as f:
-                f.write(proc.stdout)
-            prons = load_dict_from_txtfile(prondictfile)
+        prons = language.apply_g2p(list(set([ w for line in inputlines for w in line[1:] ])))
+        if len(prons) > 0:
             outputfn = os.path.join(phonesdir,'%s.txt'%(longname))
             with open(outputfn,'w') as outputfp:
                 for line in inputlines:
