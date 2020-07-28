@@ -81,4 +81,6 @@ The source URLs are listed in the files in the conf subdirectory.
    Guide to Recording
    (https://wiki.librivox.org/index.php?title=Newbie_Guide_to_Recording).
 
-
+3. If you would like to contribute directly to the corpus, e.g., by segmenting
+   data or by creating a train/test example, please go ahead and send us a pull
+   request!
